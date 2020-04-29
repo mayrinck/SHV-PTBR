@@ -51,7 +51,7 @@
 [IDS_SHELL_MISSION_FIVE]Grand Hotel
 [IDS_SHELL_MISSION_SIX]Delegacia de Polícia
 [IDS_SHELL_MISSION_SIX_B]Esgotos
-[IDS_SHELL_MISSION_SEVEN]Descida ao inferno.
+[IDS_SHELL_MISSION_SEVEN]Descida ao inférno.
 [IDS_SHELL_MISSION_EIGHT]Prefeitura
 [IDS_SHELL_MISSION_EIGHT_B]Cemitério
 [IDS_SHELL_MISSION_NINE]Sótäo
@@ -118,40 +118,40 @@
 [IDS_SHELL_NO_DRAWINGS]Nenhum desenho encontrado.
 
 ###COSTUMES MENU
-[IDS_SHELL_COSTUME_NORMAL_ALEX]Padr?o
+[IDS_SHELL_COSTUME_NORMAL_ALEX]Padräo
 [IDS_SHELL_COSTUME_YOUNG_ALEX]Jovem
 [IDS_SHELL_COSTUME_SHERIFF]Delegado
 [IDS_SHELL_COSTUME_TRUCKER]Caminhoneiro
 [IDS_SHELL_COSTUME_ORDERLY]Enfermeiro
 [IDS_SHELL_COSTUME_ORDER]Soldado da Ordem
-[IDS_SHELL_COSTUME_PYRAMID]Cabe?a de Piramide
+[IDS_SHELL_COSTUME_PYRAMID]Cabeça de Piramide
 [IDS_SHELL_COSTUME_LOCKED][BLOQUEADO]
 
 
-[IDS_SHELL_COSTUME_YOUNG_ALEX_UNLOCK_MESSAGE]Voc? desbloqueou a roupa "Jovem" para Alex Sheperd.
-[IDS_SHELL_COSTUME_SHERIFF_UNLOCK_MESSAGE]Voc? desbloqueou a roupa "Delegado" para Alex Sheperd.
-[IDS_SHELL_COSTUME_TRUCKER_UNLOCK_MESSAGE]Voc? desbloqueou a roupa "Caminhoneiro" para Alex Sheperd.
-[IDS_SHELL_COSTUME_ORDERLY_UNLOCK_MESSAGE]Voc? desbloqueou a roupa "Enfermeiro" para Alex Sheperd.
-[IDS_SHELL_COSTUME_ORDER_UNLOCK_MESSAGE]Voc? desbloqueou a roupa "Soldado da Ordem" para Alex Sheperd.
-[IDS_SHELL_COSTUME_PYRAMID_UNLOCK_MESSAGE]Voc? desbloqueou a "Cabe?a de Piramide" para Alex Sheperd.
+[IDS_SHELL_COSTUME_YOUNG_ALEX_UNLOCK_MESSAGE]Você desbloqueou a roupa "Jovem" para Alex Shepherd.
+[IDS_SHELL_COSTUME_SHERIFF_UNLOCK_MESSAGE]Você desbloqueou a roupa "Delegado" para Alex Shepherd.
+[IDS_SHELL_COSTUME_TRUCKER_UNLOCK_MESSAGE]Você desbloqueou a roupa "Caminhoneiro" para Alex Shepherd.
+[IDS_SHELL_COSTUME_ORDERLY_UNLOCK_MESSAGE]Você desbloqueou a roupa "Enfermeiro" para Alex Shepherd.
+[IDS_SHELL_COSTUME_ORDER_UNLOCK_MESSAGE]Você desbloqueou a roupa "Soldado da Ordem" para Alex Shepherd.
+[IDS_SHELL_COSTUME_PYRAMID_UNLOCK_MESSAGE]Você desbloqueou a "Cabeça de Piramide" para Alex Shepherd.
 
 
 ###MAPS MENU
 [IDS_SHELL_OBJECTIVES]Objetivos
-[IDS_SHELL_NO_MAPS_AVAILABLE]Voc? n?o tem mapas.
-[IDS_SHELL_NO_CURRENT_MAP]Voc? n?o tem o mapa desta regi?o.
-[IDS_SHELL_NO_OBJECTIVES_AVAILABLE]Voc? n?o tem objetivos.
+[IDS_SHELL_NO_MAPS_AVAILABLE]Você näo tem mapas.
+[IDS_SHELL_NO_CURRENT_MAP]Você näo tem o mapa desta regiäo.
+[IDS_SHELL_NO_OBJECTIVES_AVAILABLE]Você näo tem objetivos.
 
 ###GAME OVER MENU
-[IDS_SHELL_GAME_OVER]Voc? foi Morto!
+[IDS_SHELL_GAME_OVER]Você Morreu!
 [IDS_SHELL_CONTINUE]Continuar
 [IDS_SHELL_QUIT]Desistir
 
 ###COMBAT WHEEL & INVENTORY WHEEL
 [IDS_SHELL_INSPECT]Inspecionar
 [IDS_SHELL_EQUIP]Equipar
-[IDS_SHELL_NO_ITEMS]voc? n?o tem items.
-[IDS_SHELL_NO_WEAPONS]Voc? n?o tem armas.
+[IDS_SHELL_NO_ITEMS]você näo tem items.
+[IDS_SHELL_NO_WEAPONS]Você näo tem armas.
 [IDS_SHELL_HEALTHDRINK]Revigorante
 [IDS_SHELL_FIRSTAIDKIT]Primeiros-Socorros
 [IDS_SHELL_FLASHLIGHT]Lanterna
@@ -160,46 +160,46 @@
 ###MAIN MENU
 [IDS_SHELL_NEW_GAME]Novo Jogo
 [IDS_SHELL_LOAD_GAME]Continuar
-[IDS_SHELL_OPTIONS]Op??es
-[IDS_SHELL_CREDITS]Cr?ditos
-[IDS_SHELL_NORMAL]Padr?o
-[IDS_SHELL_NORMAL_MESSAGE]Na dificuldade padr?o, todos os monstros e muni??o vem na quantidade padr?o.
-[IDS_SHELL_HARD]Dif?cil
-[IDS_SHELL_HARD_MESSAGE]Para os j? experi?ntes. Nesta dificuldade, os monstros s?o mais fortes e resistentes e a muni??o ? escassa.
+[IDS_SHELL_OPTIONS]Opçöes
+[IDS_SHELL_CREDITS]Créditos
+[IDS_SHELL_NORMAL]Padräo
+[IDS_SHELL_NORMAL_MESSAGE]A dificuldade na qual o jogo foi pensado inicialmente. Todos os recursos são equilibrados durante a jornada.
+[IDS_SHELL_HARD]Intenso
+[IDS_SHELL_HARD_MESSAGE]Para os já experiêntes. Nesta dificuldade, os monstros säo mais fortes e resistentes e a muniçäo é bem escassa.
 
 ##SAVE GAME
 [IDS_SHELL_SAVE_PROMPT] <COMMAND_KICK> Salvar
-[IDS_SHELL_END_GAME_SAVE_PROMPT]Voc? gostaria de salvar o jogo?
+[IDS_SHELL_END_GAME_SAVE_PROMPT]Você gostaria de salvar o jogo?
 
 [IDS_SHELL_EMPTY_MISSION][L I V R E]
 
 [IDS_SHELL_ACCESSING_SAVE_GAME_PC]Acessando os progressos...
-[IDS_SHELL_ACCESSING_SAVE_GAME_XBOX360]Acessando os progressos... N?o desligue o console!
-[IDS_SHELL_ACCESSING_SAVE_GAME_PS3]Acessando os progressos... N?o desligue o console!
+[IDS_SHELL_ACCESSING_SAVE_GAME_XBOX360]Acessando os progressos... Näo desligue o console!
+[IDS_SHELL_ACCESSING_SAVE_GAME_PS3]Acessando os progressos... Näo desligue o console!
 
-[IDS_SHELL_CORRUPT_LOAD_PC]Imposs?vel continuar... Seus dados est?o corrompidos!
-[IDS_SHELL_CORRUPT_LOAD_PS3]Imposs?vel continuar... Seus dados est?o corrompidos!
-[IDS_SHELL_CORRUPT_LOAD_XBOX360]Imposs?vel continuar... Seus dados est?o corrompidos!
+[IDS_SHELL_CORRUPT_LOAD_PC]Impossível continuar... Seus dados estäo corrompidos!
+[IDS_SHELL_CORRUPT_LOAD_PS3]Impossível continuar... Seus dados estäo corrompidos!
+[IDS_SHELL_CORRUPT_LOAD_XBOX360]Impossível continuar... Seus dados estäo corrompidos!
 
-[IDS_SHELL_CORRUPT_LOAD_OVERWRITE_PC]Imposs?vel continuar... Seus dados est?o corrompidos... Gostaris de sobrescrever?
-[IDS_SHELL_CORRUPT_LOAD_OVERWRITE_PS3]Imposs?vel continuar... Seus dados est?o corrompidos... Gostaris de sobrescrever?
-[IDS_SHELL_CORRUPT_LOAD_OVERWRITE_XBOX360]Imposs?vel continuar... Seus dados est?o corrompidos... Gostaris de sobrescrever?
+[IDS_SHELL_CORRUPT_LOAD_OVERWRITE_PC]Impossível continuar... Seus dados estäo corrompidos. Gostaris de sobrescrever?
+[IDS_SHELL_CORRUPT_LOAD_OVERWRITE_PS3]Impossível continuar... Seus dados estäo corrompidos. Gostaris de sobrescrever?
+[IDS_SHELL_CORRUPT_LOAD_OVERWRITE_XBOX360]Impossível continuar... Seus dados estäo corrompidos. Gostaris de sobrescrever?
 
-[IDS_SHELL_CORRUPT_LOAD_NEW_GAME_PC]Imposs?vel continuar... Seus dados est?o corrompidos... Gostaria de criar um novo?
-[IDS_SHELL_CORRUPT_LOAD_NEW_GAME_PS3]Imposs?vel continuar... Seus dados est?o corrompidos... Gostaria de criar um novo?
-[IDS_SHELL_CORRUPT_LOAD_NEW_GAME_XBOX360]Imposs?vel continuar... Seus dados est?o corrompidos... Gostaria de criar um novo?
+[IDS_SHELL_CORRUPT_LOAD_NEW_GAME_PC]Impossível continuar... Seus dados estäo corrompidos. Gostaria de criar um novo?
+[IDS_SHELL_CORRUPT_LOAD_NEW_GAME_PS3]Impossível continuar... Seus dados estäo corrompidos. Gostaria de criar um novo?
+[IDS_SHELL_CORRUPT_LOAD_NEW_GAME_XBOX360]Impossível continuar... Seus dados estäo corrompidos. Gostaria de criar um novo?
 
 [IDS_SHELL_SAVING_PC]Salvando o progresso...
-[IDS_SHELL_SAVING_PS3]Salvando no MEMORY CARD do slot 1. N?o desligue o console ou remova o Memory Card!!
-[IDS_SHELL_SAVING_XBOX360]Salvando o progresso... N?o desligue o console!!
+[IDS_SHELL_SAVING_PS3]Salvando no MEMORY CARD do slot 1. Näo desligue o console ou remova o Memory Card!!
+[IDS_SHELL_SAVING_XBOX360]Salvando o progresso... Näo desligue o console!!
 
-[IDS_SHELL_SAVING_FAILED_PC]Voc? chegou ao limite de progressos salvos. Delete algum deles para continuar...
-[IDS_SHELL_SAVING_FAILED_PS3]Voc? chegou ao limite de progressos salvos. Delete algum deles para continuar...
-[IDS_SHELL_SAVING_FAILED_XBOX360]Voc? chegou ao limite de progressos salvos. Delete algum deles para continuar...
+[IDS_SHELL_SAVING_FAILED_PC]Você chegou ao limite de progressos salvos. Delete algum deles para continuar...
+[IDS_SHELL_SAVING_FAILED_PS3]Você chegou ao limite de progressos salvos. Delete algum deles para continuar...
+[IDS_SHELL_SAVING_FAILED_XBOX360]Você chegou ao limite de progressos salvos. Delete algum deles para continuar...
 
-[IDS_SHELL_LOADING_EMPTY_PC]Este espa?o n?o tem dados para carregar...
-[IDS_SHELL_LOADING_EMPTY_PS3]Este espa?o n?o tem dados para carregar...
-[IDS_SHELL_LOADING_EMPTY_XBOX360]Este espa?o n?o tem dados para carregar...
+[IDS_SHELL_LOADING_EMPTY_PC]Este espaço näo tem dados para carregar...
+[IDS_SHELL_LOADING_EMPTY_PS3]Este espaço näo tem dados para carregar...
+[IDS_SHELL_LOADING_EMPTY_XBOX360]Este espaço näo tem dados para carregar...
 
 [IDS_SHELL_SAVE_SUCCESSFUL]Salvamento Concluido!
 
@@ -216,9 +216,9 @@
 [IDS_SHELL_DEVICE_REMOVED_LOADING]The selected storage device could not be found.  Would you like to continue without loading?
 [IDS_SHELL_DEVICE_REMOVED_NEW_GAME]The selected storage device could not be found.  Would you like to continue without selecting a storage device?
 
-[IDS_SHELL_OVERWRITE_SESSION]Voc? tem certeza de que quer salvar aqui? O progresso j? contido nesse espa?o ser? perdido!
+[IDS_SHELL_OVERWRITE_SESSION]Você tem certeza de que quer salvar aqui? O progresso já contido nesse espaço será perdido!
 
-[IDS_SHELL_NO_SAVED_GAMES_FOUND]Nenhum progresso foi encontrado. Come?e um novo em "Novo Jogo".
+[IDS_SHELL_NO_SAVED_GAMES_FOUND]Nenhum progresso foi encontrado. Comece um novo em "Novo Jogo".
 
 [IDS_SHELL_NEW_SAVE_CONTENT]Novo progresso salvo
 
@@ -228,29 +228,29 @@
 
 ###OPTIONS MENU
 [IDS_SHELL_DISPLAY]Tela / Audio
-[IDS_SHELL_GAME_OPTIONS]Op??es do Jogo
-[IDS_SHELL_CONTROLLER_CONFIG]Configura??o de Controle
+[IDS_SHELL_GAME_OPTIONS]Opçöes do Jogo
+[IDS_SHELL_CONTROLLER_CONFIG]Configuraçäo de Controle
 [IDS_SHELL_DISPLAY_BRIGHTNESS]Brilho da Tela
 [IDS_SHELL_DIALOGUE_VOLUME]Vozes
 [IDS_SHELL_MUSIC_VOLUME]Musica
 [IDS_SHELL_EFFECTS_VOLUME]Efeitos
 [IDS_SHELL_RADIO_VOLUME]Radio
 [IDS_SHELL_INVERTED_AIM]Mira Invertida
-[IDS_SHELL_VIBRATION]Vibra??o
+[IDS_SHELL_VIBRATION]Vibraçäo
 [IDS_SHELL_SUBTITLES]Legendas
 [IDS_SHELL_CHANGE_STORAGE_DEVICE]Alterar Armazenamento
-[IDS_SHELL_NO_USER_STORAGE_DEVICE]Voc? precisa acessar sua conta para mudar o dispositivo de armazenamento.
+[IDS_SHELL_NO_USER_STORAGE_DEVICE]Você precisa acessar sua conta para mudar o dispositivo de armazenamento.
 [IDS_SHELL_TOGGLE]Trocar
-[IDS_SHELL_BRIGHTNESS_REFERENCE]Para melhor experi?ncia visual, ajuste o brilho para que a barra da esquerda n?o seja vis?vel e a do meio seja pouco vis?vel.
+[IDS_SHELL_BRIGHTNESS_REFERENCE]Para melhor experiência visual, ajuste o brilho para que a barra da esquerda näo seja visível e a do meio seja pouco visível.
 
 
 ###CONTROLLER CONFIG MENU
 [IDS_SHELL_PAUSE_INVENTORY]Pausar
 [IDS_SHELL_MAP_SCREEN]Mapa
-[IDS_SHELL_CHARACTER_MOVEMENT]Movimenta??o
-[IDS_SHELL_CAMERA_CONTROL]Controle de C?mera
+[IDS_SHELL_CHARACTER_MOVEMENT]Movimentaçäo
+[IDS_SHELL_CAMERA_CONTROL]Controle de Câmera
 [IDS_SHELL_USE_DEFAULT]Restaurar
-[IDS_SHELL_USE_DEFAULT_CONFIRM]Tem certeza de que deseja restaurar tudo aos valores padr?o?
+[IDS_SHELL_USE_DEFAULT_CONFIRM]Tem certeza de que deseja restaurar tudo aos valores padräo?
 [IDS_SHELL_SWAP_STICK_CONTROLS_XBOX360]Trocar alavancas (Esquerda/Direita)
 [IDS_SHELL_SWAP_STICK_CONTROLS_PS3]Trocar alavancas (Esquerda/Direita)
 
@@ -262,36 +262,36 @@
 
 [IDS_SHELL_COMBAT_MODE]Modo de Combate
 [IDS_SHELL_FIRE_GUN]Atirar
-[IDS_SHELL_INVENTORY_WHEEL]Invent?rio
+[IDS_SHELL_INVENTORY_WHEEL]Inventário
 [IDS_SHELL_WEAPON_WHEEL]Equipamentos
 [IDS_SHELL_HEAVY_ATTACK]Ataque Forte
 [IDS_SHELL_MAPS]Mapas
-[IDS_SHELL_LIGHT_ATTACK]Ataque R?pido
+[IDS_SHELL_LIGHT_ATTACK]Ataque Rápido
 [IDS_SHELL_DEFENSE]Defesa
-[IDS_SHELL_VERIFY_USE_DEFAULT]Tem certeza de que deseja restaurar tudo aos valores padr?o?
-[IDS_SHELL_REMAP_HEAVY_ATTACK_MESSAGE]Aperte o bot?o que ser? utilizado para "Ataque Forte".
-[IDS_SHELL_REMAP_LIGHT_ATTACK_MESSAGE]Aperte o bot?o que ser? utilizado para "Ataque R?pido".
-[IDS_SHELL_REMAP_DEFENSE_MESSAGE]Aperte o bot?o que ser? utilizado para "Defesa".
-[IDS_SHELL_REMAP_RELOAD_MESSAGE]Aperte o bot?o que ser? utilizado para "Mapa".
+[IDS_SHELL_VERIFY_USE_DEFAULT]Tem certeza de que deseja restaurar tudo aos valores padräo?
+[IDS_SHELL_REMAP_HEAVY_ATTACK_MESSAGE]Aperte o botäo que será utilizado para "Ataque Forte".
+[IDS_SHELL_REMAP_LIGHT_ATTACK_MESSAGE]Aperte o botäo que será utilizado para "Ataque Rápido".
+[IDS_SHELL_REMAP_DEFENSE_MESSAGE]Aperte o botäo que será utilizado para "Defesa".
+[IDS_SHELL_REMAP_RELOAD_MESSAGE]Aperte o botäo que será utilizado para "Mapa".
 
 
 ###PC CONTROLLER CONFIG MENU
 [IDS_SHELL_USE_MANDK]Usar Teclado e Mouse
 [IDS_SHELL_USE_JOYSTICK]Usar Controle
 [IDS_SHELL_MOVE_FORWARD]P/ Frente
-[IDS_SHELL_MOVE_BACK]P/ Tr?s
+[IDS_SHELL_MOVE_BACK]P/ Trás
 [IDS_SHELL_STRAFE_LEFT]Esquerda
 [IDS_SHELL_STRAFE_RIGHT]Direita
 [IDS_SHELL_USE]Usar
 [IDS_SHELL_TARGET]Mirar
-[IDS_SHELL_LIGHT_ATTACK]Ataque R?pido
+[IDS_SHELL_LIGHT_ATTACK]Ataque Rápido
 [IDS_SHELL_HEAVY_ATTACK]Ataque Forte
 [IDS_SHELL_RELOAD]Recarga
 [IDS_SHELL_DODGE]Esquiva
 [IDS_SHELL_FIRE]Atirar
 [IDS_SHELL_WEAPONS]Equipamentos
-[IDS_SHELL_INVENTORY]Invent?rio
-[IDS_SHELL_LOOK]Olhar (1? Pessoa)
+[IDS_SHELL_INVENTORY]Inventário
+[IDS_SHELL_LOOK]Olhar (1° Pessoa)
 [IDS_SHELL_FLASHLIGHT]Lanterna
 [IDS_SHELL_MAP]Mapa
 [IDS_SHELL_NEXT_WEAPON]Arma Seguinte
@@ -311,7 +311,7 @@
 [IDS_LSHIFT]Shift Esq.
 [IDS_RSHIFT]Shift Dir.
 [IDS_NUMPAD*]* (painel)
-[IDS_SPACE]Espa?o
+[IDS_SPACE]Espaço
 [IDS_NUMPAD7]7 (painel)
 [IDS_NUMPAD8]8 (painel)
 [IDS_NUMPAD9]9 (painel)
@@ -345,7 +345,7 @@
 [IDS_KEYBOARD]Teclado
 [IDS_MOUSE]Mouse
 [IDS_CONTROLLER]controle
-[IDS_BUTTON]Bot?o
+[IDS_BUTTON]Botäo
 
 
 ### CB: These are not an IMS, I dont know why they have an IMS prefix
@@ -354,12 +354,12 @@
 [IDS_IMS_PUZZLE_SOLVED]Enigma resolvido.
 [IDS_IMS_TAKE]OBTER
 [IDS_IMS_EXAMINE]VERIFICAR
-[IDS_IMS_NEXT_INFOTRIGGER]PR?XIMO
+[IDS_IMS_NEXT_INFOTRIGGER]PRÓXIMO
 [IDS_IMS_EXIT_INFOTRIGGER]SAIR
-[IDS_IMS_NEXT]PR?XIMO
+[IDS_IMS_NEXT]PRÓXIMO
 [IDS_IMS_EXIT_CAPS]SAIR
 [IDS_IMS_RESET]RESTAURAR
-[IDS_IMS_ACTION]A??O
+[IDS_IMS_ACTION]AÇÄO
 [IDS_IMS_TALK]FALAR
 [IDS_IMS_ENTER]ENTRAR
 [IDS_IMS_SELECT]SELECIONAR
@@ -368,34 +368,34 @@
 
 ####LOADING SCREEN TIPS
 
-[IDS_LOADING_TIP_COMBAT_1]Para esquivar de um ataque, perceba o tempo do ataque inimigo e aperte o bot?o <COMMAND_JUMP> (esquiva).
-[IDS_LOADING_TIP_COMBAT_2]Depois de esquivar com sucesso, voc? pode contra-atacar com qualquer bot?o de ataque.
-[IDS_LOADING_TIP_COMBAT_3]Inimigos atordoados podem ser finalizados com um Ataque Forte.
-[IDS_LOADING_TIP_COMBAT_4]Ataques R?pidos n?o atordoam inimigos, Ataques Fortes e Contra-Ataques sim.
-[IDS_LOADING_TIP_COMBAT_5]Quando for derrubado, aperte o bot?o <COMMAND_JUMP> (esquiva) no tempo certo para se levantar rapidamente. (Perceba a poeira para ajudar)
-[IDS_LOADING_TIP_COMBAT_6]Inimigos s?o fortemente atraidos pela luz da lanterna. Desligar ela em certos momentos PODE te ajudar a evitar conflitos...
+[IDS_LOADING_TIP_COMBAT_1]Para esquivar de um ataque, perceba o tempo do ataque inimigo e aperte o botäo de esquiva.
+[IDS_LOADING_TIP_COMBAT_2]Depois de esquivar com sucesso, você pode contra-atacar com qualquer botäo de ataque.
+[IDS_LOADING_TIP_COMBAT_3]Inimigos atordoados podem ser finalizados apertando o botäo de Ataque Forte perto deles.
+[IDS_LOADING_TIP_COMBAT_4]Ataques Rápidos näo atordoam inimigos, Ataques Fortes e Contra-Ataques sim.
+[IDS_LOADING_TIP_COMBAT_5]Quando for derrubado, aperte o botäo de esquiva no tempo certo para se levantar rapidamente. (Perceba a poeira para ajudar)
+[IDS_LOADING_TIP_COMBAT_6]Inimigos säo fortemente atraidos pela luz da lanterna. Desligar ela em certos momentos PODE te ajudar a evitar conflitos...
 
-[IDS_LOADING_TIP_SMOG_1]O ponto fraco do Smog s?o os pulm?es, voc? pode esperar eles ficarem expostos para executar um ataque de grande impacto.
-[IDS_LOADING_TIP_SMOG_2]A fuma?a t?xica do Smog faz com que Alex fique atordoado e leve dano, ent?o mantenha a dist?ncia.
+[IDS_LOADING_TIP_SMOG_1]O ponto fraco do Smog säo os pulmöes, você pode esperar eles ficarem expostos para executar um ataque de grande impacto.
+[IDS_LOADING_TIP_SMOG_2]A fumaça tóxica do Smog faz com que Alex fique atordoado e leve dano, entäo mantenha a distância.
 
-[IDS_LOADING_TIP_SIAM_1]O lado feminino da Siam ? o mais vulner?vel. Ataque pelas costas para garantir mais dano.
-[IDS_LOADING_TIP_SIAM_2]Siam vai tentar te esmagar se te derrubar, ent?o levante-se r?pido apertando "esquiva".
+[IDS_LOADING_TIP_SIAM_1]O lado feminino da Siam é o menos protegido. Ataque pelas costas para garantir mais dano.
+[IDS_LOADING_TIP_SIAM_2]Siam vai tentar te esmagar se te derrubar, entäo levante-se rápido apertando o botäo de esquiva.
 
 [IDS_LOADING_TIP_NEEDLER_1]O Needler pode bloquear ataques frontais (incluindo tiros). Ataque pelo lado para garantir a efetividade dos ataques.
-[IDS_LOADING_TIP_NEEDLER_2]Quando o Needler vai para o teto, um ataque ? certo. Prepare-se para esquivar!
-[IDS_LOADING_TIP_NEEDLER_3]Um tiro na cabe?a ? o melhor - e mais seguro - meio de se livrar de um Needler.
+[IDS_LOADING_TIP_NEEDLER_2]Quando o Needler vai para o teto, um ataque é certo. Prepare-se para esquivar!
+[IDS_LOADING_TIP_NEEDLER_3]Um tiro na cabeça é o melhor - e mais seguro - meio de se livrar de um Needler.
 
-[IDS_LOADING_TIP_LURKER_1]A cabe?a do Lurker ? seu ponto fraco. Ela ? altamente sucetivel a ataques fortes.
-[IDS_LOADING_TIP_LURKER_2]Tome cuidado ao entrar em partes com muita ?gua. Toda movimenta??o na ?gua pode ser um Lurker aguardando por voc?...
+[IDS_LOADING_TIP_LURKER_1]A cabeça do Lurker é seu ponto fraco. Ela é altamente sucetivel a ataques fortes.
+[IDS_LOADING_TIP_LURKER_2]Tome cuidado ao entrar em partes com muita água. Toda movimentaçäo na água pode ser um Lurker aguardando por você...
 
-[IDS_LOADING_TIP_SCHISM_1]Ataques do Schism podem te derrubar facilmente, ent?o mantenha a dist?ncia e ataque r?pido.
-[IDS_LOADING_TIP_SCHISM_2]O Schism ir? tomar impulso antes de avan?ar em voc?. Prepare-se para esquivar quando perceber o recuo.
+[IDS_LOADING_TIP_SCHISM_1]Ataques do Schism podem te derrubar facilmente, entäo mantenha a distância e ataque rapidamente.
+[IDS_LOADING_TIP_SCHISM_2]O Schism irá tomar impulso antes de avançar em você. Prepare-se para esquivar quando perceber o recuo.
 
-[IDS_LOADING_TIP_ORDER_1]Os Soldados da Ordem que utilizam canos podem esquivar dos ataques, ent?o ataque r?pido e n?o d? brecha!
+[IDS_LOADING_TIP_ORDER_1]Os Soldados da Ordem que utilizam canos podem esquivar dos ataques, entäo ataque rápido e näo dê brecha!
 
-[IDS_LOADING_TIP_FERAL_1]Quando um Feral pula antes de girar, significa que ele est? prestes a pegar f?lego. Esquive e contra-ataque para um atordoamento garantido.
-[IDS_LOADING_TIP_FERAL_2]Atirar no Feral quando ele est? correndo vai fazer com que ele fique atordoado. ? o momento perfeito para um golpe fatal.
-[IDS_LOADING_TIP_FERAL_3]Armas r?pidas como a Faca ou o Cano s?o especialmente efetivas contra um Feral.
+[IDS_LOADING_TIP_FERAL_1]Quando um Feral pula antes de girar, significa que ele está prestes a pegar fôlego. Esquive e contra-ataque para um atordoamento garantido.
+[IDS_LOADING_TIP_FERAL_2]Atirar no Feral quando ele está correndo vai fazer com que ele fique atordoado. É o momento perfeito para um golpe fatal.
+[IDS_LOADING_TIP_FERAL_3]Armas rápidas como a Faca ou o Cano säo especialmente efetivas contra um Feral.
 
 [IDS_LOADING_TIP_SWARM_1]Quando um Inseto se prende a voc?, sua vida ser? drenada. Aperte <COMMAND_JUMP> (esquiva) para se livrar deles.
 [IDS_LOADING_TIP_SWARM_2]Os Insetos as vezes param no ar ou no ch?o antes de atacar, este ? o momento perfeito para destru?-los.
