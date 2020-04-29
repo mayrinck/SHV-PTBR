@@ -4,11 +4,11 @@
 [IDS_SHELL_AUDIO_TITLE]AUDIO
 [IDS_SHELL_VIDEO]Video
 [IDS_SHELL_VIDEO_TITLE]VIDEO
-[IDS_SHELL_RESOLUTION]ResoluÃ§Ã¤o
+[IDS_SHELL_RESOLUTION]Resoluçäo
 [IDS_SHELL_REFRESH]Hertz
-[IDS_SHELL_QUALITY]GrÃ¡ficos
-[IDS_SHELL_QUALITY_MEDIUM]PadrÃ¤o
-[IDS_SHELL_QUALITY_HIGH]Alto
+[IDS_SHELL_QUALITY]Qualidade
+[IDS_SHELL_QUALITY_MEDIUM]Padräo
+[IDS_SHELL_QUALITY_HIGH]Alta
 [IDS_SHELL_CONTROLLER_CONFIG_TITLE_PC]CONTROLES
 [IDS_SHELL_CONTROLLER_CONFIG_PC]Controles
 [IDS_SHELL_USE_MOUSE]Usar Teclado e Mouse
@@ -29,7 +29,7 @@
 [IDS_SHELL_EQUIP]Equipar
 [IDS_SHELL_SELECT]Selecionar
 [IDS_SHELL_YES]Sim
-[IDS_SHELL_NO]Nï¿½o
+[IDS_SHELL_NO]Näo
 [IDS_SHELL_OK]OK
 [IDS_SHELL_OFF]Desl.
 [IDS_SHELL_ON]Ligado
@@ -43,67 +43,67 @@
 [IDS_SHELL_TITLE]Silent Hill: Homecoming
 
 ###LEVEL NAMES
-[IDS_SHELL_UNKNOWN_MISSION]Missï¿½o Desconhecida
+[IDS_SHELL_UNKNOWN_MISSION]Missäo Desconhecida
 [IDS_SHELL_MISSION_ONE]Pesadelo
 [IDS_SHELL_MISSION_TWO]Shepherd's Glen
 [IDS_SHELL_MISSION_THREE]De volta ao lar
 [IDS_SHELL_MISSION_FOUR]Pessoas Desaparecidas
 [IDS_SHELL_MISSION_FIVE]Grand Hotel
-[IDS_SHELL_MISSION_SIX]Delegacia de Polï¿½cia
+[IDS_SHELL_MISSION_SIX]Delegacia de Polícia
 [IDS_SHELL_MISSION_SIX_B]Esgotos
 [IDS_SHELL_MISSION_SEVEN]Descida ao inferno.
 [IDS_SHELL_MISSION_EIGHT]Prefeitura
-[IDS_SHELL_MISSION_EIGHT_B]Cemitï¿½rio
-[IDS_SHELL_MISSION_NINE]Sï¿½tï¿½o
+[IDS_SHELL_MISSION_EIGHT_B]Cemitério
+[IDS_SHELL_MISSION_NINE]Sótäo
 [IDS_SHELL_MISSION_TEN]Tempos de Trevas
-[IDS_SHELL_MISSION_ELEVEN]Prisï¿½o
-[IDS_SHELL_MISSION_TWELVE]Introspecï¿½ï¿½o
+[IDS_SHELL_MISSION_ELEVEN]Prisäo
+[IDS_SHELL_MISSION_TWELVE]Introspecçäo
 [IDS_SHELL_MISSION_THIRTEEN]Igreja
-[IDS_SHELL_MISSION_FOURTEEN]Subterrï¿½neo
+[IDS_SHELL_MISSION_FOURTEEN]Subterrâneo
 
 ###LEVEL DESCRIPTIONS
 [IDS_SHELL_UNKNOWN_MISSION_DESC]? ? ? ? ? ?
 [IDS_SHELL_MISSION_ONE_DESC]Pesadelo
 [IDS_SHELL_MISSION_TWO_DESC]Cidade Fantasma
 [IDS_SHELL_MISSION_THREE_DESC]De volta ao lar
-[IDS_SHELL_MISSION_FOUR_DESC]Cemitï¿½rio
+[IDS_SHELL_MISSION_FOUR_DESC]Cemitério
 [IDS_SHELL_MISSION_FIVE_DESC]Hotel Abandonado
 [IDS_SHELL_MISSION_SIX_DESC]Revisitando a Cidade Fantasma
-[IDS_SHELL_MISSION_SEVEN_DESC]Descida para... ? ? ?
-[IDS_SHELL_MISSION_EIGHT_DESC]Consultï¿½rio do Doutor
+[IDS_SHELL_MISSION_SEVEN_DESC]Descida para o... Inférno?
+[IDS_SHELL_MISSION_EIGHT_DESC]Consultório do Doutor
 [IDS_SHELL_MISSION_NINE_DESC]O inferno tomou tudo
 [IDS_SHELL_MISSION_TEN_DESC]Silent Hill
 [IDS_SHELL_MISSION_TEN_B_DESC]Usina de Energia
 [IDS_SHELL_MISSION_ELEVEN_DESC]Penitenciaria Overlook
-[IDS_SHELL_MISSION_TWELVE_DESC]Introspecï¿½ï¿½o
-[IDS_SHELL_MISSION_THIRTEEN_DESC]Uma casa de adoraï¿½ï¿½o
+[IDS_SHELL_MISSION_TWELVE_DESC]Introspecçäo
+[IDS_SHELL_MISSION_THIRTEEN_DESC]Uma casa de adoraçäo
 [IDS_SHELL_MISSION_FOURTEEN_DESC]O Lar
 
 ###LEGAL SCREEN TEXT
-[IDS_SHELL_LEGAL_SCREEN_TEXT]ï¿½2008 Konami Digital Entertainment, Inc.  ï¿½1999 Konami Digital Entertainment Co., Ltd. Todos os direitos reservados.  "Silent Hill" ï¿½ uma marca registrada da Konami Digital Entertainment Co., Ltd. KONAMI ï¿½ uma marca registrada da KONAMI CORPORATION.  Silent Hill: Homecoming usa Havok ï¿½1999-2008. Havok.com Inc. (ou licenciados). Todos os direitos reservados. Detalhes em www.havok.com
-[IDS_SHELL_LEGAL_SCREEN_TEXT_2]Desenvolvido pela Double Helix, uma divisï¿½o da Foundation 9 Entertainment. O nome "Double Helix" e logotipo sï¿½o marcas registradas da Foundation 9 Entertainment. Traduï¿½ï¿½o e Localizaï¿½ï¿½o feita por Renan Mayrinck, sem fins lucrativos.
+[IDS_SHELL_LEGAL_SCREEN_TEXT]?2008 Konami Digital Entertainment, Inc.  ?1999 Konami Digital Entertainment Co., Ltd. Todos os direitos reservados.  "Silent Hill" é uma marca registrada da Konami Digital Entertainment Co., Ltd. KONAMI é uma marca registrada da KONAMI CORPORATION.  Silent Hill: Homecoming usa Havok ?1999-2008. Havok.com Inc. (ou licenciados). Todos os direitos reservados. Detalhes em www.havok.com
+[IDS_SHELL_LEGAL_SCREEN_TEXT_2]Desenvolvido pela Double Helix, uma divisäo da Foundation 9 Entertainment. O nome "Double Helix" e logotipo säo marcas registradas da Foundation 9 Entertainment. Traduçäo e Localizaçäo feita por Renan Mayrinck (Grisson), sem fins lucrativos.
 
 ###MENU TITLES
-[IDS_SHELL_INVENTORY_WHEEL_TITLE]INVENTï¿½RIO
+[IDS_SHELL_INVENTORY_WHEEL_TITLE]INVENTÁRIO
 [IDS_SHELL_WEAPON_WHEEL_TITLE]EQUIPAMENTOS
-[IDS_SHELL_GAME_OPTIONS_TITLE]OPï¿½ï¿½ES DO JOGO
-[IDS_SHELL_OPTIONS_TITLE]CONFIGURAï¿½ï¿½ES
-[IDS_SHELL_DISPLAY_TITLE]DISPLAY / AUDIO
+[IDS_SHELL_GAME_OPTIONS_TITLE]OPÇÖES DO JOGO
+[IDS_SHELL_OPTIONS_TITLE]CONFIGURAÇÖES
+[IDS_SHELL_DISPLAY_TITLE]TELA / AUDIO
 [IDS_SHELL_PAUSED_TITLE]PAUSADO
 [IDS_SHELL_SAVE_GAME_TITLE]SALVAR JOGO
 [IDS_SHELL_MAIN_MENU_TITLE]MENU PRINCIPAL
 [IDS_SHELL_DIFFICULTY_TITLE]DIFICULDADE
 [IDS_SHELL_BRIGHTNESS_TITLE]LUMINOSIDADE
 [IDS_SHELL_LOAD_GAME_TITLE]CONTINUAR
-[IDS_SHELL_CONTROLLER_CONFIG_TITLE]CONFIGURAï¿½ï¿½O DE BOTï¿½ES
+[IDS_SHELL_CONTROLLER_CONFIG_TITLE]CONFIGURAÇÄO DE BOTÖES
 [IDS_SHELL_COSTUMES_TITLE]ROUPAS ALTERNATIVAS
 
 ###PAUSE MENU
 [IDS_SHELL_RESUME]Retomar
 [IDS_SHELL_JOURNAL]Arquivos
-[IDS_SHELL_OPTIONS]Opï¿½ï¿½es
+[IDS_SHELL_OPTIONS]Opçöes
 [IDS_SHELL_MAIN_MENU]Menu Principal
-[IDS_SHELL_QUIT_GAME_CONFIRM]Vocï¿½ tem certeza de que deseja sair? Todo progresso nï¿½o salvo serï¿½ perdido.
+[IDS_SHELL_QUIT_GAME_CONFIRM]Você tem certeza de que deseja sair? Todo progresso näo salvo será perdido.
 
 ###JOURNAL MENU
 [IDS_SHELL_PHOTOS]Fotos
@@ -113,45 +113,45 @@
 [IDS_SHELL_COMBAT_MANUAL]Manuais
 [IDS_SHELL_NO_PHOTOS]Nenhuma foto encontrada.
 [IDS_SHELL_NO_CLUES]Nenhuma pista encontrada.
-[IDS_SHELL_NO_NOTES]Nenhuma anotaï¿½ï¿½o encontrada.
+[IDS_SHELL_NO_NOTES]Nenhuma anotaçäo encontrada.
 [IDS_SHELL_NO_COMBAT_MANUAL]Nenhum manual encontrado.
 [IDS_SHELL_NO_DRAWINGS]Nenhum desenho encontrado.
 
 ###COSTUMES MENU
-[IDS_SHELL_COSTUME_NORMAL_ALEX]Padrï¿½o
+[IDS_SHELL_COSTUME_NORMAL_ALEX]Padr?o
 [IDS_SHELL_COSTUME_YOUNG_ALEX]Jovem
 [IDS_SHELL_COSTUME_SHERIFF]Delegado
 [IDS_SHELL_COSTUME_TRUCKER]Caminhoneiro
 [IDS_SHELL_COSTUME_ORDERLY]Enfermeiro
 [IDS_SHELL_COSTUME_ORDER]Soldado da Ordem
-[IDS_SHELL_COSTUME_PYRAMID]Cabeï¿½a de Piramide
+[IDS_SHELL_COSTUME_PYRAMID]Cabe?a de Piramide
 [IDS_SHELL_COSTUME_LOCKED][BLOQUEADO]
 
 
-[IDS_SHELL_COSTUME_YOUNG_ALEX_UNLOCK_MESSAGE]Vocï¿½ desbloqueou a roupa "Jovem" para Alex Sheperd.
-[IDS_SHELL_COSTUME_SHERIFF_UNLOCK_MESSAGE]Vocï¿½ desbloqueou a roupa "Delegado" para Alex Sheperd.
-[IDS_SHELL_COSTUME_TRUCKER_UNLOCK_MESSAGE]Vocï¿½ desbloqueou a roupa "Caminhoneiro" para Alex Sheperd.
-[IDS_SHELL_COSTUME_ORDERLY_UNLOCK_MESSAGE]Vocï¿½ desbloqueou a roupa "Enfermeiro" para Alex Sheperd.
-[IDS_SHELL_COSTUME_ORDER_UNLOCK_MESSAGE]Vocï¿½ desbloqueou a roupa "Soldado da Ordem" para Alex Sheperd.
-[IDS_SHELL_COSTUME_PYRAMID_UNLOCK_MESSAGE]Vocï¿½ desbloqueou a "Cabeï¿½a de Piramide" para Alex Sheperd.
+[IDS_SHELL_COSTUME_YOUNG_ALEX_UNLOCK_MESSAGE]Voc? desbloqueou a roupa "Jovem" para Alex Sheperd.
+[IDS_SHELL_COSTUME_SHERIFF_UNLOCK_MESSAGE]Voc? desbloqueou a roupa "Delegado" para Alex Sheperd.
+[IDS_SHELL_COSTUME_TRUCKER_UNLOCK_MESSAGE]Voc? desbloqueou a roupa "Caminhoneiro" para Alex Sheperd.
+[IDS_SHELL_COSTUME_ORDERLY_UNLOCK_MESSAGE]Voc? desbloqueou a roupa "Enfermeiro" para Alex Sheperd.
+[IDS_SHELL_COSTUME_ORDER_UNLOCK_MESSAGE]Voc? desbloqueou a roupa "Soldado da Ordem" para Alex Sheperd.
+[IDS_SHELL_COSTUME_PYRAMID_UNLOCK_MESSAGE]Voc? desbloqueou a "Cabe?a de Piramide" para Alex Sheperd.
 
 
 ###MAPS MENU
 [IDS_SHELL_OBJECTIVES]Objetivos
-[IDS_SHELL_NO_MAPS_AVAILABLE]Vocï¿½ nï¿½o tem mapas.
-[IDS_SHELL_NO_CURRENT_MAP]Vocï¿½ nï¿½o tem o mapa desta regiï¿½o.
-[IDS_SHELL_NO_OBJECTIVES_AVAILABLE]Vocï¿½ nï¿½o tem objetivos.
+[IDS_SHELL_NO_MAPS_AVAILABLE]Voc? n?o tem mapas.
+[IDS_SHELL_NO_CURRENT_MAP]Voc? n?o tem o mapa desta regi?o.
+[IDS_SHELL_NO_OBJECTIVES_AVAILABLE]Voc? n?o tem objetivos.
 
 ###GAME OVER MENU
-[IDS_SHELL_GAME_OVER]Vocï¿½ foi Morto!
+[IDS_SHELL_GAME_OVER]Voc? foi Morto!
 [IDS_SHELL_CONTINUE]Continuar
 [IDS_SHELL_QUIT]Desistir
 
 ###COMBAT WHEEL & INVENTORY WHEEL
 [IDS_SHELL_INSPECT]Inspecionar
 [IDS_SHELL_EQUIP]Equipar
-[IDS_SHELL_NO_ITEMS]vocï¿½ nï¿½o tem items.
-[IDS_SHELL_NO_WEAPONS]Vocï¿½ nï¿½o tem armas.
+[IDS_SHELL_NO_ITEMS]voc? n?o tem items.
+[IDS_SHELL_NO_WEAPONS]Voc? n?o tem armas.
 [IDS_SHELL_HEALTHDRINK]Revigorante
 [IDS_SHELL_FIRSTAIDKIT]Primeiros-Socorros
 [IDS_SHELL_FLASHLIGHT]Lanterna
@@ -160,38 +160,38 @@
 ###MAIN MENU
 [IDS_SHELL_NEW_GAME]Novo Jogo
 [IDS_SHELL_LOAD_GAME]Continuar
-[IDS_SHELL_OPTIONS]Opï¿½ï¿½es
-[IDS_SHELL_CREDITS]Crï¿½ditos
-[IDS_SHELL_NORMAL]Padrï¿½o
-[IDS_SHELL_NORMAL_MESSAGE]Na dificuldade padrï¿½o, todos os monstros e muniï¿½ï¿½o vem na quantidade padrï¿½o.
-[IDS_SHELL_HARD]Difï¿½cil
-[IDS_SHELL_HARD_MESSAGE]Para os jï¿½ experiï¿½ntes. Nesta dificuldade, os monstros sï¿½o mais fortes e resistentes e a muniï¿½ï¿½o ï¿½ escassa.
+[IDS_SHELL_OPTIONS]Op??es
+[IDS_SHELL_CREDITS]Cr?ditos
+[IDS_SHELL_NORMAL]Padr?o
+[IDS_SHELL_NORMAL_MESSAGE]Na dificuldade padr?o, todos os monstros e muni??o vem na quantidade padr?o.
+[IDS_SHELL_HARD]Dif?cil
+[IDS_SHELL_HARD_MESSAGE]Para os j? experi?ntes. Nesta dificuldade, os monstros s?o mais fortes e resistentes e a muni??o ? escassa.
 
 ##SAVE GAME
 [IDS_SHELL_SAVE_PROMPT] <COMMAND_KICK> Salvar
-[IDS_SHELL_END_GAME_SAVE_PROMPT]Vocï¿½ gostaria de salvar o jogo?
+[IDS_SHELL_END_GAME_SAVE_PROMPT]Voc? gostaria de salvar o jogo?
 
 [IDS_SHELL_EMPTY_MISSION][L I V R E]
 
 [IDS_SHELL_ACCESSING_SAVE_GAME_PC]Acessando os progressos...
-[IDS_SHELL_ACCESSING_SAVE_GAME_XBOX360]Acessando os progressos... Nï¿½o desligue o console!
-[IDS_SHELL_ACCESSING_SAVE_GAME_PS3]Acessando os progressos... Nï¿½o desligue o console!
+[IDS_SHELL_ACCESSING_SAVE_GAME_XBOX360]Acessando os progressos... N?o desligue o console!
+[IDS_SHELL_ACCESSING_SAVE_GAME_PS3]Acessando os progressos... N?o desligue o console!
 
-[IDS_SHELL_CORRUPT_LOAD_PC]Impossï¿½vel continuar... Seus dados estï¿½o corrompidos!
-[IDS_SHELL_CORRUPT_LOAD_PS3]Impossï¿½vel continuar... Seus dados estï¿½o corrompidos!
-[IDS_SHELL_CORRUPT_LOAD_XBOX360]Impossï¿½vel continuar... Seus dados estï¿½o corrompidos!
+[IDS_SHELL_CORRUPT_LOAD_PC]Imposs?vel continuar... Seus dados est?o corrompidos!
+[IDS_SHELL_CORRUPT_LOAD_PS3]Imposs?vel continuar... Seus dados est?o corrompidos!
+[IDS_SHELL_CORRUPT_LOAD_XBOX360]Imposs?vel continuar... Seus dados est?o corrompidos!
 
-[IDS_SHELL_CORRUPT_LOAD_OVERWRITE_PC]Impossï¿½vel continuar... Seus dados estï¿½o corrompidos... Gostaris de sobrescrever?
-[IDS_SHELL_CORRUPT_LOAD_OVERWRITE_PS3]Impossï¿½vel continuar... Seus dados estï¿½o corrompidos... Gostaris de sobrescrever?
-[IDS_SHELL_CORRUPT_LOAD_OVERWRITE_XBOX360]Impossï¿½vel continuar... Seus dados estï¿½o corrompidos... Gostaris de sobrescrever?
+[IDS_SHELL_CORRUPT_LOAD_OVERWRITE_PC]Imposs?vel continuar... Seus dados est?o corrompidos... Gostaris de sobrescrever?
+[IDS_SHELL_CORRUPT_LOAD_OVERWRITE_PS3]Imposs?vel continuar... Seus dados est?o corrompidos... Gostaris de sobrescrever?
+[IDS_SHELL_CORRUPT_LOAD_OVERWRITE_XBOX360]Imposs?vel continuar... Seus dados est?o corrompidos... Gostaris de sobrescrever?
 
-[IDS_SHELL_CORRUPT_LOAD_NEW_GAME_PC]Impossï¿½vel continuar... Seus dados estï¿½o corrompidos... Gostaria de criar um novo?
-[IDS_SHELL_CORRUPT_LOAD_NEW_GAME_PS3]Impossï¿½vel continuar... Seus dados estï¿½o corrompidos... Gostaria de criar um novo?
-[IDS_SHELL_CORRUPT_LOAD_NEW_GAME_XBOX360]Impossï¿½vel continuar... Seus dados estï¿½o corrompidos... Gostaria de criar um novo?
+[IDS_SHELL_CORRUPT_LOAD_NEW_GAME_PC]Imposs?vel continuar... Seus dados est?o corrompidos... Gostaria de criar um novo?
+[IDS_SHELL_CORRUPT_LOAD_NEW_GAME_PS3]Imposs?vel continuar... Seus dados est?o corrompidos... Gostaria de criar um novo?
+[IDS_SHELL_CORRUPT_LOAD_NEW_GAME_XBOX360]Imposs?vel continuar... Seus dados est?o corrompidos... Gostaria de criar um novo?
 
 [IDS_SHELL_SAVING_PC]Salvando o progresso...
 [IDS_SHELL_SAVING_PS3]Salvando no MEMORY CARD do slot 1. N?o desligue o console ou remova o Memory Card!!
-[IDS_SHELL_SAVING_XBOX360]Salvando o progresso... Nï¿½o desligue o console!!
+[IDS_SHELL_SAVING_XBOX360]Salvando o progresso... N?o desligue o console!!
 
 [IDS_SHELL_SAVING_FAILED_PC]Voc? chegou ao limite de progressos salvos. Delete algum deles para continuar...
 [IDS_SHELL_SAVING_FAILED_PS3]Voc? chegou ao limite de progressos salvos. Delete algum deles para continuar...
@@ -216,9 +216,9 @@
 [IDS_SHELL_DEVICE_REMOVED_LOADING]The selected storage device could not be found.  Would you like to continue without loading?
 [IDS_SHELL_DEVICE_REMOVED_NEW_GAME]The selected storage device could not be found.  Would you like to continue without selecting a storage device?
 
-[IDS_SHELL_OVERWRITE_SESSION]Vocï¿½ tem certeza de que quer salvar aqui? O progresso jï¿½ contido nesse espaï¿½o serï¿½ perdido!
+[IDS_SHELL_OVERWRITE_SESSION]Voc? tem certeza de que quer salvar aqui? O progresso j? contido nesse espa?o ser? perdido!
 
-[IDS_SHELL_NO_SAVED_GAMES_FOUND]Nenhum progresso foi encontrado. Comeï¿½e um novo em "Novo Jogo".
+[IDS_SHELL_NO_SAVED_GAMES_FOUND]Nenhum progresso foi encontrado. Come?e um novo em "Novo Jogo".
 
 [IDS_SHELL_NEW_SAVE_CONTENT]Novo progresso salvo
 
@@ -228,29 +228,29 @@
 
 ###OPTIONS MENU
 [IDS_SHELL_DISPLAY]Tela / Audio
-[IDS_SHELL_GAME_OPTIONS]Opï¿½ï¿½es do Jogo
-[IDS_SHELL_CONTROLLER_CONFIG]Configuraï¿½ï¿½o de Controle
+[IDS_SHELL_GAME_OPTIONS]Op??es do Jogo
+[IDS_SHELL_CONTROLLER_CONFIG]Configura??o de Controle
 [IDS_SHELL_DISPLAY_BRIGHTNESS]Brilho da Tela
 [IDS_SHELL_DIALOGUE_VOLUME]Vozes
 [IDS_SHELL_MUSIC_VOLUME]Musica
 [IDS_SHELL_EFFECTS_VOLUME]Efeitos
 [IDS_SHELL_RADIO_VOLUME]Radio
 [IDS_SHELL_INVERTED_AIM]Mira Invertida
-[IDS_SHELL_VIBRATION]Vibraï¿½ï¿½o
+[IDS_SHELL_VIBRATION]Vibra??o
 [IDS_SHELL_SUBTITLES]Legendas
 [IDS_SHELL_CHANGE_STORAGE_DEVICE]Alterar Armazenamento
-[IDS_SHELL_NO_USER_STORAGE_DEVICE]Vocï¿½ precisa acessar sua conta para mudar o dispositivo de armazenamento.
+[IDS_SHELL_NO_USER_STORAGE_DEVICE]Voc? precisa acessar sua conta para mudar o dispositivo de armazenamento.
 [IDS_SHELL_TOGGLE]Trocar
-[IDS_SHELL_BRIGHTNESS_REFERENCE]Para melhor experiï¿½ncia visual, ajuste o brilho para que a barra da esquerda nï¿½o seja visï¿½vel e a do meio seja pouco visï¿½vel.
+[IDS_SHELL_BRIGHTNESS_REFERENCE]Para melhor experi?ncia visual, ajuste o brilho para que a barra da esquerda n?o seja vis?vel e a do meio seja pouco vis?vel.
 
 
 ###CONTROLLER CONFIG MENU
 [IDS_SHELL_PAUSE_INVENTORY]Pausar
 [IDS_SHELL_MAP_SCREEN]Mapa
-[IDS_SHELL_CHARACTER_MOVEMENT]Movimentaï¿½ï¿½o
-[IDS_SHELL_CAMERA_CONTROL]Controle de Cï¿½mera
+[IDS_SHELL_CHARACTER_MOVEMENT]Movimenta??o
+[IDS_SHELL_CAMERA_CONTROL]Controle de C?mera
 [IDS_SHELL_USE_DEFAULT]Restaurar
-[IDS_SHELL_USE_DEFAULT_CONFIRM]Tem certeza de que deseja restaurar tudo aos valores padrï¿½o?
+[IDS_SHELL_USE_DEFAULT_CONFIRM]Tem certeza de que deseja restaurar tudo aos valores padr?o?
 [IDS_SHELL_SWAP_STICK_CONTROLS_XBOX360]Trocar alavancas (Esquerda/Direita)
 [IDS_SHELL_SWAP_STICK_CONTROLS_PS3]Trocar alavancas (Esquerda/Direita)
 
@@ -262,36 +262,36 @@
 
 [IDS_SHELL_COMBAT_MODE]Modo de Combate
 [IDS_SHELL_FIRE_GUN]Atirar
-[IDS_SHELL_INVENTORY_WHEEL]Inventï¿½rio
+[IDS_SHELL_INVENTORY_WHEEL]Invent?rio
 [IDS_SHELL_WEAPON_WHEEL]Equipamentos
 [IDS_SHELL_HEAVY_ATTACK]Ataque Forte
 [IDS_SHELL_MAPS]Mapas
-[IDS_SHELL_LIGHT_ATTACK]Ataque Rï¿½pido
+[IDS_SHELL_LIGHT_ATTACK]Ataque R?pido
 [IDS_SHELL_DEFENSE]Defesa
-[IDS_SHELL_VERIFY_USE_DEFAULT]Tem certeza de que deseja restaurar tudo aos valores padrï¿½o?
-[IDS_SHELL_REMAP_HEAVY_ATTACK_MESSAGE]Aperte o botï¿½o que serï¿½ utilizado para "Ataque Forte".
-[IDS_SHELL_REMAP_LIGHT_ATTACK_MESSAGE]Aperte o botï¿½o que serï¿½ utilizado para "Ataque Rï¿½pido".
-[IDS_SHELL_REMAP_DEFENSE_MESSAGE]Aperte o botï¿½o que serï¿½ utilizado para "Defesa".
-[IDS_SHELL_REMAP_RELOAD_MESSAGE]Aperte o botï¿½o que serï¿½ utilizado para "Mapa".
+[IDS_SHELL_VERIFY_USE_DEFAULT]Tem certeza de que deseja restaurar tudo aos valores padr?o?
+[IDS_SHELL_REMAP_HEAVY_ATTACK_MESSAGE]Aperte o bot?o que ser? utilizado para "Ataque Forte".
+[IDS_SHELL_REMAP_LIGHT_ATTACK_MESSAGE]Aperte o bot?o que ser? utilizado para "Ataque R?pido".
+[IDS_SHELL_REMAP_DEFENSE_MESSAGE]Aperte o bot?o que ser? utilizado para "Defesa".
+[IDS_SHELL_REMAP_RELOAD_MESSAGE]Aperte o bot?o que ser? utilizado para "Mapa".
 
 
 ###PC CONTROLLER CONFIG MENU
 [IDS_SHELL_USE_MANDK]Usar Teclado e Mouse
 [IDS_SHELL_USE_JOYSTICK]Usar Controle
 [IDS_SHELL_MOVE_FORWARD]P/ Frente
-[IDS_SHELL_MOVE_BACK]P/ Trï¿½s
+[IDS_SHELL_MOVE_BACK]P/ Tr?s
 [IDS_SHELL_STRAFE_LEFT]Esquerda
 [IDS_SHELL_STRAFE_RIGHT]Direita
 [IDS_SHELL_USE]Usar
 [IDS_SHELL_TARGET]Mirar
-[IDS_SHELL_LIGHT_ATTACK]Ataque Rï¿½pido
+[IDS_SHELL_LIGHT_ATTACK]Ataque R?pido
 [IDS_SHELL_HEAVY_ATTACK]Ataque Forte
 [IDS_SHELL_RELOAD]Recarga
 [IDS_SHELL_DODGE]Esquiva
 [IDS_SHELL_FIRE]Atirar
 [IDS_SHELL_WEAPONS]Equipamentos
-[IDS_SHELL_INVENTORY]Inventï¿½rio
-[IDS_SHELL_LOOK]Olhar (1ï¿½ Pessoa)
+[IDS_SHELL_INVENTORY]Invent?rio
+[IDS_SHELL_LOOK]Olhar (1? Pessoa)
 [IDS_SHELL_FLASHLIGHT]Lanterna
 [IDS_SHELL_MAP]Mapa
 [IDS_SHELL_NEXT_WEAPON]Arma Seguinte
@@ -311,7 +311,7 @@
 [IDS_LSHIFT]Shift Esq.
 [IDS_RSHIFT]Shift Dir.
 [IDS_NUMPAD*]* (painel)
-[IDS_SPACE]Espaï¿½o
+[IDS_SPACE]Espa?o
 [IDS_NUMPAD7]7 (painel)
 [IDS_NUMPAD8]8 (painel)
 [IDS_NUMPAD9]9 (painel)
@@ -345,7 +345,7 @@
 [IDS_KEYBOARD]Teclado
 [IDS_MOUSE]Mouse
 [IDS_CONTROLLER]controle
-[IDS_BUTTON]Botï¿½o
+[IDS_BUTTON]Bot?o
 
 
 ### CB: These are not an IMS, I dont know why they have an IMS prefix
@@ -354,12 +354,12 @@
 [IDS_IMS_PUZZLE_SOLVED]Enigma resolvido.
 [IDS_IMS_TAKE]OBTER
 [IDS_IMS_EXAMINE]VERIFICAR
-[IDS_IMS_NEXT_INFOTRIGGER]PRï¿½XIMO
+[IDS_IMS_NEXT_INFOTRIGGER]PR?XIMO
 [IDS_IMS_EXIT_INFOTRIGGER]SAIR
-[IDS_IMS_NEXT]PRï¿½XIMO
+[IDS_IMS_NEXT]PR?XIMO
 [IDS_IMS_EXIT_CAPS]SAIR
 [IDS_IMS_RESET]RESTAURAR
-[IDS_IMS_ACTION]Aï¿½ï¿½O
+[IDS_IMS_ACTION]A??O
 [IDS_IMS_TALK]FALAR
 [IDS_IMS_ENTER]ENTRAR
 [IDS_IMS_SELECT]SELECIONAR
@@ -368,43 +368,43 @@
 
 ####LOADING SCREEN TIPS
 
-[IDS_LOADING_TIP_COMBAT_1]Para esquivar de um ataque, perceba o tempo do ataque inimigo e aperte o botï¿½o <COMMAND_JUMP> (esquiva).
-[IDS_LOADING_TIP_COMBAT_2]Depois de esquivar com sucesso, vocï¿½ pode contra-atacar com qualquer botï¿½o de ataque.
+[IDS_LOADING_TIP_COMBAT_1]Para esquivar de um ataque, perceba o tempo do ataque inimigo e aperte o bot?o <COMMAND_JUMP> (esquiva).
+[IDS_LOADING_TIP_COMBAT_2]Depois de esquivar com sucesso, voc? pode contra-atacar com qualquer bot?o de ataque.
 [IDS_LOADING_TIP_COMBAT_3]Inimigos atordoados podem ser finalizados com um Ataque Forte.
-[IDS_LOADING_TIP_COMBAT_4]Ataques Rï¿½pidos nï¿½o atordoam inimigos, Ataques Fortes e Contra-Ataques sim.
-[IDS_LOADING_TIP_COMBAT_5]Quando for derrubado, aperte o botï¿½o <COMMAND_JUMP> (esquiva) no tempo certo para se levantar rapidamente. (Perceba a poeira para ajudar)
-[IDS_LOADING_TIP_COMBAT_6]Inimigos sï¿½o fortemente atraidos pela luz da lanterna. Desligar ela em certos momentos PODE te ajudar a evitar conflitos...
+[IDS_LOADING_TIP_COMBAT_4]Ataques R?pidos n?o atordoam inimigos, Ataques Fortes e Contra-Ataques sim.
+[IDS_LOADING_TIP_COMBAT_5]Quando for derrubado, aperte o bot?o <COMMAND_JUMP> (esquiva) no tempo certo para se levantar rapidamente. (Perceba a poeira para ajudar)
+[IDS_LOADING_TIP_COMBAT_6]Inimigos s?o fortemente atraidos pela luz da lanterna. Desligar ela em certos momentos PODE te ajudar a evitar conflitos...
 
-[IDS_LOADING_TIP_SMOG_1]O ponto fraco do Smog sï¿½o os pulmï¿½es, vocï¿½ pode esperar eles ficarem expostos para executar um ataque de grande impacto.
-[IDS_LOADING_TIP_SMOG_2]A fumaï¿½a tï¿½xica do Smog faz com que Alex fique atordoado e leve dano, entï¿½o mantenha a distï¿½ncia.
+[IDS_LOADING_TIP_SMOG_1]O ponto fraco do Smog s?o os pulm?es, voc? pode esperar eles ficarem expostos para executar um ataque de grande impacto.
+[IDS_LOADING_TIP_SMOG_2]A fuma?a t?xica do Smog faz com que Alex fique atordoado e leve dano, ent?o mantenha a dist?ncia.
 
-[IDS_LOADING_TIP_SIAM_1]O lado feminino da Siam ï¿½ o mais vulnerï¿½vel. Ataque pelas costas para garantir mais dano.
-[IDS_LOADING_TIP_SIAM_2]Siam vai tentar te esmagar se te derrubar, entï¿½o levante-se rï¿½pido apertando "esquiva".
+[IDS_LOADING_TIP_SIAM_1]O lado feminino da Siam ? o mais vulner?vel. Ataque pelas costas para garantir mais dano.
+[IDS_LOADING_TIP_SIAM_2]Siam vai tentar te esmagar se te derrubar, ent?o levante-se r?pido apertando "esquiva".
 
 [IDS_LOADING_TIP_NEEDLER_1]O Needler pode bloquear ataques frontais (incluindo tiros). Ataque pelo lado para garantir a efetividade dos ataques.
-[IDS_LOADING_TIP_NEEDLER_2]Quando o Needler vai para o teto, um ataque ï¿½ certo. Prepare-se para esquivar!
-[IDS_LOADING_TIP_NEEDLER_3]Um tiro na cabeï¿½a ï¿½ o melhor - e mais seguro - meio de se livrar de um Needler.
+[IDS_LOADING_TIP_NEEDLER_2]Quando o Needler vai para o teto, um ataque ? certo. Prepare-se para esquivar!
+[IDS_LOADING_TIP_NEEDLER_3]Um tiro na cabe?a ? o melhor - e mais seguro - meio de se livrar de um Needler.
 
-[IDS_LOADING_TIP_LURKER_1]A cabeï¿½a do Lurker ï¿½ seu ponto fraco. Ela ï¿½ altamente sucetivel a ataques fortes.
-[IDS_LOADING_TIP_LURKER_2]Tome cuidado ao entrar em partes com muita ï¿½gua. Toda movimentaï¿½ï¿½o na ï¿½gua pode ser um Lurker aguardando por vocï¿½...
+[IDS_LOADING_TIP_LURKER_1]A cabe?a do Lurker ? seu ponto fraco. Ela ? altamente sucetivel a ataques fortes.
+[IDS_LOADING_TIP_LURKER_2]Tome cuidado ao entrar em partes com muita ?gua. Toda movimenta??o na ?gua pode ser um Lurker aguardando por voc?...
 
-[IDS_LOADING_TIP_SCHISM_1]Ataques do Schism podem te derrubar facilmente, entï¿½o mantenha a distï¿½ncia e ataque rï¿½pido.
-[IDS_LOADING_TIP_SCHISM_2]O Schism irï¿½ tomar impulso antes de avanï¿½ar em vocï¿½. Prepare-se para esquivar quando perceber o recuo.
+[IDS_LOADING_TIP_SCHISM_1]Ataques do Schism podem te derrubar facilmente, ent?o mantenha a dist?ncia e ataque r?pido.
+[IDS_LOADING_TIP_SCHISM_2]O Schism ir? tomar impulso antes de avan?ar em voc?. Prepare-se para esquivar quando perceber o recuo.
 
 [IDS_LOADING_TIP_ORDER_1]Os Soldados da Ordem que utilizam canos podem esquivar dos ataques, ent?o ataque r?pido e n?o d? brecha!
 
-[IDS_LOADING_TIP_FERAL_1]Quando um Feral pula antes de girar, significa que ele est? prestes a pegar fï¿½lego. Esquive e contra-ataque para um atordoamento garantido.
-[IDS_LOADING_TIP_FERAL_2]Atirar no Feral quando ele estï¿½ correndo vai fazer com que ele fique atordoado. ï¿½ o momento perfeito para um golpe fatal.
-[IDS_LOADING_TIP_FERAL_3]Armas rï¿½pidas como a Faca ou o Cano sï¿½o especialmente efetivas contra um Feral.
+[IDS_LOADING_TIP_FERAL_1]Quando um Feral pula antes de girar, significa que ele est? prestes a pegar f?lego. Esquive e contra-ataque para um atordoamento garantido.
+[IDS_LOADING_TIP_FERAL_2]Atirar no Feral quando ele est? correndo vai fazer com que ele fique atordoado. ? o momento perfeito para um golpe fatal.
+[IDS_LOADING_TIP_FERAL_3]Armas r?pidas como a Faca ou o Cano s?o especialmente efetivas contra um Feral.
 
-[IDS_LOADING_TIP_SWARM_1]Quando um Inseto se prende a vocï¿½, sua vida serï¿½ drenada. Aperte <COMMAND_JUMP> (esquiva) para se livrar deles.
-[IDS_LOADING_TIP_SWARM_2]Os Insetos as vezes param no ar ou no chï¿½o antes de atacar, este ï¿½ o momento perfeito para destruï¿½-los.
+[IDS_LOADING_TIP_SWARM_1]Quando um Inseto se prende a voc?, sua vida ser? drenada. Aperte <COMMAND_JUMP> (esquiva) para se livrar deles.
+[IDS_LOADING_TIP_SWARM_2]Os Insetos as vezes param no ar ou no ch?o antes de atacar, este ? o momento perfeito para destru?-los.
 
-[IDS_LOADING_TIP_SEPULCHER_1]Destruir cada saco de carne do Sepulcro vai fazer com que ele caia no chï¿½o atordoado e vulnerï¿½vel.
-[IDS_LOADING_TIP_SEPULCHER_2]Quando o Sepulcro estï¿½ atacando do chï¿½o, se vocï¿½ acertar seus braï¿½os, seu corpo ficarï¿½ exposto para receber ataques adicionais.
+[IDS_LOADING_TIP_SEPULCHER_1]Destruir cada saco de carne do Sepulcro vai fazer com que ele caia no ch?o atordoado e vulner?vel.
+[IDS_LOADING_TIP_SEPULCHER_2]Quando o Sepulcro est? atacando do ch?o, se voc? acertar seus bra?os, seu corpo ficar? exposto para receber ataques adicionais.
 
-[IDS_LOADING_TIP_SCARLET_1]Quebrar a armadura de porcelana da Scarlet vai deixï¿½-la atordoada. Comece pelas pernas ou tronco.
-[IDS_LOADING_TIP_SCARLET_2]Voc? deve quebrar TODAS as partes da armadura da Scarlet antes de poder finalizï¿½-la pelas costas.
+[IDS_LOADING_TIP_SCARLET_1]Quebrar a armadura de porcelana da Scarlet vai deix?-la atordoada. Comece pelas pernas ou tronco.
+[IDS_LOADING_TIP_SCARLET_2]Voc? deve quebrar TODAS as partes da armadura da Scarlet antes de poder finaliz?-la pelas costas.
 
 [IDS_LOADING_TIP_AMNION_1]The best way to get inside Amnion's attacks is to approach from the side.  If you can't get close enough, hitting her legs will eventually knock her down.
 [IDS_LOADING_TIP_AMNION_2]When Amnion rises up to shower the areas with acidic spittle, your best bet for avoiding damage is to get beneath her.
@@ -422,7 +422,7 @@
 [IDS_SHELL_CONTROLLER_CONNECT_PS3]Por favor, conecte o Controle Sem-Fio.
 [IDS_SHELL_CONTROLLER_CONNECT_XBOX360]Por favor, conecte um controle em quaisquer das portas e aperte START para continuar.
 
-[IDS_SHELL_PLAYER_SIGNED_OUT]Uma mudanï¿½a de credenciais ocorreu. Vocï¿½ serï¿½ mandado de volta para o Menu Principal.
+[IDS_SHELL_PLAYER_SIGNED_OUT]Uma mudan?a de credenciais ocorreu. Voc? ser? mandado de volta para o Menu Principal.
 
 ### MEMORY CARD MESSAGES
 [IDS_SHELL_MEMORY_CARD_REMOVED]Memory card (PS3) not inserted in MEMORY CARD slot 1. Please reinsert the memory card (PS3) into MEMORY CARD slot 1 and try again.
@@ -467,28 +467,28 @@
 ###PICKUPS
 [IDS_PICKUP_TAKE]<COMMAND_KICK> Obter
 [IDS_PICKUP_USE]<COMMAND_KICK> Usar
-[IDS_PICKUP_CANT_CARRY_ANY_MORE] Sem espaï¿½o para carregar mais disso.
+[IDS_PICKUP_CANT_CARRY_ANY_MORE] Sem espa?o para carregar mais disso.
 [IDS_PICKUP_DEFAULT]Obtive o Item.
 [IDS_PICKUP_BUNNY1]Obtive o Coelhinho.
-[IDS_PICKUP_DRAWING]Obtive um <COLOR,155,240,155>Desenho de Crianï¿½a<CLEARCOLOR>.
-[IDS_PICKUP_PILL_BOTTLE_GOT]Obtive um <COLOR,0,0,255>Remï¿½dio para Dor<CLEARCOLOR>.
+[IDS_PICKUP_DRAWING]Obtive um <COLOR,155,240,155>Desenho de Crian?a<CLEARCOLOR>.
+[IDS_PICKUP_PILL_BOTTLE_GOT]Obtive um <COLOR,0,0,255>Rem?dio para Dor<CLEARCOLOR>.
 [IDS_PICKUP_SUTURE_KIT_GOT]Obtive um <COLOR,0,0,255>Kit de Sutura<CLEARCOLOR>.
 [IDS_PICKUP_XRAYPLATE_GOT]Obtive uma <COLOR,0,0,255>Parte de Raio-X<CLEARCOLOR>.
 
 [IDS_PICKUP_HEALTHDRINK]Revigorante
-[IDS_PICKUP_HEALTHDRINK_DESC]O rï¿½tulo diz: "...Estï¿½ cheio de nutrientes para garantir uma saï¿½de melhor"
+[IDS_PICKUP_HEALTHDRINK_DESC]O r?tulo diz: "...Est? cheio de nutrientes para garantir uma sa?de melhor"
 [IDS_PICKUP_HEALTHDRINK_GOT]Obtive um <COLOR,155,255,155>Revigorante<CLEARCOLOR>.
 
 [IDS_PICKUP_FIRSTAID]Kit de Primeiros Socorros
 [IDS_PICKUP_FIRSTAID_DESC]Eu posso recuperar ferimentos grandes com isso...
 [IDS_PICKUP_FIRSTAID_GOT]Obtive um <COLOR,155,255,155>Kit de Primeiros Socorros<CLEARCOLOR>.
 
-[IDS_PICKUP_SERUM]Droga Injetï¿½vel
-[IDS_PICKUP_SERUM_DESC]Uma droga experimentoal que vai melhorar minha saï¿½de... Eu espero...
-[IDS_PICKUP_SERUM_GOT]Obtive uma <COLOR,155,255,155>Droga Injetï¿½vel<CLEARCOLOR>.
+[IDS_PICKUP_SERUM]Droga Injet?vel
+[IDS_PICKUP_SERUM_DESC]Uma droga experimentoal que vai melhorar minha sa?de... Eu espero...
+[IDS_PICKUP_SERUM_GOT]Obtive uma <COLOR,155,255,155>Droga Injet?vel<CLEARCOLOR>.
 
 [IDS_PICKUP_KNIFE]Faca de Combate
-[IDS_PICKUP_KNIFE_DESC]Estï¿½ um pouco enferrujada e desamolada, mas ainda da conta.
+[IDS_PICKUP_KNIFE_DESC]Est? um pouco enferrujada e desamolada, mas ainda da conta.
 [IDS_PICKUP_KNIFE_PICKUP]Obtive uma <COLOR,155,255,155>Faca de Combate<CLEARCOLOR>.
 
 [IDS_PICKUP_CEREMONIAL_DAGGER]Adaga Cerimonial
@@ -532,44 +532,44 @@
 [IDS_PICKUP_SHOTGUN_PICKUP]I got a <COLOR,155,255,155>12 Gauge Shotgun<CLEARCOLOR>.
 
 [IDS_PICKUP_LASER_PISTOL]Pistola Laser
-[IDS_PICKUP_LASER_PISTOL_DESC]Small but very effective.  Where did this come from?  Did aliens leave it here? ï¿½ pequena mas MUITO efetiva. De onde veio isso? Serï¿½ que os Aliens deixaram ela aqui?
+[IDS_PICKUP_LASER_PISTOL_DESC]Small but very effective.  Where did this come from?  Did aliens leave it here? ? pequena mas MUITO efetiva. De onde veio isso? Ser? que os Aliens deixaram ela aqui?
 [IDS_PICKUP_LASER_PISTOL_PICKUP]Obtive uma <COLOR,155,255,155>Pistola Laser<CLEARCOLOR>.
 
 [IDS_PICKUP_REVOLVER]Revolver Antigo
-[IDS_PICKUP_REVOLVER_DESC]Obtive com a minha mï¿½e... O cilindro estï¿½ enferrujado e nï¿½o gira. Seria uma arma muito boa, se fosse reparada...
+[IDS_PICKUP_REVOLVER_DESC]Obtive com a minha m?e... O cilindro est? enferrujado e n?o gira. Seria uma arma muito boa, se fosse reparada...
 [IDS_PICKUP_REVOLVER_GOT]Obtive um <COLOR,155,255,155>Revolver Antigo<CLEARCOLOR>.
 
-[IDS_PICKUP_PISTOL_AMMO]Caixa de Muniï¿½ï¿½o de Pistola
+[IDS_PICKUP_PISTOL_AMMO]Caixa de Muni??o de Pistola
 [IDS_PICKUP_PISTOL_AMMO_DESC]Balas de 9mm para utilizar na pistola.
-[IDS_PICKUP_PISTOL_AMMO_GOT]Obtive algumas <COLOR,155,255,155>Muniï¿½ï¿½es de Pistola<CLEARCOLOR>.
+[IDS_PICKUP_PISTOL_AMMO_GOT]Obtive algumas <COLOR,155,255,155>Muni??es de Pistola<CLEARCOLOR>.
 [IDS_PICKUP_PISTOLUPGRADE]Pistola Cromada.
-[IDS_PICKUP_PISTOLUPGRADE_AMMO_DESC]Tem dano aumentado e suporta mais muniï¿½ï¿½o do que qualquer pistola comum.
+[IDS_PICKUP_PISTOLUPGRADE_AMMO_DESC]Tem dano aumentado e suporta mais muni??o do que qualquer pistola comum.
 [IDS_PICKUP_PISTOLUPGRADE_AMMO_GOT]Obtive uma<COLOR,155,255,155>Pistola Cromada<CLEARCOLOR>.
 
-[IDS_PICKUP_SHOTGUN_AMMO]Caixa de Muniï¿½ï¿½o de Escopeta
+[IDS_PICKUP_SHOTGUN_AMMO]Caixa de Muni??o de Escopeta
 [IDS_PICKUP_SHOTGUN_AMMO_DESC]12 gauge buckshot for use in a shotgun.
-[IDS_PICKUP_SHOTGUN_AMMO_GOT]Obtive algumas <COLOR,155,255,155>Muniï¿½ï¿½es de Escopeta<CLEARCOLOR>.
+[IDS_PICKUP_SHOTGUN_AMMO_GOT]Obtive algumas <COLOR,155,255,155>Muni??es de Escopeta<CLEARCOLOR>.
 [IDS_PICKUP_SHOTGUNUPGRADE]A 'BlueSteel' Shotgun.
 [IDS_PICKUP_SHOTGUNUPGRADE_AMMO_DESC]Has increased damage and holds more ammunition over the regular Shotgun.
 [IDS_PICKUP_SHOTGUNUPGRADE_AMMO_GOT]I got <COLOR,155,255,155>the 'BlueSteel' Shotgun<CLEARCOLOR>.
 
-[IDS_PICKUP_RIFLE_AMMO]Caixa de Muniï¿½ï¿½o de Rifle
-[IDS_PICKUP_RIFLE_AMMO_DESC]Muniï¿½ï¿½o .308 Winchester, utilizadas em Rifles de Caï¿½a.
+[IDS_PICKUP_RIFLE_AMMO]Caixa de Muni??o de Rifle
+[IDS_PICKUP_RIFLE_AMMO_DESC]Muni??o .308 Winchester, utilizadas em Rifles de Ca?a.
 [IDS_PICKUP_RIFLE_AMMO_GOT]I got <COLOR,155,255,155>Rifle Ammunition <CLEARCOLOR>.
 [IDS_PICKUP_RIFLEUPGRADE]A Police Marksman Rifle.
 [IDS_PICKUP_RIFLEUPGRADE_AMMO_DESC]Has increased damage and holds more ammunition over the regular rifle.
 [IDS_PICKUP_RIFLEUPGRADE_AMMO_GOT]I got <COLOR,155,255,155>a Police Marksman Rifle<CLEARCOLOR>.
 
 [IDS_PICKUP_WALKIETALKIE]Walkie Talkie
-[IDS_PICKUP_WALKIETALKIE_DESC]Utilizado para comunicaï¿½ï¿½o.
+[IDS_PICKUP_WALKIETALKIE_DESC]Utilizado para comunica??o.
 [IDS_PICKUP_WALKIETALKIE_GOT]Obtive um <COLOR,155,255,155>Walkie Talkie<CLEARCOLOR>.
 
-[IDS_PICKUP_WEAPONS_CABINET_KEY]Chave do Armï¿½rio de Armas
+[IDS_PICKUP_WEAPONS_CABINET_KEY]Chave do Arm?rio de Armas
 [IDS_PICKUP_WEAPONS_CABINET_KEY_DESC]Essa chave foi beeeeem utilizada...
 [IDS_PICKUP_WEAPONS_XRAYPLATE1]Filme de Raio-X (A)
-[IDS_PICKUP_WEAPONS_XRAYPLATE1_DESC]Tem algo a mais nesse filme, mas eu ainda nï¿½o entendi...
+[IDS_PICKUP_WEAPONS_XRAYPLATE1_DESC]Tem algo a mais nesse filme, mas eu ainda n?o entendi...
 [IDS_PICKUP_WEAPONS_XRAYPLATE2]Filme de Raio-X (B)
-[IDS_PICKUP_WEAPONS_XRAYPLATE2_DESC]Tem algo a mais nesse filme, mas ï¿½ difï¿½cil de ler...
+[IDS_PICKUP_WEAPONS_XRAYPLATE2_DESC]Tem algo a mais nesse filme, mas ? dif?cil de ler...
 
 [IDS_PICKUP_FLASHLIGHT]Lanterna
 [IDS_PICKUP_FLASHLIGHT_DESC]Eu dei isso pro Joshua tem tanto tempo...
@@ -577,19 +577,19 @@
 
 
 ###Level Pickups
-[IDS_PICKUP_OLD_BIBLE1]Uma bï¿½blia antiga.
-[IDS_PICKUP_OLD_BIBLE1_DESC]Esta bï¿½blia estï¿½ rasgada e gasta.
-[IDS_PICKUP_OLD_BIBLE1]Uma bï¿½blia antiga.
-[IDS_PICKUP_OLD_BIBLE1_DESC]Essa bï¿½blia parece antiga.
-[IDS_PICKUP_M01_BUNNY]Coelhinho de Pelï¿½cia
-[IDS_PICKUP_M01_BUNNY_DESC]ï¿½ o brinquedo favorito do Joshua.
+[IDS_PICKUP_OLD_BIBLE1]Uma b?blia antiga.
+[IDS_PICKUP_OLD_BIBLE1_DESC]Esta b?blia est? rasgada e gasta.
+[IDS_PICKUP_OLD_BIBLE1]Uma b?blia antiga.
+[IDS_PICKUP_OLD_BIBLE1_DESC]Essa b?blia parece antiga.
+[IDS_PICKUP_M01_BUNNY]Coelhinho de Pel?cia
+[IDS_PICKUP_M01_BUNNY_DESC]? o brinquedo favorito do Joshua.
 
 [IDS_PICKUP_M02_GASCAN]Tanque de Gasolina (vazio)
 [IDS_PICKUP_M02_GASCAN_DESC]Um tanque de gasolina vazio.
 [IDS_PICKUP_M02_GASCAN_GOT]Obtive um <COLOR,155,255,155>Tanque de Gasolina (vazio)<CLEARCOLOR>.
 
 [IDS_PICKUP_M02_GASCAN_FULL]Tanque de Gasolina (cheio)
-[IDS_PICKUP_M02_GASCAN_FULL_DESC]O tanque agora estï¿½ cheio com a gasolina que tirei daquele caminhï¿½o.
+[IDS_PICKUP_M02_GASCAN_FULL_DESC]O tanque agora est? cheio com a gasolina que tirei daquele caminh?o.
 [IDS_PICKUP_M02_GASCAN_FULL_GOT]Obtive um <COLOR,155,255,155>Tanque de Gasolina (cheio)<CLEARCOLOR>.
 [IDS_PICKUP_M02_GASCAN_FULL_USE]Usei o <COLOR,155,255,155>Tanque de Gasolina<CLEARCOLOR>.
 
@@ -630,10 +630,10 @@
 [IDS_PICKUP_M04_JUNKYARD_MAP_DESC]A map of the Junkyard.
 [IDS_PICKUP_M04_JUNKYARD_MAP_GOT]I got the <COLOR,155,255,155>Junkyard Map<CLEARCOLOR>.
 
-[IDS_PICKUP_M05_MAINTENANCEKEY]Chave da Equipe de Manutenï¿½ï¿½o
-[IDS_PICKUP_M05_MAINTENANCEKEY_DESC]Chave utilizada pela equipe de manutenï¿½ï¿½o para acessar ï¿½reas dentro e fora do hotel.
-[IDS_PICKUP_M05_MAINTENANCEKEY_GOT]Obtive a <COLOR,155,255,155>Chave da Equipe de Manutenï¿½ï¿½o<CLEARCOLOR>.
-[IDS_PICKUP_M05_MAINTENANCEKEY_USED]Usei a <COLOR,155,255,155>Chave da Equipe de Manutenï¿½ï¿½o<CLEARCOLOR>.
+[IDS_PICKUP_M05_MAINTENANCEKEY]Chave da Equipe de Manuten??o
+[IDS_PICKUP_M05_MAINTENANCEKEY_DESC]Chave utilizada pela equipe de manuten??o para acessar ?reas dentro e fora do hotel.
+[IDS_PICKUP_M05_MAINTENANCEKEY_GOT]Obtive a <COLOR,155,255,155>Chave da Equipe de Manuten??o<CLEARCOLOR>.
+[IDS_PICKUP_M05_MAINTENANCEKEY_USED]Usei a <COLOR,155,255,155>Chave da Equipe de Manuten??o<CLEARCOLOR>.
 [IDS_PICKUP_M05_DOORPIECE_1]Toluca Lake Postcard
 [IDS_PICKUP_M05_DOORPIECE_1_DESC]A postcard from Toluca Lake.
 [IDS_PICKUP_M05_DOORPIECE_1_GOT]I got the <COLOR,155,255,155>Toluca Lake Postcard<CLEARCOLOR>.
@@ -842,7 +842,7 @@
 [IDS_CROUCH_UNDER] <COMMAND_KICK> Passar
 [IDS_PULL]<COMMAND_KICK> Puxar
 [IDS_ROTATE]<COMMAND_KICK> Girar
-[IDS_BUNNY_HOLE_IMS]<COMMAND_KICK> Alcanï¿½ar
+[IDS_BUNNY_HOLE_IMS]<COMMAND_KICK> Alcan?ar
 [IDS_VAULT_OVER]<COMMAND_KICK> Pular
 [IDS_JUMP_ACROSS]<COMMAND_KICK> Pular
 [IDS_CLIMB_UP] <COMMAND_KICK> Subir
@@ -855,39 +855,39 @@
 
 ### IMS Gating ###
 [IDS_DOOR_EQUIPPED]<COMMAND_KICK> Destrancar
-[IDS_DOOR_NOT_EQUIPPED] Nï¿½o da pra arrombar essa porta com este equipamento.
-[IDS_DOOR_MISSING] Estï¿½ trancada. Preciso de uma chave para abrir.
-[IDS_DOOR_UNLOCKED] A porta estï¿½ destrancada.
+[IDS_DOOR_NOT_EQUIPPED] N?o da pra arrombar essa porta com este equipamento.
+[IDS_DOOR_MISSING] Est? trancada. Preciso de uma chave para abrir.
+[IDS_DOOR_UNLOCKED] A porta est? destrancada.
 
 [IDS_CEREMONIAL_DAGGER_UNLOCK] <COMMAND_KICK> Abrir
 [IDS_CEREMONIAL_DAGGER_MISSING] I need a special weapon to unlock this door.
 [IDS_CEREMONIAL_DAGGER_NOT_EQUIPPED] I can't open this door with this weapon.
 
 [IDS_PRY_EQUIPPED]<COMMAND_KICK> Arrombar
-[IDS_PRY_NOT_EQUIPPED]Nï¿½o da pra arrombar isso com esse equipamento.
+[IDS_PRY_NOT_EQUIPPED]N?o da pra arrombar isso com esse equipamento.
 [IDS_PRY_MISSING]Preciso achar algo para arrombar isso...
 
 [IDS_HACK_EQUIPPED]<COMMAND_KICK> Cortar
-[IDS_HACK_NOT_EQUIPPED] Eu preciso de um equipamento diferente para cortar essas tï¿½buas...
-[IDS_HACK_MISSING] Eu preciso de algo para cortar essas tï¿½buas...
+[IDS_HACK_NOT_EQUIPPED] Eu preciso de um equipamento diferente para cortar essas t?buas...
+[IDS_HACK_MISSING] Eu preciso de algo para cortar essas t?buas...
 
 [IDS_BREACH_EQUIPPED]<COMMAND_KICK> Quebrar
-[IDS_BREACH_NOT_EQUIPPED] Nï¿½o da pra quebrar isso com este equipamento.
+[IDS_BREACH_NOT_EQUIPPED] N?o da pra quebrar isso com este equipamento.
 [IDS_BREACH_MISSING]Eu poderia quebrar esses tijolos com o equipamento certo.
 
 [IDS_BREAK_EQUIPPED]<COMMAND_KICK> Quebrar
-[IDS_BREAK_NOT_EQUIPPED] Nï¿½o da pra quebrar isso com este equipamento.
-[IDS_BREAK_MISSING] Eu poderia quebrar essa vidraï¿½a com o equipamento certo.
+[IDS_BREAK_NOT_EQUIPPED] N?o da pra quebrar isso com este equipamento.
+[IDS_BREAK_MISSING] Eu poderia quebrar essa vidra?a com o equipamento certo.
 
 [IDS_CUT_EQUIPPED]<COMMAND_KICK> Cortar
-[IDS_CUT_NOT_EQUIPPED] Esse equipamento nï¿½o pode cortar isso...
+[IDS_CUT_NOT_EQUIPPED] Esse equipamento n?o pode cortar isso...
 [IDS_CUT_MISSING] Eu preciso de algo afiado para cortar isso...
 
 [M01_Interest_87_Flesh_Wall]Isso parece... Carne Humana...
-[M01_Interest_88_Flesh_Wall]Essa parede estï¿½ se mexendo?! O que ï¿½ isso?
+[M01_Interest_88_Flesh_Wall]Essa parede est? se mexendo?! O que ? isso?
 [M01_Interest_89_Flesh_Wall]Como eu posso passar por isso?
 [M01_Interest_90_Flesh_Wall]Acho que posso cortar isso...
-[M01_Interest_92_Flesh_Wall_without_Knife]Seja lï¿½ o que for, estï¿½ bloqueando meu caminho...
+[M01_Interest_92_Flesh_Wall_without_Knife]Seja l? o que for, est? bloqueando meu caminho...
 [M01_Interest_94_Flesh_Wall_without_Knife]Talvez eu poossa cortar isso com uma faca...
 
 ### Investigation ###
@@ -895,7 +895,7 @@
 [IDS_INVESTIGATION_INVITE_INSPECT]<COMMAND_KICK> Investigar   <COMMAND_JUMP> Voltar
 [IDS_INVESTIGATION_INVITE_EXAMINE]<COMMAND_KICK> Investigar   <COMMAND_JUMP> Voltar
 [IDS_INVESTIGATION_INVITE_MOVE]<COMMAND_KICK> Mover   <COMMAND_JUMP> Voltar
-[IDS_INVESTIGATION_INVITE_INVENTORY]<INVENTORY_WHEEL>/<COMMAND_KICK> Inventï¿½rio   <COMMAND_JUMP> Voltar
+[IDS_INVESTIGATION_INVITE_INVENTORY]<INVENTORY_WHEEL>/<COMMAND_KICK> Invent?rio   <COMMAND_JUMP> Voltar
 [IDS_INVESTIGATION_INVITE_PLACE]<COMMAND_KICK> Colocar   <COMMAND_JUMP> Voltar
 [IDS_INVESTIGATION_INVITE_ROT_LOCK]<COMMAND_MOVEMENT> Girar   <COMMAND_JUMP> Voltar
 [IDS_INVESTIGATION_INVITE_WOF_CLOCK]<COMMAND_LEFT_STICK_LEFTRIGHT> Select    <COMMAND_LEFT_STICK_UPDOWN> Rotate   <COMMAND_JUMP> Back
@@ -952,23 +952,23 @@
 
 # Impassible Doors or Areas #
 
-[M00_Lock1]Estï¿½ trancado.
-[M00_Lock2]A maï¿½aneta ta completamente quebrada.\nNï¿½o tem como abrir.
-[M00_Lock2b]A maï¿½aneta estï¿½ quebrada. \nNï¿½o da pra abrir a porta.
-[M00_Lock3]Isso nï¿½o abre daqui, talvez tenha outro caminho...
-[M00_Lock4]Estï¿½ bloqueada...
-[M00_Lock5]Estï¿½ emperrada...
-[M00_Lock6]Estï¿½ completamente travada.
+[M00_Lock1]Est? trancado.
+[M00_Lock2]A ma?aneta ta completamente quebrada.\nN?o tem como abrir.
+[M00_Lock2b]A ma?aneta est? quebrada. \nN?o da pra abrir a porta.
+[M00_Lock3]Isso n?o abre daqui, talvez tenha outro caminho...
+[M00_Lock4]Est? bloqueada...
+[M00_Lock5]Est? emperrada...
+[M00_Lock6]Est? completamente travada.
 [M00_Lock7]tenho que achar outro caminho...
-[M00_Lock8]Isso aqui nï¿½o vai abrir...
+[M00_Lock8]Isso aqui n?o vai abrir...
 [M00_Lock9]Trancado.
 [M00_Lock10]Bloqueado.
 [M00_Lock11]Emperrado.
-[M00_Lock12]Estï¿½ trancado... Perda de tempo.
-[M00_Lock13]Se estï¿½ bloqueado, existe um motivo...
+[M00_Lock12]Est? trancado... Perda de tempo.
+[M00_Lock13]Se est? bloqueado, existe um motivo...
 [M00_Lock14]Caminho errado...
-[M00_Lock15]Deixa pra lï¿½...
-[M00_Lock16]Droga... \nMesmo forï¿½ando, isso nem se mexe...
+[M00_Lock15]Deixa pra l?...
+[M00_Lock16]Droga... \nMesmo for?ando, isso nem se mexe...
 
 # Temporarily Blocked #
 
@@ -979,25 +979,25 @@
 [M00_Temp_Block5]I'll try this later.
 [M00_Temp_Block6]It's locked. I don't have the key.
 [M00_Temp_Block7]It's locked. I need the correct code.
-[M00_Temp_NotSafe]ï¿½ melhor nï¿½o... Nï¿½o ï¿½ seguro...
+[M00_Temp_NotSafe]? melhor n?o... N?o ? seguro...
 
-[M00_Keypad_1]O cï¿½digo estï¿½ incorreto...
-[M00_Keypad_2]Nï¿½o parece ter funcionado...
-[M00_Keypad_3]Eu devo ter errado os nï¿½meros...
+[M00_Keypad_1]O c?digo est? incorreto...
+[M00_Keypad_2]N?o parece ter funcionado...
+[M00_Keypad_3]Eu devo ter errado os n?meros...
 
-[M00_BreakGlass_01]O vidro estï¿½ trincado...\nQuebraria facilmente com um golpe...
+[M00_BreakGlass_01]O vidro est? trincado...\nQuebraria facilmente com um golpe...
 
-[M00_QuickInventory_01]<COMMAND_KICK> Investigar   <INVENTORY_WHEEL> Inventï¿½rio
-[M00_QuickInventory_02]<COMMAND_KICK> Abrir   <INVENTORY_WHEEL> Inventï¿½rio
+[M00_QuickInventory_01]<COMMAND_KICK> Investigar   <INVENTORY_WHEEL> Invent?rio
+[M00_QuickInventory_02]<COMMAND_KICK> Abrir   <INVENTORY_WHEEL> Invent?rio
 
 
 # Generic Messages #
 
-[M00_FashionMag]Uma revista de moda. Nï¿½o estou interessado nisso agora...
-[M00_AwfulSmell]Eu nï¿½o quero olhar dentro disso... Algo cheira muito mal...
-[M00_RustyDrawers_1]Essas gavetas estï¿½o enferrujadas, entï¿½o nem vï¿½o se mexer...
+[M00_FashionMag]Uma revista de moda. N?o estou interessado nisso agora...
+[M00_AwfulSmell]Eu n?o quero olhar dentro disso... Algo cheira muito mal...
+[M00_RustyDrawers_1]Essas gavetas est?o enferrujadas, ent?o nem v?o se mexer...
 [M00_RustyDrawers_2]Isso deve estar enferrujado ou coisa assim... Nem da pra puxar.
-[M00_HandWritten]ï¿½ uma mensagem manuscrita:
+[M00_HandWritten]? uma mensagem manuscrita:
 
 ### M01_Nightmare ###
 
@@ -1025,17 +1025,17 @@
 [XRAY_RESPONSE_02]Deixar ai
 
 
-[HOLE_TOPIC_01]Colocar o braï¿½o na abertura?
+[HOLE_TOPIC_01]Colocar o bra?o na abertura?
 [HOLE_RESPONSE_01]Pegar Robbie
 [HOLE_RESPONSE_02]Deixar ai
 
 
 ### M01 Pickups ###
 
-[M01_TheaterKey_TITLE]Chave da Sala de Operaï¿½ï¿½es
-[M01_TheaterKey_DESC]Estï¿½ escrito no chaveiro: <COLOR,195,188,228>Sala de Operaï¿½ï¿½es<CLEARCOLOR>.
-[M01_TheaterKey_GOT]Obtive a <COLOR,155,240,155>Chave da Sala de Operaï¿½ï¿½es<CLEARCOLOR>.
-[M01_TheaterKey_USED]Usei a <COLOR,155,240,155>Chave da Sala de Operaï¿½ï¿½es<CLEARCOLOR>.
+[M01_TheaterKey_TITLE]Chave da Sala de Opera??es
+[M01_TheaterKey_DESC]Est? escrito no chaveiro: <COLOR,195,188,228>Sala de Opera??es<CLEARCOLOR>.
+[M01_TheaterKey_GOT]Obtive a <COLOR,155,240,155>Chave da Sala de Opera??es<CLEARCOLOR>.
+[M01_TheaterKey_USED]Usei a <COLOR,155,240,155>Chave da Sala de Opera??es<CLEARCOLOR>.
 
 [M01_XRAY2_TITLE]Filme de Raio-X
 [M01_XRAY2_DESC]Uma chapa (filme) de Raio-X do peito de um paciente.
@@ -1043,50 +1043,50 @@
 [M01_XRAY2_USED]Usou o <COLOR,155,240,155>Filme de Raio-X<CLEARCOLOR>.
 
 [M01_StuffedBunny_TITLE]Robbie
-[M01_StuffedBunny_DESC]Estï¿½ escrito na etiqueta 'Parque de Diversï¿½es Lakeside'.
+[M01_StuffedBunny_DESC]Est? escrito na etiqueta 'Parque de Divers?es Lakeside'.
 [M01_StuffedBunny_GOT]Obtive o coelhinho <COLOR,155,240,155>Robbie<CLEARCOLOR>.
 
 [M01_HospitalMap_GOT]Obtive o <COLOR,155,240,155>Mapa do Hospital<CLEARCOLOR>.
 
-[M01_CombatManual_GOT]Obtive o <COLOR,155,240,155>Manual de Combate Bï¿½sico<CLEARCOLOR>.
+[M01_CombatManual_GOT]Obtive o <COLOR,155,240,155>Manual de Combate B?sico<CLEARCOLOR>.
 
 [M01_Polaroid_TITLE]Foto Polaroid
 [M01_Polaroid_DESC]O coelhinho do Joshua dentro da mochila dele...
 [M01_Polaroid_GOT]Obtive uma <COLOR,155,240,155>Foto Polaroid<CLEARCOLOR>.
 
-[M01_Drawing_01_TITLE]Desenho de Crianï¿½a (1)
-[M01_Drawing_02_DESC]Uma famï¿½lia de coelhinhos.
-[M01_Drawing_01_GOT]Obtive um<COLOR,155,240,155>Desenho de Crianï¿½a<CLEARCOLOR>.
+[M01_Drawing_01_TITLE]Desenho de Crian?a (1)
+[M01_Drawing_02_DESC]Uma fam?lia de coelhinhos.
+[M01_Drawing_01_GOT]Obtive um<COLOR,155,240,155>Desenho de Crian?a<CLEARCOLOR>.
 
-[M01_Drawing_02_TITLE]Desenho de Crianï¿½a (2)
-[M01_Drawing_01_DESC]Trï¿½s coelhinhos sangrentos.
-[M01_Drawing_02_GOT]Obtive um <COLOR,155,240,155>Desenho de Crianï¿½a<CLEARCOLOR>.
+[M01_Drawing_02_TITLE]Desenho de Crian?a (2)
+[M01_Drawing_01_DESC]Tr?s coelhinhos sangrentos.
+[M01_Drawing_02_GOT]Obtive um <COLOR,155,240,155>Desenho de Crian?a<CLEARCOLOR>.
 
-[M01_Drawing_03_TITLE]Desenho de Crianï¿½a (3)
-[M01_Drawing_03_DESC]Esse coelhinho parece catatï¿½nico.
-[M01_Drawing_03_GOT]Obtive um <COLOR,155,240,155>Desenho de Crianï¿½a<CLEARCOLOR>.
+[M01_Drawing_03_TITLE]Desenho de Crian?a (3)
+[M01_Drawing_03_DESC]Esse coelhinho parece catat?nico.
+[M01_Drawing_03_GOT]Obtive um <COLOR,155,240,155>Desenho de Crian?a<CLEARCOLOR>.
 
-[M01_Drawing_04_TITLE]Desenho de Crianï¿½a (4)
+[M01_Drawing_04_TITLE]Desenho de Crian?a (4)
 [M01_Drawing_04_DESC]Um coelhinho em chamas.
-[M01_Drawing_04_GOT]Obtive um <COLOR,155,240,155>Desenho de Crianï¿½a<CLEARCOLOR>.
+[M01_Drawing_04_GOT]Obtive um <COLOR,155,240,155>Desenho de Crian?a<CLEARCOLOR>.
 
-[M01_Drawing_05_TITLE]Desenho de Crianï¿½a (5)
-[M01_Drawing_05_DESC]Esse coelhinho parece estar se debatendo na ï¿½gua.
-[M01_Drawing_05_GOT]Obtive um <COLOR,155,240,155>Desenho de Crianï¿½a<CLEARCOLOR>.
+[M01_Drawing_05_TITLE]Desenho de Crian?a (5)
+[M01_Drawing_05_DESC]Esse coelhinho parece estar se debatendo na ?gua.
+[M01_Drawing_05_GOT]Obtive um <COLOR,155,240,155>Desenho de Crian?a<CLEARCOLOR>.
 
 
 
 ### M01 Tips ###
 
-[M01_MapUse_01]A qualquer momento, vocï¿½ pode apertar <UI_TOGGLE_MAP> para ver o mapa.
+[M01_MapUse_01]A qualquer momento, voc? pode apertar <UI_TOGGLE_MAP> para ver o mapa.
 
 [M01_BasicTip_1]Segure <TARGETING> para mirar e aperte <ACTION> para atacar.
-[M01_Keypad_1]Os nï¿½meros <COLOR,195,188,228>6 2 4 8 7 2<CLEARCOLOR> estï¿½o escritos no Raio-X.
-[M01_Inventory_1]Aperte <COMBAT_WHEEL> para acessar o inventï¿½rio. Selecione a lanterna e aperte <COMMAND_UI_X> para ligar/desligar.
+[M01_Keypad_1]Os n?meros <COLOR,195,188,228>6 2 4 8 7 2<CLEARCOLOR> est?o escritos no Raio-X.
+[M01_Inventory_1]Aperte <COMBAT_WHEEL> para acessar o invent?rio. Selecione a lanterna e aperte <COMMAND_UI_X> para ligar/desligar.
 [M01_Inventory_2]Press <INVENTORY_WHEEL> to access your item inventory.
-[M01_LightHint_1]<COLOR,195,188,228>Os mï¿½dicos dizem que eu sou incapaz de distinguir a fantasia da realidade... Mas eu acho que sei o que ta rolando por aqui. Eu vi aqueles demï¿½nios matando os outros paciï¿½ntes. Eu quero fugir desse lugar maldito mas nï¿½o tenho coragem de me aventurar na luz.<CLEARCOLOR>
-[M01_LightHint_2]<COLOR,195,188,228>Aparentemente eles sï¿½o atraidos pela luz. Deve ser por isso que pessoas que precisam da luz para enxergar sï¿½o suas presas. Eles tambï¿½m reagem aos sons...<CLEARCOLOR>
-[M01_LightHint_3]<COLOR,195,188,228>Se vocï¿½ quer continuar vivo, melhor esperar no escuro e ficar quieto. Mas nem sempre isso vai te salvar.<CLEARCOLOR>
+[M01_LightHint_1]<COLOR,195,188,228>Os m?dicos dizem que eu sou incapaz de distinguir a fantasia da realidade... Mas eu acho que sei o que ta rolando por aqui. Eu vi aqueles dem?nios matando os outros paci?ntes. Eu quero fugir desse lugar maldito mas n?o tenho coragem de me aventurar na luz.<CLEARCOLOR>
+[M01_LightHint_2]<COLOR,195,188,228>Aparentemente eles s?o atraidos pela luz. Deve ser por isso que pessoas que precisam da luz para enxergar s?o suas presas. Eles tamb?m reagem aos sons...<CLEARCOLOR>
+[M01_LightHint_3]<COLOR,195,188,228>Se voc? quer continuar vivo, melhor esperar no escuro e ficar quieto. Mas nem sempre isso vai te salvar.<CLEARCOLOR>
 
 
 
@@ -1105,9 +1105,9 @@
 
 [M01_KeypadHint_1]<COLOR,195,188,228>Attention Staff: \n\nOur security has been somewhat compromised- a patient used an X-Ray Film to write down the code for the security gate.  We have recovered the first half, but the second half is still missing. Should you find the missing X-Ray piece be sure to notify the head of security immediately.<CLEARCOLOR>
 
-[M01_MissingPatient_1]Boletim de Paciï¿½nte Desaparecido:
-[M01_MissingPatient_2]<COLOR,195,188,228>Sala 205, paciï¿½nte desapareceu, foi visto pela ultima vez na sua sala depoois de um conflito com outro...<CLEARCOLOR>
-[M01_MissingPatient_3]O resto da mensagem ï¿½ ilegivel...
+[M01_MissingPatient_1]Boletim de Paci?nte Desaparecido:
+[M01_MissingPatient_2]<COLOR,195,188,228>Sala 205, paci?nte desapareceu, foi visto pela ultima vez na sua sala depoois de um conflito com outro...<CLEARCOLOR>
+[M01_MissingPatient_3]O resto da mensagem ? ilegivel...
 
 [M01_UnrulyPatient_1]A page from an incident report:
 [M01_UnrulyPatient_2]<COLOR,195,188,228>...the patient proceeded to leap through the window and then ravaged the adjacent room.<CLEARCOLOR>
@@ -1141,53 +1141,53 @@
 
 ### M01 Interest Points ###
 
-[M01_TortureDevice]Que tipo de cirurgia eles estï¿½o fazendo aqui?
+[M01_TortureDevice]Que tipo de cirurgia eles est?o fazendo aqui?
 [M01_BloodySink]O que houve aqui?
-[M01_EmptySink]A pia estï¿½ vazia.
+[M01_EmptySink]A pia est? vazia.
 [M01_Shelves_Var1]Objetos cirurgicos variados.
-[M01_Shelves_Var2]Suplimentos mï¿½dicos velhos...
-[M01_Shelves_Var3]Nada de ï¿½til aqui.
-[M01_Iron_Lung_1]Eu acho que isso ï¿½ um respirador. Parece velho...
+[M01_Shelves_Var2]Suplimentos m?dicos velhos...
+[M01_Shelves_Var3]Nada de ?til aqui.
+[M01_Iron_Lung_1]Eu acho que isso ? um respirador. Parece velho...
 [M01_Iron_Lung_2]Outro respirador...
 [M01_Iron_Lung_3]Outro respirador...
 [M01_Iron_Lung_4]Outro respirador...
-[M01_KeypadGate]O portï¿½o estï¿½ trancado... Talvez o Painel ao lado o controle.
+[M01_KeypadGate]O port?o est? trancado... Talvez o Painel ao lado o controle.
 [M01_XRayBox_1]It's an X-Ray light-box
 [M01_XRayBox_2]There is a torn X-Ray Film attached
 [M01_XRayBox_3]Something is scratched onto the surface of the X-Ray.
-[M01_FilingCab_Var1]Os arquivos estï¿½o vazios... Nï¿½o tem nada aqui.
+[M01_FilingCab_Var1]Os arquivos est?o vazios... N?o tem nada aqui.
 [M01_PASystem]It's a control panel for the PA system- it doesn't appear to be working.
-[M01_BodyBag_1]Por que todos estes corpos estï¿½o aqui?
-[M01_BodyBag_2]Estes sï¿½o os pacientes?!
+[M01_BodyBag_1]Por que todos estes corpos est?o aqui?
+[M01_BodyBag_2]Estes s?o os pacientes?!
 [M01_BodyBag_3]Minha nossa...
-[M01_BodyBag_4]Estes sï¿½o os pacientes?!
-[M01_BodyBag_5]Isso nï¿½o ï¿½ forma de se tratar os mortos!
-[M01_Incubator_1]Uma encubadora de bebï¿½s.
-[M01_Incubator_2]Isso ï¿½ assustador...
-[M01_Incubator_3]Por que isso estï¿½ queimado por dentro?
+[M01_BodyBag_4]Estes s?o os pacientes?!
+[M01_BodyBag_5]Isso n?o ? forma de se tratar os mortos!
+[M01_Incubator_1]Uma encubadora de beb?s.
+[M01_Incubator_2]Isso ? assustador...
+[M01_Incubator_3]Por que isso est? queimado por dentro?
 [M01_WaterCooler]This water cooler has not been used in a long time.
 [M01_FileCabs]The filing cabinets are empty.
 [M01_ToiletBody]Boxes of supplies, nothing useful here
 [M01_Supplies]Boxes of supplies, nothing useful here
-[M01_SteamPipes_1]Parecem ser canos de gï¿½s... Aparentemente estï¿½o funcionando.
-[M01_SteamPipes_2]Mais canos de gï¿½s... Aparentemente estï¿½o funcionando.
-[M01_SteamPipes_3]Mais canos de gï¿½s...
-[M01_BlockedStairs_1]Esse caminho estï¿½ bloqueado... Nï¿½o posso prosseguir por aqui.
-[M01_BlockedStairs_2]Esse caminho estï¿½ bloqueado... Nï¿½o posso prosseguir por aqui.
+[M01_SteamPipes_1]Parecem ser canos de g?s... Aparentemente est?o funcionando.
+[M01_SteamPipes_2]Mais canos de g?s... Aparentemente est?o funcionando.
+[M01_SteamPipes_3]Mais canos de g?s...
+[M01_BlockedStairs_1]Esse caminho est? bloqueado... N?o posso prosseguir por aqui.
+[M01_BlockedStairs_2]Esse caminho est? bloqueado... N?o posso prosseguir por aqui.
 [M01_Fan_1]Parece estar bem quente do outro lado.
 [M01_StaticGone]The static was playing loud before, now it's gone quiet- I wonder why?
 [M01_StationWindow]There appears to be a room on the other side, but I can't quite see in clearly.
 [OrderlyKey_1]It's the other half of the body from downstairs, I wonder who put him here?
 [OrderlyKey_2]His hand is holding on to a key of some sort.
-[M01_PadlockDoor_1]Nï¿½o da pra passar por aqui, a porta estï¿½ acorrentada.
+[M01_PadlockDoor_1]N?o da pra passar por aqui, a porta est? acorrentada.
 [M01_IncDoll_1]Uma boneca... Parece estar queimada.
 [M01_IncDoll_2]Me pergunto... Como ela chegou ali?
 
 [M01_Door206_01]I think I hear the faint sound of water lapping on the shore, the source seems to be coming from just beyond this door, But that's impossible, this is a hospital.
 
-[M01_InspectMap_01]Isso ï¿½ um mapa?
+[M01_InspectMap_01]Isso ? um mapa?
 
-[M01_Map]ï¿½ o mapa do Hospital.
+[M01_Map]? o mapa do Hospital.
 [M01_XraySwitch]The switch is broken.
 [M01_JoshuaWait1]Hey!  Wait!
 [M01_JoshuaWait2]Josh?
@@ -1196,25 +1196,25 @@
 [M01_Incubator]What is this, a baby incubator?
 [M01_Incubator2]Oh god.  Where did this blood come from?
 [M01_Incubator3]This is a military hospital. Why is this here?
-[M01_Nosmoking]<COLOR,195,188,228>ï¿½ PROIBIDO FUMAR NESTE LOCAL<CLEARCOLOR>
-[M01_Toilet]Esse banheiro ï¿½ nojento...
+[M01_Nosmoking]<COLOR,195,188,228>? PROIBIDO FUMAR NESTE LOCAL<CLEARCOLOR>
+[M01_Toilet]Esse banheiro ? nojento...
 [M01_Toilet1]Esse banheiro cheira a morte.
 [M01_1award]<COLOR,195,188,228>1A - WARD<CLEARCOLOR>
 [M01_2award]<COLOR,195,188,228>2A - WARD<CLEARCOLOR>
 [M01_Mirrormsg1]Tem uma mensagem em sangue...
 [M01_Mirrormsg2]Parece a letra do Josh.
-[M01_Mirrormsg3]Serï¿½ que o Josh realmente escreveu isso?
+[M01_Mirrormsg3]Ser? que o Josh realmente escreveu isso?
 [M01_Mirrormsg4]Tem algo a mais aqui...
-[M01_LockedBathroom1]Por que esse estï¿½ trancado? Serï¿½ que tem alguï¿½m?
-[M01_Bloodstreak1]ï¿½ muito sangue...
+[M01_LockedBathroom1]Por que esse est? trancado? Ser? que tem algu?m?
+[M01_Bloodstreak1]? muito sangue...
 [M01_Bloodstreak2]Eu tenho que sair daqui!
-[M01_Oldoffice1]Somente velharias de escritï¿½rio...
-[M01_Oldoffice2]Tudo aqui ï¿½ tï¿½o velho...
-[M01_FilingCabs]Estï¿½o vazios...
-[M01_xrayimage]Esses Raios-X nï¿½o tem sentido. O que ta acontecendo aqui?
+[M01_Oldoffice1]Somente velharias de escrit?rio...
+[M01_Oldoffice2]Tudo aqui ? t?o velho...
+[M01_FilingCabs]Est?o vazios...
+[M01_xrayimage]Esses Raios-X n?o tem sentido. O que ta acontecendo aqui?
 [M01_viewingwindow]It's a viewing window.
 [M01_viewingwindow1]There's something taped onto the other side.
-[M01_tvbaby]Essa TV nï¿½o estï¿½ conectada na energia! Como isso ï¿½ possï¿½vel?!
+[M01_tvbaby]Essa TV n?o est? conectada na energia! Como isso ? poss?vel?!
 [M01_cooler]It's broken.
 [M01_bunny1]It looks like a crayon drawing.
 [M01_bunny2]Who put this here?
@@ -1222,15 +1222,15 @@
 [M01_OldMattress_2]it's covered with fluid stains. Disgusting!
 
 [M01_Oldmags_1]Algumas revistas antigas.
-[M01_Oldmags_2]Algumas revistas antigas. Nï¿½o estou interessado nelas.
-[M01_NoInterest_1]Nï¿½o estou interessado nisso agora.
+[M01_Oldmags_2]Algumas revistas antigas. N?o estou interessado nelas.
+[M01_NoInterest_1]N?o estou interessado nisso agora.
 
 
 ### STORY INTEREST POINTS FOR M01_Nightmare ###
 
 [M01_Interest_01]That looks painful.
 [M01_Interest_03]If I only had an X-Ray.
-[M01_Interest_02]Acho que ï¿½ um respirador.
+[M01_Interest_02]Acho que ? um respirador.
 [M01_Interest_04]Let's see what I can see.
 [M01_Interest_05]O que isso faz?
 
@@ -1239,7 +1239,7 @@
 [M01_BodyFluid_1]It's some kind of bodily fluid container...
 [M01_BodyFluid_2]Eu... Odeio... Hospitais...
 
-[M01_Life]Talvez a vida nï¿½o seja para todos.
+[M01_Life]Talvez a vida n?o seja para todos.
 
 [M01_Organs_1]Someone's organs... Why were they just left here?
 [M01_Organs_2]Are these the results of an operation gone wrong?
@@ -1253,14 +1253,14 @@
 [M01_Torture2]What is this horrible-looking device?
 
 [M01_StaffOnly]<COLOR,195,188,228>Staff Only! No visitors allowed beyond this point.<CLEARCOLOR>
-[M01_BathroomDoor2]A porta estï¿½ trancada. Mas posso jurar que ouvi alguï¿½m do outro lado.
+[M01_BathroomDoor2]A porta est? trancada. Mas posso jurar que ouvi algu?m do outro lado.
 
 
 
-[M01_Monsters]<COLOR,195,188,228>Eles estï¿½o nos transformando em monstros! <CLEARCOLOR>
+[M01_Monsters]<COLOR,195,188,228>Eles est?o nos transformando em monstros! <CLEARCOLOR>
 
-[M01_reality_1]<COLOR,195,188,228>Isso ï¿½ real? <CLEARCOLOR>
-[M01_reality_2]<COLOR,195,188,228>Isso ï¿½ um sonho? <CLEARCOLOR>
+[M01_reality_1]<COLOR,195,188,228>Isso ? real? <CLEARCOLOR>
+[M01_reality_2]<COLOR,195,188,228>Isso ? um sonho? <CLEARCOLOR>
 [M01_reality_3]<COLOR,195,188,228>Eu quero ir pra casa. <CLEARCOLOR>
 
 [M01_Interest_06]Meu Deus.
@@ -1379,16 +1379,16 @@
 
 ### M02 Mission Objectives ###
 
-[M02_Objective_GoHome]- Vï¿½ para a sua casa.
-[M02_Objective_GasCan]- Encontre gasolina para ligar a bomba d'ï¿½gua.
+[M02_Objective_GoHome]- V? para a sua casa.
+[M02_Objective_GasCan]- Encontre gasolina para ligar a bomba d'?gua.
 [M02_Objective_FillCan]- Encontre um lugar para encher o tanque de gasolina.
-[M02_Objective_ReturnHome]- Retorne ao porï¿½o e abasteï¿½a a bomba.
+[M02_Objective_ReturnHome]- Retorne ao por?o e abaste?a a bomba.
 
 ### M02 Journal ###
 
 [M02_Journal_Judge01] I ran into Judge Holloway in the street. It sounds like things have not been going well while I was away. She said that I should go home and see my mom.\n\nShe also mentioned that Elle is still here... I had hoped that she would have gotten out of this place by now.
 
-[M02_MapDisplay]Aperte <COMMAND_USE> para ver o mapa, e entï¿½o, aperte <COMMAND_UI_X> para ver os objetivos.
+[M02_MapDisplay]Aperte <COMMAND_USE> para ver o mapa, e ent?o, aperte <COMMAND_UI_X> para ver os objetivos.
 
 ### STORY INTEREST POINTS FOR M02_SGTown1 ###
 
@@ -5253,15 +5253,15 @@
 ### M13 Ambient ###
 [IDS_AMBIENT_M13Church_Church_Signage_01]Igreja do Caminho Sagrado
 [IDS_AMBIENT_M13Church_Church_Signage_02]Missas: Todos os dias ao entardecer.
-[IDS_AMBIENT_M13Church_Church_Signage_03]Nï¿½o questionarï¿½s tua fï¿½, mas sim, tua devoï¿½ï¿½o.
+[IDS_AMBIENT_M13Church_Church_Signage_03]N?o questionar?s tua f?, mas sim, tua devo??o.
 [IDS_AMBIENT_M13Church_Church_Signage_04]Igreja do Caminho Sagrado
 [IDS_AMBIENT_M13Church_Church_Signage_05]Bingo: Todos os dias ao entardecer.
-[IDS_AMBIENT_M13Church_Church_Signage_06]Servimos Panquecas no cafï¿½ da manhï¿½ aos Domingo.
+[IDS_AMBIENT_M13Church_Church_Signage_06]Servimos Panquecas no caf? da manh? aos Domingo.
 [IDS_AMBIENT_M13Church_Church_Signage_07]Today's Hymns: 4, 8, 15, 16, 23, 42
-[IDS_AMBIENT_M13Church_Confessional_Sign_01]Prepare a tua lï¿½ngua pois esta deve somente dizer a verdade.
+[IDS_AMBIENT_M13Church_Confessional_Sign_01]Prepare a tua l?ngua pois esta deve somente dizer a verdade.
 [IDS_AMBIENT_M13Church_Confessional_Sign_02]Pense antes de bater.
-[IDS_AMBIENT_M13Church_Confessional_Sign_03]Nï¿½o hï¿½ volta.
-[IDS_AMBIENT_M13Church_Confessional_Sign_04]Se vocï¿½ bater, ele ouvirï¿½.
+[IDS_AMBIENT_M13Church_Confessional_Sign_03]N?o h? volta.
+[IDS_AMBIENT_M13Church_Confessional_Sign_04]Se voc? bater, ele ouvir?.
 
 ### M14 Ambient ###
 [IDS_AMBIENT_M14lair_Order_Patrol_Checkpoint_Signage_01]STOP No unauthorized persons allowed beyond this point.
@@ -5275,9 +5275,9 @@
 
 ###  PC SPECIFIC STRINGS ####
 
-[M01_MapUse_01_PC]Vocï¿½ pode apertar <UI_TOGGLE_MAP> a qualquer momento para ver o mapa.
+[M01_MapUse_01_PC]Voc? pode apertar <UI_TOGGLE_MAP> a qualquer momento para ver o mapa.
 [M01_BasicTip_1_PC]Segure <TARGETING> para mirar e <ACTION> para atacar.
-[M01_Inventory_1_PC]Aperte <COMBAT_WHEEL> para ver seus equipamentos. Vocï¿½ tambï¿½m pode apertar <COMMAND_UI_X> para ligar/desligar a lanterna.
+[M01_Inventory_1_PC]Aperte <COMBAT_WHEEL> para ver seus equipamentos. Voc? tamb?m pode apertar <COMMAND_UI_X> para ligar/desligar a lanterna.
 [M01_Inventory_2_PC]Aperte <INVENTORY_WHEEL> para ver seu inventario.
 
 [M01_CombatNote_02_PC]<COLOR,195,188,228>Equipping a weapon: \n\nTo equip a weapon, open the weapon menu (<COMBAT_WHEEL>) and use <COMMAND_MOVEMENT> to select your weapon of choice.<CLEARCOLOR>
