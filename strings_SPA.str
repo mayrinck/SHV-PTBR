@@ -397,20 +397,20 @@
 [IDS_LOADING_TIP_FERAL_2]Atirar no Feral quando ele está correndo vai fazer com que ele fique atordoado. É o momento perfeito para um golpe fatal.
 [IDS_LOADING_TIP_FERAL_3]Armas rápidas como a Faca ou o Cano säo especialmente efetivas contra um Feral.
 
-[IDS_LOADING_TIP_SWARM_1]Quando um Inseto se prende a voc?, sua vida ser? drenada. Aperte <COMMAND_JUMP> (esquiva) para se livrar deles.
-[IDS_LOADING_TIP_SWARM_2]Os Insetos as vezes param no ar ou no ch?o antes de atacar, este ? o momento perfeito para destru?-los.
+[IDS_LOADING_TIP_SWARM_1]Quando um Inseto se prende a você, sua vida será drenada até a morte. Aperte o botäo de esquiva para se livrar deles.
+[IDS_LOADING_TIP_SWARM_2]Os Insetos as vezes param no ar ou no chäo antes de atacar, este é o momento perfeito para destruí-los.
 
-[IDS_LOADING_TIP_SEPULCHER_1]Destruir cada saco de carne do Sepulcro vai fazer com que ele caia no ch?o atordoado e vulner?vel.
-[IDS_LOADING_TIP_SEPULCHER_2]Quando o Sepulcro est? atacando do ch?o, se voc? acertar seus bra?os, seu corpo ficar? exposto para receber ataques adicionais.
+[IDS_LOADING_TIP_SEPULCHER_1]Destruir cada saco de carne do Sepulcro vai fazer com que ele caia no chäo, atordoado e vulnerável.
+[IDS_LOADING_TIP_SEPULCHER_2]Quando o Sepulcro está atacando do chäo, se você acertar seus braços, seu corpo ficará exposto para receber ataques adicionais.
 
-[IDS_LOADING_TIP_SCARLET_1]Quebrar a armadura de porcelana da Scarlet vai deix?-la atordoada. Comece pelas pernas ou tronco.
-[IDS_LOADING_TIP_SCARLET_2]Voc? deve quebrar TODAS as partes da armadura da Scarlet antes de poder finaliz?-la pelas costas.
+[IDS_LOADING_TIP_SCARLET_1]Quebrar a armadura de porcelana da Scarlet vai deixá-la atordoada. Comece pelas pernas ou tronco.
+[IDS_LOADING_TIP_SCARLET_2]Você deve quebrar TODAS as partes da armadura da Scarlet antes de poder finalizá-la pelas costas.
 
 [IDS_LOADING_TIP_AMNION_1]The best way to get inside Amnion's attacks is to approach from the side.  If you can't get close enough, hitting her legs will eventually knock her down.
-[IDS_LOADING_TIP_AMNION_2]When Amnion rises up to shower the areas with acidic spittle, your best bet for avoiding damage is to get beneath her.
+[IDS_LOADING_TIP_AMNION_2]Quando a Amnion subir para lançar seus ataques ácidos fique debaixo dela para evitar dano.
 
-[IDS_LOADING_TIP_ASPHYXIA_1]Sucessfully dodging Asphyxia's grapple attempt will leave her tail exposed and vulnerable.
-[IDS_LOADING_TIP_ASPHYXIA_2]Striking Asphyxia's tail will bring her to her knees, leaving her head open to melee attack.
+[IDS_LOADING_TIP_ASPHYXIA_1]Se você esquivar corretamente do agarräo da Asphyxia sua cauda ficará exposta para receber ataques.
+[IDS_LOADING_TIP_ASPHYXIA_2]Atacar a cauda da Asphyxia vai fazer com que ela se ajoelhe, permitindo atacar sua cabeça com armas de curto alcance.
 
 
 ### CONTROLLER MESSAGES
@@ -422,7 +422,7 @@
 [IDS_SHELL_CONTROLLER_CONNECT_PS3]Por favor, conecte o Controle Sem-Fio.
 [IDS_SHELL_CONTROLLER_CONNECT_XBOX360]Por favor, conecte um controle em quaisquer das portas e aperte START para continuar.
 
-[IDS_SHELL_PLAYER_SIGNED_OUT]Uma mudan?a de credenciais ocorreu. Voc? ser? mandado de volta para o Menu Principal.
+[IDS_SHELL_PLAYER_SIGNED_OUT]Uma mudança de credenciais ocorreu. Você será mandado de volta para o Menu Principal.
 
 ### MEMORY CARD MESSAGES
 [IDS_SHELL_MEMORY_CARD_REMOVED]Memory card (PS3) not inserted in MEMORY CARD slot 1. Please reinsert the memory card (PS3) into MEMORY CARD slot 1 and try again.
