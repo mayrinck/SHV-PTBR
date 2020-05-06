@@ -6,6 +6,9 @@ Infelizmente, devido a limitações do arquivo da fonte do jogo, a tradução n�
 
 **Este ainda é um trabalho em progresso, a tradução ainda está longe de ser terminada, mas já tem algumas coisas traduzidas, porém incompletas, nesta versão.**
 
+
+
+
 ### Instalação
 
 Esse passo a passo considera que você COMPROU o jogo na plataforma Steam, que ele já está instalado no seu computador e foi iniciado pelo menos uma vez (independente de funcionar ou não).
@@ -29,6 +32,8 @@ Esse passo a passo considera que você COMPROU o jogo na plataforma Steam, que e
 
 
 E pronto, a tradução está instalada, assumindo o lugar da tradução para espanhol. Quando o jogo iniciar, estará em português. :)
+
+
 
 
 ### Progresso da Tradução
