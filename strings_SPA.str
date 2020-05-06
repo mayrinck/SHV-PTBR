@@ -467,56 +467,56 @@
 ###PICKUPS
 [IDS_PICKUP_TAKE]<COMMAND_KICK> Obter
 [IDS_PICKUP_USE]<COMMAND_KICK> Usar
-[IDS_PICKUP_CANT_CARRY_ANY_MORE] Sem espa?o para carregar mais disso.
+[IDS_PICKUP_CANT_CARRY_ANY_MORE] Sem espaço para carregar mais disso.
 [IDS_PICKUP_DEFAULT]Obtive o Item.
 [IDS_PICKUP_BUNNY1]Obtive o Coelhinho.
 [IDS_PICKUP_DRAWING]Obtive um <COLOR,155,240,155>Desenho de Crian?a<CLEARCOLOR>.
-[IDS_PICKUP_PILL_BOTTLE_GOT]Obtive um <COLOR,0,0,255>Rem?dio para Dor<CLEARCOLOR>.
+[IDS_PICKUP_PILL_BOTTLE_GOT]Obtive um <COLOR,0,0,255>Remédio para Dor<CLEARCOLOR>.
 [IDS_PICKUP_SUTURE_KIT_GOT]Obtive um <COLOR,0,0,255>Kit de Sutura<CLEARCOLOR>.
 [IDS_PICKUP_XRAYPLATE_GOT]Obtive uma <COLOR,0,0,255>Parte de Raio-X<CLEARCOLOR>.
 
 [IDS_PICKUP_HEALTHDRINK]Revigorante
-[IDS_PICKUP_HEALTHDRINK_DESC]O r?tulo diz: "...Est? cheio de nutrientes para garantir uma sa?de melhor"
+[IDS_PICKUP_HEALTHDRINK_DESC]O rótulo diz: "...Está cheio de nutrientes para garantir uma saúde melhor."
 [IDS_PICKUP_HEALTHDRINK_GOT]Obtive um <COLOR,155,255,155>Revigorante<CLEARCOLOR>.
 
 [IDS_PICKUP_FIRSTAID]Kit de Primeiros Socorros
-[IDS_PICKUP_FIRSTAID_DESC]Eu posso recuperar ferimentos grandes com isso...
+[IDS_PICKUP_FIRSTAID_DESC]Eu posso recuperar ferimentos mais graves com isso...
 [IDS_PICKUP_FIRSTAID_GOT]Obtive um <COLOR,155,255,155>Kit de Primeiros Socorros<CLEARCOLOR>.
 
-[IDS_PICKUP_SERUM]Droga Injet?vel
-[IDS_PICKUP_SERUM_DESC]Uma droga experimentoal que vai melhorar minha sa?de... Eu espero...
-[IDS_PICKUP_SERUM_GOT]Obtive uma <COLOR,155,255,155>Droga Injet?vel<CLEARCOLOR>.
+[IDS_PICKUP_SERUM]Droga Injetável
+[IDS_PICKUP_SERUM_DESC]Uma droga experimental que vai melhorar minha saúde... Eu espero...
+[IDS_PICKUP_SERUM_GOT]Obtive uma <COLOR,155,255,155>Droga Injetável<CLEARCOLOR>.
 
 [IDS_PICKUP_KNIFE]Faca de Combate
-[IDS_PICKUP_KNIFE_DESC]Est? um pouco enferrujada e desamolada, mas ainda da conta.
+[IDS_PICKUP_KNIFE_DESC]Está um pouco enferrujada e desamolada, mas ainda parece forte.
 [IDS_PICKUP_KNIFE_PICKUP]Obtive uma <COLOR,155,255,155>Faca de Combate<CLEARCOLOR>.
 
 [IDS_PICKUP_CEREMONIAL_DAGGER]Adaga Cerimonial
-[IDS_PICKUP_CEREMONIAL_DAGGER_DESC]This ancient dagger is etched with strange markings. I swear I've seen it somewhere before.
+[IDS_PICKUP_CEREMONIAL_DAGGER_DESC]Uma adaga com marcas estranhas. Eu tenho certeza que já vi ela antes...
 [IDS_PICKUP_CEREMONIAL_DAGGER_GOT]Obtive uma <COLOR,175,0,100>Adaga Cerimonial<CLEARCOLOR>.
 
 [IDS_PICKUP_PIPE]Cano de Ferro
-[IDS_PICKUP_PIPE_DESC]Um peda?o de Cano de Ferro. Est? sujo e enferrujado... Pelo menos ? f?cil de manusear.
+[IDS_PICKUP_PIPE_DESC]Um pedaço de Cano de Ferro. Está sujo e enferrujado... Pelo menos é fácil de manusear.
 [IDS_PICKUP_PIPE_PICKUP]Obtive um <COLOR,155,255,155>Cano de Ferro<CLEARCOLOR>.
 
-[IDS_PICKUP_CROWBAR]P?-de-Cabra
-[IDS_PICKUP_CROWBAR_DESC]Isso com certeza ? mais pesado e mais forte que o cano...
-[IDS_PICKUP_CROWBAR_PICKUP]Obtive um <COLOR,155,255,155>P?-de-Cabra<CLEARCOLOR>.
+[IDS_PICKUP_CROWBAR]Pé-de-Cabra
+[IDS_PICKUP_CROWBAR_DESC]Um objeto que é pau pra toda obra. Com certeza é mais pesado e mais forte que o cano...
+[IDS_PICKUP_CROWBAR_PICKUP]Obtive um <COLOR,155,255,155>Pé-de-Cabra<CLEARCOLOR>.
 
 [IDS_PICKUP_SAW]Serra Circular
-[IDS_PICKUP_SAW_DESC]Uma serra circular port?til movida a gasolina. Isso poderia facilmente fazer picadinho de algu?m.
+[IDS_PICKUP_SAW_DESC]Uma serra circular portátil movida a gasolina. Isso poderia facilmente fazer picadinho de alguém.
 [IDS_PICKUP_SAW_PICKUP]Obtive uma <COLOR,155,255,155>Serra Circular<CLEARCOLOR>.
 
-[IDS_PICKUP_AXE]Machado de Inc?ncio
-[IDS_PICKUP_AXE_DESC]Machado padr?o do corpo de bombeiros. Eu posso usar ele para cortar madeiras e quebrar obst?culos.
-[IDS_PICKUP_AXE_GOT]Obtive um <COLOR,155,255,155>Machado de Inc?ncio<CLEARCOLOR>.
+[IDS_PICKUP_AXE]Machado de Incêncio
+[IDS_PICKUP_AXE_DESC]Machado padrão do corpo de bombeiros. Eu posso usar ele para cortar madeiras e quebrar obstáculos.
+[IDS_PICKUP_AXE_GOT]Obtive um <COLOR,155,255,155>Machado de Incêncio<CLEARCOLOR>.
 
 [IDS_PICKUP_PULASKI_AXE]Machado Pulaski
-[IDS_PICKUP_PULASKI_AXE_DESC]Tamb?m conhecido como "Machado Picareta" ele ? metade Machado, metade Picareta... Com certeza ? melhor do que o Machado de Inc?ncio...
+[IDS_PICKUP_PULASKI_AXE_DESC]Também conhecido como "Machado Picareta" ele é metade Machado, metade Picareta... Com certeza é melhor do que o Machado de Incêncio...
 [IDS_PICKUP_PULASKI_AXE_GOT]Obtive um <COLOR,155,255,155>Machado Pulaski<CLEARCOLOR>.
 
 [IDS_PICKUP_PISTOL]Pistola MK-23
-[IDS_PICKUP_PISTOL_DESC]A pistola 9mm que Curtis Ackers me deu. Est? funcionando e ? f?cil de usar.
+[IDS_PICKUP_PISTOL_DESC]A pistola 9mm que Curtis me deu. Está funcionando e é fácil de usar.
 [IDS_PICKUP_PISTOL_PICKUP]Obtive uma <COLOR,155,255,155>Pistola MK-23<CLEARCOLOR>.
 
 [IDS_PICKUP_RIFLE]M-14 A.R.
@@ -524,31 +524,31 @@
 [IDS_PICKUP_RIFLE_PICKUP]Obtive uma <COLOR,155,255,155>M-14 A.R.<CLEARCOLOR>.
 
 [IDS_PICKUP_DOLL_FULL]Boneca da Scarlet
-[IDS_PICKUP_DOLL_FULL_DESC]Acho que essa era a boneca favorita dela... Parece j? ter estado em melhores condi??es...
+[IDS_PICKUP_DOLL_FULL_DESC]Acho que essa era a boneca favorita dela... Parece já ter estado em melhores condiçöes...
 [IDS_PICKUP_DOLL_FULL_PICKUP]Obtive a <COLOR,155,255,155>Boneca da Scarlet<CLEARCOLOR>.
 
-[IDS_PICKUP_SHOTGUN]12 Gauge Shotgun
-[IDS_PICKUP_SHOTGUN_DESC]Devastating at close range, but fires and reloads slowly.
-[IDS_PICKUP_SHOTGUN_PICKUP]I got a <COLOR,155,255,155>12 Gauge Shotgun<CLEARCOLOR>.
+[IDS_PICKUP_SHOTGUN]Escopeta Calibre-12
+[IDS_PICKUP_SHOTGUN_DESC]É devastadora de perto, mas atira e recarrega lentamente...
+[IDS_PICKUP_SHOTGUN_PICKUP]Obtive uma <COLOR,155,255,155>Escopeta Calibre-12<CLEARCOLOR>.
 
 [IDS_PICKUP_LASER_PISTOL]Pistola Laser
-[IDS_PICKUP_LASER_PISTOL_DESC]Small but very effective.  Where did this come from?  Did aliens leave it here? ? pequena mas MUITO efetiva. De onde veio isso? Ser? que os Aliens deixaram ela aqui?
+[IDS_PICKUP_LASER_PISTOL_DESC]É pequena mas MUITO efetiva. De onde veio isso? Será que os Aliens deixaram isso aqui?
 [IDS_PICKUP_LASER_PISTOL_PICKUP]Obtive uma <COLOR,155,255,155>Pistola Laser<CLEARCOLOR>.
 
 [IDS_PICKUP_REVOLVER]Revolver Antigo
-[IDS_PICKUP_REVOLVER_DESC]Obtive com a minha m?e... O cilindro est? enferrujado e n?o gira. Seria uma arma muito boa, se fosse reparada...
+[IDS_PICKUP_REVOLVER_DESC]Obtive com a minha mäe... O cilindro está enferrujado e näo gira. Seria uma arma muito boa, se fosse reparada...
 [IDS_PICKUP_REVOLVER_GOT]Obtive um <COLOR,155,255,155>Revolver Antigo<CLEARCOLOR>.
 
-[IDS_PICKUP_PISTOL_AMMO]Caixa de Muni??o de Pistola
+[IDS_PICKUP_PISTOL_AMMO]Caixa de Muniçäo de Pistola
 [IDS_PICKUP_PISTOL_AMMO_DESC]Balas de 9mm para utilizar na pistola.
-[IDS_PICKUP_PISTOL_AMMO_GOT]Obtive algumas <COLOR,155,255,155>Muni??es de Pistola<CLEARCOLOR>.
+[IDS_PICKUP_PISTOL_AMMO_GOT]Obtive algumas <COLOR,155,255,155>Muniçöes de Pistola<CLEARCOLOR>.
 [IDS_PICKUP_PISTOLUPGRADE]Pistola Cromada.
-[IDS_PICKUP_PISTOLUPGRADE_AMMO_DESC]Tem dano aumentado e suporta mais muni??o do que qualquer pistola comum.
+[IDS_PICKUP_PISTOLUPGRADE_AMMO_DESC]Tem dano aumentado e suporta mais muniçäo do que qualquer pistola comum.
 [IDS_PICKUP_PISTOLUPGRADE_AMMO_GOT]Obtive uma<COLOR,155,255,155>Pistola Cromada<CLEARCOLOR>.
 
-[IDS_PICKUP_SHOTGUN_AMMO]Caixa de Muni??o de Escopeta
-[IDS_PICKUP_SHOTGUN_AMMO_DESC]12 gauge buckshot for use in a shotgun.
-[IDS_PICKUP_SHOTGUN_AMMO_GOT]Obtive algumas <COLOR,155,255,155>Muni??es de Escopeta<CLEARCOLOR>.
+[IDS_PICKUP_SHOTGUN_AMMO]Caixa de Muniçäo de Escopeta
+[IDS_PICKUP_SHOTGUN_AMMO_DESC]Algumas balas de escopeta. Servem para qualquer modelo.
+[IDS_PICKUP_SHOTGUN_AMMO_GOT]Obtive algumas <COLOR,155,255,155>Balas de Escopeta<CLEARCOLOR>.
 [IDS_PICKUP_SHOTGUNUPGRADE]A 'BlueSteel' Shotgun.
 [IDS_PICKUP_SHOTGUNUPGRADE_AMMO_DESC]Has increased damage and holds more ammunition over the regular Shotgun.
 [IDS_PICKUP_SHOTGUNUPGRADE_AMMO_GOT]I got <COLOR,155,255,155>the 'BlueSteel' Shotgun<CLEARCOLOR>.
@@ -560,16 +560,16 @@
 [IDS_PICKUP_RIFLEUPGRADE_AMMO_DESC]Has increased damage and holds more ammunition over the regular rifle.
 [IDS_PICKUP_RIFLEUPGRADE_AMMO_GOT]I got <COLOR,155,255,155>a Police Marksman Rifle<CLEARCOLOR>.
 
-[IDS_PICKUP_WALKIETALKIE]Walkie Talkie
-[IDS_PICKUP_WALKIETALKIE_DESC]Utilizado para comunica??o.
-[IDS_PICKUP_WALKIETALKIE_GOT]Obtive um <COLOR,155,255,155>Walkie Talkie<CLEARCOLOR>.
+[IDS_PICKUP_WALKIETALKIE]Walkie-Talkie
+[IDS_PICKUP_WALKIETALKIE_DESC]Utilizado para comunicaçäo.
+[IDS_PICKUP_WALKIETALKIE_GOT]Obtive um <COLOR,155,255,155>Walkie-Talkie<CLEARCOLOR>.
 
-[IDS_PICKUP_WEAPONS_CABINET_KEY]Chave do Arm?rio de Armas
+[IDS_PICKUP_WEAPONS_CABINET_KEY]Chave do Armário de Armas
 [IDS_PICKUP_WEAPONS_CABINET_KEY_DESC]Essa chave foi beeeeem utilizada...
 [IDS_PICKUP_WEAPONS_XRAYPLATE1]Filme de Raio-X (A)
-[IDS_PICKUP_WEAPONS_XRAYPLATE1_DESC]Tem algo a mais nesse filme, mas eu ainda n?o entendi...
+[IDS_PICKUP_WEAPONS_XRAYPLATE1_DESC]Tem algo a mais nesse filme, mas é difícil de ler...
 [IDS_PICKUP_WEAPONS_XRAYPLATE2]Filme de Raio-X (B)
-[IDS_PICKUP_WEAPONS_XRAYPLATE2_DESC]Tem algo a mais nesse filme, mas ? dif?cil de ler...
+[IDS_PICKUP_WEAPONS_XRAYPLATE2_DESC]Tem algo a mais nesse filme, mas eu ainda näo entendi...
 
 [IDS_PICKUP_FLASHLIGHT]Lanterna
 [IDS_PICKUP_FLASHLIGHT_DESC]Eu dei isso pro Joshua tem tanto tempo...
@@ -577,41 +577,41 @@
 
 
 ###Level Pickups
-[IDS_PICKUP_OLD_BIBLE1]Uma b?blia antiga.
-[IDS_PICKUP_OLD_BIBLE1_DESC]Esta b?blia est? rasgada e gasta.
-[IDS_PICKUP_OLD_BIBLE1]Uma b?blia antiga.
-[IDS_PICKUP_OLD_BIBLE1_DESC]Essa b?blia parece antiga.
-[IDS_PICKUP_M01_BUNNY]Coelhinho de Pel?cia
-[IDS_PICKUP_M01_BUNNY_DESC]? o brinquedo favorito do Joshua.
+[IDS_PICKUP_OLD_BIBLE1]Uma bíblia antiga.
+[IDS_PICKUP_OLD_BIBLE1_DESC]Esta bíblia está rasgada e gasta.
+[IDS_PICKUP_OLD_BIBLE1]Uma bíblia antiga.
+[IDS_PICKUP_OLD_BIBLE1_DESC]Essa bíblia parece antiga.
+[IDS_PICKUP_M01_BUNNY]Coelhinho de Pelúcia
+[IDS_PICKUP_M01_BUNNY_DESC]É o brinquedo favorito do Joshua.
 
 [IDS_PICKUP_M02_GASCAN]Tanque de Gasolina (vazio)
 [IDS_PICKUP_M02_GASCAN_DESC]Um tanque de gasolina vazio.
 [IDS_PICKUP_M02_GASCAN_GOT]Obtive um <COLOR,155,255,155>Tanque de Gasolina (vazio)<CLEARCOLOR>.
 
 [IDS_PICKUP_M02_GASCAN_FULL]Tanque de Gasolina (cheio)
-[IDS_PICKUP_M02_GASCAN_FULL_DESC]O tanque agora est? cheio com a gasolina que tirei daquele caminh?o.
+[IDS_PICKUP_M02_GASCAN_FULL_DESC]O tanque agora está cheio com a gasolina que tirei daquele caminhäo.
 [IDS_PICKUP_M02_GASCAN_FULL_GOT]Obtive um <COLOR,155,255,155>Tanque de Gasolina (cheio)<CLEARCOLOR>.
 [IDS_PICKUP_M02_GASCAN_FULL_USE]Usei o <COLOR,155,255,155>Tanque de Gasolina<CLEARCOLOR>.
 
-[IDS_PICKUP_M03_MAP_DESC]Parece o mapa da minha casa... Foi feito com giz de cera.
+[IDS_PICKUP_M03_MAP_DESC]Parece o mapa da minha casa... Foi feito com giz de cera verde.
 [IDS_PICKUP_M03_MAP_GOT]Obtive o <COLOR,155,255,155>Mapa da Casa<CLEARCOLOR>.
 
-[IDS_PICKUP_M03_LINEAGE]Shepherd family history
-[IDS_PICKUP_M03_LINEAGE_DESC]This book traces my family back across several generations.
-[IDS_PICKUP_M03_LINEAGE_GOT]I got a book with my <COLOR,155,255,155>Family History<CLEARCOLOR>.
+[IDS_PICKUP_M03_LINEAGE]História da Família Sheperd
+[IDS_PICKUP_M03_LINEAGE_DESC]Esse livro documenta a história de várias gerações da minha família.
+[IDS_PICKUP_M03_LINEAGE_GOT]Obtive um livro com a <COLOR,155,255,155>História da Família Sheperd<CLEARCOLOR>.
 
-[IDS_PICKUP_M03_PHOTOALBUM]Photo Album
-[IDS_PICKUP_M03_PHOTOALBUM_DESC]Joshua's old photo album. So many memories were kept in here.
-[IDS_PICKUP_M03_PHOTOALBUM_GOT]I got a <COLOR,155,255,155>Photo Album<CLEARCOLOR>.
+[IDS_PICKUP_M03_PHOTOALBUM]Album de Fotos
+[IDS_PICKUP_M03_PHOTOALBUM_DESC]O antigo album de fotos do Joshua. Tantas memórias estavam aqui...
+[IDS_PICKUP_M03_PHOTOALBUM_GOT]Obtive um <COLOR,155,255,155>Album de Fotos<CLEARCOLOR>.
 
-[IDS_PICKUP_M03_CASSETTE]Cassette Tape
-[IDS_PICKUP_M03_CASSETTE_DESC]It's an old cassette tape.  The label's been ripped off.
-[IDS_PICKUP_M03_CASSETTE_GOT]I got a <COLOR,155,255,155>Cassette Tape<CLEARCOLOR>.
-[IDS_PICKUP_M03_CASSETTE_USED]I used a <COLOR,155,255,155>Cassette Tape<CLEARCOLOR>.
+[IDS_PICKUP_M03_CASSETTE]Fita Cassette
+[IDS_PICKUP_M03_CASSETTE_DESC]Uma Fita Cassette antiga. O nome foi riscado...
+[IDS_PICKUP_M03_CASSETTE_GOT]Obtive uma <COLOR,155,255,155>Fita Cassette<CLEARCOLOR>.
+[IDS_PICKUP_M03_CASSETTE_USED]Eu usei a <COLOR,155,255,155>Fita Cassette<CLEARCOLOR>.
 
-[IDS_PICKUP_M03_GARAGEREMOTE]Garage Remote
-[IDS_PICKUP_M03_GARAGEREMOTE_DESC]The remote for the garage door.  Dad was always losing this thing.
-[IDS_PICKUP_M03_GARAGEREMOTE_GOT]I got a <COLOR,155,255,155>Garage Remote<CLEARCOLOR>.
+[IDS_PICKUP_M03_GARAGEREMOTE]Controle da Garagem.
+[IDS_PICKUP_M03_GARAGEREMOTE_DESC]O controle remóto que controla a porta da garagem. O Papai sempre perdia isso...
+[IDS_PICKUP_M03_GARAGEREMOTE_GOT]Obtive o <COLOR,155,255,155>Controle da Garagem<CLEARCOLOR>.
 
 [IDS_PICKUP_M04_GATEPUZZLE_1]Odd Stone Plate
 [IDS_PICKUP_M04_GATEPUZZLE_1_DESC]Half a circular stone plate with a partial image of a tree embossed on the surface.
@@ -621,19 +621,19 @@
 [IDS_PICKUP_M04_GATEPUZZLE_2_DESC]A stone plate with an image of a half tree on it.
 [IDS_PICKUP_M04_GATEPUZZLE_2_GOT]I got a <COLOR,155,255,155>Strange Stone Plate<CLEARCOLOR>.
 [IDS_PICKUP_M04_GATEPUZZLE_2_PLACED]I placed the <COLOR,155,255,155>Strange Stone Plate<CLEARCOLOR>.
-[IDS_PICKUP_M04_BROKEN_WATCH]Broken watch
-[IDS_PICKUP_M04_BROKEN_WATCH_DESC]It looks like there's an inscription on the watch here... It says Forgive me...
-[IDS_PICKUP_M04MAP]Rose Heights Cemetery Map
-[IDS_PICKUP_M04MAP_DESC]A map of the Rose Heights Cemetery.
-[IDS_PICKUP_M04MAP_GOT]I got the <COLOR,155,255,155>Rose Heights Cemetery Map<CLEARCOLOR>.
+[IDS_PICKUP_M04_BROKEN_WATCH]Relógio quebrado
+[IDS_PICKUP_M04_BROKEN_WATCH_DESC]Tem algo escrito na tampa do relógio... Diz: "Me perdoe".
+[IDS_PICKUP_M04MAP]Mapa do Cemitério Rose Heights
+[IDS_PICKUP_M04MAP_DESC]O mapa completo do cemitério Rose Heights.
+[IDS_PICKUP_M04MAP_GOT]Obtive o mapa do <COLOR,155,255,155>Cemitério Rose Heights<CLEARCOLOR>.
 [IDS_PICKUP_M04_JUNKYARD_MAP]Mapa do Ferro-Velho
-[IDS_PICKUP_M04_JUNKYARD_MAP_DESC]A map of the Junkyard.
-[IDS_PICKUP_M04_JUNKYARD_MAP_GOT]I got the <COLOR,155,255,155>Junkyard Map<CLEARCOLOR>.
+[IDS_PICKUP_M04_JUNKYARD_MAP_DESC]Um mapa do ferro-velho.
+[IDS_PICKUP_M04_JUNKYARD_MAP_GOT]Obtive o mapa do <COLOR,155,255,155>Ferro-Velho<CLEARCOLOR>.
 
-[IDS_PICKUP_M05_MAINTENANCEKEY]Chave da Equipe de Manuten??o
-[IDS_PICKUP_M05_MAINTENANCEKEY_DESC]Chave utilizada pela equipe de manuten??o para acessar ?reas dentro e fora do hotel.
-[IDS_PICKUP_M05_MAINTENANCEKEY_GOT]Obtive a <COLOR,155,255,155>Chave da Equipe de Manuten??o<CLEARCOLOR>.
-[IDS_PICKUP_M05_MAINTENANCEKEY_USED]Usei a <COLOR,155,255,155>Chave da Equipe de Manuten??o<CLEARCOLOR>.
+[IDS_PICKUP_M05_MAINTENANCEKEY]Chave da Equipe de Manutençäo
+[IDS_PICKUP_M05_MAINTENANCEKEY_DESC]Chave utilizada pela equipe de manutençäo para acessar áreas dentro e fora do hotel.
+[IDS_PICKUP_M05_MAINTENANCEKEY_GOT]Obtive a <COLOR,155,255,155>Chave da Equipe de Manutençäo<CLEARCOLOR>.
+[IDS_PICKUP_M05_MAINTENANCEKEY_USED]Usei a <COLOR,155,255,155>Chave da Equipe de Manutençäo<CLEARCOLOR>.
 [IDS_PICKUP_M05_DOORPIECE_1]Toluca Lake Postcard
 [IDS_PICKUP_M05_DOORPIECE_1_DESC]A postcard from Toluca Lake.
 [IDS_PICKUP_M05_DOORPIECE_1_GOT]I got the <COLOR,155,255,155>Toluca Lake Postcard<CLEARCOLOR>.
@@ -643,13 +643,13 @@
 [IDS_PICKUP_M05_DOORPIECE_3]Lakeside Amusement Park Postcard
 [IDS_PICKUP_M05_DOORPIECE_3_DESC]A postcard from Lakeside Amusement Park.
 [IDS_PICKUP_M05_DOORPIECE_3_GOT]I got the <COLOR,155,255,155>Lakeside Amusement Park Postcard<CLEARCOLOR>.
-[IDS_PICKUP_M05_206Key]Strange Key
-[IDS_PICKUP_M05_206Key_DESC]Hopefully this key will open the door to the room Josh is in.
-[IDS_PICKUP_M05_206Key_GOT]I got a <COLOR,155,255,155>Strange Key<CLEARCOLOR>.
-[IDS_PICKUP_M05_206Key_USE]I used the <COLOR,155,255,155>Strange Key<CLEARCOLOR>.
+[IDS_PICKUP_M05_206Key]Chave Estranha
+[IDS_PICKUP_M05_206Key_DESC]Com sorte, essa chave abrirá a porta em que o Josh está.
+[IDS_PICKUP_M05_206Key_GOT]Obtive a <COLOR,155,255,155>Chave Estranha<CLEARCOLOR>.
+[IDS_PICKUP_M05_206Key_USE]Usei a <COLOR,155,255,155>Chave Estranha<CLEARCOLOR>.
 [IDS_PICKUP_M05MAP]Grand Hotel Map
 [IDS_PICKUP_M05MAP_DESC]A map showing the Grand Hotel lobby and rooms, including the surrounding street areas. Useful for tourists.
-[IDS_PICKUP_M05MAP_GOT]I got the <COLOR,155,255,155>Grand Hotel Map<CLEARCOLOR>.
+[IDS_PICKUP_M05MAP_GOT]Obtive o mapa do <COLOR,155,255,155>Grand Hotel<CLEARCOLOR>.
 
 [IDS_PICKUP_M08_DOLLKEY]Small Key
 [IDS_PICKUP_M08_DOLLKEY_DESCRIPTION]A key that looks like it goes to a small case
