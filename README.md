@@ -40,12 +40,12 @@ E pronto, a tradução está instalada, assumindo o lugar da tradução para esp
 
 Os arquivos que estiverem marcados na lista estão 100% traduzidos e revisados:
 
-- [x] gen_dialogue
-- [x] m01_dialogue
-- [x] m02_dialogue
-- [x] m03_dialogue
-- [ ] m04_dialogue
-- [ ] m05_dialogue
+- [x] gen_dialogue (diálogos genéricos, alguns foram cortados do jogo)
+- [x] m01_dialogue (diálogos do começo do jogo)
+- [x] m02_dialogue (diálogos com a Juiza Holloway)
+- [x] m03_dialogue (diálogos com a mãe do Alex)
+- [ ] m04_dialogue (diálogos com Curtis e Elle na cidade)
+- [ ] m05_dialogue (diálogos com o prefeito Barlett)
 - [ ] m06_dialogue
 - [x] m07_dialogue
 - [x] m08_dialogue
