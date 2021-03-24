@@ -11,14 +11,14 @@ Infelizmente, devido a limitações do arquivo da fonte do jogo, a tradução n�
 
 ### Instalação
 
-Esse passo a passo considera que você COMPROU o jogo na plataforma Steam, que ele já está instalado no seu computador e foi iniciado pelo menos uma vez (independente de funcionar ou não).
+Esse passo a passo considera que você COMPROU o jogo na plataforma Steam, que ele já está instalado no seu computador e foi iniciado corretamente pelo menos uma vez.
 
 
-- Primeiro, instale o [Patch do unknownproject](https://unknownproject.github.io/silent_hill). Esse patch vai corrigir diversos problemas de otimização da versão de PC deste jogo.
+- Primeiro, instale o [Patch do unknownproject](https://unknownproject.github.io/silent_hill). Esse patch vai corrigir diversos problemas de otimização da versão de PC deste jogo. Caso seu jogo esteja com problemas para iniciar, talvez este patch corrija esse problema também.
 
 - Depois de instalar o patch, teste o jogo para ter certeza de que tudo está funcionando como deveria. Depois de testar, ative as legendas e feche o jogo.
 
-- Feche o jogo e navegue até a pasta **Steam\steamapps\common\Silent Hill Homecoming\Engine** - normalmente esta pasta está localizada no disco C, em Arquivos de Programas (ou Arquivos de Programas x86).
+- Com o jogo fechado, navegue até a pasta **Steam\steamapps\common\Silent Hill Homecoming\Engine** - normalmente esta pasta está localizada no disco C, em Arquivos de Programas (ou Arquivos de Programas x86).
 
 - Coloque o arquivo **default_pc.cfg** que está no ZIP baixado nesta pasta. 
 
@@ -28,7 +28,7 @@ Esse passo a passo considera que você COMPROU o jogo na plataforma Steam, que e
 
 - Copie os arquivos de tradução com final "SPA" para a pasta "backup". (caso você queira restaurar este idioma no futuro).
 
-- Agora copie os arquivos da pasta **pt-br** para a pasta **Steam\steamapps\common\Silent Hill Homecoming\Engine\gameinfo\strings**.
+- Agora copie os arquivos da pasta **pt-br** para a pasta **Steam\steamapps\common\Silent Hill Homecoming\Engine\gameinfo\strings** e sobrescreva caso peça.
 
 
 E pronto, a tradução está instalada, assumindo o lugar da tradução para espanhol. Quando o jogo iniciar, estará em português. :)
@@ -40,10 +40,10 @@ E pronto, a tradução está instalada, assumindo o lugar da tradução para esp
 
 Os arquivos que estiverem marcados na lista estão 100% traduzidos e revisados:
 
-- [ ] gen_dialogue
-- [ ] m01_dialogue
-- [ ] m02_dialogue
-- [ ] m03_dialogue
+- [x] gen_dialogue
+- [x] m01_dialogue
+- [x] m02_dialogue
+- [x] m03_dialogue
 - [ ] m04_dialogue
 - [ ] m05_dialogue
 - [ ] m06_dialogue
