@@ -69,7 +69,7 @@
 [IDS_SHELL_MISSION_FOUR_DESC]Cemitério
 [IDS_SHELL_MISSION_FIVE_DESC]Hotel Abandonado
 [IDS_SHELL_MISSION_SIX_DESC]Revisitando a Cidade Fantasma
-[IDS_SHELL_MISSION_SEVEN_DESC]Descida para o... Inférno?
+[IDS_SHELL_MISSION_SEVEN_DESC]Descida para o... Inferno?
 [IDS_SHELL_MISSION_EIGHT_DESC]Consultório do Doutor
 [IDS_SHELL_MISSION_NINE_DESC]O inferno tomou tudo
 [IDS_SHELL_MISSION_TEN_DESC]Silent Hill
@@ -80,8 +80,8 @@
 [IDS_SHELL_MISSION_FOURTEEN_DESC]O Lar
 
 ###LEGAL SCREEN TEXT
-[IDS_SHELL_LEGAL_SCREEN_TEXT]?2008 Konami Digital Entertainment, Inc.  ?1999 Konami Digital Entertainment Co., Ltd. Todos os direitos reservados.  "Silent Hill" é uma marca registrada da Konami Digital Entertainment Co., Ltd. KONAMI é uma marca registrada da KONAMI CORPORATION.  Silent Hill: Homecoming usa Havok ?1999-2008. Havok.com Inc. (ou licenciados). Todos os direitos reservados. Detalhes em www.havok.com
-[IDS_SHELL_LEGAL_SCREEN_TEXT_2]Desenvolvido pela Double Helix, uma divisäo da Foundation 9 Entertainment. O nome "Double Helix" e logotipo säo marcas registradas da Foundation 9 Entertainment. Traduçäo e Localizaçäo feita por Renan Mayrinck (Grisson), sem fins lucrativos.
+[IDS_SHELL_LEGAL_SCREEN_TEXT](c)2008 Konami Digital Entertainment, Inc.  (c)1999 Konami Digital Entertainment Co., Ltd. Todos os direitos reservados.  "Silent Hill" é uma marca registrada da Konami Digital Entertainment Co., Ltd. KONAMI é uma marca registrada da KONAMI CORPORATION.  Silent Hill: Homecoming usa Havok (c)1999-2008. Havok.com Inc. (ou licenciados). Todos os direitos reservados. Detalhes em www.havok.com
+[IDS_SHELL_LEGAL_SCREEN_TEXT_2]Desenvolvido pela Double Helix, uma divisäo da Foundation 9 Entertainment. O nome "Double Helix" e logotipo säo marcas registradas da Foundation 9 Entertainment. Traduçäo e Localizaçäo feita por GRISS0N (twitch.tv/griss0n), sem fins lucrativos.
 
 ###MENU TITLES
 [IDS_SHELL_INVENTORY_WHEEL_TITLE]INVENTÁRIO
@@ -163,7 +163,7 @@
 [IDS_SHELL_OPTIONS]Opçöes
 [IDS_SHELL_CREDITS]Créditos
 [IDS_SHELL_NORMAL]Padräo
-[IDS_SHELL_NORMAL_MESSAGE]A dificuldade na qual o jogo foi pensado inicialmente. Todos os recursos são equilibrados durante a jornada.
+[IDS_SHELL_NORMAL_MESSAGE]A dificuldade na qual o jogo foi pensado inicialmente. Todos os recursos säo equilibrados durante a jornada.
 [IDS_SHELL_HARD]Intenso
 [IDS_SHELL_HARD_MESSAGE]Para os já experiêntes. Nesta dificuldade, os monstros säo mais fortes e resistentes e a muniçäo é bem escassa.
 
@@ -201,7 +201,7 @@
 [IDS_SHELL_LOADING_EMPTY_PS3]Este espaço näo tem dados para carregar...
 [IDS_SHELL_LOADING_EMPTY_XBOX360]Este espaço näo tem dados para carregar...
 
-[IDS_SHELL_SAVE_SUCCESSFUL]Salvamento Concluido!
+[IDS_SHELL_SAVE_SUCCESSFUL]Seu progresso foi salvo! (mas você ainda näo...)
 
 [IDS_SHELL_NOT_SIGNED_IN_SAVING]You must sign in before accessing this feature.  Would you like to continue without saving?
 [IDS_SHELL_NOT_SIGNED_IN_LOADING]You must sign in before accessing this feature.  Would you like to continue without loading?
@@ -222,7 +222,7 @@
 
 [IDS_SHELL_NEW_SAVE_CONTENT]Novo progresso salvo
 
-[IDS_SHELL_FIRST_TIME_SAVE_WARNING]While the HDD access indicator is flashing, data is being saved. Do not switch off the power during this time.
+[IDS_SHELL_FIRST_TIME_SAVE_WARNING]Enquanto o indicador de acesso do HDD estiver piscando, dados estäo sendo salvos. Näo desligue a energia enquanto isso estiver acontecendo.
 
 [IDS_SHELL_DIFFICULTY_SAVE]Dificuldade:
 
@@ -276,7 +276,7 @@
 
 
 ###PC CONTROLLER CONFIG MENU
-[IDS_SHELL_USE_MANDK]Usar Teclado e Mouse
+[IDS_SHELL_USE_MANDK]Usar Teclado/Mouse
 [IDS_SHELL_USE_JOYSTICK]Usar Controle
 [IDS_SHELL_MOVE_FORWARD]P/ Frente
 [IDS_SHELL_MOVE_BACK]P/ Trás
@@ -344,7 +344,7 @@
 ###MISC CONFIGURATION KEYS
 [IDS_KEYBOARD]Teclado
 [IDS_MOUSE]Mouse
-[IDS_CONTROLLER]controle
+[IDS_CONTROLLER]Controle
 [IDS_BUTTON]Botäo
 
 
@@ -440,7 +440,7 @@
 ### DIALOG TREE SPEAKERS
 [IDS_SPEAKER_ALX]ALEX
 [IDS_SPEAKER_JOS]JOSHUA
-[IDS_SPEAKER_JUD]JUIZA
+[IDS_SPEAKER_JUD]HOLLOWAY
 [IDS_SPEAKER_LIL]LILLIAN
 [IDS_SPEAKER_ELE]ELLE
 [IDS_SPEAKER_CUR]CURTIS
@@ -468,112 +468,112 @@
 [IDS_PICKUP_TAKE]<COMMAND_KICK> Obter
 [IDS_PICKUP_USE]<COMMAND_KICK> Usar
 [IDS_PICKUP_CANT_CARRY_ANY_MORE] Sem espaço para carregar mais disso.
-[IDS_PICKUP_DEFAULT]Obtive o Item.
-[IDS_PICKUP_BUNNY1]Obtive o Coelhinho.
-[IDS_PICKUP_DRAWING]Obtive um <COLOR,155,240,155>Desenho de Crian?a<CLEARCOLOR>.
-[IDS_PICKUP_PILL_BOTTLE_GOT]Obtive um <COLOR,0,0,255>Remédio para Dor<CLEARCOLOR>.
-[IDS_PICKUP_SUTURE_KIT_GOT]Obtive um <COLOR,0,0,255>Kit de Sutura<CLEARCOLOR>.
-[IDS_PICKUP_XRAYPLATE_GOT]Obtive uma <COLOR,0,0,255>Parte de Raio-X<CLEARCOLOR>.
+[IDS_PICKUP_DEFAULT]Obteve o Item.
+[IDS_PICKUP_BUNNY1]Obteve o Coelhinho.
+[IDS_PICKUP_DRAWING]Obteve um <COLOR,155,240,155>Desenho de Criança<CLEARCOLOR>.
+[IDS_PICKUP_PILL_BOTTLE_GOT]Obteve um <COLOR,0,0,255>Remédio para Dor<CLEARCOLOR>.
+[IDS_PICKUP_SUTURE_KIT_GOT]Obteve um <COLOR,0,0,255>Kit de Sutura<CLEARCOLOR>.
+[IDS_PICKUP_XRAYPLATE_GOT]Obteve uma <COLOR,0,0,255>Parte de Raio-X<CLEARCOLOR>.
 
 [IDS_PICKUP_HEALTHDRINK]Revigorante
 [IDS_PICKUP_HEALTHDRINK_DESC]O rótulo diz: "...Está cheio de nutrientes para garantir uma saúde melhor."
-[IDS_PICKUP_HEALTHDRINK_GOT]Obtive um <COLOR,155,255,155>Revigorante<CLEARCOLOR>.
+[IDS_PICKUP_HEALTHDRINK_GOT]Obteve um <COLOR,155,255,155>Revigorante<CLEARCOLOR>.
 
 [IDS_PICKUP_FIRSTAID]Kit de Primeiros Socorros
 [IDS_PICKUP_FIRSTAID_DESC]Eu posso recuperar ferimentos mais graves com isso...
-[IDS_PICKUP_FIRSTAID_GOT]Obtive um <COLOR,155,255,155>Kit de Primeiros Socorros<CLEARCOLOR>.
+[IDS_PICKUP_FIRSTAID_GOT]Obteve um <COLOR,155,255,155>Kit de Primeiros Socorros<CLEARCOLOR>.
 
 [IDS_PICKUP_SERUM]Droga Injetável
 [IDS_PICKUP_SERUM_DESC]Uma droga experimental que vai melhorar minha saúde... Eu espero...
-[IDS_PICKUP_SERUM_GOT]Obtive uma <COLOR,155,255,155>Droga Injetável<CLEARCOLOR>.
+[IDS_PICKUP_SERUM_GOT]Obteve uma <COLOR,155,255,155>Droga Injetável<CLEARCOLOR>.
 
 [IDS_PICKUP_KNIFE]Faca de Combate
 [IDS_PICKUP_KNIFE_DESC]Está um pouco enferrujada e desamolada, mas ainda parece forte.
-[IDS_PICKUP_KNIFE_PICKUP]Obtive uma <COLOR,155,255,155>Faca de Combate<CLEARCOLOR>.
+[IDS_PICKUP_KNIFE_PICKUP]Obteve uma <COLOR,155,255,155>Faca de Combate<CLEARCOLOR>.
 
 [IDS_PICKUP_CEREMONIAL_DAGGER]Adaga Cerimonial
 [IDS_PICKUP_CEREMONIAL_DAGGER_DESC]Uma adaga com marcas estranhas. Eu tenho certeza que já vi ela antes...
-[IDS_PICKUP_CEREMONIAL_DAGGER_GOT]Obtive uma <COLOR,175,0,100>Adaga Cerimonial<CLEARCOLOR>.
+[IDS_PICKUP_CEREMONIAL_DAGGER_GOT]Obteve uma <COLOR,175,0,100>Adaga Cerimonial<CLEARCOLOR>.
 
 [IDS_PICKUP_PIPE]Cano de Ferro
 [IDS_PICKUP_PIPE_DESC]Um pedaço de Cano de Ferro. Está sujo e enferrujado... Pelo menos é fácil de manusear.
-[IDS_PICKUP_PIPE_PICKUP]Obtive um <COLOR,155,255,155>Cano de Ferro<CLEARCOLOR>.
+[IDS_PICKUP_PIPE_PICKUP]Obteve um <COLOR,155,255,155>Cano de Ferro<CLEARCOLOR>.
 
 [IDS_PICKUP_CROWBAR]Pé-de-Cabra
 [IDS_PICKUP_CROWBAR_DESC]Um objeto que é pau pra toda obra. Com certeza é mais pesado e mais forte que o cano...
-[IDS_PICKUP_CROWBAR_PICKUP]Obtive um <COLOR,155,255,155>Pé-de-Cabra<CLEARCOLOR>.
+[IDS_PICKUP_CROWBAR_PICKUP]Obteve um <COLOR,155,255,155>Pé-de-Cabra<CLEARCOLOR>.
 
 [IDS_PICKUP_SAW]Serra Circular
 [IDS_PICKUP_SAW_DESC]Uma serra circular portátil movida a gasolina. Isso poderia facilmente fazer picadinho de alguém.
-[IDS_PICKUP_SAW_PICKUP]Obtive uma <COLOR,155,255,155>Serra Circular<CLEARCOLOR>.
+[IDS_PICKUP_SAW_PICKUP]Obteve uma <COLOR,155,255,155>Serra Circular<CLEARCOLOR>.
 
 [IDS_PICKUP_AXE]Machado de Incêncio
-[IDS_PICKUP_AXE_DESC]Machado padrão do corpo de bombeiros. Eu posso usar ele para cortar madeiras e quebrar obstáculos.
-[IDS_PICKUP_AXE_GOT]Obtive um <COLOR,155,255,155>Machado de Incêncio<CLEARCOLOR>.
+[IDS_PICKUP_AXE_DESC]Machado padräo do corpo de bombeiros. Eu posso usar ele para cortar madeiras e quebrar obstáculos.
+[IDS_PICKUP_AXE_GOT]Obteve um <COLOR,155,255,155>Machado de Incêncio<CLEARCOLOR>.
 
 [IDS_PICKUP_PULASKI_AXE]Machado Pulaski
 [IDS_PICKUP_PULASKI_AXE_DESC]Também conhecido como "Machado Picareta" ele é metade Machado, metade Picareta... Com certeza é melhor do que o Machado de Incêncio...
-[IDS_PICKUP_PULASKI_AXE_GOT]Obtive um <COLOR,155,255,155>Machado Pulaski<CLEARCOLOR>.
+[IDS_PICKUP_PULASKI_AXE_GOT]Obteve um <COLOR,155,255,155>Machado Pulaski<CLEARCOLOR>.
 
 [IDS_PICKUP_PISTOL]Pistola MK-23
 [IDS_PICKUP_PISTOL_DESC]A pistola 9mm que Curtis me deu. Está funcionando e é fácil de usar.
-[IDS_PICKUP_PISTOL_PICKUP]Obtive uma <COLOR,155,255,155>Pistola MK-23<CLEARCOLOR>.
+[IDS_PICKUP_PISTOL_PICKUP]Obteve uma <COLOR,155,255,155>Pistola MK-23<CLEARCOLOR>.
 
 [IDS_PICKUP_RIFLE]M-14 A.R.
 [IDS_PICKUP_RIFLE_DESC]Um rifle de assalto. Atira mais devagar, mas tem mais alcance e poder de fogo que qualquer pistola.
-[IDS_PICKUP_RIFLE_PICKUP]Obtive uma <COLOR,155,255,155>M-14 A.R.<CLEARCOLOR>.
+[IDS_PICKUP_RIFLE_PICKUP]Obteve uma <COLOR,155,255,155>M-14 A.R.<CLEARCOLOR>.
 
 [IDS_PICKUP_DOLL_FULL]Boneca da Scarlet
 [IDS_PICKUP_DOLL_FULL_DESC]Acho que essa era a boneca favorita dela... Parece já ter estado em melhores condiçöes...
-[IDS_PICKUP_DOLL_FULL_PICKUP]Obtive a <COLOR,155,255,155>Boneca da Scarlet<CLEARCOLOR>.
+[IDS_PICKUP_DOLL_FULL_PICKUP]Obteve a <COLOR,155,255,155>Boneca da Scarlet<CLEARCOLOR>.
 
 [IDS_PICKUP_SHOTGUN]Escopeta Calibre-12
 [IDS_PICKUP_SHOTGUN_DESC]É devastadora de perto, mas atira e recarrega lentamente...
-[IDS_PICKUP_SHOTGUN_PICKUP]Obtive uma <COLOR,155,255,155>Escopeta Calibre-12<CLEARCOLOR>.
+[IDS_PICKUP_SHOTGUN_PICKUP]Obteve uma <COLOR,155,255,155>Escopeta Calibre-12<CLEARCOLOR>.
 
 [IDS_PICKUP_LASER_PISTOL]Pistola Laser
 [IDS_PICKUP_LASER_PISTOL_DESC]É pequena mas MUITO efetiva. De onde veio isso? Será que os Aliens deixaram isso aqui?
-[IDS_PICKUP_LASER_PISTOL_PICKUP]Obtive uma <COLOR,155,255,155>Pistola Laser<CLEARCOLOR>.
+[IDS_PICKUP_LASER_PISTOL_PICKUP]Obteve uma <COLOR,155,255,155>Pistola Laser<CLEARCOLOR>.
 
 [IDS_PICKUP_REVOLVER]Revolver Antigo
-[IDS_PICKUP_REVOLVER_DESC]Obtive com a minha mäe... O cilindro está enferrujado e näo gira. Seria uma arma muito boa, se fosse reparada...
-[IDS_PICKUP_REVOLVER_GOT]Obtive um <COLOR,155,255,155>Revolver Antigo<CLEARCOLOR>.
+[IDS_PICKUP_REVOLVER_DESC]Obteve com a minha mäe... O cilindro está enferrujado e näo gira. Seria uma arma muito boa, se funcionasse...
+[IDS_PICKUP_REVOLVER_GOT]Obteve um <COLOR,155,255,155>Revolver Antigo<CLEARCOLOR>.
 
 [IDS_PICKUP_PISTOL_AMMO]Caixa de Muniçäo de Pistola
 [IDS_PICKUP_PISTOL_AMMO_DESC]Balas de 9mm para utilizar na pistola.
-[IDS_PICKUP_PISTOL_AMMO_GOT]Obtive algumas <COLOR,155,255,155>Muniçöes de Pistola<CLEARCOLOR>.
+[IDS_PICKUP_PISTOL_AMMO_GOT]Obteve algumas <COLOR,155,255,155>Muniçöes de Pistola<CLEARCOLOR>.
 [IDS_PICKUP_PISTOLUPGRADE]Pistola Cromada.
 [IDS_PICKUP_PISTOLUPGRADE_AMMO_DESC]Tem dano aumentado e suporta mais muniçäo do que qualquer pistola comum.
-[IDS_PICKUP_PISTOLUPGRADE_AMMO_GOT]Obtive uma<COLOR,155,255,155>Pistola Cromada<CLEARCOLOR>.
+[IDS_PICKUP_PISTOLUPGRADE_AMMO_GOT]Obteve uma<COLOR,155,255,155>Pistola Cromada<CLEARCOLOR>.
 
 [IDS_PICKUP_SHOTGUN_AMMO]Caixa de Muniçäo de Escopeta
 [IDS_PICKUP_SHOTGUN_AMMO_DESC]Algumas balas de escopeta. Servem para qualquer modelo.
-[IDS_PICKUP_SHOTGUN_AMMO_GOT]Obtive algumas <COLOR,155,255,155>Balas de Escopeta<CLEARCOLOR>.
-[IDS_PICKUP_SHOTGUNUPGRADE]A 'BlueSteel' Shotgun.
-[IDS_PICKUP_SHOTGUNUPGRADE_AMMO_DESC]Has increased damage and holds more ammunition over the regular Shotgun.
-[IDS_PICKUP_SHOTGUNUPGRADE_AMMO_GOT]I got <COLOR,155,255,155>the 'BlueSteel' Shotgun<CLEARCOLOR>.
+[IDS_PICKUP_SHOTGUN_AMMO_GOT]Obteve algumas <COLOR,155,255,155>Balas de Escopeta<CLEARCOLOR>.
+[IDS_PICKUP_SHOTGUNUPGRADE]A Escopeta BlueSteel.
+[IDS_PICKUP_SHOTGUNUPGRADE_AMMO_DESC]Tem poder de fogo aumentado e comporta mais muniçäo que as escopetas normais.
+[IDS_PICKUP_SHOTGUNUPGRADE_AMMO_GOT]Obteve a <COLOR,155,255,155>Escopeta Bluesteel<CLEARCOLOR>.
 
-[IDS_PICKUP_RIFLE_AMMO]Caixa de Muni??o de Rifle
-[IDS_PICKUP_RIFLE_AMMO_DESC]Muni??o .308 Winchester, utilizadas em Rifles de Ca?a.
-[IDS_PICKUP_RIFLE_AMMO_GOT]I got <COLOR,155,255,155>Rifle Ammunition <CLEARCOLOR>.
-[IDS_PICKUP_RIFLEUPGRADE]A Police Marksman Rifle.
-[IDS_PICKUP_RIFLEUPGRADE_AMMO_DESC]Has increased damage and holds more ammunition over the regular rifle.
-[IDS_PICKUP_RIFLEUPGRADE_AMMO_GOT]I got <COLOR,155,255,155>a Police Marksman Rifle<CLEARCOLOR>.
+[IDS_PICKUP_RIFLE_AMMO]Caixa de Muniçäo de Rifle
+[IDS_PICKUP_RIFLE_AMMO_DESC]Muniçäo .308 Winchester, utilizadas em Rifles de Caça.
+[IDS_PICKUP_RIFLE_AMMO_GOT]Obteve <COLOR,155,255,155>Muniçöes de Rifle<CLEARCOLOR>.
+[IDS_PICKUP_RIFLEUPGRADE]O Rifle de caça da Policia.
+[IDS_PICKUP_RIFLEUPGRADE_AMMO_DESC]Tem poder de fogo aumentado e comporta mais muniçäo que or rifles normais.
+[IDS_PICKUP_RIFLEUPGRADE_AMMO_GOT]Obteve o <COLOR,155,255,155>Rifle da Policia<CLEARCOLOR>.
 
 [IDS_PICKUP_WALKIETALKIE]Walkie-Talkie
 [IDS_PICKUP_WALKIETALKIE_DESC]Utilizado para comunicaçäo.
-[IDS_PICKUP_WALKIETALKIE_GOT]Obtive um <COLOR,155,255,155>Walkie-Talkie<CLEARCOLOR>.
+[IDS_PICKUP_WALKIETALKIE_GOT]Obteve um <COLOR,155,255,155>Walkie-Talkie<CLEARCOLOR>.
 
 [IDS_PICKUP_WEAPONS_CABINET_KEY]Chave do Armário de Armas
 [IDS_PICKUP_WEAPONS_CABINET_KEY_DESC]Essa chave foi beeeeem utilizada...
 [IDS_PICKUP_WEAPONS_XRAYPLATE1]Filme de Raio-X (A)
-[IDS_PICKUP_WEAPONS_XRAYPLATE1_DESC]Tem algo a mais nesse filme, mas é difícil de ler...
+[IDS_PICKUP_WEAPONS_XRAYPLATE1_DESC]Tem algo a mais nesse filme, mas é difícil de ler... Falta uma metade.
 [IDS_PICKUP_WEAPONS_XRAYPLATE2]Filme de Raio-X (B)
-[IDS_PICKUP_WEAPONS_XRAYPLATE2_DESC]Tem algo a mais nesse filme, mas eu ainda näo entendi...
+[IDS_PICKUP_WEAPONS_XRAYPLATE2_DESC]Tem algo a mais nesse filme, mas eu ainda näo entendi... Talvez juntando as duas partes...
 
 [IDS_PICKUP_FLASHLIGHT]Lanterna
 [IDS_PICKUP_FLASHLIGHT_DESC]Eu dei isso pro Joshua tem tanto tempo...
-[IDS_PICKUP_FLASHLIGHT_GOT]Obtive uma <COLOR,155,255,155>Lanterna<CLEARCOLOR>.
+[IDS_PICKUP_FLASHLIGHT_GOT]Obteve uma <COLOR,155,255,155>Lanterna<CLEARCOLOR>.
 
 
 ###Level Pickups
@@ -586,120 +586,120 @@
 
 [IDS_PICKUP_M02_GASCAN]Tanque de Gasolina (vazio)
 [IDS_PICKUP_M02_GASCAN_DESC]Um tanque de gasolina vazio.
-[IDS_PICKUP_M02_GASCAN_GOT]Obtive um <COLOR,155,255,155>Tanque de Gasolina (vazio)<CLEARCOLOR>.
+[IDS_PICKUP_M02_GASCAN_GOT]Obteve um <COLOR,155,255,155>Tanque de Gasolina (vazio)<CLEARCOLOR>.
 
 [IDS_PICKUP_M02_GASCAN_FULL]Tanque de Gasolina (cheio)
 [IDS_PICKUP_M02_GASCAN_FULL_DESC]O tanque agora está cheio com a gasolina que tirei daquele caminhäo.
-[IDS_PICKUP_M02_GASCAN_FULL_GOT]Obtive um <COLOR,155,255,155>Tanque de Gasolina (cheio)<CLEARCOLOR>.
-[IDS_PICKUP_M02_GASCAN_FULL_USE]Usei o <COLOR,155,255,155>Tanque de Gasolina<CLEARCOLOR>.
+[IDS_PICKUP_M02_GASCAN_FULL_GOT]Obteve um <COLOR,155,255,155>Tanque de Gasolina (cheio)<CLEARCOLOR>.
+[IDS_PICKUP_M02_GASCAN_FULL_USE]Usou o <COLOR,155,255,155>Tanque de Gasolina<CLEARCOLOR>.
 
 [IDS_PICKUP_M03_MAP_DESC]Parece o mapa da minha casa... Foi feito com giz de cera verde.
-[IDS_PICKUP_M03_MAP_GOT]Obtive o <COLOR,155,255,155>Mapa da Casa<CLEARCOLOR>.
+[IDS_PICKUP_M03_MAP_GOT]Obteve o <COLOR,155,255,155>Mapa da Casa<CLEARCOLOR>.
 
 [IDS_PICKUP_M03_LINEAGE]História da Família Sheperd
-[IDS_PICKUP_M03_LINEAGE_DESC]Esse livro documenta a história de várias gerações da minha família.
-[IDS_PICKUP_M03_LINEAGE_GOT]Obtive um livro com a <COLOR,155,255,155>História da Família Sheperd<CLEARCOLOR>.
+[IDS_PICKUP_M03_LINEAGE_DESC]Esse livro documenta a história de várias geraçöes da minha família.
+[IDS_PICKUP_M03_LINEAGE_GOT]Obteve um livro com a <COLOR,155,255,155>História da Família Sheperd<CLEARCOLOR>.
 
 [IDS_PICKUP_M03_PHOTOALBUM]Album de Fotos
 [IDS_PICKUP_M03_PHOTOALBUM_DESC]O antigo album de fotos do Joshua. Tantas memórias estavam aqui...
-[IDS_PICKUP_M03_PHOTOALBUM_GOT]Obtive um <COLOR,155,255,155>Album de Fotos<CLEARCOLOR>.
+[IDS_PICKUP_M03_PHOTOALBUM_GOT]Obteve um <COLOR,155,255,155>Album de Fotos<CLEARCOLOR>.
 
 [IDS_PICKUP_M03_CASSETTE]Fita Cassette
 [IDS_PICKUP_M03_CASSETTE_DESC]Uma Fita Cassette antiga. O nome foi riscado...
-[IDS_PICKUP_M03_CASSETTE_GOT]Obtive uma <COLOR,155,255,155>Fita Cassette<CLEARCOLOR>.
-[IDS_PICKUP_M03_CASSETTE_USED]Eu usei a <COLOR,155,255,155>Fita Cassette<CLEARCOLOR>.
+[IDS_PICKUP_M03_CASSETTE_GOT]Obteve uma <COLOR,155,255,155>Fita Cassette<CLEARCOLOR>.
+[IDS_PICKUP_M03_CASSETTE_USED]Eu Usou a <COLOR,155,255,155>Fita Cassette<CLEARCOLOR>.
 
 [IDS_PICKUP_M03_GARAGEREMOTE]Controle da Garagem.
 [IDS_PICKUP_M03_GARAGEREMOTE_DESC]O controle remóto que controla a porta da garagem. O Papai sempre perdia isso...
-[IDS_PICKUP_M03_GARAGEREMOTE_GOT]Obtive o <COLOR,155,255,155>Controle da Garagem<CLEARCOLOR>.
+[IDS_PICKUP_M03_GARAGEREMOTE_GOT]Obteve o <COLOR,155,255,155>Controle da Garagem<CLEARCOLOR>.
 
-[IDS_PICKUP_M04_GATEPUZZLE_1]Odd Stone Plate
-[IDS_PICKUP_M04_GATEPUZZLE_1_DESC]Half a circular stone plate with a partial image of a tree embossed on the surface.
-[IDS_PICKUP_M04_GATEPUZZLE_1_GOT]I got an <COLOR,155,255,155>Odd Stone Plate<CLEARCOLOR>.
-[IDS_PICKUP_M04_GATEPUZZLE_1_PLACED]I placed the <COLOR,155,255,155>Odd Stone Plate<CLEARCOLOR>.
-[IDS_PICKUP_M04_GATEPUZZLE_2]Strange Stone Plate
-[IDS_PICKUP_M04_GATEPUZZLE_2_DESC]A stone plate with an image of a half tree on it.
-[IDS_PICKUP_M04_GATEPUZZLE_2_GOT]I got a <COLOR,155,255,155>Strange Stone Plate<CLEARCOLOR>.
-[IDS_PICKUP_M04_GATEPUZZLE_2_PLACED]I placed the <COLOR,155,255,155>Strange Stone Plate<CLEARCOLOR>.
+[IDS_PICKUP_M04_GATEPUZZLE_1]Placa de Pedra Estranha (A)
+[IDS_PICKUP_M04_GATEPUZZLE_1_DESC]Metade de uma placa de pedra estranha com metade de uma arvore entalhada na superficie.
+[IDS_PICKUP_M04_GATEPUZZLE_1_GOT]Obteve uma <COLOR,155,255,155>Placa de Pedra Estranha<CLEARCOLOR>.
+[IDS_PICKUP_M04_GATEPUZZLE_1_PLACED]Coloquei a <COLOR,155,255,155>Placa de Pedra Estranha<CLEARCOLOR> no lugar.
+[IDS_PICKUP_M04_GATEPUZZLE_2]Placa de Pedra Estranha (B)
+[IDS_PICKUP_M04_GATEPUZZLE_2_DESC]Metade de uma placa de pedra estranha com metade de uma arvore entalhada na superficie.
+[IDS_PICKUP_M04_GATEPUZZLE_2_GOT]Obteve uma <COLOR,155,255,155>Placa de Pedra Estranha<CLEARCOLOR>.
+[IDS_PICKUP_M04_GATEPUZZLE_2_PLACED]Coloquei a <COLOR,155,255,155>Placa de Pedra Estranha<CLEARCOLOR> no lugar.
 [IDS_PICKUP_M04_BROKEN_WATCH]Relógio quebrado
 [IDS_PICKUP_M04_BROKEN_WATCH_DESC]Tem algo escrito na tampa do relógio... Diz: "Me perdoe".
 [IDS_PICKUP_M04MAP]Mapa do Cemitério Rose Heights
 [IDS_PICKUP_M04MAP_DESC]O mapa completo do cemitério Rose Heights.
-[IDS_PICKUP_M04MAP_GOT]Obtive o mapa do <COLOR,155,255,155>Cemitério Rose Heights<CLEARCOLOR>.
+[IDS_PICKUP_M04MAP_GOT]Obteve o mapa do <COLOR,155,255,155>Cemitério Rose Heights<CLEARCOLOR>.
 [IDS_PICKUP_M04_JUNKYARD_MAP]Mapa do Ferro-Velho
 [IDS_PICKUP_M04_JUNKYARD_MAP_DESC]Um mapa do ferro-velho.
-[IDS_PICKUP_M04_JUNKYARD_MAP_GOT]Obtive o mapa do <COLOR,155,255,155>Ferro-Velho<CLEARCOLOR>.
+[IDS_PICKUP_M04_JUNKYARD_MAP_GOT]Obteve o mapa do <COLOR,155,255,155>Ferro-Velho<CLEARCOLOR>.
 
 [IDS_PICKUP_M05_MAINTENANCEKEY]Chave da Equipe de Manutençäo
 [IDS_PICKUP_M05_MAINTENANCEKEY_DESC]Chave utilizada pela equipe de manutençäo para acessar áreas dentro e fora do hotel.
-[IDS_PICKUP_M05_MAINTENANCEKEY_GOT]Obtive a <COLOR,155,255,155>Chave da Equipe de Manutençäo<CLEARCOLOR>.
-[IDS_PICKUP_M05_MAINTENANCEKEY_USED]Usei a <COLOR,155,255,155>Chave da Equipe de Manutençäo<CLEARCOLOR>.
-[IDS_PICKUP_M05_DOORPIECE_1]Toluca Lake Postcard
-[IDS_PICKUP_M05_DOORPIECE_1_DESC]A postcard from Toluca Lake.
-[IDS_PICKUP_M05_DOORPIECE_1_GOT]I got the <COLOR,155,255,155>Toluca Lake Postcard<CLEARCOLOR>.
-[IDS_PICKUP_M05_DOORPIECE_2]Alchemilla Postcard
-[IDS_PICKUP_M05_DOORPIECE_2_DESC]A postcard from Alchemilla Hospital.
-[IDS_PICKUP_M05_DOORPIECE_2_GOT]I got the <COLOR,155,255,155>Alchemilla Postcard<CLEARCOLOR>.
-[IDS_PICKUP_M05_DOORPIECE_3]Lakeside Amusement Park Postcard
-[IDS_PICKUP_M05_DOORPIECE_3_DESC]A postcard from Lakeside Amusement Park.
-[IDS_PICKUP_M05_DOORPIECE_3_GOT]I got the <COLOR,155,255,155>Lakeside Amusement Park Postcard<CLEARCOLOR>.
+[IDS_PICKUP_M05_MAINTENANCEKEY_GOT]Obteve a <COLOR,155,255,155>Chave da Equipe de Manutençäo<CLEARCOLOR>.
+[IDS_PICKUP_M05_MAINTENANCEKEY_USED]Usou a <COLOR,155,255,155>Chave da Equipe de Manutençäo<CLEARCOLOR>.
+[IDS_PICKUP_M05_DOORPIECE_1]Cartäo Postal do Lago Toluca
+[IDS_PICKUP_M05_DOORPIECE_1_DESC]Um Cartäo Postal do Lago Toluca, famoso na regiäo de Silent Hill.
+[IDS_PICKUP_M05_DOORPIECE_1_GOT]Obteve o <COLOR,155,255,155>Cartäo Postal do Lago Toluca<CLEARCOLOR>.
+[IDS_PICKUP_M05_DOORPIECE_2]Cartäo Postal do Hospital Alchemilla
+[IDS_PICKUP_M05_DOORPIECE_2_DESC]O Cartäo Postal do Hospital Alchemilla.
+[IDS_PICKUP_M05_DOORPIECE_2_GOT]Obteve o <COLOR,155,255,155>Cartäo Postal do Hospital Alchemilla<CLEARCOLOR>.
+[IDS_PICKUP_M05_DOORPIECE_3]Cartäo Postal do Parque Lakeside
+[IDS_PICKUP_M05_DOORPIECE_3_DESC]Um Cartäo Postal do Parque de diversöes Lakeside.
+[IDS_PICKUP_M05_DOORPIECE_3_GOT]Obteve o <COLOR,155,255,155>Cartäo Postal do Parque Lakeside<CLEARCOLOR>.
 [IDS_PICKUP_M05_206Key]Chave Estranha
 [IDS_PICKUP_M05_206Key_DESC]Com sorte, essa chave abrirá a porta em que o Josh está.
-[IDS_PICKUP_M05_206Key_GOT]Obtive a <COLOR,155,255,155>Chave Estranha<CLEARCOLOR>.
-[IDS_PICKUP_M05_206Key_USE]Usei a <COLOR,155,255,155>Chave Estranha<CLEARCOLOR>.
-[IDS_PICKUP_M05MAP]Grand Hotel Map
-[IDS_PICKUP_M05MAP_DESC]A map showing the Grand Hotel lobby and rooms, including the surrounding street areas. Useful for tourists.
-[IDS_PICKUP_M05MAP_GOT]Obtive o mapa do <COLOR,155,255,155>Grand Hotel<CLEARCOLOR>.
+[IDS_PICKUP_M05_206Key_GOT]Obteve a <COLOR,155,255,155>Chave Estranha<CLEARCOLOR>.
+[IDS_PICKUP_M05_206Key_USE]Usou a <COLOR,155,255,155>Chave Estranha<CLEARCOLOR>.
+[IDS_PICKUP_M05MAP]Mapa do Grand Hotel
+[IDS_PICKUP_M05MAP_DESC]Um mapa mostrando o saguäo e as salas do hotel, além de algumas ruas nas imediaçöes. Ideal para turistas.
+[IDS_PICKUP_M05MAP_GOT]Obteve o mapa do <COLOR,155,255,155>Grand Hotel<CLEARCOLOR>.
 
-[IDS_PICKUP_M08_DOLLKEY]Small Key
-[IDS_PICKUP_M08_DOLLKEY_DESCRIPTION]A key that looks like it goes to a small case
-[IDS_PICKUP_M08_DOLLKEY_GOT]I got the <COLOR,155,255,155>Small Key<CLEARCOLOR>.
-[IDS_PICKUP_M08_LODGEKEY]Founders Key
-[IDS_PICKUP_M08_LODGEKEY_DESCRIPTION]A bronze key with a cross into the head piece.
-[IDS_PICKUP_M08_LODGEKEY_GOT]I got a <COLOR,155,255,155>Founders Key<CLEARCOLOR>.
-[IDS_PICKUP_M08_KEYBARTLETT]Bartlett Key
+[IDS_PICKUP_M08_DOLLKEY]Chave pequena
+[IDS_PICKUP_M08_DOLLKEY_DESCRIPTION]Uma chave pequena que parece abrir algo igualmente pequeno.
+[IDS_PICKUP_M08_DOLLKEY_GOT]Obteve a <COLOR,155,255,155>Chave Pequena<CLEARCOLOR>.
+[IDS_PICKUP_M08_LODGEKEY]Chave dos Fundadores
+[IDS_PICKUP_M08_LODGEKEY_DESCRIPTION]Uma chave de bronze com uma cruz na cabeça.
+[IDS_PICKUP_M08_LODGEKEY_GOT]Obteve a <COLOR,155,255,155>Chave dos Fundadores<CLEARCOLOR>.
+[IDS_PICKUP_M08_KEYBARTLETT]Chave dos Barlett
 [IDS_PICKUP_M08_KEYBARTLETT_DESCRIPTION]A bronze key with a tree carved into the head piece.
-[IDS_PICKUP_M08_KEYFITCH]Fitch Key
+[IDS_PICKUP_M08_KEYFITCH]Chave dos Fitch
 [IDS_PICKUP_M08_KEYFITCH_DESCRIPTION]A bronze key with a snake carved into the bow.
-[IDS_PICKUP_M08_KEYHOLLOWAY]Holloway Key
+[IDS_PICKUP_M08_KEYHOLLOWAY]Chave dos Holloway
 [IDS_PICKUP_M08_KEYHOLLOWAY_DESCRIPTION]A bronze key with a bird carved into the bow.
-[IDS_PICKUP_M08_KEYSHEPHERD]Shepherd Key
+[IDS_PICKUP_M08_KEYSHEPHERD]Chave dos Shepherd
 [IDS_PICKUP_M08_KEYSHEPHERD_DESCRIPTION]A bronze key with crossed swords carved into the bow.
-[IDS_PICKUP_M08_CRESTBARTLETT]Bartlett Crest
+[IDS_PICKUP_M08_CRESTBARTLETT]Emblema dos Bartlett
 [IDS_PICKUP_M08_CRESTBARTLETT_DESCRIPTION]A small bronze plaque engraved with the Bartlett family crest.
-[IDS_PICKUP_M08_CRESTFITCH]Fitch Crest
+[IDS_PICKUP_M08_CRESTFITCH]Emblema dos Fitch
 [IDS_PICKUP_M08_CRESTFITCH_DESCRIPTION]A small bronze plaque engraved with the Fitch family crest.
-[IDS_PICKUP_M08_CRESTHOLLOWAY]Holloway Crest
+[IDS_PICKUP_M08_CRESTHOLLOWAY]Emblema dos Holloway
 [IDS_PICKUP_M08_CRESTHOLLOWAY_DESCRIPTION]A small bronze plaque engraved with the Holloway family crest.
-[IDS_PICKUP_M08_CRESTSHEPHERD]Shepherd Crest
+[IDS_PICKUP_M08_CRESTSHEPHERD]Emblema dos Shepherd
 [IDS_PICKUP_M08_CRESTSHEPHERD_DESCRIPTION]A small bronze plaque engraved with the Shepherd family crest.
 
-[IDS_PICKUP_M09_ATTICKEY]Attic Key
-[IDS_PICKUP_M09_ATTICKEY_GOT]I got the <COLOR,155,240,155> Attic Key <CLEARCOLOR>.
+[IDS_PICKUP_M09_ATTICKEY]Chave do Sótäo
+[IDS_PICKUP_M09_ATTICKEY_GOT]Obteve a <COLOR,155,240,155>Chave do Sótäo<CLEARCOLOR>.
 [IDS_PICKUP_M09_ATTICKEY_DESC]The key to the attic. Mom and Dad always kept it hidden in their room.
-[IDS_PICKUP_M09_ATTICKEY_USED]I unlocked the door with the<COLOR,155,240,155> Attic Key <CLEARCOLOR>.
+[IDS_PICKUP_M09_ATTICKEY_USED]A porta abriu com a <COLOR,155,240,155>Chave do Sótäo<CLEARCOLOR>.
 
-[IDS_PICKUP_M09SHMAP]Map of Silent Hill
-[IDS_PICKUP_M09SHMAP_GOT]I got the <COLOR,155,240,155>Map of Silent Hill<CLEARCOLOR>.
+[IDS_PICKUP_M09SHMAP]Mapa de Silent Hill
+[IDS_PICKUP_M09SHMAP_GOT]Obteve o <COLOR,155,240,155>Mapa de Silent Hill<CLEARCOLOR>.
 [IDS_PICKUP_M09SHMAP_DESC]It's a Map of Silent Hill.
 
-[IDS_PICKUP_M09_ADAMSLETTER]Letter from Dad
-[IDS_PICKUP_M09_ADAMSLETTER_GOT]I got a <COLOR,155,240,155>Letter from my father<CLEARCOLOR>.
+[IDS_PICKUP_M09_ADAMSLETTER]Carta do meu Pai.
+[IDS_PICKUP_M09_ADAMSLETTER_GOT]Obtive a <COLOR,155,240,155>Carta do meu Pai<CLEARCOLOR>.
 [IDS_PICKUP_M09_ADAMSLETTER_DESC]It looks like a letter from my father. Hard to believe he'd write any of this.
 
-[IDS_PICKUP_M09_MASK_01]Smiling Mask
+[IDS_PICKUP_M09_MASK_01]Mascara Sorridente
 [IDS_PICKUP_M09_MASK_01_GOT]I got a <COLOR,155,240,155>Smiling Mask<CLEARCOLOR>.
 [IDS_PICKUP_M09_MASK_01_DESC]This mask reminds me of my mother. It's like she's laughing at me.
 
-[IDS_PICKUP_M09_MASK_02]Frowning Mask
+[IDS_PICKUP_M09_MASK_02]Mascara Carrancuda
 [IDS_PICKUP_M09_MASK_02_GOT]I got a <COLOR,155,240,155>Frowning Mask<CLEARCOLOR>.
 [IDS_PICKUP_M09_MASK_02_DESC]This mask looks like my mother. It's as if her face is frozen in a state of perpetual sadness.
 
-[IDS_PICKUP_M09_MASK_03]Indifferent Mask
+[IDS_PICKUP_M09_MASK_03]Mascara Indiferente
 [IDS_PICKUP_M09_MASK_03_GOT]I got an <COLOR,155,240,155>Indifferent Mask<CLEARCOLOR>.
 [IDS_PICKUP_M09_MASK_03_DESC]This mask resembles my mother's face. Cold and emotionless, as always.
 
-[IDS_PICKUP_M09_MASK_04]Angry Mask
+[IDS_PICKUP_M09_MASK_04]Mascara Raivosa
 [IDS_PICKUP_M09_MASK_04_GOT]I got an <COLOR,155,240,155>Angry Mask<CLEARCOLOR>.
 [IDS_PICKUP_M09_MASK_04_DESC]This mask looks just like my mother. She seems to be disappointed in me.
 
@@ -735,19 +735,19 @@
 [IDS_PICKUP_M09_STUFFED_04_GOT]I got a <COLOR,155,240,155>Stuffed Rabbit<CLEARCOLOR>.
 [IDS_PICKUP_M09_STUFFED_04_DESC] This is Joshua's favorite stuffed animal. It's wet, and reeks of mold.
 
-[IDS_PICKUP_M09_LARGE_KNIFE]Butcher Knife
+[IDS_PICKUP_M09_LARGE_KNIFE]Faca do Açougueiro
 [IDS_PICKUP_M09_LARGE_KNIFE_GOT]I got a <COLOR,155,240,155>Butcher Knife<CLEARCOLOR>.
 [IDS_PICKUP_M09_LARGE_KNIFE_DESC]This knife looks like it's seen a lot of use.
 
-[IDS_PICKUP_M09_CLEAVER]Cleaver
+[IDS_PICKUP_M09_CLEAVER]Cutelo
 [IDS_PICKUP_M09_CLEAVER_GOT]I got a <COLOR,155,240,155>Cleaver<CLEARCOLOR>.
 [IDS_PICKUP_M09_CLEAVER_DESC]Look's like an old meat cleaver.
 
-[IDS_PICKUP_M09_SMALL_KNIFE]Small Knife
+[IDS_PICKUP_M09_SMALL_KNIFE]Faquinha
 [IDS_PICKUP_M09_SMALL_KNIFE_GOT]I got a <COLOR,155,240,155>Small Knife<CLEARCOLOR>.
 [IDS_PICKUP_M09_SMALL_KNIFE_DESC]It's just a small knife.
 
-[IDS_PICKUP_M09_PYRAMID_KNIFE]Bogeyman Knife
+[IDS_PICKUP_M09_PYRAMID_KNIFE]Faca do Ceifador
 [IDS_PICKUP_M09_PYRAMID_KNIFE_GOT]I got a <COLOR,155,240,155>Bogeyman Knife<CLEARCOLOR>.
 [IDS_PICKUP_M09_PYRAMID_KNIFE_DESC]There are blood stains all over the blade.
 
@@ -770,21 +770,21 @@
 [IDS_PICKUP_M11_WIRE03_DESC]A piece of loose wire I pulled from a broken light.
 [IDS_PICKUP_M11_WIRE03_USED]I used the <COLOR,155,240,155>Loose Wire<CLEARCOLOR>.
 
-[IDS_PICKUP_M11_MAP_GOT]I got a <COLOR,155,240,155>Prison Map <CLEARCOLOR>.
+[IDS_PICKUP_M11_MAP_GOT]Obteve o <COLOR,155,240,155>Mapa da Prisäo<CLEARCOLOR>.
 
-[IDS_PICKUP_M12_GATE_KEY]Gate Key
-[IDS_PICKUP_M12_GATE_KEY_GOT]I got a <COLOR,155,240,155>Gate Key<CLEARCOLOR>.
+[IDS_PICKUP_M12_GATE_KEY]Chave do Portäo
+[IDS_PICKUP_M12_GATE_KEY_GOT]Obteve a <COLOR,155,240,155>Chave do Portäo<CLEARCOLOR>.
 [IDS_PICKUP_M12_GATE_KEY_DESC]It's a Gate Key. I wonder which gate it's for.
 
-[IDS_PICKUP_m13_candle]Unlit Candle
+[IDS_PICKUP_m13_candle]Vela apagada
 [IDS_PICKUP_m13_candle_DESC]This candle seemed out of place where I found it. I wonder where it belongs.
 [IDS_PICKUP_m13_candle_GOT]I got an <COLOR,155,240,155>Unlit Candle<CLEARCOLOR>.
-[IDS_PICKUP_M13MAP]Church Map
+[IDS_PICKUP_M13MAP]Mapa da Igreja
 [IDS_PICKUP_M13MAP_DESC]A map showing the layout of the church.
-[IDS_PICKUP_M13MAP_GOT]I got the <COLOR,155,255,155>Church Map<CLEARCOLOR>.
+[IDS_PICKUP_M13MAP_GOT]Obteve o <COLOR,155,255,155>Mapa da Igreja<CLEARCOLOR>.
 [IDS_PICKUP_M13ShepherdRing]Shepherd Family Ring
 [IDS_PICKUP_M13ShepherdRing_DESC]Dad gave me this ring, moments before he was killed. He said it's been passed down through the generations.
-[IDS_PICKUP_M13ShepherdRing_GOT]I got the <COLOR,155,255,155>Shepherd Family Ring<CLEARCOLOR>.
+[IDS_PICKUP_M13ShepherdRing_GOT]Obteve o <COLOR,155,255,155>Anel dos Sheperd<CLEARCOLOR>.
 
 [IDS_PICKUP_IronBlade_Vengeance]Sword Plate
 [IDS_PICKUP_IronBlade_Vengeance_DESC]A brass plate etched with an image of a sword.
@@ -812,25 +812,25 @@
 [IDS_PICKUP_M14_ARMORYKEY_GOT]I got a <COLOR,155,255,155>Room 301 Key<CLEARCOLOR>.
 [IDS_PICKUP_M14_ARMORYKEY_USED]I used the <COLOR,155,255,155>Room 301 Key<CLEARCOLOR>.
 
-[IDS_PICKUP_M14MAP]Lair Map
+[IDS_PICKUP_M14MAP]Mapa do Esconderijo da Ordem
 [IDS_PICKUP_M14MAP_DESC]A map showing the layout of the Order's lair.
-[IDS_PICKUP_M14MAP_GOT]I got the <COLOR,155,255,155>Lair Map<CLEARCOLOR>.
+[IDS_PICKUP_M14MAP_GOT]Obtive o <COLOR,155,255,155>mapa do Esconderijo<CLEARCOLOR>.
 
 ###Crayon Drawings
 
-[IDS_Crayon_Drawing_1]A photo of Alex.
-[IDS_Crayon_Drawing_2]A photo of Alice.
-[IDS_Crayon_Drawing_3]A photo of Bartlett.
-[IDS_Crayon_Drawing_4]I think Joshua drew this, It looks like a monster killing two children. Why would he draw such a terrible thing?
-[IDS_Crayon_Drawing_5]A photo of a Bunny.
-[IDS_Crayon_Drawing_6]Another crayon drawing, this one seems to be evil hands grasping for a child. I think Josh needs my help.
-[IDS_Crayon_Drawing_7]A photo of Josh.
-[IDS_Crayon_Drawing_8]A photo of the Judge.
-[IDS_Crayon_Drawing_9]A photo of Kill.
-[IDS_Crayon_Drawing_10]A photo of Scarlet.
-[IDS_Crayon_Drawing_11]A photo of a spider.
-[IDS_Crayon_Drawing_12]A photo of a spider.
-[IDS_Crayon_Drawing_13]A photo of a spider.
+[IDS_Crayon_Drawing_1]Uma foto do Alex.
+[IDS_Crayon_Drawing_2]Uma foto da Alice.
+[IDS_Crayon_Drawing_3]Uma foto do Bartlett.
+[IDS_Crayon_Drawing_4]Acho que Joshua desenhou isso. Me parece um monstro matando duas crianças. Por que ele desenharia algo täo terrível?
+[IDS_Crayon_Drawing_5]Uma foto de um coelinho.
+[IDS_Crayon_Drawing_6]Outro desenho em gis. esse parece ser mäos malignas indo até uma criança. Acho que Josh precisa da minha ajuda.
+[IDS_Crayon_Drawing_7]Uma foto do Josh.
+[IDS_Crayon_Drawing_8]Uma foto da juiza.
+[IDS_Crayon_Drawing_9]Uma foto da Morte.
+[IDS_Crayon_Drawing_10]Uma foto da Scarlet.
+[IDS_Crayon_Drawing_11]Uma foto de uma spider.
+[IDS_Crayon_Drawing_12]Uma foto de uma spider.
+[IDS_Crayon_Drawing_13]Uma foto de uma spider.
 
 ### IMS Interaction Prompts ###
 [IDS_ROTATE] <COMMAND_KICK> Girar
@@ -855,39 +855,39 @@
 
 ### IMS Gating ###
 [IDS_DOOR_EQUIPPED]<COMMAND_KICK> Destrancar
-[IDS_DOOR_NOT_EQUIPPED] N?o da pra arrombar essa porta com este equipamento.
-[IDS_DOOR_MISSING] Est? trancada. Preciso de uma chave para abrir.
-[IDS_DOOR_UNLOCKED] A porta est? destrancada.
+[IDS_DOOR_NOT_EQUIPPED] Näo da pra arrombar essa porta com este equipamento.
+[IDS_DOOR_MISSING] Está trancada. Preciso de uma chave para abrir.
+[IDS_DOOR_UNLOCKED] A porta está destrancada.
 
 [IDS_CEREMONIAL_DAGGER_UNLOCK] <COMMAND_KICK> Abrir
-[IDS_CEREMONIAL_DAGGER_MISSING] I need a special weapon to unlock this door.
-[IDS_CEREMONIAL_DAGGER_NOT_EQUIPPED] I can't open this door with this weapon.
+[IDS_CEREMONIAL_DAGGER_MISSING] Preciso de um equipamento especifico para abrir esta porta.
+[IDS_CEREMONIAL_DAGGER_NOT_EQUIPPED] Näo da pra abrir essa porta com esse equipamento.
 
 [IDS_PRY_EQUIPPED]<COMMAND_KICK> Arrombar
 [IDS_PRY_NOT_EQUIPPED]N?o da pra arrombar isso com esse equipamento.
 [IDS_PRY_MISSING]Preciso achar algo para arrombar isso...
 
 [IDS_HACK_EQUIPPED]<COMMAND_KICK> Cortar
-[IDS_HACK_NOT_EQUIPPED] Eu preciso de um equipamento diferente para cortar essas t?buas...
-[IDS_HACK_MISSING] Eu preciso de algo para cortar essas t?buas...
+[IDS_HACK_NOT_EQUIPPED] Eu preciso de um equipamento diferente para cortar essas tábuas...
+[IDS_HACK_MISSING] Eu preciso de algo para cortar essas tábuas...
 
 [IDS_BREACH_EQUIPPED]<COMMAND_KICK> Quebrar
-[IDS_BREACH_NOT_EQUIPPED] N?o da pra quebrar isso com este equipamento.
+[IDS_BREACH_NOT_EQUIPPED] Näo da pra quebrar isso com este equipamento.
 [IDS_BREACH_MISSING]Eu poderia quebrar esses tijolos com o equipamento certo.
 
 [IDS_BREAK_EQUIPPED]<COMMAND_KICK> Quebrar
-[IDS_BREAK_NOT_EQUIPPED] N?o da pra quebrar isso com este equipamento.
-[IDS_BREAK_MISSING] Eu poderia quebrar essa vidra?a com o equipamento certo.
+[IDS_BREAK_NOT_EQUIPPED] Näo da pra quebrar isso com este equipamento.
+[IDS_BREAK_MISSING] Eu poderia quebrar essa vidraça com o equipamento certo.
 
 [IDS_CUT_EQUIPPED]<COMMAND_KICK> Cortar
-[IDS_CUT_NOT_EQUIPPED] Esse equipamento n?o pode cortar isso...
+[IDS_CUT_NOT_EQUIPPED] Esse equipamento näo pode cortar isso...
 [IDS_CUT_MISSING] Eu preciso de algo afiado para cortar isso...
 
 [M01_Interest_87_Flesh_Wall]Isso parece... Carne Humana...
-[M01_Interest_88_Flesh_Wall]Essa parede est? se mexendo?! O que ? isso?
+[M01_Interest_88_Flesh_Wall]Essa parede está se mexendo?! O que é isso?
 [M01_Interest_89_Flesh_Wall]Como eu posso passar por isso?
 [M01_Interest_90_Flesh_Wall]Acho que posso cortar isso...
-[M01_Interest_92_Flesh_Wall_without_Knife]Seja l? o que for, est? bloqueando meu caminho...
+[M01_Interest_92_Flesh_Wall_without_Knife]Seja lá o que for, está bloqueando meu caminho...
 [M01_Interest_94_Flesh_Wall_without_Knife]Talvez eu poossa cortar isso com uma faca...
 
 ### Investigation ###
@@ -898,24 +898,24 @@
 [IDS_INVESTIGATION_INVITE_INVENTORY]<INVENTORY_WHEEL>/<COMMAND_KICK> Invent?rio   <COMMAND_JUMP> Voltar
 [IDS_INVESTIGATION_INVITE_PLACE]<COMMAND_KICK> Colocar   <COMMAND_JUMP> Voltar
 [IDS_INVESTIGATION_INVITE_ROT_LOCK]<COMMAND_MOVEMENT> Girar   <COMMAND_JUMP> Voltar
-[IDS_INVESTIGATION_INVITE_WOF_CLOCK]<COMMAND_LEFT_STICK_LEFTRIGHT> Select    <COMMAND_LEFT_STICK_UPDOWN> Rotate   <COMMAND_JUMP> Back
-[IDS_INVESTIGATION_INVITE_CUT]<COMMAND_KICK> Cut   <COMMAND_JUMP> Back
+[IDS_INVESTIGATION_INVITE_WOF_CLOCK]<COMMAND_LEFT_STICK_LEFTRIGHT> Escolher    <COMMAND_LEFT_STICK_UPDOWN> Girar   <COMMAND_JUMP> Voltar
+[IDS_INVESTIGATION_INVITE_CUT]<COMMAND_KICK> Cortar   <COMMAND_JUMP> Voltar
 [IDS_INVESTIGATION_PLACE_BAD]That item cannot be used here.
 [IDS_INVESTIGATION_NO_ITEMS]You don't have any items to place.
-[IDS_INVESTIGATION_INVITE_TAKE]<COMMAND_KICK> Take   <COMMAND_JUMP> Back
-[IDS_INVESTIGATION_INVITE_TAKE_NOBACK]<COMMAND_KICK> Take
-[IDS_INVESTIGATION_INVITE_TAKE_BACK]<COMMAND_JUMP> Back
-[IDS_INVESTIGATION_KEYPAD]<COMMAND_JUMP> Back
-[IDS_INVESTIGATION_INVITE_INTERACT]<COMMAND_KICK> Interact   <COMMAND_JUMP> Back
-[IDS_INVESTIGATION_PICKUP]<COMMAND_KICK> Pickup
-[IDS_INVESTIGATION_WIRE_SOURCE]Highlight
-[IDS_INVESTIGATION_WIRE_SELECT]Select
-[IDS_INVESTIGATION_WIRE_BACK]Back
-[IDS_INVESTIGATION_WIRE_DEST]Highlight
-[IDS_INVESTIGATION_WIRE_CONNECT]Connect
-[IDS_INVESTIGATION_WIRE_SWITCH]Test Power
-[IDS_INVESTIGATION_SLIDER_SELECT]Select
-[IDS_INVESTIGATION_SLIDER_MOVE]Move
+[IDS_INVESTIGATION_INVITE_TAKE]<COMMAND_KICK> Pegar   <COMMAND_JUMP> Voltar
+[IDS_INVESTIGATION_INVITE_TAKE_NOBACK]<COMMAND_KICK> Pegar
+[IDS_INVESTIGATION_INVITE_TAKE_BACK]<COMMAND_JUMP> Voltar
+[IDS_INVESTIGATION_KEYPAD]<COMMAND_JUMP> Voltar
+[IDS_INVESTIGATION_INVITE_INTERACT]<COMMAND_KICK> Investigar   <COMMAND_JUMP> Voltar
+[IDS_INVESTIGATION_PICKUP]<COMMAND_KICK> Pegar
+[IDS_INVESTIGATION_WIRE_SOURCE]Marcar
+[IDS_INVESTIGATION_WIRE_SELECT]Selecionar
+[IDS_INVESTIGATION_WIRE_BACK]Voltar
+[IDS_INVESTIGATION_WIRE_DEST]Marcar
+[IDS_INVESTIGATION_WIRE_CONNECT]Conectar
+[IDS_INVESTIGATION_WIRE_SWITCH]Testar Energia
+[IDS_INVESTIGATION_SLIDER_SELECT]Selecionar
+[IDS_INVESTIGATION_SLIDER_MOVE]Mover
 
 [IDS_TEXT_MESSAGE_BACK]<COMMAND_JUMP> Voltar
 
@@ -952,52 +952,52 @@
 
 # Impassible Doors or Areas #
 
-[M00_Lock1]Est? trancado.
-[M00_Lock2]A ma?aneta ta completamente quebrada.\nN?o tem como abrir.
-[M00_Lock2b]A ma?aneta est? quebrada. \nN?o da pra abrir a porta.
-[M00_Lock3]Isso n?o abre daqui, talvez tenha outro caminho...
-[M00_Lock4]Est? bloqueada...
-[M00_Lock5]Est? emperrada...
-[M00_Lock6]Est? completamente travada.
-[M00_Lock7]tenho que achar outro caminho...
-[M00_Lock8]Isso aqui n?o vai abrir...
+[M00_Lock1]Está trancado.
+[M00_Lock2]A maçaneta ta completamente quebrada.\nNäo tem como abrir.
+[M00_Lock2b]A maçaneta está quebrada. \nNäo da pra abrir a porta.
+[M00_Lock3]Isso näo abre daqui, talvez tenha outro caminho...
+[M00_Lock4]Está bloqueada...
+[M00_Lock5]Está emperrada...
+[M00_Lock6]Está completamente travada.
+[M00_Lock7]Tenho que achar outro caminho...
+[M00_Lock8]Isso aqui näo vai abrir...
 [M00_Lock9]Trancado.
 [M00_Lock10]Bloqueado.
 [M00_Lock11]Emperrado.
-[M00_Lock12]Est? trancado... Perda de tempo.
-[M00_Lock13]Se est? bloqueado, existe um motivo...
+[M00_Lock12]Está trancado... Perda de tempo.
+[M00_Lock13]Se está bloqueado, existe um motivo...
 [M00_Lock14]Caminho errado...
-[M00_Lock15]Deixa pra l?...
-[M00_Lock16]Droga... \nMesmo for?ando, isso nem se mexe...
+[M00_Lock15]Deixa pra lá...
+[M00_Lock16]Droga... \nMesmo forçando, isso nem se mexe...
 
 # Temporarily Blocked #
 
-[M00_Temp_Block1]I can't get through right now.
-[M00_Temp_Block2]No way through yet.
-[M00_Temp_Block3]I'll come back later.
-[M00_Temp_Block4]Nope. Maybe later.
-[M00_Temp_Block5]I'll try this later.
-[M00_Temp_Block6]It's locked. I don't have the key.
-[M00_Temp_Block7]It's locked. I need the correct code.
-[M00_Temp_NotSafe]? melhor n?o... N?o ? seguro...
+[M00_Temp_Block1]Näo tem como passar agora.
+[M00_Temp_Block2]Näo tem como passar, ainda...
+[M00_Temp_Block3]Eu vou voltar aqui depois.
+[M00_Temp_Block4]Nada. Talvez depois.
+[M00_Temp_Block5]Melhor voltar depois.
+[M00_Temp_Block6]Está trancado, e eu näo tenho nenhuma chave.
+[M00_Temp_Block7]Está trancado. Preciso da senha correta.
+[M00_Temp_NotSafe]É melhor näo... Näo é seguro...
 
-[M00_Keypad_1]O c?digo est? incorreto...
-[M00_Keypad_2]N?o parece ter funcionado...
-[M00_Keypad_3]Eu devo ter errado os n?meros...
+[M00_Keypad_1]O código está incorreto...
+[M00_Keypad_2]Näo parece ter funcionado...
+[M00_Keypad_3]Eu devo ter errado os números...
 
-[M00_BreakGlass_01]O vidro est? trincado...\nQuebraria facilmente com um golpe...
+[M00_BreakGlass_01]O vidro está trincado...\nQuebraria facilmente com um golpe...
 
-[M00_QuickInventory_01]<COMMAND_KICK> Investigar   <INVENTORY_WHEEL> Invent?rio
-[M00_QuickInventory_02]<COMMAND_KICK> Abrir   <INVENTORY_WHEEL> Invent?rio
+[M00_QuickInventory_01]<COMMAND_KICK> Investigar   <INVENTORY_WHEEL> Inventário
+[M00_QuickInventory_02]<COMMAND_KICK> Abrir   <INVENTORY_WHEEL> Inventário
 
 
 # Generic Messages #
 
-[M00_FashionMag]Uma revista de moda. N?o estou interessado nisso agora...
-[M00_AwfulSmell]Eu n?o quero olhar dentro disso... Algo cheira muito mal...
-[M00_RustyDrawers_1]Essas gavetas est?o enferrujadas, ent?o nem v?o se mexer...
+[M00_FashionMag]Uma revista de moda. Näo estou interessado nisso agora...
+[M00_AwfulSmell]Eu näo quero olhar dentro disso... Algo cheira muito mal...
+[M00_RustyDrawers_1]Essas gavetas estäo enferrujadas, entäo nem väo se mexer...
 [M00_RustyDrawers_2]Isso deve estar enferrujado ou coisa assim... Nem da pra puxar.
-[M00_HandWritten]? uma mensagem manuscrita:
+[M00_HandWritten]É uma mensagem manuscrita:
 
 ### M01_Nightmare ###
 
@@ -1032,61 +1032,61 @@
 
 ### M01 Pickups ###
 
-[M01_TheaterKey_TITLE]Chave da Sala de Opera??es
-[M01_TheaterKey_DESC]Est? escrito no chaveiro: <COLOR,195,188,228>Sala de Opera??es<CLEARCOLOR>.
-[M01_TheaterKey_GOT]Obtive a <COLOR,155,240,155>Chave da Sala de Opera??es<CLEARCOLOR>.
-[M01_TheaterKey_USED]Usei a <COLOR,155,240,155>Chave da Sala de Opera??es<CLEARCOLOR>.
+[M01_TheaterKey_TITLE]Chave da Sala de Operaçöes
+[M01_TheaterKey_DESC]Está escrito no chaveiro: <COLOR,195,188,228>Sala de Operaçöes<CLEARCOLOR>.
+[M01_TheaterKey_GOT]Obteve a <COLOR,155,240,155>Chave da Sala de Operaçöes<CLEARCOLOR>.
+[M01_TheaterKey_USED]Usou a <COLOR,155,240,155>Chave da Sala de Operaçöes<CLEARCOLOR>.
 
 [M01_XRAY2_TITLE]Filme de Raio-X
 [M01_XRAY2_DESC]Uma chapa (filme) de Raio-X do peito de um paciente.
-[M01_XRAY2_GOT]Obtive o <COLOR,155,240,155>Filme de Raio-X<CLEARCOLOR>.
+[M01_XRAY2_GOT]Obteve o <COLOR,155,240,155>Filme de Raio-X<CLEARCOLOR>.
 [M01_XRAY2_USED]Usou o <COLOR,155,240,155>Filme de Raio-X<CLEARCOLOR>.
 
 [M01_StuffedBunny_TITLE]Robbie
-[M01_StuffedBunny_DESC]Est? escrito na etiqueta 'Parque de Divers?es Lakeside'.
-[M01_StuffedBunny_GOT]Obtive o coelhinho <COLOR,155,240,155>Robbie<CLEARCOLOR>.
+[M01_StuffedBunny_DESC]Está escrito na etiqueta 'Parque de Diversöes Lakeside'.
+[M01_StuffedBunny_GOT]Obteve o coelhinho <COLOR,155,240,155>Robbie<CLEARCOLOR>.
 
-[M01_HospitalMap_GOT]Obtive o <COLOR,155,240,155>Mapa do Hospital<CLEARCOLOR>.
+[M01_HospitalMap_GOT]Obteve o <COLOR,155,240,155>Mapa do Hospital<CLEARCOLOR>.
 
-[M01_CombatManual_GOT]Obtive o <COLOR,155,240,155>Manual de Combate B?sico<CLEARCOLOR>.
+[M01_CombatManual_GOT]Obteve o <COLOR,155,240,155>Manual de Combate Básico<CLEARCOLOR>.
 
 [M01_Polaroid_TITLE]Foto Polaroid
 [M01_Polaroid_DESC]O coelhinho do Joshua dentro da mochila dele...
-[M01_Polaroid_GOT]Obtive uma <COLOR,155,240,155>Foto Polaroid<CLEARCOLOR>.
+[M01_Polaroid_GOT]Obteve uma <COLOR,155,240,155>Foto Polaroid<CLEARCOLOR>.
 
-[M01_Drawing_01_TITLE]Desenho de Crian?a (1)
-[M01_Drawing_02_DESC]Uma fam?lia de coelhinhos.
-[M01_Drawing_01_GOT]Obtive um<COLOR,155,240,155>Desenho de Crian?a<CLEARCOLOR>.
+[M01_Drawing_01_TITLE]Desenho de Criança (1)
+[M01_Drawing_02_DESC]Uma família de coelhinhos.
+[M01_Drawing_01_GOT]Obteve um<COLOR,155,240,155>Desenho de Criança<CLEARCOLOR>.
 
-[M01_Drawing_02_TITLE]Desenho de Crian?a (2)
-[M01_Drawing_01_DESC]Tr?s coelhinhos sangrentos.
-[M01_Drawing_02_GOT]Obtive um <COLOR,155,240,155>Desenho de Crian?a<CLEARCOLOR>.
+[M01_Drawing_02_TITLE]Desenho de Criança (2)
+[M01_Drawing_01_DESC]Três coelhinhos sangrentos.
+[M01_Drawing_02_GOT]Obteve um <COLOR,155,240,155>Desenho de Criança<CLEARCOLOR>.
 
-[M01_Drawing_03_TITLE]Desenho de Crian?a (3)
-[M01_Drawing_03_DESC]Esse coelhinho parece catat?nico.
-[M01_Drawing_03_GOT]Obtive um <COLOR,155,240,155>Desenho de Crian?a<CLEARCOLOR>.
+[M01_Drawing_03_TITLE]Desenho de Criança (3)
+[M01_Drawing_03_DESC]Esse coelhinho parece catatônico.
+[M01_Drawing_03_GOT]Obteve um <COLOR,155,240,155>Desenho de Criança<CLEARCOLOR>.
 
-[M01_Drawing_04_TITLE]Desenho de Crian?a (4)
+[M01_Drawing_04_TITLE]Desenho de Criança (4)
 [M01_Drawing_04_DESC]Um coelhinho em chamas.
-[M01_Drawing_04_GOT]Obtive um <COLOR,155,240,155>Desenho de Crian?a<CLEARCOLOR>.
+[M01_Drawing_04_GOT]Obteve um <COLOR,155,240,155>Desenho de Criança<CLEARCOLOR>.
 
-[M01_Drawing_05_TITLE]Desenho de Crian?a (5)
-[M01_Drawing_05_DESC]Esse coelhinho parece estar se debatendo na ?gua.
-[M01_Drawing_05_GOT]Obtive um <COLOR,155,240,155>Desenho de Crian?a<CLEARCOLOR>.
+[M01_Drawing_05_TITLE]Desenho de Criança (5)
+[M01_Drawing_05_DESC]Esse coelhinho parece estar se debatendo na água.
+[M01_Drawing_05_GOT]Obteve um <COLOR,155,240,155>Desenho de Criança<CLEARCOLOR>.
 
 
 
 ### M01 Tips ###
 
-[M01_MapUse_01]A qualquer momento, voc? pode apertar <UI_TOGGLE_MAP> para ver o mapa.
+[M01_MapUse_01]A qualquer momento, você pode apertar <UI_TOGGLE_MAP> para ver o mapa.
 
 [M01_BasicTip_1]Segure <TARGETING> para mirar e aperte <ACTION> para atacar.
-[M01_Keypad_1]Os n?meros <COLOR,195,188,228>6 2 4 8 7 2<CLEARCOLOR> est?o escritos no Raio-X.
-[M01_Inventory_1]Aperte <COMBAT_WHEEL> para acessar o invent?rio. Selecione a lanterna e aperte <COMMAND_UI_X> para ligar/desligar.
-[M01_Inventory_2]Press <INVENTORY_WHEEL> to access your item inventory.
-[M01_LightHint_1]<COLOR,195,188,228>Os m?dicos dizem que eu sou incapaz de distinguir a fantasia da realidade... Mas eu acho que sei o que ta rolando por aqui. Eu vi aqueles dem?nios matando os outros paci?ntes. Eu quero fugir desse lugar maldito mas n?o tenho coragem de me aventurar na luz.<CLEARCOLOR>
-[M01_LightHint_2]<COLOR,195,188,228>Aparentemente eles s?o atraidos pela luz. Deve ser por isso que pessoas que precisam da luz para enxergar s?o suas presas. Eles tamb?m reagem aos sons...<CLEARCOLOR>
-[M01_LightHint_3]<COLOR,195,188,228>Se voc? quer continuar vivo, melhor esperar no escuro e ficar quieto. Mas nem sempre isso vai te salvar.<CLEARCOLOR>
+[M01_Keypad_1]Os números <COLOR,195,188,228>6 2 4 8 7 2<CLEARCOLOR> estäo escritos no Raio-X.
+[M01_Inventory_1]Aperte <COMBAT_WHEEL> para acessar o inventário. Selecione a lanterna e aperte <COMMAND_UI_X> para ligar/desligar.
+[M01_Inventory_2]Aperte <INVENTORY_WHEEL> para ver o inventário.
+[M01_LightHint_1]<COLOR,195,188,228>Os médicos dizem que eu sou incapaz de distinguir a fantasia da realidade... Mas eu acho que sei o que ta rolando por aqui. Eu vi aqueles demônios matando os outros paciêntes. Eu quero fugir desse lugar maldito mas näo tenho coragem de me aventurar na luz.<CLEARCOLOR>
+[M01_LightHint_2]<COLOR,195,188,228>Aparentemente eles säo atraidos pela luz. Deve ser por isso que pessoas que precisam da luz para enxergar säo suas presas. Eles também reagem aos sons...<CLEARCOLOR>
+[M01_LightHint_3]<COLOR,195,188,228>Se você quer continuar vivo, melhor esperar no escuro e ficar quieto. Mas nem sempre isso vai te salvar.<CLEARCOLOR>
 
 
 
@@ -1106,13 +1106,13 @@
 [M01_KeypadHint_1]<COLOR,195,188,228>Attention Staff: \n\nOur security has been somewhat compromised- a patient used an X-Ray Film to write down the code for the security gate.  We have recovered the first half, but the second half is still missing. Should you find the missing X-Ray piece be sure to notify the head of security immediately.<CLEARCOLOR>
 
 [M01_MissingPatient_1]Boletim de Paci?nte Desaparecido:
-[M01_MissingPatient_2]<COLOR,195,188,228>Sala 205, paci?nte desapareceu, foi visto pela ultima vez na sua sala depoois de um conflito com outro...<CLEARCOLOR>
-[M01_MissingPatient_3]O resto da mensagem ? ilegivel...
+[M01_MissingPatient_2]<COLOR,195,188,228>Sala 205, paciênte desapareceu, foi visto pela ultima vez na sua sala depoois de um conflito com outro...<CLEARCOLOR>
+[M01_MissingPatient_3]O resto da mensagem é ilegivel...
 
 [M01_UnrulyPatient_1]A page from an incident report:
-[M01_UnrulyPatient_2]<COLOR,195,188,228>...the patient proceeded to leap through the window and then ravaged the adjacent room.<CLEARCOLOR>
-[M01_UnrulyPatient_3]<COLOR,195,188,228>The patient was not responsive to verbal commands. Three staff members eventually subdued the patient. <CLEARCOLOR>
-[M01_UnrulyPatient_4]<COLOR,195,188,228>The patient entered a catatonic state and stopped responding to outside stimuli. Restraints were unnecessary during the following week's electroshock therapy sessions.<CLEARCOLOR>
+[M01_UnrulyPatient_2]<COLOR,195,188,228>...o paciente tentou se jogar da janela e depois destruiu a sala.<CLEARCOLOR>
+[M01_UnrulyPatient_3]<COLOR,195,188,228>O paciente parou de responder aos comandos verbais. Três membros da equipe conseguiram subjulgas o paciente. <CLEARCOLOR>
+[M01_UnrulyPatient_4]<COLOR,195,188,228>O paciente entrou em estado catatônico e parou de responder aos estimulos externos. Amarras foram desnecessárias nas sessões de terapia de eletrochoque nas semanas seguintes.<CLEARCOLOR>
 
 [M01_ElectroMemo_1]<COLOR,195,188,228>...setting the electroshock machine beyond the seizure threshold has yielded impressive results in the patients.<CLEARCOLOR>
 [M01_ElectroMemo_2]<COLOR,195,188,228>The most violent and depressed patients are rendered completely docile... The only side-effects have been minor: memory loss, some dislocated bones, one fractured leg, and a patient bit off his tongue.<CLEARCOLOR>
@@ -1141,45 +1141,45 @@
 
 ### M01 Interest Points ###
 
-[M01_TortureDevice]Que tipo de cirurgia eles est?o fazendo aqui?
+[M01_TortureDevice]Que tipo de cirurgia eles estão fazendo aqui?
 [M01_BloodySink]O que houve aqui?
-[M01_EmptySink]A pia est? vazia.
+[M01_EmptySink]A pia está vazia.
 [M01_Shelves_Var1]Objetos cirurgicos variados.
-[M01_Shelves_Var2]Suplimentos m?dicos velhos...
-[M01_Shelves_Var3]Nada de ?til aqui.
-[M01_Iron_Lung_1]Eu acho que isso ? um respirador. Parece velho...
+[M01_Shelves_Var2]Suprimentos médicos velhos...
+[M01_Shelves_Var3]Nada de útil aqui.
+[M01_Iron_Lung_1]Eu acho que isso é um respirador. Parece velho...
 [M01_Iron_Lung_2]Outro respirador...
 [M01_Iron_Lung_3]Outro respirador...
 [M01_Iron_Lung_4]Outro respirador...
-[M01_KeypadGate]O port?o est? trancado... Talvez o Painel ao lado o controle.
-[M01_XRayBox_1]It's an X-Ray light-box
-[M01_XRayBox_2]There is a torn X-Ray Film attached
-[M01_XRayBox_3]Something is scratched onto the surface of the X-Ray.
-[M01_FilingCab_Var1]Os arquivos est?o vazios... N?o tem nada aqui.
+[M01_KeypadGate]O portão está trancado... Talvez o Painel ao lado o controle.
+[M01_XRayBox_1]É um quadro para ver folhas de Raios-X.
+[M01_XRayBox_2]Tem uma folha de raio-x cortada nele.
+[M01_XRayBox_3]Tem algo rabiscado na superficie da folha de Raio-X.
+[M01_FilingCab_Var1]Os arquivos estão vazios... Não tem nada aqui.
 [M01_PASystem]It's a control panel for the PA system- it doesn't appear to be working.
-[M01_BodyBag_1]Por que todos estes corpos est?o aqui?
-[M01_BodyBag_2]Estes s?o os pacientes?!
+[M01_BodyBag_1]Por que todos estes corpos estão aqui?
+[M01_BodyBag_2]Estes são os pacientes?!
 [M01_BodyBag_3]Minha nossa...
-[M01_BodyBag_4]Estes s?o os pacientes?!
-[M01_BodyBag_5]Isso n?o ? forma de se tratar os mortos!
-[M01_Incubator_1]Uma encubadora de beb?s.
-[M01_Incubator_2]Isso ? assustador...
-[M01_Incubator_3]Por que isso est? queimado por dentro?
+[M01_BodyBag_4]Estes são os pacientes?!
+[M01_BodyBag_5]Isso não é forma de se tratar os mortos!
+[M01_Incubator_1]Uma encubadora de bebês.
+[M01_Incubator_2]Isso é assustador...
+[M01_Incubator_3]Por que isso está queimado por dentro?
 [M01_WaterCooler]This water cooler has not been used in a long time.
-[M01_FileCabs]The filing cabinets are empty.
-[M01_ToiletBody]Boxes of supplies, nothing useful here
-[M01_Supplies]Boxes of supplies, nothing useful here
-[M01_SteamPipes_1]Parecem ser canos de g?s... Aparentemente est?o funcionando.
-[M01_SteamPipes_2]Mais canos de g?s... Aparentemente est?o funcionando.
-[M01_SteamPipes_3]Mais canos de g?s...
-[M01_BlockedStairs_1]Esse caminho est? bloqueado... N?o posso prosseguir por aqui.
-[M01_BlockedStairs_2]Esse caminho est? bloqueado... N?o posso prosseguir por aqui.
+[M01_FileCabs]Estranhamente, os Ficheiros estão vazios.
+[M01_ToiletBody]Caixas de suprimentos. Nada de útil dentro.
+[M01_Supplies]Caixas de suprimentos. Nada de útil dentro.
+[M01_SteamPipes_1]Parecem ser canos de gás... Aparentemente estão funcionando.
+[M01_SteamPipes_2]Mais canos de gás... Aparentemente estão funcionando.
+[M01_SteamPipes_3]Mais canos de gás...
+[M01_BlockedStairs_1]Esse caminho está bloqueado... Não posso prosseguir por aqui.
+[M01_BlockedStairs_2]Esse caminho está bloqueado... Não posso prosseguir por aqui.
 [M01_Fan_1]Parece estar bem quente do outro lado.
 [M01_StaticGone]The static was playing loud before, now it's gone quiet- I wonder why?
 [M01_StationWindow]There appears to be a room on the other side, but I can't quite see in clearly.
 [OrderlyKey_1]It's the other half of the body from downstairs, I wonder who put him here?
 [OrderlyKey_2]His hand is holding on to a key of some sort.
-[M01_PadlockDoor_1]N?o da pra passar por aqui, a porta est? acorrentada.
+[M01_PadlockDoor_1]Não da pra passar por aqui, a porta está acorrentada.
 [M01_IncDoll_1]Uma boneca... Parece estar queimada.
 [M01_IncDoll_2]Me pergunto... Como ela chegou ali?
 

@@ -46,10 +46,10 @@ Os arquivos que estiverem marcados na lista estão 100% traduzidos e revisados:
 - [x] m03_dialogue (diálogos com a mãe do Alex)
 - [ ] m04_dialogue (diálogos com Curtis e Elle na cidade)
 - [ ] m05_dialogue (diálogos com o prefeito Barlett)
-- [ ] m06_dialogue
-- [x] m07_dialogue
-- [x] m08_dialogue
-- [x] m09_dialogue
+- [ ] m06_dialogue (diálogos com o delegado Wheeler)
+- [x] m07_dialogue (diálogos com o doutor Fitch)
+- [x] m08_dialogue (diálogos com o delegado Wheeler via radio)
+- [x] m09_dialogue (diálogos dos membros do culto)
 - [ ] m10_dialogue
 - [ ] m11_dialogue
 - [ ] m12_dialogue
