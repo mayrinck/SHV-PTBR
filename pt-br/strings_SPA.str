@@ -18,7 +18,7 @@
 [IDS_SHELL_MOUSE_SENSITIVITY]Sensibilidade do Mouse
 
 ###SHELL STRINGS ###
-[IDS_SHELL_PRESS_START_PC]Aperte START para jogar.
+[IDS_SHELL_PRESS_START_PC]Aperte um botäo para jogar.
 [IDS_SHELL_PRESS_START_PS3]Aperte START para jogar.
 [IDS_SHELL_PRESS_START_XBOX360]Aperte START para jogar.
 
@@ -81,7 +81,7 @@
 
 ###LEGAL SCREEN TEXT
 [IDS_SHELL_LEGAL_SCREEN_TEXT](c)2008 Konami Digital Entertainment, Inc.  (c)1999 Konami Digital Entertainment Co., Ltd. Todos os direitos reservados.  "Silent Hill" é uma marca registrada da Konami Digital Entertainment Co., Ltd. KONAMI é uma marca registrada da KONAMI CORPORATION.  Silent Hill: Homecoming usa Havok (c)1999-2008. Havok.com Inc. (ou licenciados). Todos os direitos reservados. Detalhes em www.havok.com
-[IDS_SHELL_LEGAL_SCREEN_TEXT_2]Desenvolvido pela Double Helix, uma divisäo da Foundation 9 Entertainment. O nome "Double Helix" e logotipo säo marcas registradas da Foundation 9 Entertainment. Traduçäo e Localizaçäo feita por GRISS0N (twitch.tv/griss0n), sem fins lucrativos.
+[IDS_SHELL_LEGAL_SCREEN_TEXT_2]Desenvolvido pela Double Helix, uma divisäo da Foundation 9 Entertainment. O nome "Double Helix" e logotipo säo marcas registradas da Foundation 9 Entertainment. Traduçäo e Localizaçäo feita por <COLOR,100,65,164>GRISS0N (twitch.tv/griss0n)<CLEARCOLOR>. De fã para fã, sem fins lucrativos.
 
 ###MENU TITLES
 [IDS_SHELL_INVENTORY_WHEEL_TITLE]INVENTÁRIO
@@ -143,7 +143,7 @@
 [IDS_SHELL_NO_OBJECTIVES_AVAILABLE]Você näo tem objetivos.
 
 ###GAME OVER MENU
-[IDS_SHELL_GAME_OVER]Você Morreu!
+[IDS_SHELL_GAME_OVER]Você foi morto!
 [IDS_SHELL_CONTINUE]Continuar
 [IDS_SHELL_QUIT]Desistir
 
@@ -163,9 +163,9 @@
 [IDS_SHELL_OPTIONS]Opçöes
 [IDS_SHELL_CREDITS]Créditos
 [IDS_SHELL_NORMAL]Padräo
-[IDS_SHELL_NORMAL_MESSAGE]A dificuldade na qual o jogo foi pensado inicialmente. Todos os recursos säo equilibrados durante a jornada.
+[IDS_SHELL_NORMAL_MESSAGE]A dificuldade na qual o jogo foi pensado inicialmente. Todos os recursos e combates säo equilibrados durante a jornada.
 [IDS_SHELL_HARD]Intenso
-[IDS_SHELL_HARD_MESSAGE]Para os já experiêntes. Nesta dificuldade, os monstros säo mais fortes e resistentes e a muniçäo é bem escassa.
+[IDS_SHELL_HARD_MESSAGE]Para os já experiêntes. Nesta dificuldade, os inimigos säo mais fortes e resistentes e a muniçäo é bem escassa.
 
 ##SAVE GAME
 [IDS_SHELL_SAVE_PROMPT] <COMMAND_KICK> Salvar
@@ -193,15 +193,15 @@
 [IDS_SHELL_SAVING_PS3]Salvando no MEMORY CARD do slot 1. Näo desligue o console ou remova o Memory Card!!
 [IDS_SHELL_SAVING_XBOX360]Salvando o progresso... Näo desligue o console!!
 
-[IDS_SHELL_SAVING_FAILED_PC]Você chegou ao limite de progressos salvos. Delete algum deles para continuar...
-[IDS_SHELL_SAVING_FAILED_PS3]Você chegou ao limite de progressos salvos. Delete algum deles para continuar...
-[IDS_SHELL_SAVING_FAILED_XBOX360]Você chegou ao limite de progressos salvos. Delete algum deles para continuar...
+[IDS_SHELL_SAVING_FAILED_PC]Você chegou ao limite de progressos salvos. Apague algum deles para continuar...
+[IDS_SHELL_SAVING_FAILED_PS3]Você chegou ao limite de progressos salvos. Apague algum deles para continuar...
+[IDS_SHELL_SAVING_FAILED_XBOX360]Você chegou ao limite de progressos salvos. Apague algum deles para continuar...
 
 [IDS_SHELL_LOADING_EMPTY_PC]Este espaço näo tem dados para carregar...
 [IDS_SHELL_LOADING_EMPTY_PS3]Este espaço näo tem dados para carregar...
 [IDS_SHELL_LOADING_EMPTY_XBOX360]Este espaço näo tem dados para carregar...
 
-[IDS_SHELL_SAVE_SUCCESSFUL]Seu progresso foi salvo! (mas você ainda näo...)
+[IDS_SHELL_SAVE_SUCCESSFUL]Seu progresso foi salvo! \n<COLOR,255,0,0>Já você...<CLEARCOLOR>
 
 [IDS_SHELL_NOT_SIGNED_IN_SAVING]You must sign in before accessing this feature.  Would you like to continue without saving?
 [IDS_SHELL_NOT_SIGNED_IN_LOADING]You must sign in before accessing this feature.  Would you like to continue without loading?
@@ -774,16 +774,16 @@
 
 [IDS_PICKUP_M12_GATE_KEY]Chave do Portäo
 [IDS_PICKUP_M12_GATE_KEY_GOT]Obteve a <COLOR,155,240,155>Chave do Portäo<CLEARCOLOR>.
-[IDS_PICKUP_M12_GATE_KEY_DESC]It's a Gate Key. I wonder which gate it's for.
+[IDS_PICKUP_M12_GATE_KEY_DESC]É ma chave de um portäo, mas qual?
 
 [IDS_PICKUP_m13_candle]Vela apagada
-[IDS_PICKUP_m13_candle_DESC]This candle seemed out of place where I found it. I wonder where it belongs.
-[IDS_PICKUP_m13_candle_GOT]I got an <COLOR,155,240,155>Unlit Candle<CLEARCOLOR>.
+[IDS_PICKUP_m13_candle_DESC]Essa vela parecia fora do lugar onde eu a achei. Me pergunto onde ela deveria estar...
+[IDS_PICKUP_m13_candle_GOT]Obteve a <COLOR,155,240,155>Vela apagada<CLEARCOLOR>.
 [IDS_PICKUP_M13MAP]Mapa da Igreja
-[IDS_PICKUP_M13MAP_DESC]A map showing the layout of the church.
+[IDS_PICKUP_M13MAP_DESC]Um mapa mostrando as salas da igreja.
 [IDS_PICKUP_M13MAP_GOT]Obteve o <COLOR,155,255,155>Mapa da Igreja<CLEARCOLOR>.
-[IDS_PICKUP_M13ShepherdRing]Shepherd Family Ring
-[IDS_PICKUP_M13ShepherdRing_DESC]Dad gave me this ring, moments before he was killed. He said it's been passed down through the generations.
+[IDS_PICKUP_M13ShepherdRing]Anel dos Sheperd
+[IDS_PICKUP_M13ShepherdRing_DESC]Meu pai me deu esse anel antes de morrer. Ele é um legado, passado de geraçäo em geraçäo...
 [IDS_PICKUP_M13ShepherdRing_GOT]Obteve o <COLOR,155,255,155>Anel dos Sheperd<CLEARCOLOR>.
 
 [IDS_PICKUP_IronBlade_Vengeance]Sword Plate
@@ -954,7 +954,7 @@
 
 [M00_Lock1]Está trancado.
 [M00_Lock2]A maçaneta ta completamente quebrada.\nNäo tem como abrir.
-[M00_Lock2b]A maçaneta está quebrada. \nNäo da pra abrir a porta.
+[M00_Lock2b]Näo da pra abrir essa porta. \nA maçaneta está quebrada...
 [M00_Lock3]Isso näo abre daqui, talvez tenha outro caminho...
 [M00_Lock4]Está bloqueada...
 [M00_Lock5]Está emperrada...
@@ -1026,7 +1026,7 @@
 
 
 [HOLE_TOPIC_01]Colocar o braço na abertura?
-[HOLE_RESPONSE_01]Pegar Robbie
+[HOLE_RESPONSE_01]Pegar o Brinquedo
 [HOLE_RESPONSE_02]Deixar ai
 
 
@@ -1103,7 +1103,7 @@
 [M01_CombatNote_06]<COLOR,195,188,228>Fast Attacks, Strong Attacks, Charge Attacks, and Combos: \n\nWhen in combat stance, press <ACTION> for Fast attacks and <HEAVY_ATTACK> for Strong Attacks.<CLEARCOLOR>
 [M01_CombatNote_07]<COLOR,195,188,228>Strong attacks can be charged up for added damage by holding down <HEAVY_ATTACK>. \n\nSuccessive Fast attacks followed by a Strong attack can make for uninterrupted strikes known as Combos.<CLEARCOLOR>
 
-[M01_KeypadHint_1]<COLOR,195,188,228>Attention Staff: \n\nOur security has been somewhat compromised- a patient used an X-Ray Film to write down the code for the security gate.  We have recovered the first half, but the second half is still missing. Should you find the missing X-Ray piece be sure to notify the head of security immediately.<CLEARCOLOR>
+[M01_KeypadHint_1]<COLOR,195,188,228>Atençäo funcionários: \n\nNossa segurança foi comprometida- um paciente usou um filme de raio-x para escrever o código de segurança do portäo. Nós recuperamos a primeira metade, mas a segunda ainda está por ai... Caso você encontrem a parte perdida, notifiquem o chefe de segurança imediatamente.<CLEARCOLOR>
 
 [M01_MissingPatient_1]Boletim de Paciênte desaparecido:
 [M01_MissingPatient_2]<COLOR,195,188,228>Sala 205, paciênte desapareceu, foi visto pela ultima vez na sua sala depois de um conflito com outro...<CLEARCOLOR>
@@ -1183,12 +1183,12 @@
 [M01_IncDoll_1]Uma boneca... Parece estar queimada.
 [M01_IncDoll_2]Me pergunto... Como ela chegou ali?
 
-[M01_Door206_01]I think I hear the faint sound of water lapping on the shore, the source seems to be coming from just beyond this door, But that's impossible, this is a hospital.
+[M01_Door206_01]Eu acho que ouvi o som de água caindo de uma cachoeira... Parece que está vindo de trás desta porta. Mas isso é impossível, isso é um hospital.
 
 [M01_InspectMap_01]Isso é um mapa?
 
 [M01_Map]É o mapa do Hospital.
-[M01_XraySwitch]The switch is broken.
+[M01_XraySwitch]O botäo está quebrado.
 [M01_JoshuaWait1]Ei! Espera!
 [M01_JoshuaWait2]Josh?
 [M01_JoshuaWait3]Josh! Para!
@@ -1199,8 +1199,8 @@
 [M01_Nosmoking]<COLOR,195,188,228>É PROIBIDO FUMAR NESTE LOCAL<CLEARCOLOR>
 [M01_Toilet]Esse banheiro é nojento...
 [M01_Toilet1]Esse banheiro cheira a morte.
-[M01_1award]<COLOR,195,188,228>1A - WARD<CLEARCOLOR>
-[M01_2award]<COLOR,195,188,228>2A - WARD<CLEARCOLOR>
+[M01_1award]<COLOR,195,188,228>Setor 1A<CLEARCOLOR>
+[M01_2award]<COLOR,195,188,228>Setor 2A<CLEARCOLOR>
 [M01_Mirrormsg1]Tem uma mensagem em sangue...
 [M01_Mirrormsg2]Parece a letra do Josh.
 [M01_Mirrormsg3]Será que o Josh realmente escreveu isso?
@@ -1213,75 +1213,75 @@
 [M01_FilingCabs]Estäo vazios...
 [M01_xrayimage]Esses Raios-X näo tem sentido. O que ta acontecendo aqui?
 [M01_viewingwindow]É uma janela de visualizaçäo.
-[M01_viewingwindow1]There's something taped onto the other side.
-[M01_tvbaby]Essa TV näo está conectada na energia! Como isso á possível?!
+[M01_viewingwindow1]Tem algo ali do outro lado...
+[M01_tvbaby]Essa TV näo está conectada na energia! Como isso é possível?!
 [M01_cooler]Está quebrado.
-[M01_bunny1]Parece um desenhofeito em gis.
+[M01_bunny1]Parece um desenho feito em gis.
 [M01_bunny2]Quem colocou isso aqui?
 [M01_OldMattress_1]It's an old dirty mattress,
-[M01_OldMattress_2]it's covered with fluid stains. Disgusting!
+[M01_OldMattress_2]Está coberto com fluidos estranhos... Que nojo!
 
 [M01_Oldmags_1]Algumas revistas antigas.
-[M01_Oldmags_2]Algumas revistas antigas. N?o estou interessado nelas.
-[M01_NoInterest_1]N?o estou interessado nisso agora.
+[M01_Oldmags_2]Algumas revistas antigas. Näo estou interessado nelas.
+[M01_NoInterest_1]Näo estou interessado nisso agora.
 
 
 ### STORY INTEREST POINTS FOR M01_Nightmare ###
 
-[M01_Interest_01]That looks painful.
-[M01_Interest_03]If I only had an X-Ray.
-[M01_Interest_02]Acho que ? um respirador.
-[M01_Interest_04]Let's see what I can see.
+[M01_Interest_01]Isso parece doloroso.
+[M01_Interest_03]Se eu pelo menos tivesse um raio-x...
+[M01_Interest_02]Acho que é um respirador.
+[M01_Interest_04]Vamos ver o que eu consigo ver.
 [M01_Interest_05]O que isso faz?
 
 
 
-[M01_BodyFluid_1]It's some kind of bodily fluid container...
+[M01_BodyFluid_1]Parece algum tipo de conteiner de fluidos corporais...
 [M01_BodyFluid_2]Eu... Odeio... Hospitais...
 
-[M01_Life]Talvez a vida n?o seja para todos.
+[M01_Life]Talvez a vida näo seja para todos.
 
-[M01_Organs_1]Someone's organs... Why were they just left here?
-[M01_Organs_2]Are these the results of an operation gone wrong?
-
-
-[M01_AntiMan_1]<COLOR,195,188,228>I hate this awful place. Who the hell are they to know what's good for me?<CLEARCOLOR>
-[M01_AntiMan_2]<COLOR,195,188,228>There is no freedom left in this world... Am I the only one left who knows truth?<CLEARCOLOR>
+[M01_Organs_1]Alguns órgäos... Por que deixaram eles aqui?
+[M01_Organs_2]Isso é o resultado de uma operaçäo que deu errado?
 
 
-[M01_Torture]What is this vile-looking device?
-[M01_Torture2]What is this horrible-looking device?
-
-[M01_StaffOnly]<COLOR,195,188,228>Staff Only! No visitors allowed beyond this point.<CLEARCOLOR>
-[M01_BathroomDoor2]A porta est? trancada. Mas posso jurar que ouvi algu?m do outro lado.
+[M01_AntiMan_1]<COLOR,195,188,228>Eu odeio esse maldito lugar. Quem eles pensam que säo pra saber o que é bom pra mim?<CLEARCOLOR>
+[M01_AntiMan_2]<COLOR,195,188,228>Näo existe mais liberdade nesse mundo... Será que somente eu sei a verdade?<CLEARCOLOR>
 
 
+[M01_Torture]O que é essa coisa esquisita aqui?
+[M01_Torture2]O que é essa coisa horrível aqui?
 
-[M01_Monsters]<COLOR,195,188,228>Eles est?o nos transformando em monstros! <CLEARCOLOR>
+[M01_StaffOnly]<COLOR,195,188,228>Somente funcionários. Nenhum visitante é permitido além deste ponto.<CLEARCOLOR>
+[M01_BathroomDoor2]A porta está trancada. Mas posso jurar que ouvi alguém do outro lado.
 
-[M01_reality_1]<COLOR,195,188,228>Isso ? real? <CLEARCOLOR>
-[M01_reality_2]<COLOR,195,188,228>Isso ? um sonho? <CLEARCOLOR>
+
+
+[M01_Monsters]<COLOR,195,188,228>Eles estäo nos transformando em monstros! <CLEARCOLOR>
+
+[M01_reality_1]<COLOR,195,188,228>Isso é real? <CLEARCOLOR>
+[M01_reality_2]<COLOR,195,188,228>Isso é um sonho? <CLEARCOLOR>
 [M01_reality_3]<COLOR,195,188,228>Eu quero ir pra casa. <CLEARCOLOR>
 
 [M01_Interest_06]Meu Deus.
-[M01_BunnyDrawing_A_1]It's a child's drawing depicting a family of bunnies.
-[M01_BunnyDrawing_A_2]There's a Mommy bunny, a Daddy Bunny, and a Baby bunny...
+[M01_BunnyDrawing_A_1]É um desenho de criança sobre uma família de coelhinhos.
+[M01_BunnyDrawing_A_2]Tem três coelhinhos: O papai, A mamäe e o Bebê...
 [M01_BunnyDrawing_A_3]I think the bunnies are supposed to look afraid, and off to the side there is a wolf, or a monster or something.
-[M01_BunnyDrawing_B_1]Another bunny drawing.
+[M01_BunnyDrawing_B_1]Outro desenho de coelhinho.
 [M01_BunnyDrawing_B_2]One of the bunnies looks young and innocent.
 [M01_BunnyDrawing_B_3]The older one's face has a strange expression.
 [M01_BunnyDrawing_B_4]It looks as if it knows something terrible.
-[M01_BunnyDrawing_C_1]This drawing features only one bunny.
+[M01_BunnyDrawing_C_1]Esse desenho só tem um coelhinho...
 [M01_BunnyDrawing_C_2]Why is it isolated in a tiled room?
 [M01_BunnyDrawing_D_1]These nurse bunnies are gathered around a TV set.
-[M01_BunnyDrawing_D_2]The poses are very creepy.
-[M01_BunnyDrawing_E_1]This bunny is dressed up as a soldier.
+[M01_BunnyDrawing_D_2]As poses säo bem assustadoras.
+[M01_BunnyDrawing_E_1]Esse coelhinho está vestido de soldado.
 [M01_BunnyDrawing_E_2]I wonder why all of his insignia is scribbled out.
-[M01_BunnyDrawing_F_1]Josh must really like that stuffed rabbit if he drew all these pictures
-[M01_BunnyDrawing_F_2]What did Joshua want his toy for?
+[M01_BunnyDrawing_F_1]Josh deve adorar aquele coelhinho... Já que ele desenha coelhos tantas vezes...
+[M01_BunnyDrawing_F_2]Por que o Joshua quer tanto esse brinquedo?
 [M01_BunnyDrawing_G_1]This bunny is encircled by the others.
-[M01_BunnyDrawing_G_2]It looks like some kind of ceremony.
-[M01_BunnyDrawing_H_1]One of the bunnies is good, the other looks evil...
+[M01_BunnyDrawing_G_2]Parece algum tipo de cerimônia.
+[M01_BunnyDrawing_H_1]Um dos coelhinhos parece bom, já o outro parece mau...
 
 [M01_Interest_08]Why is this here?
 [M01_Interest_09]It's a pile of magazines, but I don't recognize any of the titles.
@@ -1330,23 +1330,23 @@
 [M01_Interest_63_Crayon_Drawings]Is he trying to tell me something?
 [M01_Interest_64_A_Scrawled_Note_on_a_Wall]It's a note scrawled on the wall.
 [M01_Interest_65_A_Scrawled_Note_on_a_Wall]It says, <COLOR,195,188,228>Why are you here?<CLEARCOLOR>
-[M01_Interest_66_Hear_Somebody_in_Locked_Bathroom_Stall]There's someone in there, but the door is locked.
-[M01_Interest_68_Hear_Somebody_in_Locked_Bathroom_Stall]They're not answering.
-[M01_Interest_69_More_Comments_for_Toilets]This toilet is covered in waste.
-[M01_Interest_70_More_Comments_for_Toilets]There's vomit all around this toilet.
-[M01_Interest_72_More_Comments_for_Toilets]This is making me sick.
-[M01_Interest_73_More_Comments_for_Toilets]It's all stopped up.
-[M01_Interest_76_More_Comments_for_Toilets]This looks disgusting.
-[M01_Interest_77_More_Comments_for_Toilets]This toilet is broken.
-[M01_Interest_78_More_Comments_for_Toilets]Doesn't anyone clean up in this place?
-[M01_Interest_79_More_Comments_for_Toilets]The floor in here is all wet.
-[M01_Interest_80_More_Comments_for_Toilets]This toilet smells like poison.
-[M01_Interest_81_More_Comments_for_Toilets]The smell... I can't breathe in here.
-[M01_Interest_82_More_Comments_for_Toilets]This is dirty and smells awful.
-[M01_Interest_83_More_Comments_for_Toilets]Oh. I think I'm going to be sick.
-[M01_Interest_84_More_Comments_for_Toilets]Who left it this way? Gross!
-[M01_Interest_85_More_Comments_for_Toilets]It looks like something died in here.
-[M01_Interest_86_More_Comments_for_Toilets]Did I just hear something in there?
+[M01_Interest_66_Hear_Somebody_in_Locked_Bathroom_Stall]Acho que tem alguém aqui, mas a porta está trancada...
+[M01_Interest_68_Hear_Somebody_in_Locked_Bathroom_Stall]Näo tem resposta...
+[M01_Interest_69_More_Comments_for_Toilets]Esse banheiro está coberto de dejetos...
+[M01_Interest_70_More_Comments_for_Toilets]Tem vômito por todo canto daqui...
+[M01_Interest_72_More_Comments_for_Toilets]Isso está me dando ânsia de vômito...
+[M01_Interest_73_More_Comments_for_Toilets]Está quebrado.
+[M01_Interest_76_More_Comments_for_Toilets]Isso é nojento.
+[M01_Interest_77_More_Comments_for_Toilets]Esse vaso quebrou.
+[M01_Interest_78_More_Comments_for_Toilets]Ninguém limpa nada nesse lugar? Que nojo!
+[M01_Interest_79_More_Comments_for_Toilets]O chäo está todo molhado.
+[M01_Interest_80_More_Comments_for_Toilets]Esse banheiro cheira pior que veneno...
+[M01_Interest_81_More_Comments_for_Toilets]Esse cheiro horrível... Näo consigo nem respirar aqui...
+[M01_Interest_82_More_Comments_for_Toilets]Isso está muito sujo e cheira muito mal.
+[M01_Interest_83_More_Comments_for_Toilets]Ah cara, acho que vou vomitar...
+[M01_Interest_84_More_Comments_for_Toilets]Quem deixaria isso assim?! Que nojo!
+[M01_Interest_85_More_Comments_for_Toilets]Parece que algo morreu aqui...
+[M01_Interest_86_More_Comments_for_Toilets]Será que eu ouvi algo aqui?
 
 [M01_Interest_95_C_State_Level]Everything changed.
 [M01_Interest_96_C_State_Level]Something doesn't feel right.
@@ -1361,17 +1361,17 @@
 [M01_Interest_109_Patient_Beds]This mattress is covered in black mold.
 [M01_Interest_110_Patient_Beds]It smells like someone died on this bed.
 [M01_Interest_111_Patient_Beds]Who could sleep in these conditions?
-[M01_Interest_112_Note_on_Patient_Bed]There's a hand-written note on the bed.
-[M01_Interest_113_Note_on_Patient_Bed]It says, <COLOR,195,188,228>I want to leave this place!<CLEARCOLOR>
+[M01_Interest_112_Note_on_Patient_Bed]Tem uma nota escrita a mäo nessa cama.
+[M01_Interest_113_Note_on_Patient_Bed]Aqui diz, <COLOR,195,188,228>Eu quero sair daqui!<CLEARCOLOR>
 [M01_Interest_114_Note_on_Patient_Bed]<COLOR,195,188,228>Please take me back home. I want to get on with my life.<CLEARCOLOR>
 [M01_Interest_115_Save_Symbols]What's this symbol?
 [M01_Interest_116_Save_Symbols]I wonder what it does.
 [M01_Interest_117_Save_Symbols]I swear I've seen this somewhere before.
-[M01_Interest_118_2nd_Floor_Storage_Room_Photograph]Looks like an old photograph.
+[M01_Interest_118_2nd_Floor_Storage_Room_Photograph]Parece uma foto antiga.
 [M01_Interest_119_2nd_Floor_Storage_Room_Photograph]It's a faded picture of some food.
 [M01_Interest_120_2nd_Floor_Storage_Room_Photograph]But the meat is covered with maggots! Disgusting!
 [M01_Interest_121_C_Version_Operating_Theater]It's a message in blood on the X-Ray board.
-[M01_Interest_122_C_Version_Operating_Theater]It says, <COLOR,195,188,228>I'm going mad. Want to join me?
+[M01_Interest_122_C_Version_Operating_Theater]Aqui diz, <COLOR,195,188,228>Estou ficando louco. Gostaria de se juntar a mim?<CLEARCOLOR>
 [M01_Interest_124_C_Version_Operating_Theater]It's a patient's chart:
 
 
@@ -1379,16 +1379,16 @@
 
 ### M02 Mission Objectives ###
 
-[M02_Objective_GoHome]- V? para a sua casa.
-[M02_Objective_GasCan]- Encontre gasolina para ligar a bomba d'?gua.
+[M02_Objective_GoHome]- Vá para a sua casa.
+[M02_Objective_GasCan]- Encontre gasolina para ligar a bomba d'água.
 [M02_Objective_FillCan]- Encontre um lugar para encher o tanque de gasolina.
-[M02_Objective_ReturnHome]- Retorne ao por?o e abaste?a a bomba.
+[M02_Objective_ReturnHome]- Retorne ao poräo e abasteça a bomba.
 
 ### M02 Journal ###
 
 [M02_Journal_Judge01] I ran into Judge Holloway in the street. It sounds like things have not been going well while I was away. She said that I should go home and see my mom.\n\nShe also mentioned that Elle is still here... I had hoped that she would have gotten out of this place by now.
 
-[M02_MapDisplay]Aperte <COMMAND_USE> para ver o mapa, e ent?o, aperte <COMMAND_UI_X> para ver os objetivos.
+[M02_MapDisplay]Aperte <COMMAND_USE> para ver o mapa, e entäo, aperte <COMMAND_UI_X> para ver os objetivos.
 
 ### STORY INTEREST POINTS FOR M02_SGTown1 ###
 
@@ -5095,7 +5095,7 @@
 [IDS_JOURNAL_Alternate_Ending_Pyramid_Head]Alternate Ending Pyramid Head.
 [IDS_JOURNAL_Alternate_Ending_Hospital]Alternate Ending Hospital.
 [IDS_JOURNAL_Alternate_Ending_UFO]Alternate Ending UFO.
-[IDS_JOURNAL_Kicker_Ending_Polaroid]Oh, so this is when that picture of me was taken.
+[IDS_JOURNAL_Kicker_Ending_Polaroid]Ah, entäo foi nesse periodo que essa foto foi tirada.
 
 ### Global Journal Entries ###
 
@@ -5136,10 +5136,10 @@
 
 ### INVENTORY Props Strings ###
 
-[IDS_INVENTORY_M03_Old_Revolver]Old Revolver
-[IDS_INVENTORY_M08_Elizabeth_Holloway_Birth_Certificate]Elle Holloway Birth Certificate
-[IDS_INVENTORY_M08_Rebecca_Shepherd_Birth_Certificate]Rebecca Shepherd Birth Certificate
-[IDS_INVENTORY_M08_Rebecca_Shepherd_Death_Certificate]Rebecca Shepherd Death Certificate
+[IDS_INVENTORY_M03_Old_Revolver]Revolver Velho
+[IDS_INVENTORY_M08_Elizabeth_Holloway_Birth_Certificate]Certidäo de nascimento de Elle Holloway
+[IDS_INVENTORY_M08_Rebecca_Shepherd_Birth_Certificate]Certidäo de nascimento de Rebecca Shepherd
+[IDS_INVENTORY_M08_Rebecca_Shepherd_Death_Certificate]Certidäo de óbito de Rebecca Shepherd
 
 
 ### AMBIENT Text Strings ###
@@ -5177,22 +5177,22 @@
 
 
 ### M02 Ambient ###
-[IDS_AMBIENT_SGTown1_Corner_Stone_on_Town_Hall]"Faith is the greatest foundation for success" - Shepherd's Glen Town Hall
-[IDS_AMBIENT_SGTown1_Celebration_Banner]SHEPHERD'S GLEN 150TH CELEBRATION! September 20-21
-[IDS_AMBIENT_SGTown1_Bartlett_Winery_Sign]BARTLETT, Vineyard and Winery, A Local Winery with a Tradition of Excellence
+[IDS_AMBIENT_SGTown1_Corner_Stone_on_Town_Hall]"A Fé é a base do sucesso" - Prefeitura de Shepherd's Glen.
+[IDS_AMBIENT_SGTown1_Celebration_Banner]ANIVERSÁRIO DE 150 ANOS DE SHEPHERD'S GLEN! 20 a 21 de Setembro.
+[IDS_AMBIENT_SGTown1_Bartlett_Winery_Sign]Vinhedos Barlett. Um vinhedo local de excelência e tradiçäo.
 
 ### M03 Ambient ###
-[IDS_AMBIENT_Alex1_Military_Poster_1]Be a man among men
-[IDS_AMBIENT_Alex1_Military_Poster_2]Clean your room, maggot!
-[IDS_AMBIENT_Alex1_Books_on_Bookshelf_1]The Man In The Iron Mask
-[IDS_AMBIENT_Alex1_Books_on_Bookshelf_2]Beyond Good And Evil
-[IDS_AMBIENT_Alex1_Books_on_Bookshelf_3]Frankenstein
-[IDS_AMBIENT_Alex1_Books_on_Bookshelf_4]The Adventures Of Pinocchio
-[IDS_AMBIENT_Alex1_Books_on_Bookshelf_5]Twenty Thousand Leagues Under The Sea
-[IDS_AMBIENT_Alex1_Books_on_Bookshelf_6]The Odyssey
-[IDS_AMBIENT_Alex1_Books_on_Bookshelf_7]Hamlet
-[IDS_AMBIENT_Alex1_Books_on_Bookshelf_8]Metamorphosis
-[IDS_AMBIENT_Alex1_Shepherd_House_Number]1133 Main Street
+[IDS_AMBIENT_Alex1_Military_Poster_1]Seja o homem entre todos os homens.
+[IDS_AMBIENT_Alex1_Military_Poster_2]Limpe seu quarto, seu verme!
+[IDS_AMBIENT_Alex1_Books_on_Bookshelf_1]O homem da mascara de ferro.
+[IDS_AMBIENT_Alex1_Books_on_Bookshelf_2]Além do bem e do mal.
+[IDS_AMBIENT_Alex1_Books_on_Bookshelf_3]Frankenstein.
+[IDS_AMBIENT_Alex1_Books_on_Bookshelf_4]As aventuras do Pinóquio.
+[IDS_AMBIENT_Alex1_Books_on_Bookshelf_5]2000 Pés no fundo do mar.
+[IDS_AMBIENT_Alex1_Books_on_Bookshelf_6]A Odisséia.
+[IDS_AMBIENT_Alex1_Books_on_Bookshelf_7]Hamlet.
+[IDS_AMBIENT_Alex1_Books_on_Bookshelf_8]Metamorfose.
+[IDS_AMBIENT_Alex1_Shepherd_House_Number]Rua principal 1133.
 
 ### M04 Ambient ###
 [IDS_AMBIENT_SGTown2_Bartlett_Mausoleum_Inscription]And until we meet again, may God hold you in the hollow of his hand.
@@ -5212,14 +5212,14 @@
 ### M07 Ambient ###
 
 ### M08 Ambient ###
-[IDS_AMBIENT_SGTown4_Corner_Stone_on_Town_Hall]"Faith is the greatest foundation for success" - Shepherd's Glen Town Hall
-[IDS_AMBIENT_SGTown4_Celebration_Banner]SHEPHERD'S GLEN 150TH CELEBRATION! September 20-21
-[IDS_AMBIENT_SGTown4_Bartlett_Winery_Sign]BARTLETT, Vineyard and Winery, A Local Winery with a Tradition of Excellence
+[IDS_AMBIENT_SGTown4_Corner_Stone_on_Town_Hall]"A Fé é a base do sucesso" - Prefeitura de Shepherd's Glen.
+[IDS_AMBIENT_SGTown4_Celebration_Banner]ANIVERSÁRIO DE 150 ANOS DE SHEPHERD'S GLEN! 20 a 21 de Setembro.
+[IDS_AMBIENT_SGTown4_Bartlett_Winery_Sign]Vinhedos Barlett. Um vinhedo local de excelência e tradiçäo.
 
 ### M09 Ambient ###
-[IDS_AMBIENT_M09Alex2_Note_On_Refrigerator]Remember to feed Corwin. - Lillian
-[IDS_AMBIENT_M09Alex2_Note_On_Refrigerator]A colored pencil drawing labeled "Alex, Dad and Me"
-[IDS_AMBIENT_M09Alex2_Motivational_Military_Sign]Keep your friends close and your enemies in a body bag
+[IDS_AMBIENT_M09Alex2_Note_On_Refrigerator]Lembrem de alimentar o Corwin. - Lillian
+[IDS_AMBIENT_M09Alex2_Note_On_Refrigerator]Um desenho colorido a lápis, o nome é "Alex, Pai e Eu".
+[IDS_AMBIENT_M09Alex2_Motivational_Military_Sign]Mantenha seus amigos perto, e seus inimigos mortos em um saco de corpos.
 
 ### M10 Ambient ###
 [IDS_AMBIENT_M10SHTown1_Silent_Hill_Sign]Welcome to Silent Hill
@@ -5253,35 +5253,35 @@
 ### M13 Ambient ###
 [IDS_AMBIENT_M13Church_Church_Signage_01]Igreja do Caminho Sagrado
 [IDS_AMBIENT_M13Church_Church_Signage_02]Missas: Todos os dias ao entardecer.
-[IDS_AMBIENT_M13Church_Church_Signage_03]N?o questionar?s tua f?, mas sim, tua devo??o.
+[IDS_AMBIENT_M13Church_Church_Signage_03]Näo questionarás tua fé, mas sim, tua devoçäo.
 [IDS_AMBIENT_M13Church_Church_Signage_04]Igreja do Caminho Sagrado
 [IDS_AMBIENT_M13Church_Church_Signage_05]Bingo: Todos os dias ao entardecer.
-[IDS_AMBIENT_M13Church_Church_Signage_06]Servimos Panquecas no caf? da manh? aos Domingo.
-[IDS_AMBIENT_M13Church_Church_Signage_07]Today's Hymns: 4, 8, 15, 16, 23, 42
-[IDS_AMBIENT_M13Church_Confessional_Sign_01]Prepare a tua l?ngua pois esta deve somente dizer a verdade.
+[IDS_AMBIENT_M13Church_Church_Signage_06]Servimos Panquecas no café da manhä aos Domingos.
+[IDS_AMBIENT_M13Church_Church_Signage_07]Hinos de Hoje: 4, 8, 15, 16, 23, 42
+[IDS_AMBIENT_M13Church_Confessional_Sign_01]Prepare a tua língua pois esta deve somente dizer a verdade.
 [IDS_AMBIENT_M13Church_Confessional_Sign_02]Pense antes de bater.
-[IDS_AMBIENT_M13Church_Confessional_Sign_03]N?o h? volta.
-[IDS_AMBIENT_M13Church_Confessional_Sign_04]Se voc? bater, ele ouvir?.
+[IDS_AMBIENT_M13Church_Confessional_Sign_03]Näo há volta.
+[IDS_AMBIENT_M13Church_Confessional_Sign_04]Se você bater, ele ouvirá.
 
 ### M14 Ambient ###
 [IDS_AMBIENT_M14lair_Order_Patrol_Checkpoint_Signage_01]STOP No unauthorized persons allowed beyond this point.
 [IDS_AMBIENT_M14lair_Order_Patrol_Checkpoint_Signage_02]CHECKPOINT: Be prepared to show proper identification.
 [IDS_AMBIENT_M14lair_Order_Patrol_Checkpoint_Signage_03]CHECKPOINT: Precautions are for your security and the good of the Faith.
-[IDS_AMBIENT_M14lair_Warning_Signage_01]WARNING: Construction area
-[IDS_AMBIENT_M14lair_Warning_Signage_02]WARNING: Dangerous equipment
+[IDS_AMBIENT_M14lair_Warning_Signage_01]PERIGO: Campo de Obras
+[IDS_AMBIENT_M14lair_Warning_Signage_02]PERIGO: Equipamentos perigosos
 [IDS_AMBIENT_M14lair_Torture_Room_Signage_01]Coloque todas as ferramentas no lugar apos o uso.
 [IDS_AMBIENT_M14lair_Torture_Room_Signage_02]Limpe todas as ferramentas antes de colocar no deposito.
 
 
 ###  PC SPECIFIC STRINGS ####
 
-[M01_MapUse_01_PC]Voc? pode apertar <UI_TOGGLE_MAP> a qualquer momento para ver o mapa.
+[M01_MapUse_01_PC]Você pode apertar <UI_TOGGLE_MAP> a qualquer momento para ver o mapa.
 [M01_BasicTip_1_PC]Segure <TARGETING> para mirar e <ACTION> para atacar.
-[M01_Inventory_1_PC]Aperte <COMBAT_WHEEL> para ver seus equipamentos. Voc? tamb?m pode apertar <COMMAND_UI_X> para ligar/desligar a lanterna.
-[M01_Inventory_2_PC]Aperte <INVENTORY_WHEEL> para ver seu inventario.
+[M01_Inventory_1_PC]Aperte <COMBAT_WHEEL> para ver seus equipamentos. Você também pode apertar <COMMAND_UI_X> para ligar/desligar a lanterna.
+[M01_Inventory_2_PC]Aperte <INVENTORY_WHEEL> para ver seu inventário.
 
-[M01_CombatNote_02_PC]<COLOR,195,188,228>Equipping a weapon: \n\nTo equip a weapon, open the weapon menu (<COMBAT_WHEEL>) and use <COMMAND_MOVEMENT> to select your weapon of choice.<CLEARCOLOR>
-[M01_CombatNote_03_PC]<COLOR,195,188,228>How to use combat stance and targeting: \n\nTo get into your combat ready stance, hold or tap <TARGETING> with a melee weapon equipped. \n\nWhen you enter combat stance and enemies are present, you will automatically target the closest enemy in your field of view.<CLEARCOLOR>
+[M01_CombatNote_02_PC]<COLOR,195,188,228>Equipando armas: \n\nPara equipar uma arma, abra o inventário de Equipamentos (botäo <COMBAT_WHEEL>) e use <COMMAND_MOVEMENT> para escolher sua arma.<CLEARCOLOR>
+[M01_CombatNote_03_PC]<COLOR,195,188,228>Modo de combate e escolha de alvos: \n\nPara entrar no modo de combate, segure ou aperte <TARGETING> com uma arma corpo-a-corpo em mäos. \n\nQuando você entra no modo de combate, você irá focar no alvo mais próximo do seu campo de visäo automaticamente.<CLEARCOLOR>
 [M01_CombatNote_04_PC]<COLOR,195,188,228>If multiple enemies are surrounding you, the target will be the closest hostile. \n\nThe targeted enemy will be highlighted by the flashlight.<CLEARCOLOR>
 [M01_CombatNote_05_PC]<COLOR,195,188,228>To change targets, turn the camera in the direction of that target, typically left or right. \n\nTo break targeting at any time, exit combat stance by releasing <TARGETING> or tapping it again.<CLEARCOLOR>
 
@@ -5311,5 +5311,5 @@
 [M04_CombatManual_01_PC]Combate de Longo Alcance
 [M04_CombatManual_02_PC]Equipping a ranged weapon: \n\nTo equip a ranged weapon, press <COMBAT_WHEEL> to bring up the weapon select screen, then select your ranged weapon of choice.
 [M04_CombatManual_03_PC]Firing a ranged weapon: \n\nHold down <TARGETING> to enter precision mode.\nPress <FIRE> to fire the weapon.
-[M04_CombatManual_04_PC]Performing a gun butt: \n\nWhile in precision mode press <ACTION> to perform a gun butt.
+[M04_CombatManual_04_PC]Coronhada: \n\nEnquanto estiver mirando, aperte <ACTION> para dar uma coronhada.
 [M04_CombatManual_05_PC]Reloading a ranged weapon: \n\nRanged weapons will automatically reload after you fire the last round in the gun, so long as you have additional ammo available.\n\nIt is often advantageous to reload before you empty your gun, so you are not caught reloading in close combat.\n\nThis can be done by pressing <HEAVY_ATTACK>.
