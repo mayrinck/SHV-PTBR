@@ -18,7 +18,7 @@
 [IDS_SHELL_MOUSE_SENSITIVITY]Sensibilidade do Mouse
 
 ###SHELL STRINGS ###
-[IDS_SHELL_PRESS_START_PC]Aperte um botäo para jogar.
+[IDS_SHELL_PRESS_START_PC]Aperte START para jogar.
 [IDS_SHELL_PRESS_START_PS3]Aperte START para jogar.
 [IDS_SHELL_PRESS_START_XBOX360]Aperte START para jogar.
 
@@ -81,7 +81,7 @@
 
 ###LEGAL SCREEN TEXT
 [IDS_SHELL_LEGAL_SCREEN_TEXT](c)2008 Konami Digital Entertainment, Inc.  (c)1999 Konami Digital Entertainment Co., Ltd. Todos os direitos reservados.  "Silent Hill" é uma marca registrada da Konami Digital Entertainment Co., Ltd. KONAMI é uma marca registrada da KONAMI CORPORATION.  Silent Hill: Homecoming usa Havok (c)1999-2008. Havok.com Inc. (ou licenciados). Todos os direitos reservados. Detalhes em www.havok.com
-[IDS_SHELL_LEGAL_SCREEN_TEXT_2]Desenvolvido pela Double Helix, uma divisäo da Foundation 9 Entertainment. O nome "Double Helix" e logotipo säo marcas registradas da Foundation 9 Entertainment. Traduçäo e Localizaçäo feita por <COLOR,100,65,164>GRISS0N (twitch.tv/griss0n)<CLEARCOLOR>. De fã para fã, sem fins lucrativos.
+[IDS_SHELL_LEGAL_SCREEN_TEXT_2]Desenvolvido pela Double Helix, uma divisäo da Foundation 9 Entertainment. O nome "Double Helix" e logotipo säo marcas registradas da Foundation 9 Entertainment. Traduçäo e Localizaçäo feita por <COLOR,100,65,164>GRISS0N (twitch.tv/griss0n)<CLEARCOLOR>. Devido a limitaçöes da fonte do jogo, alguns caractéres com "til" foram substituidos por outros disponíveis. Para os fäs, sem fins lucrativos.
 
 ###MENU TITLES
 [IDS_SHELL_INVENTORY_WHEEL_TITLE]INVENTÁRIO
@@ -128,12 +128,12 @@
 [IDS_SHELL_COSTUME_LOCKED][BLOQUEADO]
 
 
-[IDS_SHELL_COSTUME_YOUNG_ALEX_UNLOCK_MESSAGE]Você desbloqueou a roupa "Jovem" para Alex Shepherd.
-[IDS_SHELL_COSTUME_SHERIFF_UNLOCK_MESSAGE]Você desbloqueou a roupa "Delegado" para Alex Shepherd.
-[IDS_SHELL_COSTUME_TRUCKER_UNLOCK_MESSAGE]Você desbloqueou a roupa "Caminhoneiro" para Alex Shepherd.
-[IDS_SHELL_COSTUME_ORDERLY_UNLOCK_MESSAGE]Você desbloqueou a roupa "Enfermeiro" para Alex Shepherd.
-[IDS_SHELL_COSTUME_ORDER_UNLOCK_MESSAGE]Você desbloqueou a roupa "Soldado da Ordem" para Alex Shepherd.
-[IDS_SHELL_COSTUME_PYRAMID_UNLOCK_MESSAGE]Você desbloqueou a "Cabeça de Piramide" para Alex Shepherd.
+[IDS_SHELL_COSTUME_YOUNG_ALEX_UNLOCK_MESSAGE]Você desbloqueou a roupa "Jovem".
+[IDS_SHELL_COSTUME_SHERIFF_UNLOCK_MESSAGE]Você desbloqueou a roupa "Delegado".
+[IDS_SHELL_COSTUME_TRUCKER_UNLOCK_MESSAGE]Você desbloqueou a roupa "Caminhoneiro".
+[IDS_SHELL_COSTUME_ORDERLY_UNLOCK_MESSAGE]Você desbloqueou a roupa "Enfermeiro".
+[IDS_SHELL_COSTUME_ORDER_UNLOCK_MESSAGE]Você desbloqueou a roupa "Soldado da Ordem".
+[IDS_SHELL_COSTUME_PYRAMID_UNLOCK_MESSAGE]Você desbloqueou a "Cabeça de Piramide".
 
 
 ###MAPS MENU
@@ -406,7 +406,7 @@
 [IDS_LOADING_TIP_SCARLET_1]Quebrar a armadura de porcelana da Scarlet vai deixá-la atordoada. Comece pelas pernas ou tronco.
 [IDS_LOADING_TIP_SCARLET_2]Você deve quebrar TODAS as partes da armadura da Scarlet antes de poder finalizá-la pelas costas.
 
-[IDS_LOADING_TIP_AMNION_1]The best way to get inside Amnion's attacks is to approach from the side.  If you can't get close enough, hitting her legs will eventually knock her down.
+[IDS_LOADING_TIP_AMNION_1]O melhor jeito de passar pelos ataques da Amnion's é ir pelos lados. Se você näo conseguir chegar perto o suficiente, atirar nas suas pernas eventualmente vai derruba-la.
 [IDS_LOADING_TIP_AMNION_2]Quando a Amnion subir para lançar seus ataques ácidos fique debaixo dela para evitar dano.
 
 [IDS_LOADING_TIP_ASPHYXIA_1]Se você esquivar corretamente do agarräo da Asphyxia sua cauda ficará exposta para receber ataques.
@@ -484,44 +484,44 @@
 [IDS_PICKUP_FIRSTAID_GOT]Obteve um <COLOR,155,255,155>Kit de Primeiros Socorros<CLEARCOLOR>.
 
 [IDS_PICKUP_SERUM]Droga Injetável
-[IDS_PICKUP_SERUM_DESC]Uma droga experimental que vai melhorar minha saúde... Eu espero...
+[IDS_PICKUP_SERUM_DESC]Um tipo de droga injetável experimental que vai melhorar minha saúde... Eu espero...
 [IDS_PICKUP_SERUM_GOT]Obteve uma <COLOR,155,255,155>Droga Injetável<CLEARCOLOR>.
 
 [IDS_PICKUP_KNIFE]Faca de Combate
 [IDS_PICKUP_KNIFE_DESC]Está um pouco enferrujada e desamolada, mas ainda parece forte.
-[IDS_PICKUP_KNIFE_PICKUP]Obteve uma <COLOR,155,255,155>Faca de Combate<CLEARCOLOR>.
+[IDS_PICKUP_KNIFE_PICKUP]Obteve a <COLOR,155,255,155>Faca de Combate<CLEARCOLOR>.
 
 [IDS_PICKUP_CEREMONIAL_DAGGER]Adaga Cerimonial
 [IDS_PICKUP_CEREMONIAL_DAGGER_DESC]Uma adaga com marcas estranhas. Eu tenho certeza que já vi ela antes...
-[IDS_PICKUP_CEREMONIAL_DAGGER_GOT]Obteve uma <COLOR,175,0,100>Adaga Cerimonial<CLEARCOLOR>.
+[IDS_PICKUP_CEREMONIAL_DAGGER_GOT]Obteve a <COLOR,175,0,100>Adaga Cerimonial<CLEARCOLOR>.
 
 [IDS_PICKUP_PIPE]Cano de Ferro
 [IDS_PICKUP_PIPE_DESC]Um pedaço de Cano de Ferro. Está sujo e enferrujado... Pelo menos é fácil de manusear.
-[IDS_PICKUP_PIPE_PICKUP]Obteve um <COLOR,155,255,155>Cano de Ferro<CLEARCOLOR>.
+[IDS_PICKUP_PIPE_PICKUP]Obteve o <COLOR,155,255,155>Cano de Ferro<CLEARCOLOR>.
 
 [IDS_PICKUP_CROWBAR]Pé-de-Cabra
 [IDS_PICKUP_CROWBAR_DESC]Um objeto que é pau pra toda obra. Com certeza é mais pesado e mais forte que o cano...
-[IDS_PICKUP_CROWBAR_PICKUP]Obteve um <COLOR,155,255,155>Pé-de-Cabra<CLEARCOLOR>.
+[IDS_PICKUP_CROWBAR_PICKUP]Obteve o <COLOR,155,255,155>Pé-de-Cabra<CLEARCOLOR>.
 
 [IDS_PICKUP_SAW]Serra Circular
 [IDS_PICKUP_SAW_DESC]Uma serra circular portátil movida a gasolina. Isso poderia facilmente fazer picadinho de alguém.
-[IDS_PICKUP_SAW_PICKUP]Obteve uma <COLOR,155,255,155>Serra Circular<CLEARCOLOR>.
+[IDS_PICKUP_SAW_PICKUP]Obteve a <COLOR,155,255,155>Serra Circular<CLEARCOLOR>.
 
 [IDS_PICKUP_AXE]Machado de Incêncio
 [IDS_PICKUP_AXE_DESC]Machado padräo do corpo de bombeiros. Eu posso usar ele para cortar madeiras e quebrar obstáculos.
-[IDS_PICKUP_AXE_GOT]Obteve um <COLOR,155,255,155>Machado de Incêncio<CLEARCOLOR>.
+[IDS_PICKUP_AXE_GOT]Obteve o <COLOR,155,255,155>Machado de Incêncio<CLEARCOLOR>.
 
 [IDS_PICKUP_PULASKI_AXE]Machado Pulaski
 [IDS_PICKUP_PULASKI_AXE_DESC]Também conhecido como "Machado Picareta" ele é metade Machado, metade Picareta... Com certeza é melhor do que o Machado de Incêncio...
-[IDS_PICKUP_PULASKI_AXE_GOT]Obteve um <COLOR,155,255,155>Machado Pulaski<CLEARCOLOR>.
+[IDS_PICKUP_PULASKI_AXE_GOT]Obteve o <COLOR,155,255,155>Machado Pulaski<CLEARCOLOR>.
 
 [IDS_PICKUP_PISTOL]Pistola MK-23
 [IDS_PICKUP_PISTOL_DESC]A pistola 9mm que Curtis me deu. Está funcionando e é fácil de usar.
-[IDS_PICKUP_PISTOL_PICKUP]Obteve uma <COLOR,155,255,155>Pistola MK-23<CLEARCOLOR>.
+[IDS_PICKUP_PISTOL_PICKUP]Obteve a <COLOR,155,255,155>Pistola MK-23<CLEARCOLOR>.
 
 [IDS_PICKUP_RIFLE]M-14 A.R.
 [IDS_PICKUP_RIFLE_DESC]Um rifle de assalto. Atira mais devagar, mas tem mais alcance e poder de fogo que qualquer pistola.
-[IDS_PICKUP_RIFLE_PICKUP]Obteve uma <COLOR,155,255,155>M-14 A.R.<CLEARCOLOR>.
+[IDS_PICKUP_RIFLE_PICKUP]Obteve o <COLOR,155,255,155>Rifle M-14<CLEARCOLOR>.
 
 [IDS_PICKUP_DOLL_FULL]Boneca da Scarlet
 [IDS_PICKUP_DOLL_FULL_DESC]Acho que essa era a boneca favorita dela... Parece já ter estado em melhores condiçöes...
@@ -529,22 +529,22 @@
 
 [IDS_PICKUP_SHOTGUN]Escopeta Calibre-12
 [IDS_PICKUP_SHOTGUN_DESC]É devastadora de perto, mas atira e recarrega lentamente...
-[IDS_PICKUP_SHOTGUN_PICKUP]Obteve uma <COLOR,155,255,155>Escopeta Calibre-12<CLEARCOLOR>.
+[IDS_PICKUP_SHOTGUN_PICKUP]Obteve a <COLOR,155,255,155>Escopeta Calibre-12<CLEARCOLOR>.
 
 [IDS_PICKUP_LASER_PISTOL]Pistola Laser
 [IDS_PICKUP_LASER_PISTOL_DESC]É pequena mas MUITO efetiva. De onde veio isso? Será que os Aliens deixaram isso aqui?
-[IDS_PICKUP_LASER_PISTOL_PICKUP]Obteve uma <COLOR,155,255,155>Pistola Laser<CLEARCOLOR>.
+[IDS_PICKUP_LASER_PISTOL_PICKUP]Obteve a <COLOR,155,255,155>Pistola Laser<CLEARCOLOR>.
 
 [IDS_PICKUP_REVOLVER]Revolver Antigo
 [IDS_PICKUP_REVOLVER_DESC]Obteve com a minha mäe... O cilindro está enferrujado e näo gira. Seria uma arma muito boa, se funcionasse...
-[IDS_PICKUP_REVOLVER_GOT]Obteve um <COLOR,155,255,155>Revolver Antigo<CLEARCOLOR>.
+[IDS_PICKUP_REVOLVER_GOT]Obteve o <COLOR,155,255,155>Revolver Antigo<CLEARCOLOR>.
 
 [IDS_PICKUP_PISTOL_AMMO]Caixa de Muniçäo de Pistola
 [IDS_PICKUP_PISTOL_AMMO_DESC]Balas de 9mm para utilizar na pistola.
 [IDS_PICKUP_PISTOL_AMMO_GOT]Obteve algumas <COLOR,155,255,155>Muniçöes de Pistola<CLEARCOLOR>.
 [IDS_PICKUP_PISTOLUPGRADE]Pistola Cromada.
 [IDS_PICKUP_PISTOLUPGRADE_AMMO_DESC]Tem dano aumentado e suporta mais muniçäo do que qualquer pistola comum.
-[IDS_PICKUP_PISTOLUPGRADE_AMMO_GOT]Obteve uma<COLOR,155,255,155>Pistola Cromada<CLEARCOLOR>.
+[IDS_PICKUP_PISTOLUPGRADE_AMMO_GOT]Obteve a <COLOR,155,255,155>Pistola Cromada<CLEARCOLOR>.
 
 [IDS_PICKUP_SHOTGUN_AMMO]Caixa de Muniçäo de Escopeta
 [IDS_PICKUP_SHOTGUN_AMMO_DESC]Algumas balas de escopeta. Servem para qualquer modelo.
@@ -555,7 +555,7 @@
 
 [IDS_PICKUP_RIFLE_AMMO]Caixa de Muniçäo de Rifle
 [IDS_PICKUP_RIFLE_AMMO_DESC]Muniçäo .308 Winchester, utilizadas em Rifles de Caça.
-[IDS_PICKUP_RIFLE_AMMO_GOT]Obteve <COLOR,155,255,155>Muniçöes de Rifle<CLEARCOLOR>.
+[IDS_PICKUP_RIFLE_AMMO_GOT]Obteve algumas <COLOR,155,255,155>Muniçöes de Rifle<CLEARCOLOR>.
 [IDS_PICKUP_RIFLEUPGRADE]O Rifle de caça da Policia.
 [IDS_PICKUP_RIFLEUPGRADE_AMMO_DESC]Tem poder de fogo aumentado e comporta mais muniçäo que or rifles normais.
 [IDS_PICKUP_RIFLEUPGRADE_AMMO_GOT]Obteve o <COLOR,155,255,155>Rifle da Policia<CLEARCOLOR>.
@@ -823,7 +823,7 @@
 [IDS_Crayon_Drawing_3]Uma foto do Bartlett.
 [IDS_Crayon_Drawing_4]Acho que Joshua desenhou isso. Me parece um monstro matando duas crianças. Por que ele desenharia algo täo terrível?
 [IDS_Crayon_Drawing_5]Uma foto de um coelinho.
-[IDS_Crayon_Drawing_6]Outro desenho em gis. esse parece ser mäos malignas indo até uma criança. Acho que Josh precisa da minha ajuda.
+[IDS_Crayon_Drawing_6]Outro desenho em giz. esse parece ser mäos malignas indo até uma criança. Acho que Josh precisa da minha ajuda.
 [IDS_Crayon_Drawing_7]Uma foto do Josh.
 [IDS_Crayon_Drawing_8]Uma foto da juiza.
 [IDS_Crayon_Drawing_9]Uma foto da Morte.
@@ -1124,7 +1124,7 @@
 [M01_Death_Report_A_3]<COLOR,195,188,228>...injuries appear to be inflicted by a rusty scissor blade found nearby....<CLEARCOLOR>
 [M01_Death_Report_A_4]<COLOR,195,188,228>The missing Operation Theater key was later discovered inside the patient's chest cavity.<CLEARCOLOR>
 
-[M01_DoctorNote_A_1]Anotações do doutor:
+[M01_DoctorNote_A_1]Anotaçöes do doutor:
 [M01_DoctorNote_A_2]<COLOR,195,188,228>The patient in room 206 is scheduled to undergo a trans-orbital lobotomy tomorrow.<CLEARCOLOR>
 [M01_DoctorNote_A_3]<COLOR,195,188,228>I've mandated that the following medications be doubled on the day of the procedure...<CLEARCOLOR>
 [M01_DoctorNote_A_4]<CLEARCOLOR>I thought lobotomies were obsolete.  Who scheduled this procedure?
@@ -1216,7 +1216,7 @@
 [M01_viewingwindow1]Tem algo ali do outro lado...
 [M01_tvbaby]Essa TV näo está conectada na energia! Como isso é possível?!
 [M01_cooler]Está quebrado.
-[M01_bunny1]Parece um desenho feito em gis.
+[M01_bunny1]Parece um desenho feito em giz.
 [M01_bunny2]Quem colocou isso aqui?
 [M01_OldMattress_1]It's an old dirty mattress,
 [M01_OldMattress_2]Está coberto com fluidos estranhos... Que nojo!
@@ -3991,14 +3991,14 @@
 ### Strings for Cinematics Rendered as Bink Movies ###
 
 # FMV of New_GURNEY_RIDE_FINAL - Opening Gurney Sequence #
-[IDS_MOV_M01_010_SFX_01]<COLOR,208,144,53>SOUND<CLEARCOLOR> <COLOR,255,255,255>Air Raid Siren and Explosions<CLEARCOLOR>
+[IDS_MOV_M01_010_SFX_01]<COLOR,127,143,166>SOUND<CLEARCOLOR> <COLOR,255,255,255>Air Raid Siren and Explosions<CLEARCOLOR>
 [IDS_MOV_M01_010_ALX_02]Where's my squad? Are they here?
 [IDS_MOV_M01_010_ALX_03]Did they make it?
 [IDS_MOV_M01_010_ALX_04]Ah, ahhh!
 [IDS_MOV_M01_010_ALX_05]Hey, hey talk to me.
 [IDS_MOV_M01_010_ALX_06]Say something!
 [IDS_MOV_M01_010_ALX_07]Oh God...oh, oh God!!
-[IDS_MOV_M01_010_SFX_08]<COLOR,208,144,53>SOUND<CLEARCOLOR> <COLOR,255,255,255>Screaming<CLEARCOLOR>
+[IDS_MOV_M01_010_SFX_08]<COLOR,127,143,166>SOUND<CLEARCOLOR> <COLOR,255,255,255>Screaming<CLEARCOLOR>
 [IDS_MOV_M01_010_ALX_09]Hey, hey what are they doing?
 [IDS_MOV_M01_010_ALX_10]What's going on there?
 [IDS_MOV_M01_010_ALX_11]Hey where are you taking me?
@@ -4072,17 +4072,17 @@
 [IDS_MOV_M09_050B_40]Ahhh!
 
 # FMV of CIN_M14_020 - Alex Gets Caught by Curtis #
-[IDS_MOV_M14_020_01]Going down?
-[IDS_MOV_M14_020_02]Like your job, soldier?
-[IDS_MOV_M14_020_03]I love what I do...fixing things...it's my gift.
-[IDS_MOV_M14_020_04]But now I have direction...clarity.
-[IDS_MOV_M14_020_05]It's important to know who you are.
+[IDS_MOV_M14_020_01]Ta descendo?
+[IDS_MOV_M14_020_02]Gosta do seu trabalho, soldado?
+[IDS_MOV_M14_020_03]Eu gosto do meu sabe... Consertar coisas... É o meu dom.
+[IDS_MOV_M14_020_04]Mas agora eu tenho uma direçäo... Clareza...
+[IDS_MOV_M14_020_05]É importante saber quem você é.
 [IDS_MOV_M14_020_06]Urgh...arrgh!
-[IDS_MOV_M14_020_07]Don't you agree...soldier?
+[IDS_MOV_M14_020_07]Você näo acha, soldado?
 
 # FMV of CIN_M14_025 - The Judge Begins to Torture Alex #
-[IDS_MOV_M14_025_01]Judge Holloway.
-[IDS_MOV_M14_025_02]You should probably call me Margaret. You're so grown up now.
+[IDS_MOV_M14_025_01]Juiza Holloway.
+[IDS_MOV_M14_025_02]You should probably call me Margaret. You're so grown up now.Você deveria me chamar de Margaret.
 [IDS_MOV_M14_025_03]I found Elle, but I don't know what happened. I'm sorry.
 [IDS_MOV_M14_025_04]I'm sorry too. You try so hard to raise a child, to instill your values into her.
 [IDS_MOV_M14_025_05]You want her to be her own person but you hope she'll always remember what's important - family.
@@ -4118,11 +4118,11 @@
 [IDS_MOV_M14_025_35]Ahhh!!!!
 
 # FMV of CIN_M15_020 - Alex is Drowned by Adam - Bad Ending Alt #
-[IDS_MOV_M15_020_01]Don't be afraid, son. Your sacrifice will save us all. Joshua will be safe to carry on the family name.
-[IDS_MOV_M15_020_02]No!!!
+[IDS_MOV_M15_020_01]Näo tenha medo, filho. Seu sacrificio vai nos salvar. Joshua vai poder levar o legado da família.
+[IDS_MOV_M15_020_02]NäO!!!
 
 
-### Strings for Cinematics Played In-game ###
+### Strings for Cinematics Played In-game - DIÁLOGOS DOS PERSONAGENS ###
 
 # CIN_M01_ORDERDTH Strings #
 [IDS_CIN_M01_ORDERDTH_ORD_1]Ahhh!!!
@@ -4130,71 +4130,71 @@
 
 # CIN_M01_030 Strings #
 [IDS_CIN_M01_030_ALX_1]Josh.
-[IDS_CIN_M01_030_ALX_2]Hey.
-[IDS_CIN_M01_030_ALX_3]Look at me, pal.
-[IDS_CIN_M01_030_ALX_4]Here.
-[IDS_CIN_M01_030_JOS_1]I want Robbie!
-[IDS_CIN_M01_030_ALX_5]This is yours, you remember.
-[IDS_CIN_M01_030_ALX_6]Take it.
-[IDS_CIN_M01_030_ALX_7]Come on...
-[IDS_CIN_M01_030_ALX_8]Where are you going?
+[IDS_CIN_M01_030_ALX_2]Ei.
+[IDS_CIN_M01_030_ALX_3]Olha pra mim, amigäo.
+[IDS_CIN_M01_030_ALX_4]Toma.
+[IDS_CIN_M01_030_JOS_1]Eu quero o Robbie!
+[IDS_CIN_M01_030_ALX_5]Ta aqui. isso é seu, lembra?
+[IDS_CIN_M01_030_ALX_6]Pega.
+[IDS_CIN_M01_030_ALX_7]Vamos...
+[IDS_CIN_M01_030_ALX_8]Aonde você vai?
 [IDS_CIN_M01_030_ALX_9]Josh!
-[IDS_CIN_M01_030_ALX_10]Josh, come back!  Where are you going?
+[IDS_CIN_M01_030_ALX_10]Josh, volta aqui!  Aonde você vai?
 [IDS_CIN_M01_030_ALX_11]Josh!!
 
 # CIN_M01_035 Strings #
-[IDS_CIN_M01_035_ALX_1]Dammit!
-[IDS_CIN_M01_035_ALX_2]Get OFF!
+[IDS_CIN_M01_035_ALX_1]Merda!
+[IDS_CIN_M01_035_ALX_2]Me larga!
 
 # CIN_M01_040 Strings #
-[IDS_MOV_M01_040_SFX_1]<COLOR,208,144,53>SOUND<CLEARCOLOR> <COLOR,255,255,255>Metal scraping<CLEARCOLOR>
-[IDS_MOV_M01_040_SFX_2]<COLOR,208,144,53>SOUND<CLEARCOLOR> <COLOR,255,255,255>Metal scraping<CLEARCOLOR>
-[IDS_MOV_M01_040_TRU_1]Bad dream?
-[IDS_MOV_M01_040_SFX_3]<COLOR,208,144,53>SOUND<CLEARCOLOR> <COLOR,255,255,255>Music playing<CLEARCOLOR>
+[IDS_MOV_M01_040_SFX_1]<COLOR,127,143,166>Metal rangindo<CLEARCOLOR>
+[IDS_MOV_M01_040_SFX_2]<COLOR,127,143,166>Metal rangindo<CLEARCOLOR>
+[IDS_MOV_M01_040_TRU_1]Pesadelo?
+[IDS_MOV_M01_040_SFX_3]<COLOR,127,143,166>Musica tocando<CLEARCOLOR>
 
 # CIN_M02_020 Strings #
-[IDS_CIN_M02_020_TRU_1]Home town?
-[IDS_CIN_M02_020_ALX_1]You could say that.
-[IDS_CIN_M02_020_TRU_2]Well, good luck soldier.
-[IDS_CIN_M02_020_ALX_2]Thanks.
-[IDS_CIN_M02_020_ALX_3]Thanks for the ride.
+[IDS_CIN_M02_020_TRU_1]Sua cidade né?
+[IDS_CIN_M02_020_ALX_1]É, da pra dizer que sim.
+[IDS_CIN_M02_020_TRU_2]Bem, boa sorte soldado.
+[IDS_CIN_M02_020_ALX_2]Obrigado.
+[IDS_CIN_M02_020_ALX_3]Valeu pela carona.
 
 # CIN_M02_025 Strings #
-[IDS_CIN_M02_025_ALX_1]What happened to this place?
+[IDS_CIN_M02_025_ALX_1]O que houve aqui?
 [IDS_CIN_M02_025_JUD_1]Alex?
-[IDS_CIN_M02_025_ALX_2]Judge Holloway.  Hey.
-[IDS_CIN_M02_025_JUD_2]I didn't know you were home.  Does your mother know?  She didn't say anything.
-[IDS_CIN_M02_025_ALX_3]No, I haven't talked to her.  Actually, I haven't really talked to anyone.  I'm not planning on sticking around for long.
-[IDS_CIN_M02_025_JUD_3]Oh.  Well, I hope you get a chance to catch up with Elle.  I'm sure she'd love to see you.
-[IDS_CIN_M02_025_ALX_4]She's still here?
-[IDS_CIN_M02_025_JUD_4]Of course.  You know how it is.  No one ever leaves this place.
-[IDS_CIN_M02_025_ALX_5]Yeah, I guess.
+[IDS_CIN_M02_025_ALX_2]Juiza Holloway! Oi.
+[IDS_CIN_M02_025_JUD_2]Eu näo sabia que você estava de volta. Sua mäe sabia? Ela näo contou nada pra gente...
+[IDS_CIN_M02_025_ALX_3]Näo, eu ainda näo falei com ela. Na verdade näo falei com ninguém, mas näo to planejando ficar aqui por muito tempo.
+[IDS_CIN_M02_025_JUD_3]Ah. Entäo nesse caso acho que você deveria tentar falar com a Elle. Tenho certeza que ela adoraria te ver.
+[IDS_CIN_M02_025_ALX_4]Ela ainda mora aqui?
+[IDS_CIN_M02_025_JUD_4]Mas é claro. Você sabe como é por aqui. Ninguém vai embora da cidade.
+[IDS_CIN_M02_025_ALX_5]É, eu acho...
 [IDS_CIN_M02_025_ALX_6]This town's so quiet.  It's changed.
-[IDS_CIN_M02_025_JUD_5]Hmm, yes.  Not for the better, I'm afraid.
-[IDS_CIN_M02_025_JUD_6]You should go home, see your mother.  Perhaps I'll see you later.
-[IDS_CIN_M02_025_JUD_7]You look well, by the way.
-[IDS_CIN_M02_025_ALX_7]Thanks.
+[IDS_CIN_M02_025_JUD_5]Hmmm... Sim. Talvez näo para melhor.
+[IDS_CIN_M02_025_JUD_6]Você deveria ir pra casa, visitar sua mäe. Depois a gente se fala...
+[IDS_CIN_M02_025_JUD_7]Você ta com uma cara ótima, por sinal.
+[IDS_CIN_M02_025_ALX_7]Valeu.
 
 # CIN_M02_035 Strings #
-[IDS_CIN_M02_035_ALX_1]Hey!
-[IDS_CIN_M02_035_ALX_2]Excuse me.
-[IDS_CIN_M02_035_ALX_3]Sir?
-[IDS_CIN_M02_035_ALX_4]Hey, you...
-[IDS_CIN_M02_035_ALX_5]Huh?  Doctor Fitch?!
-[IDS_CIN_M02_035_FIT_1]What do you want?
-[IDS_CIN_M02_035_ALX_6]Are you alright?
-[IDS_CIN_M02_035_ALX_7]Whose blood is that?  What have you done?!
-[IDS_CIN_M02_035_FIT_2]Stay away from me!
+[IDS_CIN_M02_035_ALX_1]Ei!
+[IDS_CIN_M02_035_ALX_2]Com licença.
+[IDS_CIN_M02_035_ALX_3]Senhor?
+[IDS_CIN_M02_035_ALX_4]Ei, você...
+[IDS_CIN_M02_035_ALX_5]Huh?  Doutor Fitch?!
+[IDS_CIN_M02_035_FIT_1]O que você quer?
+[IDS_CIN_M02_035_ALX_6]Você está bem?
+[IDS_CIN_M02_035_ALX_7]De quem é esse sangue? O que você fez?!
+[IDS_CIN_M02_035_FIT_2]Fica longe de mim!
 
 # CIN_M03_010 Strings #
 [IDS_CIN_M03_010_JOS_1]Ahhh!!
-[IDS_CIN_M03_010_YAL_1]God, what's your problem?
-[IDS_CIN_M03_010_JOS_2]I...I had a bad dream.
-[IDS_CIN_M03_010_JOS_3]Never mind.  It's nothing.
-[IDS_CIN_M03_010_YAL_2]Look, take it.
-[IDS_CIN_M03_010_YAL_3]If you get scared again, just turn it on.  Okay?
-[IDS_CIN_M03_010_JOS_4]Thanks, Alex.
-[IDS_CIN_M03_010_YAL_4]Sure.
+[IDS_CIN_M03_010_YAL_1]Meu Deus qual é o seu problema?
+[IDS_CIN_M03_010_JOS_2]Eu... Eu tive um pesadelo.
+[IDS_CIN_M03_010_JOS_3]Deixa pra lá. Näo é nada.
+[IDS_CIN_M03_010_YAL_2]Olha... Toma isso.
+[IDS_CIN_M03_010_YAL_3]Se você ficar com medo de novo, é só ligar, ta bom?
+[IDS_CIN_M03_010_JOS_4]Valeu, Alex.
+[IDS_CIN_M03_010_YAL_4]Valeu.
 
 # CIN_M03_020 Strings #
 [IDS_CIN_M03_020_ALX_1]Mom.
@@ -4215,25 +4215,25 @@
 [IDS_CIN_M03_020_ALX_11]Don't worry about it.  I'll find Joshua.
 [IDS_CIN_M03_020_ALX_12]Mom, your dress is--
 [IDS_CIN_M03_020_ALX_13]What was that?
-[IDS_CIN_M03_020_LIL_6]The basement.
+[IDS_CIN_M03_020_LIL_6]O poräo.
 
 # CIN_M03_025 Strings #
-[IDS_CIN_M03_025_ALX_1]What is all this water here?
+[IDS_CIN_M03_025_ALX_1]O que é toda essa água aqui?
 [IDS_CIN_M03_025_ALX_2]Josh?
-[IDS_CIN_M03_025_ALX_3]Ahh...ahhh!!
-[IDS_CIN_M03_025_ALX_4]Hey! Hey...
+[IDS_CIN_M03_025_ALX_3]Ahh... ahhh!!
+[IDS_CIN_M03_025_ALX_4]Ei! Ei...
 
 # CIN_M03_030 Strings #
-[IDS_CIN_M03_030_YAL_1]Dad!
-[IDS_CIN_M03_030_ADA_1]What the hell are you doing?
-[IDS_CIN_M03_030_ADA_2]You know this place is off limits.
-[IDS_CIN_M03_030_ADA_3]I don't ever want to see you in here again!
-[IDS_CIN_M03_030_ADA_4]Are we clear?
-[IDS_CIN_M03_030_YAL_2]I'm sorry.  Yes.  Yes sir.
+[IDS_CIN_M03_030_YAL_1]Pai!
+[IDS_CIN_M03_030_ADA_1]Mas que merda você ta fazendo?!
+[IDS_CIN_M03_030_ADA_2]Eu já te falei que esse lugar é proibido.
+[IDS_CIN_M03_030_ADA_3]Eu näo quero nunca mais te ver aqui!
+[IDS_CIN_M03_030_ADA_4]VOCÊ  ENTENDEU?!
+[IDS_CIN_M03_030_YAL_2]Me desculpe. Sim. Sim, senhor.
 
 # CIN_M04_005 Strings #
 [IDS_CIN_M04_005_ALX_1]Ahhh!
-[IDS_CIN_M04_005_ALX_2]Whoa...easy...easy!
+[IDS_CIN_M04_005_ALX_2]Oou... Calma... Calma!
 
 # CIN_M04_010 Strings #
 [IDS_CIN_M04_010_ELE_1]Dammit!
@@ -4675,32 +4675,32 @@
 [IDS_CIN_M15_010_ALX_2]What I needed to.
 
 # CIN_M15_020 Strings #
-[IDS_MOV_M15_020_01]Don't be afraid, son. Your sacrifice will save us all. Joshua will be safe to carry on the family name.
-[IDS_MOV_M15_020_02]No... No!!!
+[IDS_MOV_M15_020_01]Näo tenha medo, filho. Seu sacrificio vai nos salvar. Joshua estará a salvo para carregar o legado da família.
+[IDS_MOV_M15_020_02]Näo... Näo!!!
 
 # CIN_M15_030 Strings #
-[IDS_CIN_M15_030_ALX_1]Oh God.
-[IDS_CIN_M15_030_ALX_2]Oh God!
-[IDS_CIN_M15_030_ALX_3]What are you doing?  Get away from me!!!
-[IDS_CIN_M15_030_ALX_4]No!  No!!!
+[IDS_CIN_M15_030_ALX_1]Oh Deus.
+[IDS_CIN_M15_030_ALX_2]Meu Deus!
+[IDS_CIN_M15_030_ALX_3]O que você está fazendo? Sai de perto de mim!!!
+[IDS_CIN_M15_030_ALX_4]Näo!  NäO!!!
 [IDS_CIN_M15_030_ALX_5]Ahhhh!!!!
 
 # CIN_M15_040 Strings #
-[IDS_CIN_M15_040_ALX_1]Wait...what are you doing?
-[IDS_CIN_M15_040_ALX_2]Was this a dream?  Is Joshua okay?
-[IDS_CIN_M15_040_DCT_1]It's not working.
-[IDS_CIN_M15_040_ALX_3]I didn't...go anywhere?
-[IDS_CIN_M15_040_DCT_2]No, Alex.  And you won't be going anywhere until you can start to accept reality and responsibility.
-[IDS_CIN_M15_040_ALX_4]No, please don't.
-[IDS_CIN_M15_040_ALX_5]No!!!
+[IDS_CIN_M15_040_ALX_1]Espera... O que você está fazendo?
+[IDS_CIN_M15_040_ALX_2]Isso foi um sonho? Joshua está bem?
+[IDS_CIN_M15_040_DCT_1]Näo está funcionando.
+[IDS_CIN_M15_040_ALX_3]Eu näo... Sai daqui?
+[IDS_CIN_M15_040_DCT_2]Näo, Alex. E você näo vai a lugar algum até começar a aceitar a realidade e suas responsabilidades.
+[IDS_CIN_M15_040_ALX_4]Näo, por favor, näo.
+[IDS_CIN_M15_040_ALX_5]NäääO!!!
 
 # CIN_M15_050 Strings #
 [IDS_CIN_M15_050_ALX_1]Elle...
-[IDS_CIN_M15_050_ALX_2]Aww, shit.
-[IDS_CIN_M15_050_WHE_1]So THAT'S where they've been taking everybody.  I knew it!
+[IDS_CIN_M15_050_ALX_2]Ahhh merda.
+[IDS_CIN_M15_050_WHE_1]Entäo é aqui que estavam trazendo todo mundo, eu sabia!
 
 # CIN_M15_060 Strings #
-[IDS_CIN_M15_060_JOS_1]Smile!
+[IDS_CIN_M15_060_JOS_1]Sorria!
 
 
 ### Notes System Strings ###
