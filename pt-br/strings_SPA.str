@@ -1025,7 +1025,7 @@
 [XRAY_RESPONSE_02]Deixar ai
 
 
-[HOLE_TOPIC_01]Colocar o bra?o na abertura?
+[HOLE_TOPIC_01]Colocar o braço na abertura?
 [HOLE_RESPONSE_01]Pegar Robbie
 [HOLE_RESPONSE_02]Deixar ai
 
@@ -1105,14 +1105,14 @@
 
 [M01_KeypadHint_1]<COLOR,195,188,228>Attention Staff: \n\nOur security has been somewhat compromised- a patient used an X-Ray Film to write down the code for the security gate.  We have recovered the first half, but the second half is still missing. Should you find the missing X-Ray piece be sure to notify the head of security immediately.<CLEARCOLOR>
 
-[M01_MissingPatient_1]Boletim de Paci?nte Desaparecido:
-[M01_MissingPatient_2]<COLOR,195,188,228>Sala 205, paciênte desapareceu, foi visto pela ultima vez na sua sala depoois de um conflito com outro...<CLEARCOLOR>
+[M01_MissingPatient_1]Boletim de Paciênte desaparecido:
+[M01_MissingPatient_2]<COLOR,195,188,228>Sala 205, paciênte desapareceu, foi visto pela ultima vez na sua sala depois de um conflito com outro...<CLEARCOLOR>
 [M01_MissingPatient_3]O resto da mensagem é ilegivel...
 
-[M01_UnrulyPatient_1]A page from an incident report:
-[M01_UnrulyPatient_2]<COLOR,195,188,228>...o paciente tentou se jogar da janela e depois destruiu a sala.<CLEARCOLOR>
-[M01_UnrulyPatient_3]<COLOR,195,188,228>O paciente parou de responder aos comandos verbais. Três membros da equipe conseguiram subjulgas o paciente. <CLEARCOLOR>
-[M01_UnrulyPatient_4]<COLOR,195,188,228>O paciente entrou em estado catatônico e parou de responder aos estimulos externos. Amarras foram desnecessárias nas sessões de terapia de eletrochoque nas semanas seguintes.<CLEARCOLOR>
+[M01_UnrulyPatient_1]Uma página de um relatório de incidente:
+[M01_UnrulyPatient_2]<COLOR,195,188,228>...fora de controle, o paciente tentou se jogar da janela e depois destruiu completamente a sala.<CLEARCOLOR>
+[M01_UnrulyPatient_3]<COLOR,195,188,228>O paciente parou de responder aos comandos verbais. Três membros da equipe conseguiram subjulgar o paciente. <CLEARCOLOR>
+[M01_UnrulyPatient_4]<COLOR,195,188,228>O paciente entrou em estado catatônico e parou de responder aos estimulos externos. Amarras foram desnecessárias nas sessöes de terapia de eletro-choque nas semanas seguintes.<CLEARCOLOR>
 
 [M01_ElectroMemo_1]<COLOR,195,188,228>...setting the electroshock machine beyond the seizure threshold has yielded impressive results in the patients.<CLEARCOLOR>
 [M01_ElectroMemo_2]<COLOR,195,188,228>The most violent and depressed patients are rendered completely docile... The only side-effects have been minor: memory loss, some dislocated bones, one fractured leg, and a patient bit off his tongue.<CLEARCOLOR>
@@ -1124,7 +1124,7 @@
 [M01_Death_Report_A_3]<COLOR,195,188,228>...injuries appear to be inflicted by a rusty scissor blade found nearby....<CLEARCOLOR>
 [M01_Death_Report_A_4]<COLOR,195,188,228>The missing Operation Theater key was later discovered inside the patient's chest cavity.<CLEARCOLOR>
 
-[M01_DoctorNote_A_1]A doctor's memo:
+[M01_DoctorNote_A_1]Anotações do doutor:
 [M01_DoctorNote_A_2]<COLOR,195,188,228>The patient in room 206 is scheduled to undergo a trans-orbital lobotomy tomorrow.<CLEARCOLOR>
 [M01_DoctorNote_A_3]<COLOR,195,188,228>I've mandated that the following medications be doubled on the day of the procedure...<CLEARCOLOR>
 [M01_DoctorNote_A_4]<CLEARCOLOR>I thought lobotomies were obsolete.  Who scheduled this procedure?
@@ -1141,7 +1141,7 @@
 
 ### M01 Interest Points ###
 
-[M01_TortureDevice]Que tipo de cirurgia eles estão fazendo aqui?
+[M01_TortureDevice]Que tipo de cirurgia eles estäo fazendo aqui?
 [M01_BloodySink]O que houve aqui?
 [M01_EmptySink]A pia está vazia.
 [M01_Shelves_Var1]Objetos cirurgicos variados.
@@ -1149,75 +1149,75 @@
 [M01_Shelves_Var3]Nada de útil aqui.
 [M01_Iron_Lung_1]Eu acho que isso é um respirador. Parece velho...
 [M01_Iron_Lung_2]Outro respirador...
-[M01_Iron_Lung_3]Outro respirador...
+[M01_Iron_Lung_3]Mais um respirador...
 [M01_Iron_Lung_4]Outro respirador...
-[M01_KeypadGate]O portão está trancado... Talvez o Painel ao lado o controle.
+[M01_KeypadGate]O portäo está trancado... Talvez o Painel ao lado o controle.
 [M01_XRayBox_1]É um quadro para ver folhas de Raios-X.
 [M01_XRayBox_2]Tem uma folha de raio-x cortada nele.
 [M01_XRayBox_3]Tem algo rabiscado na superficie da folha de Raio-X.
-[M01_FilingCab_Var1]Os arquivos estão vazios... Não tem nada aqui.
-[M01_PASystem]It's a control panel for the PA system- it doesn't appear to be working.
-[M01_BodyBag_1]Por que todos estes corpos estão aqui?
-[M01_BodyBag_2]Estes são os pacientes?!
+[M01_FilingCab_Var1]Os arquivos estäo vazios... Näo tem nada aqui.
+[M01_PASystem]É um painel de controle para o sistema de PA. Näo parece funcionar.
+[M01_BodyBag_1]Por que todos estes corpos estäo aqui?
+[M01_BodyBag_2]Estes säo os pacientes?!
 [M01_BodyBag_3]Minha nossa...
-[M01_BodyBag_4]Estes são os pacientes?!
-[M01_BodyBag_5]Isso não é forma de se tratar os mortos!
+[M01_BodyBag_4]Estes säo os pacientes?!
+[M01_BodyBag_5]Isso näo é forma de se tratar os mortos!
 [M01_Incubator_1]Uma encubadora de bebês.
 [M01_Incubator_2]Isso é assustador...
 [M01_Incubator_3]Por que isso está queimado por dentro?
-[M01_WaterCooler]This water cooler has not been used in a long time.
-[M01_FileCabs]Estranhamente, os Ficheiros estão vazios.
+[M01_WaterCooler]Esse bebedouro näo é utilizado faz um bom tempo.
+[M01_FileCabs]Estranhamente, os Ficheiros estäo vazios.
 [M01_ToiletBody]Caixas de suprimentos. Nada de útil dentro.
 [M01_Supplies]Caixas de suprimentos. Nada de útil dentro.
-[M01_SteamPipes_1]Parecem ser canos de gás... Aparentemente estão funcionando.
-[M01_SteamPipes_2]Mais canos de gás... Aparentemente estão funcionando.
+[M01_SteamPipes_1]Parecem ser canos de gás... Aparentemente estäo funcionando.
+[M01_SteamPipes_2]Mais canos de gás... Aparentemente estäo funcionando.
 [M01_SteamPipes_3]Mais canos de gás...
-[M01_BlockedStairs_1]Esse caminho está bloqueado... Não posso prosseguir por aqui.
-[M01_BlockedStairs_2]Esse caminho está bloqueado... Não posso prosseguir por aqui.
+[M01_BlockedStairs_1]Esse caminho está bloqueado... Näo posso prosseguir por aqui.
+[M01_BlockedStairs_2]Esse caminho está bloqueado... Näo posso prosseguir por aqui.
 [M01_Fan_1]Parece estar bem quente do outro lado.
-[M01_StaticGone]The static was playing loud before, now it's gone quiet- I wonder why?
-[M01_StationWindow]There appears to be a room on the other side, but I can't quite see in clearly.
-[OrderlyKey_1]It's the other half of the body from downstairs, I wonder who put him here?
-[OrderlyKey_2]His hand is holding on to a key of some sort.
-[M01_PadlockDoor_1]Não da pra passar por aqui, a porta está acorrentada.
+[M01_StaticGone]A estática estava tocando bem alto antes, mas agora está mudo... Por que será?
+[M01_StationWindow]Parece que tem uma sala do outro lado, mas näo consigo ver lá dentro claramente.
+[OrderlyKey_1]É a outra metade do corpo que encontrei lá em baixo. Me pergunto quem colocou ele aqui...
+[OrderlyKey_2]A mäo dele está segurando uma espécie de chave.
+[M01_PadlockDoor_1]Näo da pra passar por aqui, a porta está acorrentada.
 [M01_IncDoll_1]Uma boneca... Parece estar queimada.
 [M01_IncDoll_2]Me pergunto... Como ela chegou ali?
 
 [M01_Door206_01]I think I hear the faint sound of water lapping on the shore, the source seems to be coming from just beyond this door, But that's impossible, this is a hospital.
 
-[M01_InspectMap_01]Isso ? um mapa?
+[M01_InspectMap_01]Isso é um mapa?
 
-[M01_Map]? o mapa do Hospital.
+[M01_Map]É o mapa do Hospital.
 [M01_XraySwitch]The switch is broken.
-[M01_JoshuaWait1]Hey!  Wait!
+[M01_JoshuaWait1]Ei! Espera!
 [M01_JoshuaWait2]Josh?
-[M01_JoshuaWait3]Josh!  Stop!
-[M01_JoshuaWait4]Hey! Where are you going?
-[M01_Incubator]What is this, a baby incubator?
-[M01_Incubator2]Oh god.  Where did this blood come from?
-[M01_Incubator3]This is a military hospital. Why is this here?
-[M01_Nosmoking]<COLOR,195,188,228>? PROIBIDO FUMAR NESTE LOCAL<CLEARCOLOR>
-[M01_Toilet]Esse banheiro ? nojento...
+[M01_JoshuaWait3]Josh! Para!
+[M01_JoshuaWait4]Ei! Onde você vai?
+[M01_Incubator]O que é isso, uma encubadora de bebês?
+[M01_Incubator2]Oh Deus. De onde veio todo esse sangue?
+[M01_Incubator3]Esse é um hospital militar. Por que isso está aqui?
+[M01_Nosmoking]<COLOR,195,188,228>É PROIBIDO FUMAR NESTE LOCAL<CLEARCOLOR>
+[M01_Toilet]Esse banheiro é nojento...
 [M01_Toilet1]Esse banheiro cheira a morte.
 [M01_1award]<COLOR,195,188,228>1A - WARD<CLEARCOLOR>
 [M01_2award]<COLOR,195,188,228>2A - WARD<CLEARCOLOR>
 [M01_Mirrormsg1]Tem uma mensagem em sangue...
 [M01_Mirrormsg2]Parece a letra do Josh.
-[M01_Mirrormsg3]Ser? que o Josh realmente escreveu isso?
+[M01_Mirrormsg3]Será que o Josh realmente escreveu isso?
 [M01_Mirrormsg4]Tem algo a mais aqui...
-[M01_LockedBathroom1]Por que esse est? trancado? Ser? que tem algu?m?
-[M01_Bloodstreak1]? muito sangue...
+[M01_LockedBathroom1]Por que esse está trancado? Será que tem alguém?
+[M01_Bloodstreak1]É muito sangue...
 [M01_Bloodstreak2]Eu tenho que sair daqui!
-[M01_Oldoffice1]Somente velharias de escrit?rio...
-[M01_Oldoffice2]Tudo aqui ? t?o velho...
-[M01_FilingCabs]Est?o vazios...
-[M01_xrayimage]Esses Raios-X n?o tem sentido. O que ta acontecendo aqui?
-[M01_viewingwindow]It's a viewing window.
+[M01_Oldoffice1]Somente velharias de escritório...
+[M01_Oldoffice2]Tudo aqui é täo velho...
+[M01_FilingCabs]Estäo vazios...
+[M01_xrayimage]Esses Raios-X näo tem sentido. O que ta acontecendo aqui?
+[M01_viewingwindow]É uma janela de visualizaçäo.
 [M01_viewingwindow1]There's something taped onto the other side.
-[M01_tvbaby]Essa TV n?o est? conectada na energia! Como isso ? poss?vel?!
-[M01_cooler]It's broken.
-[M01_bunny1]It looks like a crayon drawing.
-[M01_bunny2]Who put this here?
+[M01_tvbaby]Essa TV näo está conectada na energia! Como isso á possível?!
+[M01_cooler]Está quebrado.
+[M01_bunny1]Parece um desenhofeito em gis.
+[M01_bunny2]Quem colocou isso aqui?
 [M01_OldMattress_1]It's an old dirty mattress,
 [M01_OldMattress_2]it's covered with fluid stains. Disgusting!
 

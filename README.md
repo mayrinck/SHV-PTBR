@@ -1,20 +1,20 @@
 # Silent Hill: Homecoming - Translation (PT-BR)
 
-Tradução de Silent Hill Homecoming para Português do Brasil. (funciona somente com o patch feito por unknownproject)
+Traduçäo de Silent Hill Homecoming para Português do Brasil. (funciona somente com o patch feito por unknownproject)
 
-Infelizmente, devido a limitações do arquivo da fonte do jogo, a tradução não pode utilizar alguns caracteres (letras, como "ã" e "Ã"), que foram substituídos por "ä" e "Ä".
+Infelizmente, devido a limitações do arquivo da fonte do jogo, a traduçäo näo pode utilizar alguns caracteres (letras, como "ä" e "ä"), que foram substituídos por "ä" e "Ä".
 
-**Este ainda é um trabalho em progresso, a tradução ainda está longe de ser terminada, mas já tem algumas coisas traduzidas em todos os arquivos, porém incompletas, nesta versão.**
-
-
+**Este ainda é um trabalho em progresso, a traduçäo ainda está longe de ser terminada, mas já tem algumas coisas traduzidas em todos os arquivos, porém incompletas, nesta versäo.**
 
 
-### Instalação
+
+
+### Instalaçäo
 
 Esse passo a passo considera que você COMPROU o jogo na plataforma Steam, que ele já está instalado no seu computador e foi iniciado corretamente pelo menos uma vez.
 
 
-- Primeiro, instale o [Patch do unknownproject](https://unknownproject.github.io/silent_hill). Esse patch vai corrigir diversos problemas de otimização da versão de PC deste jogo. Caso seu jogo esteja com problemas para iniciar, talvez este patch corrija esse problema também.
+- Primeiro, instale o [Patch do unknownproject](https://unknownproject.github.io/silent_hill). Esse patch vai corrigir diversos problemas de otimizaçäo da versäo de PC deste jogo. Caso seu jogo esteja com problemas para iniciar, talvez este patch corrija esse problema também.
 
 - Depois de instalar o patch, teste o jogo para ter certeza de que tudo está funcionando como deveria. Depois de testar, ative as legendas e feche o jogo.
 
@@ -26,21 +26,21 @@ Esse passo a passo considera que você COMPROU o jogo na plataforma Steam, que e
 
 - Neste local, crie uma nova pasta chamada backup.
 
-- Copie os arquivos de tradução com final "SPA" para a pasta "backup". (caso você queira restaurar este idioma no futuro).
+- Copie os arquivos de traduçäo com final "SPA" para a pasta "backup". (caso você queira restaurar este idioma no futuro).
 
 - Agora copie os arquivos da pasta **pt-br** para a pasta **Steam\steamapps\common\Silent Hill Homecoming\Engine\gameinfo\strings** e sobrescreva caso peça.
 
 
-E pronto, a tradução está instalada, assumindo o lugar da tradução para espanhol. Quando o jogo iniciar, estará em português. :)
+E pronto, a traduçäo está instalada, assumindo o lugar da traduçäo para espanhol. Quando o jogo iniciar, estará em português. :)
 
 
 
 
-### Progresso da Tradução
+### Progresso da Traduçäo
 
-Os arquivos que estiverem marcados na lista estão 100% traduzidos e revisados:
+Os arquivos que estiverem marcados na lista estäo 100% traduzidos e revisados:
 
-- [x] gen_dialogue (diálogos genéricos, alguns foram cortados do jogo)
+- [x] gen_dialogue (diálogos genéricos, alguns não aparecem no jogo)
 - [x] m01_dialogue (diálogos do começo do jogo)
 - [x] m02_dialogue (diálogos com a Juiza Holloway)
 - [x] m03_dialogue (diálogos com a mãe do Alex)
@@ -57,4 +57,4 @@ Os arquivos que estiverem marcados na lista estão 100% traduzidos e revisados:
 - [ ] m14_dialogue
 - [ ] m15_dialogue
 - [ ] m16_dialogue
-- [ ] strings
+- [ ] strings      (Textos de interfaces, Nomes de items, etc...)
