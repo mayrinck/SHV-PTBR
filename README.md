@@ -55,6 +55,6 @@ Os arquivos que estiverem marcados na lista estão 100% traduzidos e revisados:
 - [ ] m12_dialogue
 - [ ] m13_dialogue
 - [ ] m14_dialogue
-- [ ] m15_dialogue
+- [x] m15_dialogue (Frases de combate e reações do Wheeler e da Elle)
 - [ ] m16_dialogue
 - [ ] strings      (Interações diversas. Textos de interfaces, Nomes de items, etc...)

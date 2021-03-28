@@ -1056,7 +1056,7 @@
 
 [M01_Drawing_01_TITLE]Desenho de Criança (1)
 [M01_Drawing_02_DESC]Uma família de coelhinhos.
-[M01_Drawing_01_GOT]Obteve um<COLOR,155,240,155>Desenho de Criança<CLEARCOLOR>.
+[M01_Drawing_01_GOT]Obteve um <COLOR,155,240,155>Desenho de Criança<CLEARCOLOR>.
 
 [M01_Drawing_02_TITLE]Desenho de Criança (2)
 [M01_Drawing_01_DESC]Três coelhinhos sangrentos.
@@ -1092,9 +1092,9 @@
 
 ### M01 Notes ###
 
-[M01_CombatNote_01]<COLOR,195,188,228>Basic Weapons Combat: \n\nToday's soldier needs to be prepared for the rigors of training and beyond. These are techniques that are going to keep you alive out in the field.<CLEARCOLOR>
+[M01_CombatNote_01]<COLOR,195,188,228>Básicos do combate com armas brancas: \n\nOs soldados hoje em dia precisam estar preparados para tudo e mais um pouco. Estas säo técnicas que väo te manter vivo durante a guerrilha.<CLEARCOLOR>
 
-[M01_CombatNote_02]<COLOR,195,188,228>Equipping a weapon: \n\nTo equip a weapon, hold down or tap <COMBAT_WHEEL> and use <COMMAND_MOVEMENT> to select your weapon of choice.<CLEARCOLOR>
+[M01_CombatNote_02]<COLOR,195,188,228>Escolhendo sua arma: \n\nPara equipar sua arma, segure ou aperte <COMBAT_WHEEL> e entäo use <COMMAND_MOVEMENT> para escolher sua arma.<CLEARCOLOR>
 
 [M01_CombatNote_03]<COLOR,195,188,228>How to use combat stance and targeting: \n\nTo get into your combat ready stance, pull and hold <TARGETING> when a melee weapon is equipped. \n\nWhen you enter combat stance and enemies are present, you will automatically target the closest enemy in your field of view.<CLEARCOLOR>
 [M01_CombatNote_04]<COLOR,195,188,228>If multiple enemies are surrounding you, the target will be the closest hostile. \n\nThe targeted enemy will be highlighted by the flashlight.<CLEARCOLOR>
@@ -3494,10 +3494,10 @@
 ### STORY INTEREST POINTS FOR M14_Lair ###
 
 # Torture Wing #
-[M14_Interest_01_Alex's_Torture_Chair]Thank God I'm finally out of that.
+[M14_Interest_01_Alex's_Torture_Chair]Graças a Deus eu sai vivo daquilo...
 [M14_Interest_02_Torture_Equipment_Table]I can't believe anyone would use these on another human being.
-[M14_Interest_03_Judges_Dead_Body]Judge Holloway lied to us all. I'm glad she's dead.
-[M14_Interest_04_Locked_Door_to_Elles_Wing]This door's locked, but can be opened with the right key.
+[M14_Interest_03_Judges_Dead_Body]Juiza Holloway mentiu para nós. Fico feliz que ela morreu.
+[M14_Interest_04_Locked_Door_to_Elles_Wing]Essa porta está trancada, mas pode ser aberta com a chave certa.
 [M14_Interest_05_Two_Person_Valve]I'll need some help with this valve to open the gate.
 [M14_Interest_06_Store_Room_Stuff_A]There is nothing in these boxes.
 [M14_Interest_07_Store_Room_Stuff_B]Who makes all of this?
@@ -3668,23 +3668,23 @@
 [M14_Interest_80_Rings_Room_Wheel_6]<COLOR,195,188,228>Earth, Wind, Flesh <CLEARCOLOR>
 [M14_Interest_80_Rings_Room_Wheel_7]<COLOR,195,188,228>Rot, Flesh, Wind <CLEARCOLOR>
 [M14_Interest_105_Book_Jacket_Text]Huh. What's this book doing here?
-[M14_Interest_106_Room_114_Door]This door is locked.  I'll need a key to open it.
-[M14_Interest_106_Room_115_Door]Where are my weapons? I'm going to need them before I go out there...
+[M14_Interest_106_Room_114_Door]A porta está trancada, eu preciso de uma chave para abrir...
+[M14_Interest_106_Room_115_Door]Onde estäo meus equipamentos? Eu preciso deles antes de sair daqui...
 
 
 ### DIALOGUE TREES ###
 
 ### GENERIC TALK and EXIT ###
-[IDS_DIALOGUE_TREE_TALK]<COMMAND_KICK> Talk
-[IDS_DIALOGUE_TREE_EXIT]Exit
-[IDS_DIALOGUE_TREE_INSPECT]<COMMAND_KICK> Inspect
+[IDS_DIALOGUE_TREE_TALK]<COMMAND_KICK> Falar
+[IDS_DIALOGUE_TREE_EXIT]Sair
+[IDS_DIALOGUE_TREE_INSPECT]<COMMAND_KICK> Inspecionar
 
 ### TREE TEST ###
-[IDS_TREETEST_ASKELLEQUESTION_DESCRIPTION]I wanted to ask Elle something...
-[IDS_TREETEST_ASKELLEQUESTION_WHERESJOSH]Where's Joshua?
-[IDS_TREETEST_ASKELLEQUESTION_WHOSWHEELER]Who's Deputy Wheeler?
-[IDS_TREETEST_ASKELLEQUESTION_WHYYOUHERE]Why are you here?
-[IDS_TREETEST_ASKELLEQUESTION_MYDAD]My dad?
+[IDS_TREETEST_ASKELLEQUESTION_DESCRIPTION]Eu quero perguntar algo pra Elle...
+[IDS_TREETEST_ASKELLEQUESTION_WHERESJOSH]Onde está o Joshua?
+[IDS_TREETEST_ASKELLEQUESTION_WHOSWHEELER]Quem é o delegado Wheeler?
+[IDS_TREETEST_ASKELLEQUESTION_WHYYOUHERE]Por que você está aqui?
+[IDS_TREETEST_ASKELLEQUESTION_MYDAD]Meu pai?
 
 [IDS_TREETEST_ASKABOUTWHEELER_DESCRIPTION]Why did I say that?
 [IDS_TREETEST_ASKABOUTWHEELER_WORKINGTOGETHER]You're working together.
@@ -3695,12 +3695,12 @@
 [IDS_TREETEST_WHEREEVERYONEWENT_WHERETHEYGO]Where did they go?
 
 ### TREE TEST 02 ###
-[IDS_TREETEST02_ToStartWith_DESCRIPTION]To start with, how the hell'd you get in here?
-[IDS_TREETEST02_ToStartWith_ElleLetMe]Elle let me in.
-[IDS_TREETEST02_ToStartWith_IBrokeIn]I broke in.
-[IDS_TREETEST02_ToStartWith_DontRemember]Last thing I remember, I was in a greenhouse...with Mayor Bartlett.
+[IDS_TREETEST02_ToStartWith_DESCRIPTION]Para começar, como você chegou aqui?
+[IDS_TREETEST02_ToStartWith_ElleLetMe]Elle me deixou entrar.
+[IDS_TREETEST02_ToStartWith_IBrokeIn]Eu invadi.
+[IDS_TREETEST02_ToStartWith_DontRemember]A ultima coisa que eu lembro era de estar na estufa... com o prefeito Barlett.
 
-[IDS_TREETEST02_DontBelieveYou_DESCRIPTION]Nice try. Why don't you tell me how you really got in here?
+[IDS_TREETEST02_DontBelieveYou_DESCRIPTION]Boa tentativa. Agora me fala, como você realmente entrou aqui?
 
 [IDS_TREETEST02_TryThatAgain_DESCRIPTION]Is that right?  Why don't you try that answer again?
 
@@ -3715,31 +3715,31 @@
 [IDS_TREETEST02_WhatHappenedToMayor_MonsterKilledHim]A monster killed him.
 
 ### M01-Joshua Shepherd - In the Nightmare Hospital ###
-[IDS_M01_JOSH_M01JOSHMAIN_DESCRIPTION]I can see you there!
+[IDS_M01_JOSH_M01JOSHMAIN_DESCRIPTION]Eu estou te vendo ai!
 [IDS_M01_JOSH_JOSHUA]Joshua?
-[IDS_M01_JOSH_GETHERE]How did you get here?
-[IDS_M01_JOSH_AFRAID]Are you afraid?
-[IDS_M01_JOSH_tAFRAIDTOPIC_DESCRIPTION]I'm a brave soldier.
-[IDS_M01_JOSH_tAFRAIDTOPIC_HELPYOU]I want to help you.
-[IDS_M01_JOSH_tAFRAIDTOPIC_CANTHELP]I don't think I can help you.
+[IDS_M01_JOSH_GETHERE]Como você chegou aqui?
+[IDS_M01_JOSH_AFRAID]Você ta com medo?
+[IDS_M01_JOSH_tAFRAIDTOPIC_DESCRIPTION]Eu sou um soldado corajoso.
+[IDS_M01_JOSH_tAFRAIDTOPIC_HELPYOU]Eu vou te ajudar.
+[IDS_M01_JOSH_tAFRAIDTOPIC_CANTHELP]Eu näo sei se consigo te ajudar.
 
 ### M02-Judge Holloway - In Town Hall ###
-[IDS_M02_JUDGE_Main_DESCRIPTION]Hey, Judge Holloway?
-[IDS_M02_JUDGE_TOWNEMPTY]Why is the town empty?
-[IDS_M02_JUDGE_HOWSELLE]How's Elle?
-[IDS_M02_JUDGE_HOWSELLE_DESCRIPTION]Things haven't been easy for Elle.
-[IDS_M02_JUDGE_HOWSELLE_WHATHAPPENED]What happened?
-[IDS_M02_JUDGE_HOWSELLE_ASKABOUTME]Does she ask about me?
-[IDS_M02_JUDGE_TOWNANNIVERSARY]Town anniversary?
-[IDS_M02_JUDGE_TOWNANNIVERSARY_DESCRIPTION]Yes, the celebration was a few years ago.
-[IDS_M02_JUDGE_TOWNANNIVERSARY_ISMOMOK_DESCRIPTION]Your Mom's not well. She needs you.
-[IDS_M02_JUDGE_TOWNANNIVERSARY_ISMOMOK]Is my mom OK?
-[IDS_M02_JUDGE_TOWNANNIVERSARY_ISTHATCONNECTED_DESCRIPTION]For someone just stopping by, you seem very interested.
-[IDS_M02_JUDGE_TOWNANNIVERSARY_ISTHATCONNECTED]Was that when everything shut down?
+[IDS_M02_JUDGE_Main_DESCRIPTION]Oi, Juiza Holloway?
+[IDS_M02_JUDGE_TOWNEMPTY]Por que a cidade ta vazia?
+[IDS_M02_JUDGE_HOWSELLE]Como está a Elle?
+[IDS_M02_JUDGE_HOWSELLE_DESCRIPTION]As coisas näo estäo fáceis pra Elle.
+[IDS_M02_JUDGE_HOWSELLE_WHATHAPPENED]O que houve?
+[IDS_M02_JUDGE_HOWSELLE_ASKABOUTME]Ela pergunta de mim?
+[IDS_M02_JUDGE_TOWNANNIVERSARY]E o aniversário da cidade?
+[IDS_M02_JUDGE_TOWNANNIVERSARY_DESCRIPTION]Sim, esse evento foi a alguns anos atrás.
+[IDS_M02_JUDGE_TOWNANNIVERSARY_ISMOMOK_DESCRIPTION]Sua mäe näo está bem. Ela precisa de você.
+[IDS_M02_JUDGE_TOWNANNIVERSARY_ISMOMOK]Minha mäe ta bem?
+[IDS_M02_JUDGE_TOWNANNIVERSARY_ISTHATCONNECTED_DESCRIPTION]Pra alguém que ta só de passagem, você ta bem interessado...
+[IDS_M02_JUDGE_TOWNANNIVERSARY_ISTHATCONNECTED]Entäo foi nesse periodo que tudo fechou?
 
-[IDS_M02_JUDGE_TOWNANNIVERSARY_TOWNTHATOLD]Is the town that old?
-[IDS_M02_JUDGE_TOWNANNIVERSARY_ISTHATCONNECTED_IMNOT]I'm not.
-[IDS_M02_JUDGE_TOWNANNIVERSARY_ISTHATCONNECTED_WANTTOKNOW]I want to know.
+[IDS_M02_JUDGE_TOWNANNIVERSARY_TOWNTHATOLD]A cidade é täo velha assim?
+[IDS_M02_JUDGE_TOWNANNIVERSARY_ISTHATCONNECTED_IMNOT]Eu näo.
+[IDS_M02_JUDGE_TOWNANNIVERSARY_ISTHATCONNECTED_WANTTOKNOW]Eu quero saber.
 
 ### M03-Lillian Shepherd - In the House ###
 [IDS_M03_MOM_M03_Main_DESCRIPTION]Mom, one more thing...
@@ -3792,9 +3792,9 @@
 [IDS_M04_CURTIS_CLOCKS_FIX]Can you fix them?
 
 ### M04-Elle Asks Alex if He Needs Anything ###
-[IDS_M04_SUPPLIES_Main_DESCRIPTION]Can I get you anything?
-[IDS_M04_SUPPLIES_AMMO]Ammo.
-[IDS_M04_SUPPLIES_HEALTH]Health.
+[IDS_M04_SUPPLIES_Main_DESCRIPTION]Você quer alguma coisa?
+[IDS_M04_SUPPLIES_AMMO]Muniçäo pras Armas.
+[IDS_M04_SUPPLIES_HEALTH]Algo para as Feridas.
 
 ### M05-Female Voice - In the Hotel ###
 [IDS_M05_VOICE_Main_DESCRIPTION]Who's there?
@@ -3802,8 +3802,8 @@
 [IDS_M05_VOICE_WHOLEFTYOUHERE]Who left you here?
 [IDS_M05_VOICE_HOWDIDYOUGETHERE]How did you get here?
 [IDS_M05_VOICE_HOWDIDYOUGETHERE_DESCRIPTION]I need to get better.
-[IDS_M05_VOICE_HOWDIDYOUGETHERE_CANTHELP]I can't help you.
-[IDS_M05_VOICE_HOWDIDYOUGETHERE_HELPYOU]I want to help you.
+[IDS_M05_VOICE_HOWDIDYOUGETHERE_CANTHELP]Eu näo posso te ajudar.
+[IDS_M05_VOICE_HOWDIDYOUGETHERE_HELPYOU]Eu quero te ajudar.
 
 ### M05-Mayor Bartlett - In the Greenhouse ###
 [IDS_M05_MAYOR_Main_DESCRIPTION]Mayor Bartlett!
@@ -3854,16 +3854,16 @@
 
 ### M10-Hand or Foot Moment ###
 [IDS_M10_HAND_Main_DESCRIPTION]Shepherd...
-[IDS_M10_HAND_HAND]Hand.
-[IDS_M10_HAND_FOOT]Foot.
+[IDS_M10_HAND_HAND]Mäo.
+[IDS_M10_HAND_FOOT]Pé.
 
 ### M11-Killing Mom Morality Moment ###
-[IDS_M11_LILLIAN_Main_DESCRIPTION]Please, Alex. Please...
-[IDS_M11_LILLIAN_OKILLDOIT]OK, I'll do it.
-[IDS_M11_LILLIAN_IMSORRYICANT]I'm sorry, I can't.
+[IDS_M11_LILLIAN_Main_DESCRIPTION]Por favor Alex, por favor...
+[IDS_M11_LILLIAN_OKILLDOIT]Ok, eu faço.
+[IDS_M11_LILLIAN_IMSORRYICANT]Desculpa, eu näo consigo.
 
 ### M11-Alex Chooses to Jump Into the Pit Below the Sentinel ###
-[IDS_M11_JUMP_Main_DESCRIPTION]Will you jump in?
+[IDS_M11_JUMP_Main_DESCRIPTION]Você vai pular?
 [IDS_M11_JUMP_YES]YES.
 [IDS_M11_JUMP_NO]NO.
 
@@ -3887,11 +3887,11 @@
 [IDS_M13_CRAZY_NOBODYDID_ILLHELPYOU]Okay, I'll help you.
 [IDS_M13_CRAZY_NOBODYDID_DONTBELIEVEYOU]I don't know if I believe you.
 [IDS_M13_CRAZY_YOUSTILLTHERE_DESCRIPTION]Talk again.
-[IDS_M13_CRAZY_YOUSTILLTHERE]You still there?
+[IDS_M13_CRAZY_YOUSTILLTHERE]Você ainda ta ai?
 
 ### M13-Alex Returns to Crazy Man - With the Administrator's Key ###
-[IDS_M13_CRAZYKEY_Main_DESCRIPTION]Hey, are you there?
-[IDS_M13_CRAZYKEY_ALEXGIVESKEY]Give him the key.
+[IDS_M13_CRAZYKEY_Main_DESCRIPTION]Ei, você ta ai?
+[IDS_M13_CRAZYKEY_ALEXGIVESKEY]Dar a chave.
 
 ### M14-Judge Torture Scene ###
 [IDS_M14_TORTURE_ROUND1_DESCRIPTION]Round 1
@@ -3905,53 +3905,53 @@
 [IDS_M14_TORTURE_ROUND3_IGIVEUP]I give up.
 
 ### M14-Wheel of History Turning###
-[IDS_M14_Wheel_Inner]Turn inner ring.
-[IDS_M14_Wheel_Outer]Turn outer ring.
-[IDS_M14_Wheel_Exit]Exit.
+[IDS_M14_Wheel_Inner]Girar anel interno.
+[IDS_M14_Wheel_Outer]Girar anel externo.
+[IDS_M14_Wheel_Exit]Sair.
 
 ### Strings for Audio Tapes ###
 
 # Audio Cassette Tape in Cubby Hole of Alex and Joshua Goofing Off #
-[IDS_AUDIO_Cassette_JOS423]Rar, rar, rar, rar...
-[IDS_AUDIO_Cassette_ADA400]Josh...JOSH!  What are you doing?
-[IDS_AUDIO_Cassette_YAL403]Relax, Dad, we're just making a radio show.
-[IDS_AUDIO_Cassette_ADA401]Alex, go downstairs.
-[IDS_AUDIO_Cassette_YAL404]Why?
-[IDS_AUDIO_Cassette_ADA402]Just do it!
-[IDS_AUDIO_Cassette_YAL405]Fine.
-[IDS_AUDIO_Cassette_JOS424]Am I in trouble?
-[IDS_AUDIO_Cassette_ADA403]No, of course not.
-[IDS_AUDIO_Cassette_JOS425]Why are you yelling?
-[IDS_AUDIO_Cassette_ADA404]I'm not yelling at you.  Listen to me, Josh.  Don't you think this is a little too silly for you?  Do you want to end up like Alex?  Playing all this make-believe?
-[IDS_AUDIO_Cassette_JOS426]I don't know.
-[IDS_AUDIO_Cassette_ADA405]Alright, from now on, just let Alex play with his own friends, okay?  And if you need a friend, you come talk to me.  Got it?
-[IDS_AUDIO_Cassette_JOS427]Yes, sir.
+[IDS_AUDIO_Cassette_JOS423]Rar, rar, ra-rar, rar, rar...
+[IDS_AUDIO_Cassette_ADA400]Josh...JOSH!  O que você ta fazendo?
+[IDS_AUDIO_Cassette_YAL403]Relaxa pai, nós só estamos brincando de show de rádio.
+[IDS_AUDIO_Cassette_ADA401]Alex, desce.
+[IDS_AUDIO_Cassette_YAL404]Por que?
+[IDS_AUDIO_Cassette_ADA402]ANDA LOGO!
+[IDS_AUDIO_Cassette_YAL405]Ta.
+[IDS_AUDIO_Cassette_JOS424]Eu to encrencado?
+[IDS_AUDIO_Cassette_ADA403]Näo, claro que näo.
+[IDS_AUDIO_Cassette_JOS425]Entäo por que você ta gritando?
+[IDS_AUDIO_Cassette_ADA404]Eu näo to gritando com você.  Escuta, Josh... Você näo acha que isso é muito bobinho pra você? Você quer terminar como o Alex? Vivendo sempre em um faz de conta?
+[IDS_AUDIO_Cassette_JOS426]Eu näo sei.
+[IDS_AUDIO_Cassette_ADA405]Tudo bem, de agora em diante, deixa o Alex brincar com os próprios amigos. Se você precisar de um amigo, vem falar comigo, ta bom?
+[IDS_AUDIO_Cassette_JOS427]Sim, senhor.
 
 # Audio Patient Tape 1 - Walter #
-[IDS_AUDIO_Patient_1_DCT100]Okay, do you want to tell me the story again?
-[IDS_AUDIO_Patient_1_WAL100]I don't know.
-[IDS_AUDIO_Patient_1_DCT102]Do you want to play a game instead?
-[IDS_AUDIO_Patient_1_WAL102]All right...sure.
-[IDS_AUDIO_Patient_1_DCT104]Why don't you tell me what you think of when I show you these pictures? Okay? Just tell me whatever you think of.
-[IDS_AUDIO_Patient_1_WAL104]That's my mommy.
-[IDS_AUDIO_Patient_1_DCT106]Okay.  How about this one?
-[IDS_AUDIO_Patient_1_WAL106]That's my mommy.
-[IDS_AUDIO_Patient_1_DCT108]This one is your mommy also?
+[IDS_AUDIO_Patient_1_DCT100]Ok, você quer me contar a história de novo?
+[IDS_AUDIO_Patient_1_WAL100]Eu näo sei.
+[IDS_AUDIO_Patient_1_DCT102]Você quer jogar um jogo entäo?
+[IDS_AUDIO_Patient_1_WAL102]Sim... Claro.
+[IDS_AUDIO_Patient_1_DCT104]Entäo me fala o que você pens quando vê essas fotos, ta? Fale qualquer coisa que você pensar.
+[IDS_AUDIO_Patient_1_WAL104]Essa é minha mäe.
+[IDS_AUDIO_Patient_1_DCT106]Ok, e essa outra aqui?
+[IDS_AUDIO_Patient_1_WAL106]Essa é minha mäe.
+[IDS_AUDIO_Patient_1_DCT108]Essa também é sua mäe?
 [IDS_AUDIO_Patient_1_WAL108]Uh huh.
-[IDS_AUDIO_Patient_1_DCT110]Is this one your mommy too?
+[IDS_AUDIO_Patient_1_DCT110]E essa também é sua mäe?
 [IDS_AUDIO_Patient_1_DCT112]Walter?
-[IDS_AUDIO_Patient_1_WAL110]That's NOT my mommy!
-[IDS_AUDIO_Patient_1_DCT114]Are you sure?
-[IDS_AUDIO_Patient_1_WAL112]That's NOT MY MOMMY!!!
-[IDS_AUDIO_Patient_1_DCT116]Calm down. Walter, CALM DOWN! This IS your mommy!
-[IDS_AUDIO_Patient_1_WAL114]NO! NO! NO! NO! NO!
+[IDS_AUDIO_Patient_1_WAL110]Essa NäO é minha mäe!
+[IDS_AUDIO_Patient_1_DCT114]Tem certeza?
+[IDS_AUDIO_Patient_1_WAL112]Essa NäO É MINHA MäE!!!
+[IDS_AUDIO_Patient_1_DCT116]Calma. Walter, se acalma! Essa AQUI é a sua mäe!
+[IDS_AUDIO_Patient_1_WAL114]NäO! NäO! NäO! NäO! NäO!
 [IDS_AUDIO_Patient_1_DCT118]Yes! It is! This is your mommy! This one is only a door, see?
-[IDS_AUDIO_Patient_1_WAL116]Mommy?
-[IDS_AUDIO_Patient_1_DCT120]What do you want to tell your mommy?
-[IDS_AUDIO_Patient_1_WAL118]Why won't you wake up, mommy?
-[IDS_AUDIO_Patient_1_DCT122]Is your mommy sleeping, Walter?
-[IDS_AUDIO_Patient_1_WAL120]Show me your heart! SHOW ME YOUR HEART!!!
-[IDS_AUDIO_Patient_1_DCT124]Orderly! ORDERLY!
+[IDS_AUDIO_Patient_1_WAL116]Mamäe?
+[IDS_AUDIO_Patient_1_DCT120]O que você quer falar pra sua mäe?
+[IDS_AUDIO_Patient_1_WAL118]Por que você näo acorda mamäe?
+[IDS_AUDIO_Patient_1_DCT122]Sua mäe está dormindo, Walter?
+[IDS_AUDIO_Patient_1_WAL120]Me mostre seu coraçäo! ME MOSTRE SEU CORAÇäO!!!
+[IDS_AUDIO_Patient_1_DCT124]Tranquilize! TRANQUILIZE!
 
 # Audio Patient Tape 2 - Jack #
 [IDS_AUDIO_Patient_2_JAC400]Okay, doc. Why don't I start this time? Okay? I mean you're always starting with the questions, the questions, the questions, but it's always the same damn questions. Why don't we get to talk about what I want to talk about?
@@ -3991,43 +3991,43 @@
 ### Strings for Cinematics Rendered as Bink Movies ###
 
 # FMV of New_GURNEY_RIDE_FINAL - Opening Gurney Sequence #
-[IDS_MOV_M01_010_SFX_01]<COLOR,127,143,166>SOUND<CLEARCOLOR> <COLOR,255,255,255>Air Raid Siren and Explosions<CLEARCOLOR>
-[IDS_MOV_M01_010_ALX_02]Where's my squad? Are they here?
-[IDS_MOV_M01_010_ALX_03]Did they make it?
+[IDS_MOV_M01_010_SFX_01] 
+[IDS_MOV_M01_010_ALX_02]Onde está meu esquadräo? Eles estäo aqui?
+[IDS_MOV_M01_010_ALX_03]Eles sobreviveram?
 [IDS_MOV_M01_010_ALX_04]Ah, ahhh!
-[IDS_MOV_M01_010_ALX_05]Hey, hey talk to me.
-[IDS_MOV_M01_010_ALX_06]Say something!
-[IDS_MOV_M01_010_ALX_07]Oh God...oh, oh God!!
-[IDS_MOV_M01_010_SFX_08]<COLOR,127,143,166>SOUND<CLEARCOLOR> <COLOR,255,255,255>Screaming<CLEARCOLOR>
-[IDS_MOV_M01_010_ALX_09]Hey, hey what are they doing?
-[IDS_MOV_M01_010_ALX_10]What's going on there?
-[IDS_MOV_M01_010_ALX_11]Hey where are you taking me?
-[IDS_MOV_M01_010_ALX_12]No!! Hey!!!
-[IDS_MOV_M01_010_ALX_13]No!!
-[IDS_MOV_M01_010_ALX_14]Where am I?
-[IDS_MOV_M01_010_ALX_15]Hey what is this place?
-[IDS_MOV_M01_010_ALX_16]Hey where are you taking me?!
-[IDS_MOV_M01_010_ALX_17]No!!
-[IDS_MOV_M01_010_ALX_18]Where am I, man?!
-[IDS_MOV_M01_010_ALX_19]Hey, wait.
-[IDS_MOV_M01_010_ALX_20]Where are you going?
-[IDS_MOV_M01_010_ALX_21]Don't leave me here!!
+[IDS_MOV_M01_010_ALX_05]Ei, ei fala comigo.
+[IDS_MOV_M01_010_ALX_06]Fala alguma coisa!
+[IDS_MOV_M01_010_ALX_07]Meu Deus...Me- Meu Deus!!
+[IDS_MOV_M01_010_SFX_08]<COLOR,127,143,166>GRITOS<CLEARCOLOR> 
+[IDS_MOV_M01_010_ALX_09]Ei, o que eles estäo fazendo?
+[IDS_MOV_M01_010_ALX_10]O que ta acontecendo aqui?
+[IDS_MOV_M01_010_ALX_11]Ei, onde você ta me levando!
+[IDS_MOV_M01_010_ALX_12]Näo!! Ei!!!
+[IDS_MOV_M01_010_ALX_13]Nääo!!
+[IDS_MOV_M01_010_ALX_14]Onde eu to?
+[IDS_MOV_M01_010_ALX_15]Ei, que lugar é esse?
+[IDS_MOV_M01_010_ALX_16]Onde você ta me levando?!
+[IDS_MOV_M01_010_ALX_17]Näo!!
+[IDS_MOV_M01_010_ALX_18]Onde eu to, cara?!
+[IDS_MOV_M01_010_ALX_19]Ei, espera!
+[IDS_MOV_M01_010_ALX_20]Onde você vai?!
+[IDS_MOV_M01_010_ALX_21]Näo me deixe aqui!!
 
 # FMV of CIN_M09_050A_Town - Alex, Elle and Wheeler Sail Across the Lake - Part A #
 [IDS_MOV_M09_050A_01]Elle.
-[IDS_MOV_M09_050A_02]Elle, I thought you were-
-[IDS_MOV_M09_050A_03]Alex, she's gone.
-[IDS_MOV_M09_050A_04]Who?
-[IDS_MOV_M09_050A_05]My mom. I can't find her anywhere. The entire town's gone!
-[IDS_MOV_M09_050A_06]I think I know where they are. I found this.
-[IDS_MOV_M09_050A_07]I'm not sure what it all means, but we need to get to Silent Hill.
-[IDS_MOV_M09_050A_08]Are you serious?
-[IDS_MOV_M09_050A_09]My dad was serious enough to risk his life going there. That's where Josh is, I'm sure of it.
-[IDS_MOV_M09_050A_10]...and everyone else...
-[IDS_MOV_M09_050A_11]RADIO: Alex, you there?
-[IDS_MOV_M09_050A_12]Wheeler. I thought we lost you.
-[IDS_MOV_M09_050A_13]RADIO: Hell, you're not getting rid of me that easy.
-[IDS_MOV_M09_050A_14]Glad to hear it. We have a lot to fill you in on. In the meantime, can you get us a boat? We're going to Silent Hill.
+[IDS_MOV_M09_050A_02]Elle, eu pensei que você-
+[IDS_MOV_M09_050A_03]Alex, ela sumiu.
+[IDS_MOV_M09_050A_04]Quem?
+[IDS_MOV_M09_050A_05]Minha mäe. Eu näo consigo achar ela em lugar nenhum. Näo consigo achar ninguém!
+[IDS_MOV_M09_050A_06]Eu acho que sei onde eles estäo. Eu encontrei isso.
+[IDS_MOV_M09_050A_07]Eu näo tenho certeza do que isso tudo significa, mas a gente tem que ir pra Silent Hill.
+[IDS_MOV_M09_050A_08]Ta falando sério?
+[IDS_MOV_M09_050A_09]Meu pai estava täo certo disso que arriscou sua vida indo pra lá. Só pode ser onde Josh está, tenho certeza.
+[IDS_MOV_M09_050A_10]...e todos os outros...
+[IDS_MOV_M09_050A_11]<COLOR,127,143,166>RADIO<CLEARCOLOR>: Alex, você ta ai?
+[IDS_MOV_M09_050A_12]Wheeler. Eu pensei que você tinha morrido.
+[IDS_MOV_M09_050A_13]<COLOR,127,143,166>RADIO<CLEARCOLOR>: Näo mesmo. Tu näo vai se livrar de mim täo fácil.
+[IDS_MOV_M09_050A_14]Bom ouvir isso. Temos muitas informaçöes pra te passar. Mas enquanto isso, você consegue um barco pra gente? Nós vamos pra Silent Hill.
 
 # FMV of CIN_M09_050B_Lake - Alex, Elle and Wheeler Sail Across the Lake - Part B #
 [IDS_MOV_M09_050B_01]I'm sorry.
@@ -4082,14 +4082,14 @@
 
 # FMV of CIN_M14_025 - The Judge Begins to Torture Alex #
 [IDS_MOV_M14_025_01]Juiza Holloway.
-[IDS_MOV_M14_025_02]You should probably call me Margaret. You're so grown up now.Você deveria me chamar de Margaret.
-[IDS_MOV_M14_025_03]I found Elle, but I don't know what happened. I'm sorry.
+[IDS_MOV_M14_025_02]Você deveria me chamar de Margaret. Você já está bem grandinho...
+[IDS_MOV_M14_025_03]Eu achei a Elle, mas näo sei o que houve. Me desculpe...
 [IDS_MOV_M14_025_04]I'm sorry too. You try so hard to raise a child, to instill your values into her.
 [IDS_MOV_M14_025_05]You want her to be her own person but you hope she'll always remember what's important - family.
-[IDS_MOV_M14_025_06]What's going on?
+[IDS_MOV_M14_025_06]O que está acontecendo?
 [IDS_MOV_M14_025_07]Family is the most important thing, Alex. I would do anything to protect them.
 [IDS_MOV_M14_025_08]That's why I sacrificed my daughter.
-[IDS_MOV_M14_025_09]What...
+[IDS_MOV_M14_025_09]Como é?
 [IDS_MOV_M14_025_10]The founders, they had good intentions. They left the Order to start a new life in Shepherd's Glen.
 [IDS_MOV_M14_025_11]But they feared the wrath of our God, so they made a pact to keep us safe.
 [IDS_MOV_M14_025_12]All that was required was a small sacrifice...
@@ -4169,7 +4169,7 @@
 [IDS_CIN_M02_025_ALX_4]Ela ainda mora aqui?
 [IDS_CIN_M02_025_JUD_4]Mas é claro. Você sabe como é por aqui. Ninguém vai embora da cidade.
 [IDS_CIN_M02_025_ALX_5]É, eu acho...
-[IDS_CIN_M02_025_ALX_6]This town's so quiet.  It's changed.
+[IDS_CIN_M02_025_ALX_6]A cidade está bem quieta... Ta diferente...
 [IDS_CIN_M02_025_JUD_5]Hmmm... Sim. Talvez näo para melhor.
 [IDS_CIN_M02_025_JUD_6]Você deveria ir pra casa, visitar sua mäe. Depois a gente se fala...
 [IDS_CIN_M02_025_JUD_7]Você ta com uma cara ótima, por sinal.
