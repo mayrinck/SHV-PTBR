@@ -49,7 +49,7 @@ Os arquivos que estiverem marcados na lista estão 100% traduzidos e revisados:
 - [ ] m06_dialogue (diálogos com o delegado Wheeler)
 - [x] m07_dialogue (diálogos com o doutor Fitch)
 - [x] m08_dialogue (diálogos com o delegado Wheeler via radio)
-- [x] m09_dialogue (diálogos dos membros do culto)
+- [x] m09_dialogue (diálogos dos membros da ordem)
 - [ ] m10_dialogue
 - [ ] m11_dialogue
 - [ ] m12_dialogue
@@ -57,4 +57,4 @@ Os arquivos que estiverem marcados na lista estão 100% traduzidos e revisados:
 - [ ] m14_dialogue
 - [x] m15_dialogue (Frases de combate e reações do Wheeler e da Elle)
 - [ ] m16_dialogue
-- [ ] strings      (Interações diversas. Textos de interfaces, Nomes de items, etc...)
+- [ ] strings      (Interações diversas: Textos de interfaces, Diálogos de escolha, Nomes de items, etc...)

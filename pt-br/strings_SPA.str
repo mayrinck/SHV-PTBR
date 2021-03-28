@@ -2463,8 +2463,8 @@
 
 
 # M06 - Police Station #
-[M01_StationMap_GOT]I got the <COLOR,155,240,155>Station Map<CLEARCOLOR>.
-[M01_StationMap_Look]It's a map of the whole Station.
+[M01_StationMap_GOT]Obteve o <COLOR,155,240,155>Mapa da Delegacia<CLEARCOLOR>.
+[M01_StationMap_Look]É um mapa de todas as salas da delegacia.
 
 [M06_Interest_01_Jail_Cell_Toilet_1]The toilet looks like it's been stopped up for years.
 [M06_Interest_02_Jail_Cell_Toilet_2]Maybe there's a clue inside?
@@ -2545,18 +2545,18 @@
 [M06_Interest_46_Gate_Locked]I can't see any way to open this.
 [M06_Interest_47_Gate_with_Valve]I can see a valve on the other side.
 [M06_Interest_48_Gate_Open]I can't lift this. There must be something nearby I can use to open it.
-[M06_Interest_49_Pumping_Room_Body]He's dead... It's hard to tell what happened to him, but I don't want to stick around to find out.
-[M06_Interest_49_Pumping_Room_Body2]I'll need this if I'm ever going to get out of here...
+[M06_Interest_49_Pumping_Room_Body]Ele morreu... Díficil dizer qual é o motivo, mas eu não to a fim de ficar pra saber.
+[M06_Interest_49_Pumping_Room_Body2]Eu vou precisar disso se por acaso eu sair daqui...
 
 [M06_Interest_50_Pumping_Room_Note]<COLOR,195,188,228>Drew, I know the plan was to meet you here, but I need to go back for some more supplies before we can leave. Please wait for me here, but stay inside this room! I've heard horrible sounds in the sewers.<CLEARCOLOR>
 
 [M06_DrainagePool]God, what's that smell? We can't safely cross through this. there must be some way to drain this...
 [M06_DrainagePool2]There must be some way to drain this pool around here.
 
-[M06_Interest_52_Blood_on_Walls]What the hell happened here?  Where's Elle...?
-[M06_Interest_53_Elles_Radio]Oh god, That's Elle's radio!
-[M06_Interest_53_Elles_Radio2]There's so much blood everywhere...Could she have survived this..?
-[M06_Interest_53_Elles_Radio3]I have to find her!
+[M06_Interest_52_Blood_on_Walls]Mas o que aconteceu aqui? Onde está a Elle?
+[M06_Interest_53_Elles_Radio]Meu Deus, é o radio da Elle!
+[M06_Interest_53_Elles_Radio2]Tem muito sangue aqui... Será que ela ta bem? Será que sobreviveu?
+[M06_Interest_53_Elles_Radio3]Eu tenho que encontrar ela!
 
 # M06 - Doctor's Office #
 # Scarlet's Letter to Her Imaginary Friend #
