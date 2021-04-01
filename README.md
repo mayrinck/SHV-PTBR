@@ -45,7 +45,7 @@ Os arquivos que estiverem marcados na lista estão 100% traduzidos e revisados:
 - [x] m02_dialogue (diálogos com a Juiza Holloway)
 - [x] m03_dialogue (diálogos com a mãe do Alex)
 - [x] m04_dialogue (diálogos com Curtis e Elle na cidade)
-- [ ] m05_dialogue (diálogos com o prefeito Barlett)
+- [x] m05_dialogue (diálogos com o prefeito Barlett e a moça do Hotel)
 - [ ] m06_dialogue (diálogos com o delegado Wheeler)
 - [x] m07_dialogue (diálogos com o doutor Fitch)
 - [x] m08_dialogue (diálogos com o delegado Wheeler via radio)
