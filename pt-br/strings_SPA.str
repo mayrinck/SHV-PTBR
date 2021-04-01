@@ -1136,7 +1136,7 @@
 [M01_TreatmentSchedule_2]<COLOR,195,188,228>MONDAY  9:00 a.m. (signed) Dr. Copen\nTUESDAY  9:15 a.m. (signed) Dr. Copen\nWEDNESDAY 9:00 a.m. (signed) Dr. Copen\n5:00 p.m. (signed) Dr. Copen\nTHURSDAY   9:15 a.m. (signed) Dr. Copen\nFRIDAY  9:00 a.m. (signed) Dr. Copen\n5:00 p.m. (signed) Dr. Copen\n11:00 p.m. (signed) Dr. Copen\nSATURDAY\nSUNDAY<CLEARCOLOR>
 [M01_TreatmentSchedule_3]<COLOR,195,188,228>Comments:  Treatment has yet to achieve desired results. Patient is non-responsive.  Please administer pureed foods only.<CLEARCOLOR>
 
-[M01_NotHere_2]<COLOR,195,188,228>she's not here  she's not here\nshe's not here  she's not here\nshe's not here  she's not here\nshe's not here  she's not here<CLEARCOLOR>
+[M01_NotHere_2]<COLOR,195,188,228>Ela näo ta aqui Ela näo ta aqui\nEla näo ta aqui Ela näo ta aqui\nEla näo ta aqui Ela näo ta aqui\nEla näo ta aqui Ela näo ta aqui<CLEARCOLOR>
 
 
 ### M01 Interest Points ###
@@ -1218,7 +1218,7 @@
 [M01_cooler]Está quebrado.
 [M01_bunny1]Parece um desenho feito em giz.
 [M01_bunny2]Quem colocou isso aqui?
-[M01_OldMattress_1]It's an old dirty mattress,
+[M01_OldMattress_1]É uma prateleira velha e suja,
 [M01_OldMattress_2]Está coberto com fluidos estranhos... Que nojo!
 
 [M01_Oldmags_1]Algumas revistas antigas.
@@ -1265,7 +1265,7 @@
 
 [M01_Interest_06]Meu Deus.
 [M01_BunnyDrawing_A_1]É um desenho de criança sobre uma família de coelhinhos.
-[M01_BunnyDrawing_A_2]Tem três coelhinhos: O papai, A mamäe e o Bebê...
+[M01_BunnyDrawing_A_2]Tem três coelhinhos: o Papai, a Mamäe e o Bebê...
 [M01_BunnyDrawing_A_3]I think the bunnies are supposed to look afraid, and off to the side there is a wolf, or a monster or something.
 [M01_BunnyDrawing_B_1]Outro desenho de coelhinho.
 [M01_BunnyDrawing_B_2]One of the bunnies looks young and innocent.
@@ -1279,7 +1279,7 @@
 [M01_BunnyDrawing_E_2]I wonder why all of his insignia is scribbled out.
 [M01_BunnyDrawing_F_1]Josh deve adorar aquele coelhinho... Já que ele desenha coelhos tantas vezes...
 [M01_BunnyDrawing_F_2]Por que o Joshua quer tanto esse brinquedo?
-[M01_BunnyDrawing_G_1]This bunny is encircled by the others.
+[M01_BunnyDrawing_G_1]Este coelinho está cercado pelos outros.
 [M01_BunnyDrawing_G_2]Parece algum tipo de cerimônia.
 [M01_BunnyDrawing_H_1]Um dos coelhinhos parece bom, já o outro parece mau...
 
@@ -1294,16 +1294,16 @@
 
 
 # Additional Story Strings #
-[M01_Interest_28_XRay_Board]Whose X-Rays are these?
-[M01_Interest_29_XRay_Board]Are these mine?
-[M01_Interest_31_Torture_Arm_over_Gurney]Do they use this on the patients?
-[M01_Interest_32_Torture_Arm_over_Gurney]It looks like a torture device.
-[M01_Interest_33_Blood_Puddle]There's blood everywhere... Are we under attack?
-[M01_Interest_34_Blood_Puddle]There is no body here.  What the hell is going on?
-[M01_Interest_36_Iron_Lung]I'd feel helpless if I was put in one of these.
-[M01_Interest_37_Medical_Record_Psychotic_Patient]It's a patient's medical record...
-[M01_Interest_38_Medical_Record_Psychotic_Patient]<COLOR,195,188,228>Patient suffers a severe mental disorder -------- derangement of personality.<CLEARCOLOR>
-[M01_Interest_39_Medical_Record_Psychotic_Patient]<COLOR,195,188,228>-------- demonstrates attenuated psychotic symptoms pres----- at most times.<CLEARCOLOR>
+[M01_Interest_28_XRay_Board]De quem será esse raio-x?
+[M01_Interest_29_XRay_Board]Será que é meu?
+[M01_Interest_31_Torture_Arm_over_Gurney]Eles usam isso nos pacientes?!
+[M01_Interest_32_Torture_Arm_over_Gurney]Isso parece algum tipo de instrumento de tortura.
+[M01_Interest_33_Blood_Puddle]Tem sangue em todos os lugares... Será que fomos atacados?
+[M01_Interest_34_Blood_Puddle]Näo tem um corpo aqui... O que está acontecendo?
+[M01_Interest_36_Iron_Lung]Eu me sentiria perdido se me colocassem em um desses...
+[M01_Interest_37_Medical_Record_Psychotic_Patient]É o registro médico de um paciente...
+[M01_Interest_38_Medical_Record_Psychotic_Patient]<COLOR,195,188,228>O paciente sofre de uma anomalia mental severa, -------- distúrbio de personalidade.<CLEARCOLOR>
+[M01_Interest_39_Medical_Record_Psychotic_Patient]<COLOR,195,188,228>-------- demonstra atenuaçäo dos sintomas de psicose pres---- a maior parte do tempo.<CLEARCOLOR>
 [M01_Interest_40_Patient_Chart_1]<COLOR,195,188,228>Patient suffered injuries received during a roadside bomb attack.<CLEARCOLOR>
 [M01_Interest_41_Patient_Chart_1]<COLOR,195,188,228>Right thigh gouged by hot shrapnel resulting in severe laceration and excretion of blood and tissue.<CLEARCOLOR>
 [M01_Interest_42_Patient_Chart_1]<COLOR,195,188,228>Right shoulder also injured, but it is yet unclear as to the extremity of the wound.<CLEARCOLOR>
@@ -1325,11 +1325,11 @@
 [M01_Interest_58_Additional_Interest_01_points_for_Baby_Incubators]I don't think I want to know what happened here.
 [M01_Interest_59_Additional_Interest_01_points_for_Baby_Incubators]Oh god, how horrible.
 [M01_Interest_60_Additional_Interest_01_points_for_Baby_Incubators]I don't want to think about what happened here.
-[M01_Interest_61_Crayon_Drawings]Why is Joshua leaving these drawings everywhere?
-[M01_Interest_62_Crayon_Drawings]I don't understand why Joshua's here in this military hospital.
-[M01_Interest_63_Crayon_Drawings]Is he trying to tell me something?
-[M01_Interest_64_A_Scrawled_Note_on_a_Wall]It's a note scrawled on the wall.
-[M01_Interest_65_A_Scrawled_Note_on_a_Wall]It says, <COLOR,195,188,228>Why are you here?<CLEARCOLOR>
+[M01_Interest_61_Crayon_Drawings]Por que Joshua está deixando estes desenhos por ai?
+[M01_Interest_62_Crayon_Drawings]Eu näo sei como ou porque o Joshua estaria em um hospital militar...
+[M01_Interest_63_Crayon_Drawings]Será que ele está tentando me dizer algo?
+[M01_Interest_64_A_Scrawled_Note_on_a_Wall]Tem uma mensagem na parede.
+[M01_Interest_65_A_Scrawled_Note_on_a_Wall]está escrito: <COLOR,195,188,228>Por que você está aqui?<CLEARCOLOR>
 [M01_Interest_66_Hear_Somebody_in_Locked_Bathroom_Stall]Acho que tem alguém aqui, mas a porta está trancada...
 [M01_Interest_68_Hear_Somebody_in_Locked_Bathroom_Stall]Näo tem resposta...
 [M01_Interest_69_More_Comments_for_Toilets]Esse banheiro está coberto de dejetos...
@@ -1351,16 +1351,16 @@
 [M01_Interest_95_C_State_Level]Everything changed.
 [M01_Interest_96_C_State_Level]Something doesn't feel right.
 [M01_Interest_97_C_State_Level]What happened here?
-[M01_Interest_100_C_State_Level]It looks like the same hospital...
+[M01_Interest_100_C_State_Level]Parece o mesmo hospital, mas...
 [M01_Interest_101_C_State_Level]How can this be happening?
-[M01_Interest_102_C_State_Level]Am I losing my mind?
+[M01_Interest_102_C_State_Level]Será que eu estou ficando louco?
 [M01_Interest_103_C_State_Level]Where did this blood come from?
-[M01_Interest_105_Day_Room_TV_Comments]Those nurses seem to hover around it.
-[M01_Interest_106_Day_Room_TV_Comments]What is it about the TV that attracts them?
-[M01_Interest_107_Swarm]Where are these things coming from?
-[M01_Interest_109_Patient_Beds]This mattress is covered in black mold.
-[M01_Interest_110_Patient_Beds]It smells like someone died on this bed.
-[M01_Interest_111_Patient_Beds]Who could sleep in these conditions?
+[M01_Interest_105_Day_Room_TV_Comments]Aquelas enfermeiras parecem estar circulando em volta dela...
+[M01_Interest_106_Day_Room_TV_Comments]Por que será que a TV chama tanto a atençäo delas?
+[M01_Interest_107_Swarm]De onde estes insetos estäo vindo?
+[M01_Interest_109_Patient_Beds]Esse colchäo está coberto com um mofo bem escuro.
+[M01_Interest_110_Patient_Beds]Parece que alguém morreu nessa cama...
+[M01_Interest_111_Patient_Beds]Quem conseguiria dormir nisso?!
 [M01_Interest_112_Note_on_Patient_Bed]Tem uma nota escrita a mäo nessa cama.
 [M01_Interest_113_Note_on_Patient_Bed]Aqui diz, <COLOR,195,188,228>Eu quero sair daqui!<CLEARCOLOR>
 [M01_Interest_114_Note_on_Patient_Bed]<COLOR,195,188,228>Please take me back home. I want to get on with my life.<CLEARCOLOR>
@@ -2391,22 +2391,22 @@
 [M05_Interest_125_Lobby_Door]This must lead back to the lobby.
 
 # M05 - Atrium #
-[M05_Interest_72_Strange_Plants_A]That's...a pretty bizarre plant.
-[M05_Interest_73_Strange_Plants_B]What an exotic-looking plant.
-[M05_Interest_74_Strange_Plants_C]I wonder if this is poisonous.
-[M05_Interest_75_Greenhouse_Doors_Shift]What the hell..?
+[M05_Interest_72_Strange_Plants_A]É... Essa aqui é bem bizarra.
+[M05_Interest_73_Strange_Plants_B]Que planta mais exótica.
+[M05_Interest_74_Strange_Plants_C]Acho que isso é venenoso.
+[M05_Interest_75_Greenhouse_Doors_Shift]Mas o que...?
 
 # M05 - Greenhouse #
-[M05_Interest_76_Strange_Plants_A]These plants look unnatural.
-[M05_Interest_78_Strange_Plants_C]I've visited greenhouses before, but I've never seen plants like this.
-[M05_Interest_79_Strange_Tree_A]Those branches give me the creeps.
-[M05_Interest_80_Strange_Tree_B]That's one ugly, twisted tree.
-[M05_Interest_81_Strange_Tree_C]Something about this tree makes me uneasy...
+[M05_Interest_76_Strange_Plants_A]Essas plantas parecem estranhas... Näo naturais, eu diria.
+[M05_Interest_78_Strange_Plants_C]Eu já visitei outras estufas antes, mas nunca vi plantas como essas...
+[M05_Interest_79_Strange_Tree_A]Esses galhos me däo arrepios.
+[M05_Interest_80_Strange_Tree_B]Pensa numa árvore feia e retorcida... Uau.
+[M05_Interest_81_Strange_Tree_C]Algo me incomoda nessa árvore...
 
 # M05 - Floors 3-4 #
-[M05_Interest_82_Joshua_Clue_01]There's something written here. It says:
-[M05_Interest_82_Joshua_Clue_02]<COLOR,195,188,228>Ugly is chasing me<CLEARCOLOR>
-[M05_Interest_83_Joshua_Clue_02]It says:
+[M05_Interest_82_Joshua_Clue_01]Tem algo escrito aqui:
+[M05_Interest_82_Joshua_Clue_02]<COLOR,195,188,228>O feio me segue<CLEARCOLOR>
+[M05_Interest_83_Joshua_Clue_02]Está escrito:
 [M05_Interest_83_Joshua_Clue_03]<COLOR,195,188,228>405 scares me. I left my ducky in there.<CLEARCOLOR>
 [M05_Interest_84_Joshua_Clue_03]There's a message above the bathtub. It says:
 [M05_Interest_84_Joshua_Clue_04]<COLOR,195,188,228>You can't wash it off.<CLEARCOLOR>
@@ -2545,7 +2545,7 @@
 [M06_Interest_46_Gate_Locked]I can't see any way to open this.
 [M06_Interest_47_Gate_with_Valve]I can see a valve on the other side.
 [M06_Interest_48_Gate_Open]I can't lift this. There must be something nearby I can use to open it.
-[M06_Interest_49_Pumping_Room_Body]Ele morreu... Díficil dizer qual é o motivo, mas eu não to a fim de ficar pra saber.
+[M06_Interest_49_Pumping_Room_Body]Ele morreu... Díficil dizer qual é o motivo, mas eu näo to a fim de ficar pra saber.
 [M06_Interest_49_Pumping_Room_Body2]Eu vou precisar disso se por acaso eu sair daqui...
 
 [M06_Interest_50_Pumping_Room_Note]<COLOR,195,188,228>Drew, I know the plan was to meet you here, but I need to go back for some more supplies before we can leave. Please wait for me here, but stay inside this room! I've heard horrible sounds in the sewers.<CLEARCOLOR>

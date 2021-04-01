@@ -28,14 +28,14 @@
 [ALX499]Deixa disso, você pode me contar.
 [ALX500]Ei, cara, mais uma pergunta...
 [ALX501]Mais uma coisa...
-[ALX502]Let me ask you something...
+[ALX502]Deixa eu te perguntar mais uma coisa...
 [ALX503]E se eu tirar essa escopeta de você?
 [ALX504]Sim, senhor.
-[ALX505]You know, this town is crawling with all sorts of crazy shit.  Why are you still running a repair shop?
+[ALX505]Você sabe, essa cidade está cheia de todo tipo de bizarrices. Como você ainda consegue ter uma loja de reparos aberta?
 [ALX506]Entendo.
-[ALX507]You've got a lot of clock parts in this place.  There a reason?
-[ALX508]No, I hadn't.
-[ALX509]Why do you think that is?
+[ALX507]Você tem bastantes peças de relógio nesse lugar... Tem alguma razäo?
+[ALX508]Näo, eu näo.
+[ALX509]Por que você acha isso?
 [ALX510]Você já tentou consertar eles?
 [ALX511]O que?
 [ALX512]Eu to só tentando achar o meu irmäo.
@@ -47,76 +47,76 @@
 [ALX898]Que trabalho maluco.
 [CUR100]Apareça!
 [CUR102]Você näo vai se esconder.
-[CUR104]I know you're there.
-[CUR106]I hear you!
-[CUR116]I ain't afraid of you.
-[CUR118]Come here.
-[CUR120]What's that?
-[CUR122]You're dead!
-[CUR124]Son of a bitch!
-[CUR126]Say goodbye!
-[CUR128]See you in hell
-[CUR130]You messed with the wrong guy.
-[CUR132]You'll pay for your betrayal.
-[CUR134]Get your hands off me!
-[CUR136]Don't try that again!
-[CUR138]I ain't going down that easy.
-[CUR140]That's the price you pay.
-[CUR142]Game over.
-[CUR144]Didn't have to be this way.
-[CUR146]You had a choice.  You chose wrong.
-[CUR400]Yeah, how 'bout I slap you and kill you?  You're looking for a weapon...take a look around the place.  I'm sure you'll find something else you can use.
-[CUR401]Why do you think I'm carrying this thing around?  What am I supposed to do, pack up and leave so somebody else can come in here and steal my stuff?  You're not too bright, are you?
-[CUR402]Yeah, there's a reason.  For fixing clocks!  Haven't you noticed that every single clock in this town has stopped at exactly 2:06?
-[CUR403]Well, take a look around, son.
-[CUR404]Hell if I know.  I just try to fix 'em.  But it's no use.  They won't start running again.  It's like something's not letting us move on.
-[CUR405]Kid, I can fix just about anything you put in front of me.  But I've never seen anything like this.  There's no reason they're not working.  It's like there's something causing it.
-[CUR406]Well, that's what you're trying to figure, now isn't it?
-[CUR407]Well, you might wanna think about opening your eyes to everything else that's going on around here.  You might find it'll lead you to where you wanna go.
-[CUR408]Hey, I can't talk right now.  Can't you see I'm busy?
-[CUR409]Jesus, what else do you want from me?  Leave me alone.
-[CUR410]You're still here?  Why don't you leave me alone?
-[CUR411]Kid, you don't leave me alone, I'm putting a shell right through your face.
-[CUR412]I'm tired, kid.  I just wanna be left alone.
-[CUR417]I'm busy.
+[CUR104]Eu sei que você ta ai.
+[CUR106]Eu consigo te ouvir!
+[CUR116]Eu näo tenho medo de você.
+[CUR118]Vem aqui.
+[CUR120]O que foi isso?
+[CUR122]Você está morto!
+[CUR124]Filho da puta!
+[CUR126]Diga adeus!
+[CUR128]Te vejo no inferno.
+[CUR130]Você mexeu com o cara errado.
+[CUR132]Você vai pagar pela sua traiçäo.
+[CUR134]Tire suas mäos de mim!
+[CUR136]Näo tente isso de novo!
+[CUR138]Eu näo serei parado täo facilmente.
+[CUR140]Esse é o preço que você vai pagar.
+[CUR142]Fim de jogo.
+[CUR144]Näo precisava ser assim.
+[CUR146]Você teve uma escolha, e escolheu errado.
+[CUR400]É... Que tal eu te dar uma porrada e depois te matar? Se você quiser uma arma, vai procurar por ai. Com certeza você vai conseguir algo que você possa usar.
+[CUR401]Por que tu acha que eu carrego essa coisinha aqui? Tu acha que eu vou fazer o que? Arrumar minhas tralhas e sair pra alguém vir aqui e tomar o que é meu? Tu é meio burrinho, näo é näo?
+[CUR402]É tem uma razäo sim. PRA CONSERTAR RELÓGIOS! Tu näo notou que todo maldito relógio parou exatamente as 2:06?
+[CUR403]Bem, da uma olhada em volta, moleque.
+[CUR404]Quem me dera saber. Eu só conserto eles. Mas näo tem jeito. Eles näo voltam a funcionar. É como se algo estivesse nos impedindo de seguir em frente.
+[CUR405]Moleque, eu conserto qualquer coisa que você colocar na minha frente. Mas eu nunca vi nada como isso. Näo tem motivo para eles näo funcionarem. É como se algo mais estivesse causando isso.
+[CUR406]Bem, é isso que você ta tentando entender agora, certo?
+[CUR407]Bem, talvez você devesse abrir os olhos pra tudo que ta acontecendo por aqui. Isso deve te levar onde você quer ir.
+[CUR408]Ei, näo posso falar agora. Näo ta vendo que eu to ocupado?
+[CUR409]Jesus, o que mais você quer de mim?! Me deixe em paz.
+[CUR410]Tu ainda ta aqui? Por que tu näo me deixa em paz?
+[CUR411]Moleque, se tu näo me deixar em paz, eu vou atravessar uma bala nessa tua cara.
+[CUR412]To cansado, moleque. Só quero ficar sozinho.
+[CUR417]To ocupado.
 [ELE014]Alex!
-[ELE016]Over here!
-[ELE018]Help!  Alex!
-[ELE020]I need a hand.
-[ELE022]Where are you?
-[ELE024]Gimme a hand.
-[ELE026]What's that?
-[ELE028]Who's there?
-[ELE030]Alex, you hear that?
-[ELE032]Something's coming.
-[ELE054]Look out.
-[ELE056]Stay away!
-[ELE058]Stay back!
-[ELE060]Oh no.
-[ELE300]Alex, how are you doing?
-[ELE302]I'm sorry.  I'm stopping by the Sheriff's station. Can I get you anything?
-[ELE304]Here.  I hope this helps.
-[ELE400]Sure.
-[ELE401]What is it?
-[ELE402]What's that?
-[ELE403]Why?
-[ELE404]Yeah.  He moved here when we were in high school.
-[ELE405]We're trying to work together to find out what happened to the missing people.  And...he doesn't really like to leave the station.
-[ELE406]Yeah, he's got a few theories.
-[ELE407]It's hard to trust anyone these days, Alex.  But I think he's one of the good guys.
-[ELE408]You don't remember much, do you?  He worked for your dad.
-[ELE409]I don't think so.  It looks like an antique though.  You should get it fixed.
-[ELE410]Curtis is still around.  I don't know if you remember him, but he runs a repair shop down the road over the bridge.  He's a real weirdo, but he might be able to help.
-[ELE411]Well, you don't have to be a jerk about it.  There's a guy named Curtis who can fix just about anything.  But you can find him on your own.
-[ELE412]What does it matter?  I thought all you cared about was your brother.
-[ELE413]You thought there was some connection between my mom and your missing brother?!  Wow, you are a real ass.
-[ELE414]Well, she is.  She has been spending a lot of time in the town hall lately.
-[ELE415]Well, she's always been really into the town history and records and all that.  So she's looking into it all to try to find some explanation for what's going on.  I just hope she's not getting in over her head.  I don't want anything to happen to her.
-[ELE416]I'd really rather not get into it right now, Alex.  I have stuff I have to do.
-[ELE417]Like you?  That's the easy answer, isn't it?  But there are people who need help, and I have to do what I can.  I wouldn't expect you to understand.
-[ELE418]You don't understand what it's been like here.  You're not the only one who's looking for someone.
+[ELE016]Por aqui!
+[ELE018]Socorro!  Alex!
+[ELE020]Preciso de ajuda.
+[ELE022]Onde você está?
+[ELE024]Uma ajudinha aqui.
+[ELE026]O que é aquilo?
+[ELE028]Quem ta ai?
+[ELE030]Alex, ouviu isso?
+[ELE032]Algo está vindo.
+[ELE054]Cuidado.
+[ELE056]Fica longe!
+[ELE058]Para trás!
+[ELE060]Oh näo.
+[ELE300]Alex, como você está?
+[ELE302]Foi mal, to indo pra delegacia agora. Você quer alguma coisa?
+[ELE304]Aqui. Espero que isso ajude.
+[ELE400]Claro.
+[ELE401]O que é?
+[ELE402]O que é aquilo?
+[ELE403]Por que?
+[ELE404]Sim. Ele se mudou depois que a gente foi pro ginásio.
+[ELE405]Nós estamos tentando trabalhar juntos para descobrir o que houve com as pessoas desaparecidas.\n E... Ele näo gosta muito de sair da delegacia.
+[ELE406]É, ele tem algumas teorias.
+[ELE407]É dificil confiar em qualquer um home em dia, Alex. Mas eu acredito que ele seja um dos mocinhos.
+[ELE408]Você näo se lembra de nada né? Ele trabalhou pro seu pai.
+[ELE409]Eu näo sei näo... Isso parece uma antiguidade. Você deveria tentar consertar.
+[ELE410]Curtis ainda está na cidade. Näo sei se lembra dele, mas ele tem uma loja de reparos logo depois da ponte. Ele é muito estranho, mas pode conseguir te ajudar.
+[ELE411]Você näo precisa ser um idiota por causa disso. Tem um cara chamado Curtis que conserta qualquer coisa. Mas você que se vire pra achar ele.
+[ELE412]E por que você se importa? Pensei que tudo que você se importava era o seu irmäo.
+[ELE413]Você pensou que havia alguma conexäo entre a minha mäe e seu irmäo desaparecido?! Nossa, você é muito cuzäo...
+[ELE414]Bem, ela está. Ela tem passado muito tempo na prefeitura ultimamente.
+[ELE415]Bem, ela sempre foi de saber a história da cidade, registros e tudo mais. Entäo ela ta procurando se existe algo explicando o que está acontecendo. Eu só espero que ela näo esteja se forçando demais. Eu näo quero que nada aconteça a ela...
+[ELE416]Eu prefiro näo entrar nesse assunto agora, Alex. Eu tenho mais o que fazer.
+[ELE417]Gostar de você? é uma resposta bem fácil näo acha? Mas ainda tem gente que precisa de ajuda, e eu tenho que fazer o que for possível.
+[ELE418]Você näo faz ideia de como estäo as coisas aqui. Você näo é o único que está procurando alguém.
 [ELE419]Alex, näo da pra conversar agora.
 [ELE420]Você näo ta vendo que eu to ocupada?
 [ELE421]Alex, eu näo sei de mais nada. Por favor, me deixa fazer meu trabalho.
 [ELE422]Eu to ocupada, näo ta vendo? Isso nunca acaba...
-[ELE423]I'm not really in the mood right now.  Just leave me alone.
+[ELE423]Eu näo to no clima agora. Só me deixa sozinha...
