@@ -1,4 +1,4 @@
-[ALX076]I saw Doc Fitch at his office not too long ago.
+[ALX076]Eu vi o doutor Fitch no consultório dele tem pouco tempo.
 [ALX077]Claro, é pra já.
 [ALX109]Damn.  Go, go!  Look out!
 [ALX111]Mantém ela aberta!
@@ -8,8 +8,8 @@
 [ALX119]Mas que surpresa...
 [ALX121]Eles säo täo jovens.
 [ALX123]Preciso da combinaçäo.
-[ALX125]Must be a way to get these open.
-[ALX127]Maybe this valve does something.
+[ALX125]Deve ter um jeito de abrir isso...
+[ALX127]Talvez essa valvula faça algo.
 [ALX129]Uau! Tem bastante história aqui.
 [ALX213]A filha do doutor Fitch...
 [ALX215]Doutor Fitch... Você ta bem?
@@ -19,7 +19,7 @@
 [ALX529]Eu näo sei. Da ultima vez que eu vi, ele tava desmaiado de bêbado no chäo. ele me parecia muito bem. To liberado agora?
 [ALX530]He said something about going home.  Why don't you let me out of here and we'll go find him together.
 [ALX531]Bem, você näo vai poder fazer pergunta nenhuma pra ele... Por que ele morreu!
-[ALX532]I'm just trying to find my brother, okay?  I thought the mayor might know something.  His son is missing too.
+[ALX532]Eu só quero achar o meu irmão ta bom? Eu pensei que o prefeito pudesse saber algo. O filho dele também sumiu.
 [ALX533]Eu näo matei ninguém!
 [ALX534]Eu näo posso te falar o que houve, e mesmo que eu falasse você näo acreditaria! Merda... Nem eu acredito...
 [ALX535]Ele tava muito bêbado. Deve ter tropeçado em uma raiz de arvore e foi empalado ou coisa assim... É a melhor forma de explicar isso.
@@ -34,47 +34,47 @@
 [ALX769]"Eles"? De quem você está falando?
 [ELE002]Ta bom, continua.
 [ELE004]Bem na hora.
-[ELE006]We can't both make it through.  We're gonna have to split up and find each other later.  Which way do you want to go?
-[ELE008]I'll open these.  Don't let those things get me!
-[ELE012]Yeah.  Thanks.
+[ELE006]Não da pra nós dois passarmos.  Vamos ter que nos dividir e nos encontrar depois.  Por onde você prefere ir?
+[ELE008]Eu vou abrir isso aqui, não deixe essas coisas se aproximarem!
+[ELE012]Isso ai.  Valeu.
 [ELE014]Alex!
-[ELE016]Over here!
-[ELE018]Help!  Alex!
-[ELE020]I need a hand.
-[ELE022]Where are you?
-[ELE024]Gimme a hand.
-[ELE026]What's that?
-[ELE028]Who's there?
-[ELE030]Alex, you hear that?
-[ELE032]Something's coming.
-[ELE054]Look out.
-[ELE056]Stay away!
-[ELE058]Stay back!
-[ELE060]Oh no.
-[ELE306]Alex, keep up.
-[ELE308]Alex, where are you?
-[ELE310]Come on!
+[ELE016]Por aqui!
+[ELE018]Socorro!  Alex!
+[ELE020]Me da uma mãozinha aqui.
+[ELE022]Onde você ta?
+[ELE024]Uma ajudinha aqui.
+[ELE026]O que é aquilo?
+[ELE028]Quem está ai?
+[ELE030]Alex, você ouviu isso?
+[ELE032]Tem algo vindo.
+[ELE054]Cuidado!
+[ELE056]Fica longe!
+[ELE058]Fica longe!
+[ELE060]Oh não.
+[ELE306]Alex, continua.
+[ELE308]Alex, onde você ta?
+[ELE310]Vamos!
 [ELE312]Ugh.  This thing's not moving.  I'll try to find a way to open it.
 [ELE701]Alex, there's another gate here I can open.  Loop back around the way we came in and I'll let you through.
 [ELE702]I can't open the gate any further.  You'll need to backtrack to find another way around.
-[ELE703]Alex, there's a valve by that gate. Maybe it opens the gate?
-[ELE704]Ok, I'm through, hang on a second.
-[ELE705]I'm gonna hold it open. You come through.
-[ELE706]Alex, come on!
-[ELE707]I can't hold this forever!
-[ELE708]Alright, just like last time. I'll hold it open, you come through.
-[ELE709]Ok, let's go.
+[ELE703]Alex, tem uma valvula perto do portão. Acho que isso abre ele né?
+[ELE704]Ok, eu vou passar, segura ai.
+[ELE705]Eu vou manter esse aqui aberto, ai você passa.
+[ELE706]Alex, vamos!
+[ELE707]Eu não consigo segurar isso pra sempre!
+[ELE708]Certo, igual da outra vez. Eu vou segurar e você passa.
+[ELE709]Ok, vamos lá.
 [ELE710]Alex, there's another gate here I can open. Go back the way we came in, I'll let you through.
-[ELE711]Ugh.  This thing's not moving.
-[ELE712]Alex, there's just no way to open the gate from this side.
-[ELE713]I'll head down the tunnel to find a way to open it.
-[ELE716]Alex, I'm outside by the garage.  Where are you?
+[ELE711]Ugh.  Isso não se mexe.
+[ELE712]Alex, não da pra abrir esse portão desse lado.
+[ELE713]Eu vou dar uma olhada no caminho pra achar uma forma de abrir.
+[ELE716]Alex, eu to do lado de fora na garagem, onde você ta?
 [WHE100]Alex!
-[WHE102]Over here!
-[WHE104]Alex, help!
-[WHE106]Need some help over here!
-[WHE108]Help!
-[WHE110]Cover me!
+[WHE102]Por aqui!
+[WHE104]Alex, socorro!
+[WHE106]Me da uma ajuda aqui!
+[WHE108]Me ajuda!
+[WHE110]Cobertura!
 [WHE112]C'mon out!
 [WHE114]What was that?
 [WHE116]I know you're there.
@@ -141,37 +141,37 @@
 [WHE424]So maybe this town was built on some sort of Indian burial ground?  Hell, maybe it's a government experiment.  They're trying to test the effects of stress on the human psyche, to create soldiers that can withstand the pressures of war.
 [WHE425]Hey, don't joke about that stuff.  Anyway, I'm glad you're around.
 [WHE426]Sure, now you wanna listen.  Okay.  Well, when I started looking into the history of this town, I found a lot of strange things.  Stories about cults, unexplained deaths and disappearances...
-[WHE427]Hey, I'm not telling you this for my health.
-[WHE428]Alex, I'm not telling you this to hear myself talk.  Listen up.
-[WHE429]There's a point I'm trying to make.  You listening?
-[WHE430]Listen up, kid, there's a point to all this.
-[WHE431]Hey, you're the one who wanted to know this stuff.
-[WHE440]Alex, I'm in here!
-[WHE442]Alex, look behind you!
-[WHE444]Alex, where are you?
-[WHE448]Alex, stop fooling around, let's go!
-[WHE460]Watch out!
-[WHE466]Alex, look out!
-[WHE701]What was that?
-[WHE702]We should get moving.  I'm not sure it's safe here anymore. Follow me.
-[WHE703]Ok, I'm gonna check it out first
-[WHE704]Stand Back.
-[WHE705]Shit!  We're not going THAT WAY!
-[WHE706]Hurry up.  Follow me!
-[WHE707]Alex!  This way, let's go!
-[WHE708]Out of the way boy!
-[WHE709]Come on, the exit is this way.
-[WHE710]Looks clear, stay close.
-[WHE711]Run Alex, get to the Chief's Office!
-[WHE712]Hurry, I don't know how long I can hold them.
-[WHE713]Cover me.
-[WHE714]I've got you covered.
-[WHE715]Alex! Behind you!
-[WHE716]You ready?
-[WHE717]There's another one!
-[WHE718]I'm getting' to old for this shit.
-[WHE719]I got your back.
-[WHE720]You got my back?
+[WHE427]Eu não to te falando isso só pra me sentir melhor não.
+[WHE428]Alex eu não to falando só pra me ouvir falar não, presta atenção.
+[WHE429]Eu to tentando mostrar uma ideia aqui, tu ta ouvindo?
+[WHE430]Escuta só moleque, tem um motivo pra tudo isso.
+[WHE431]Ei, era tu que queria saber sobre isso.
+[WHE440]Alex, eu to aqui!
+[WHE442]Alex, atrás de você!
+[WHE444]Alex, onde você ta?
+[WHE448]Alex, para de ser lerdão, vamos logo!
+[WHE460]Cuidado!
+[WHE466]Alex, cuidado!
+[WHE701]O que foi isso?
+[WHE702]Temos que continuar. Não tenho mais certeza se aqui é seguro. Vem comigo.
+[WHE703]Ok, deixa eu dar uma olhada primeiro...
+[WHE704]Pra trás!
+[WHE705]Merda! A gente não vai mais por ali!
+[WHE706]Anda logo, comigo!
+[WHE707]Alex!  Por aqui, vamos!
+[WHE708]Sai da frente moleque!
+[WHE709]Vamos, a saida é por aqui.
+[WHE710]Parece seguro, fica por perto.
+[WHE711]Corre Alex, vai pro escritório do Xerife!
+[WHE712]Anda logo! Não da pra segurar eles pra sempre não!.
+[WHE713]Me da cobertura.
+[WHE714]To te cobrindo aqui.
+[WHE715]Alex! atrás de você!
+[WHE716]Ta pronto?
+[WHE717]Tem outro deles!
+[WHE718]Eu to ficando velho pra fazer essas merdas.
+[WHE719]Eu vou te dar cobertura.
+[WHE720]Tu vai me dar cobertura?
 [WHE721]Hold up, I gotta think...  I was looking for Mayor Bartlett because I found some weird stuff.
 [WHE722]I think he and the other founders might be involved with what's going on around here.
 [WHE723]I was gonna find Doc Fitch to see if I could get some answers from him.  But now he seems to have disappeared.
@@ -182,5 +182,5 @@
 [WHE809]The doctor is tied up in all the same shit as the Mayor.
 [WHE810]Yeah, they all know a helluva lot more than they're letting on, and I'm sick of being in the dark.
 [WHE811]No time for that now Alex. Just trust me, we need to get to the Doctor before something happens to him too.
-[WHE824]Start talking!
-[WHE825]You better start talking boy.
+[WHE824]COMEÇA A FALAR!
+[WHE825]é melhor tu começar a falar moleque.
