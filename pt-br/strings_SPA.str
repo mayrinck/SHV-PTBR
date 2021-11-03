@@ -81,7 +81,7 @@
 
 ###LEGAL SCREEN TEXT
 [IDS_SHELL_LEGAL_SCREEN_TEXT](c)2008 Konami Digital Entertainment, Inc.  (c)1999 Konami Digital Entertainment Co., Ltd. Todos os direitos reservados.  "Silent Hill" é uma marca registrada da Konami Digital Entertainment Co., Ltd. KONAMI é uma marca registrada da KONAMI CORPORATION.  Silent Hill: Homecoming usa Havok (c)1999-2008. Havok.com Inc. (ou licenciados). Todos os direitos reservados. Detalhes em www.havok.com
-[IDS_SHELL_LEGAL_SCREEN_TEXT_2]Desenvolvido pela Double Helix, uma divisäo da Foundation 9 Entertainment. O nome "Double Helix" e logotipo säo marcas registradas da Foundation 9 Entertainment. Traduçäo e Localizaçäo feita por <COLOR,100,65,164>GRISS0N (twitch.tv/griss0n)<CLEARCOLOR>. Devido a limitaçöes da fonte do jogo, alguns caractéres com "til" foram substituidos por outros disponíveis. Para os fäs, sem fins lucrativos.
+[IDS_SHELL_LEGAL_SCREEN_TEXT_2]Desenvolvido pela Double Helix, uma divisäo da Foundation 9 Entertainment. O nome "Double Helix" e logotipo säo marcas registradas da Foundation 9 Entertainment. Traduçäo e Localizaçäo feita por <COLOR,100,65,164>GRISS0N (twitch.tv/griss0n)<CLEARCOLOR>. Devido a limitaçöes da fonte do jogo, alguns caractéres com "til" foram substituidos por outros disponíveis. Feito para os fäs, sem fins lucrativos.
 
 ###MENU TITLES
 [IDS_SHELL_INVENTORY_WHEEL_TITLE]INVENTÁRIO
@@ -143,14 +143,14 @@
 [IDS_SHELL_NO_OBJECTIVES_AVAILABLE]Você näo tem objetivos.
 
 ###GAME OVER MENU
-[IDS_SHELL_GAME_OVER]Você foi morto!
+[IDS_SHELL_GAME_OVER]VOCÊ MORREU!
 [IDS_SHELL_CONTINUE]Continuar
 [IDS_SHELL_QUIT]Desistir
 
 ###COMBAT WHEEL & INVENTORY WHEEL
 [IDS_SHELL_INSPECT]Inspecionar
 [IDS_SHELL_EQUIP]Equipar
-[IDS_SHELL_NO_ITEMS]você näo tem items.
+[IDS_SHELL_NO_ITEMS]Você näo tem itens.
 [IDS_SHELL_NO_WEAPONS]Você näo tem armas.
 [IDS_SHELL_HEALTHDRINK]Revigorante
 [IDS_SHELL_FIRSTAIDKIT]Primeiros-Socorros
@@ -165,7 +165,7 @@
 [IDS_SHELL_NORMAL]Padräo
 [IDS_SHELL_NORMAL_MESSAGE]A dificuldade na qual o jogo foi pensado inicialmente. Todos os recursos e combates säo equilibrados durante a jornada.
 [IDS_SHELL_HARD]Intenso
-[IDS_SHELL_HARD_MESSAGE]Para os já experiêntes. Nesta dificuldade, os inimigos säo mais fortes e resistentes e a muniçäo é bem escassa.
+[IDS_SHELL_HARD_MESSAGE]Para os jogadores experiêntes. Nesta dificuldade, os inimigos säo mais fortes e agressivos e os recursos säo escassos. 
 
 ##SAVE GAME
 [IDS_SHELL_SAVE_PROMPT] <COMMAND_KICK> Salvar
@@ -372,7 +372,7 @@
 [IDS_LOADING_TIP_COMBAT_2]Depois de esquivar com sucesso, você pode contra-atacar com qualquer botäo de ataque.
 [IDS_LOADING_TIP_COMBAT_3]Inimigos atordoados podem ser finalizados apertando o botäo de Ataque Forte perto deles.
 [IDS_LOADING_TIP_COMBAT_4]Ataques Rápidos näo atordoam inimigos, Ataques Fortes e Contra-Ataques sim.
-[IDS_LOADING_TIP_COMBAT_5]Quando for derrubado, aperte o botäo de esquiva no tempo certo para se levantar rapidamente. (Perceba a poeira para ajudar)
+[IDS_LOADING_TIP_COMBAT_5]Quando for derrubado, aperte o botäo de esquiva no tempo certo para se levantar rapidamente. Perceba a poeira para saber o tempo certo...
 [IDS_LOADING_TIP_COMBAT_6]Inimigos säo fortemente atraidos pela luz da lanterna. Desligar ela em certos momentos PODE te ajudar a evitar conflitos...
 
 [IDS_LOADING_TIP_SMOG_1]O ponto fraco do Smog säo os pulmöes, você pode esperar eles ficarem expostos para executar um ataque de grande impacto.
@@ -381,9 +381,9 @@
 [IDS_LOADING_TIP_SIAM_1]O lado feminino da Siam é o menos protegido. Ataque pelas costas para garantir mais dano.
 [IDS_LOADING_TIP_SIAM_2]Siam vai tentar te esmagar se te derrubar, entäo levante-se rápido apertando o botäo de esquiva.
 
-[IDS_LOADING_TIP_NEEDLER_1]O Needler pode bloquear ataques frontais (incluindo tiros). Ataque pelo lado para garantir a efetividade dos ataques.
+[IDS_LOADING_TIP_NEEDLER_1]O Needler pode bloquear ataques frontais (incluindo tiros). Ataque pelo lado ou costas para garantir a efetividade dos ataques.
 [IDS_LOADING_TIP_NEEDLER_2]Quando o Needler vai para o teto, um ataque é certo. Prepare-se para esquivar!
-[IDS_LOADING_TIP_NEEDLER_3]Um tiro na cabeça é o melhor - e mais seguro - meio de se livrar de um Needler.
+[IDS_LOADING_TIP_NEEDLER_3]Um tiro certeiro na cabeça é o melhor - e mais seguro - meio de se livrar de um Needler.
 
 [IDS_LOADING_TIP_LURKER_1]A cabeça do Lurker é seu ponto fraco. Ela é altamente sucetivel a ataques fortes.
 [IDS_LOADING_TIP_LURKER_2]Tome cuidado ao entrar em partes com muita água. Toda movimentaçäo na água pode ser um Lurker aguardando por você...
@@ -425,15 +425,15 @@
 [IDS_SHELL_PLAYER_SIGNED_OUT]Uma mudança de credenciais ocorreu. Você será mandado de volta para o Menu Principal.
 
 ### MEMORY CARD MESSAGES
-[IDS_SHELL_MEMORY_CARD_REMOVED]Memory card (PS3) not inserted in MEMORY CARD slot 1. Please reinsert the memory card (PS3) into MEMORY CARD slot 1 and try again.
-[IDS_SHELL_MEMORY_CARD_CHANGED]Memory card (PS3) in MEMORY CARD slot 1 has been inserted.
+[IDS_SHELL_MEMORY_CARD_REMOVED]O MEMORY CARD (PS3) não foi inserido no Slot 1. Insira o memory card e tente novamente.
+[IDS_SHELL_MEMORY_CARD_CHANGED]MEMORY CARD (PS3) foi inserido.
 
 [IDS_SHELL_MEMORY_CARD_NOT_FORMATTED]Memory card (PS3) in MEMORY CARD slot 1 is unformatted. Do you want to format it?
 [IDS_SHELL_FORMATTING]Formatting Memory card (PS3) in MEMORY CARD slot 1. Do not remove memory card (PS3), controller, or reset/switch off console.
 [IDS_SHELL_FORMATTING_FAILED]Format failed. Please check the memory card (PS3) in MEMORY CARD slot 1.
 
-[IDS_SHELL_NOT_ENOUGH_SPACE_PC]There's not enough free space to save games.
-[IDS_SHELL_NOT_ENOUGH_SPACE_PS3_GAMEDATA]Exit the game and obtain the necessary space.
+[IDS_SHELL_NOT_ENOUGH_SPACE_PC]Não há espaço para salvar o progresso...
+[IDS_SHELL_NOT_ENOUGH_SPACE_PS3_GAMEDATA]Saia do jogo e apague alguns dados para salvar.
 [IDS_SHELL_NOT_ENOUGH_SPACE_PS3_SAVEDATA]Would you like to delete save data in order to free up enough space?  Selecting No will continue without saving.
 [IDS_SHELL_NOT_ENOUGH_SPACE_XBOX360]Your Xbox 360 console doesn't have enough free blocks to save games. At least % additional blocks are required to save the game.  Would you like to go to the Xbox Dashboard to free up more blocks?
 
@@ -467,7 +467,7 @@
 ###PICKUPS
 [IDS_PICKUP_TAKE]<COMMAND_KICK> Obter
 [IDS_PICKUP_USE]<COMMAND_KICK> Usar
-[IDS_PICKUP_CANT_CARRY_ANY_MORE] Sem espaço para carregar mais disso.
+[IDS_PICKUP_CANT_CARRY_ANY_MORE] Sem espaço para carregar mais coisas.
 [IDS_PICKUP_DEFAULT]Obteve o Item.
 [IDS_PICKUP_BUNNY1]Obteve o Coelhinho.
 [IDS_PICKUP_DRAWING]Obteve um <COLOR,155,240,155>Desenho de Criança<CLEARCOLOR>.
@@ -676,97 +676,97 @@
 
 [IDS_PICKUP_M09_ATTICKEY]Chave do Sótäo
 [IDS_PICKUP_M09_ATTICKEY_GOT]Obteve a <COLOR,155,240,155>Chave do Sótäo<CLEARCOLOR>.
-[IDS_PICKUP_M09_ATTICKEY_DESC]The key to the attic. Mom and Dad always kept it hidden in their room.
+[IDS_PICKUP_M09_ATTICKEY_DESC]A chave do sótäo. Meus pais sempre esconderam essa chave no quarto deles...
 [IDS_PICKUP_M09_ATTICKEY_USED]A porta abriu com a <COLOR,155,240,155>Chave do Sótäo<CLEARCOLOR>.
 
 [IDS_PICKUP_M09SHMAP]Mapa de Silent Hill
 [IDS_PICKUP_M09SHMAP_GOT]Obteve o <COLOR,155,240,155>Mapa de Silent Hill<CLEARCOLOR>.
-[IDS_PICKUP_M09SHMAP_DESC]It's a Map of Silent Hill.
+[IDS_PICKUP_M09SHMAP_DESC]É um mapa de Silent Hill, a cidade vizinha.
 
 [IDS_PICKUP_M09_ADAMSLETTER]Carta do meu Pai.
-[IDS_PICKUP_M09_ADAMSLETTER_GOT]Obtive a <COLOR,155,240,155>Carta do meu Pai<CLEARCOLOR>.
-[IDS_PICKUP_M09_ADAMSLETTER_DESC]It looks like a letter from my father. Hard to believe he'd write any of this.
+[IDS_PICKUP_M09_ADAMSLETTER_GOT]Você obteve a <COLOR,155,240,155>Carta do Pai<CLEARCOLOR>.
+[IDS_PICKUP_M09_ADAMSLETTER_DESC]Uma carta do meu pai. Dificil de acreditar que ele escreveu tudo isso...
 
 [IDS_PICKUP_M09_MASK_01]Mascara Sorridente
-[IDS_PICKUP_M09_MASK_01_GOT]I got a <COLOR,155,240,155>Smiling Mask<CLEARCOLOR>.
-[IDS_PICKUP_M09_MASK_01_DESC]This mask reminds me of my mother. It's like she's laughing at me.
+[IDS_PICKUP_M09_MASK_01_GOT]Você obteve a <COLOR,155,240,155>Máscara Sorridente<CLEARCOLOR>.
+[IDS_PICKUP_M09_MASK_01_DESC]Essa máscara me lembra da minha mãe... Como se ela estivesse rindo de mim...
 
-[IDS_PICKUP_M09_MASK_02]Mascara Carrancuda
-[IDS_PICKUP_M09_MASK_02_GOT]I got a <COLOR,155,240,155>Frowning Mask<CLEARCOLOR>.
-[IDS_PICKUP_M09_MASK_02_DESC]This mask looks like my mother. It's as if her face is frozen in a state of perpetual sadness.
+[IDS_PICKUP_M09_MASK_02]Mascara Entristecida
+[IDS_PICKUP_M09_MASK_02_GOT]Você obteve a <COLOR,155,240,155>Máscara Entristecida<CLEARCOLOR>.
+[IDS_PICKUP_M09_MASK_02_DESC]Essa máscara parece minha mãe... A expressão parece de uma profunda e perpétua tristeza...
 
 [IDS_PICKUP_M09_MASK_03]Mascara Indiferente
-[IDS_PICKUP_M09_MASK_03_GOT]I got an <COLOR,155,240,155>Indifferent Mask<CLEARCOLOR>.
-[IDS_PICKUP_M09_MASK_03_DESC]This mask resembles my mother's face. Cold and emotionless, as always.
+[IDS_PICKUP_M09_MASK_03_GOT]Você obteve a <COLOR,155,240,155>Máscara Indiferente<CLEARCOLOR>.
+[IDS_PICKUP_M09_MASK_03_DESC]Essa máscara lembra o rosto da minha mãe... Fria e sem emoção, como sempre...
 
 [IDS_PICKUP_M09_MASK_04]Mascara Raivosa
-[IDS_PICKUP_M09_MASK_04_GOT]I got an <COLOR,155,240,155>Angry Mask<CLEARCOLOR>.
-[IDS_PICKUP_M09_MASK_04_DESC]This mask looks just like my mother. She seems to be disappointed in me.
+[IDS_PICKUP_M09_MASK_04_GOT]Você obteve a <COLOR,155,240,155>Mascara Raivosa<CLEARCOLOR>.
+[IDS_PICKUP_M09_MASK_04_DESC]Essa máscara lembra o rosto da minha mãe... Parece que ela está desapontada comigo...
 
-[IDS_PICKUP_M09_MEDAL_01]Fallen Star Medal
-[IDS_PICKUP_M09_MEDAL_01_GOT]I got a <COLOR,155,240,155>Fallen Star Medal<CLEARCOLOR>.
-[IDS_PICKUP_M09_MEDAL_01_DESC]The inscription reads "For dereliction of duty."
+[IDS_PICKUP_M09_MEDAL_01]Medalha de Guerra: Estrela Caida
+[IDS_PICKUP_M09_MEDAL_01_GOT]Você obteve a <COLOR,155,240,155>Medalha de Guerra: Estrela Caida<CLEARCOLOR>.
+[IDS_PICKUP_M09_MEDAL_01_DESC]Uma medalha militar atribuida aqueles que "Abandonam o serviço".
 
-[IDS_PICKUP_M09_MEDAL_02]Vile Acts Medal
-[IDS_PICKUP_M09_MEDAL_02_GOT]I got a <COLOR,155,240,155>Vile Acts Medal<CLEARCOLOR>.
-[IDS_PICKUP_M09_MEDAL_02_DESC]The inscription reads "For atrocities committed."
+[IDS_PICKUP_M09_MEDAL_02]Medalha de Guerra: Atos Malignos
+[IDS_PICKUP_M09_MEDAL_02_GOT]Você obteve a <COLOR,155,240,155>Medalha de Guerra: Atos Malignos<CLEARCOLOR>.
+[IDS_PICKUP_M09_MEDAL_02_DESC]Uma medalha militar atribuida aqueles que "Cometem notáveis atrocidades".
 
-[IDS_PICKUP_M09_MEDAL_03]Heart of Darkness Medal
-[IDS_PICKUP_M09_MEDAL_03_GOT]I got a <COLOR,155,240,155>Heart of Darkness Medal<CLEARCOLOR>.
-[IDS_PICKUP_M09_MEDAL_03_DESC]The inscription reads "For permitting others to suffer."
+[IDS_PICKUP_M09_MEDAL_03]Medalha de Guerra: Coraçäo das Trevas
+[IDS_PICKUP_M09_MEDAL_03_GOT]Você obteve a <COLOR,155,240,155>Medalha de Guerra: Coraçäo das Trevas<CLEARCOLOR>.
+[IDS_PICKUP_M09_MEDAL_03_DESC]Uma medalha militar atribuida aqueles que "Permitem que outros sofram".
 
-[IDS_PICKUP_M09_MEDAL_04]Medal of Sin
-[IDS_PICKUP_M09_MEDAL_04_GOT]I got a <COLOR,155,240,155> Medal of Sin <CLEARCOLOR>.
-[IDS_PICKUP_M09_MEDAL_04_DESC]The inscription reads "For embracing evil without remorse."
+[IDS_PICKUP_M09_MEDAL_04]Medalha de Guerra: Pecado
+[IDS_PICKUP_M09_MEDAL_04_GOT]Você obteve a <COLOR,155,240,155>Medalha de Guerra: Pecado<CLEARCOLOR>.
+[IDS_PICKUP_M09_MEDAL_04_DESC]Uma medalha militar atribuida aqueles que "Abraçam o mal sem remorso".
 
-[IDS_PICKUP_M09_STUFFED_01]Stuffed Cat
-[IDS_PICKUP_M09_STUFFED_01_GOT]I got a <COLOR,155,240,155>Stuffed Cat <CLEARCOLOR>.
-[IDS_PICKUP_M09_STUFFED_01_DESC]The toy smells a little funny... Probably needs to be washed.
+[IDS_PICKUP_M09_STUFFED_01]Gato de Pelúcia
+[IDS_PICKUP_M09_STUFFED_01_GOT]Você obteve o <COLOR,155,240,155>Gato de Pelúcia<CLEARCOLOR>.
+[IDS_PICKUP_M09_STUFFED_01_DESC]Esse gatinho tem um cheiro estranho... Precisa ser lavado...
 
-[IDS_PICKUP_M09_STUFFED_02]Stuffed Moose
-[IDS_PICKUP_M09_STUFFED_02_GOT]I got a <COLOR,155,240,155>Stuffed Moose <CLEARCOLOR>.
-[IDS_PICKUP_M09_STUFFED_02_DESC]I always liked this thing more than Joshua did.
+[IDS_PICKUP_M09_STUFFED_02]Alce de Pelúcia
+[IDS_PICKUP_M09_STUFFED_02_GOT]Você obteve o <COLOR,155,240,155>Alce de Pelúcia<CLEARCOLOR>.
+[IDS_PICKUP_M09_STUFFED_02_DESC]Eu sempre gostei dessa pelúcia mais do que o Joshua.
 
-[IDS_PICKUP_M09_STUFFED_03]Stuffed Raven
-[IDS_PICKUP_M09_STUFFED_03_GOT]I got a <COLOR,155,240,155>Stuffed Raven <CLEARCOLOR>.
-[IDS_PICKUP_M09_STUFFED_03_DESC]This is looking a little worse for wear.
+[IDS_PICKUP_M09_STUFFED_03]Corvo de Pelúcia
+[IDS_PICKUP_M09_STUFFED_03_GOT]Você obteve o <COLOR,155,240,155>Corvo de Pelúcia<CLEARCOLOR>.
+[IDS_PICKUP_M09_STUFFED_03_DESC]O desgaste desse é maior do que os demais...
 
-[IDS_PICKUP_M09_STUFFED_04]Stuffed Rabbit
-[IDS_PICKUP_M09_STUFFED_04_GOT]I got a <COLOR,155,240,155>Stuffed Rabbit<CLEARCOLOR>.
-[IDS_PICKUP_M09_STUFFED_04_DESC] This is Joshua's favorite stuffed animal. It's wet, and reeks of mold.
+[IDS_PICKUP_M09_STUFFED_04]Coelho de Pelúcia
+[IDS_PICKUP_M09_STUFFED_04_GOT]Você obteve o <COLOR,155,240,155>Coelho de Pelúcia<CLEARCOLOR>.
+[IDS_PICKUP_M09_STUFFED_04_DESC]Esse é o bicho de pelúcia favorito do Joshua. Ele está encharcado e tem traços de mofo...
 
 [IDS_PICKUP_M09_LARGE_KNIFE]Faca do Açougueiro
-[IDS_PICKUP_M09_LARGE_KNIFE_GOT]I got a <COLOR,155,240,155>Butcher Knife<CLEARCOLOR>.
-[IDS_PICKUP_M09_LARGE_KNIFE_DESC]This knife looks like it's seen a lot of use.
+[IDS_PICKUP_M09_LARGE_KNIFE_GOT]Você obteve a <COLOR,155,240,155>Faca do Açougueiro<CLEARCOLOR>.
+[IDS_PICKUP_M09_LARGE_KNIFE_DESC]Uma faca que já deve ter visto muito sangue...
 
 [IDS_PICKUP_M09_CLEAVER]Cutelo
-[IDS_PICKUP_M09_CLEAVER_GOT]I got a <COLOR,155,240,155>Cleaver<CLEARCOLOR>.
-[IDS_PICKUP_M09_CLEAVER_DESC]Look's like an old meat cleaver.
+[IDS_PICKUP_M09_CLEAVER_GOT]Você obteve o <COLOR,155,240,155>Cutelo<CLEARCOLOR>.
+[IDS_PICKUP_M09_CLEAVER_DESC]Um velho cutelo usado para cortes de carne.
 
 [IDS_PICKUP_M09_SMALL_KNIFE]Faquinha
-[IDS_PICKUP_M09_SMALL_KNIFE_GOT]I got a <COLOR,155,240,155>Small Knife<CLEARCOLOR>.
-[IDS_PICKUP_M09_SMALL_KNIFE_DESC]It's just a small knife.
+[IDS_PICKUP_M09_SMALL_KNIFE_GOT]Você obteve a <COLOR,155,240,155>Faquinha<CLEARCOLOR>.
+[IDS_PICKUP_M09_SMALL_KNIFE_DESC]Uma faca bem pequena.
 
 [IDS_PICKUP_M09_PYRAMID_KNIFE]Faca do Ceifador
-[IDS_PICKUP_M09_PYRAMID_KNIFE_GOT]I got a <COLOR,155,240,155>Bogeyman Knife<CLEARCOLOR>.
-[IDS_PICKUP_M09_PYRAMID_KNIFE_DESC]There are blood stains all over the blade.
+[IDS_PICKUP_M09_PYRAMID_KNIFE_GOT]Você obteve a <COLOR,155,240,155>Faca do Ceifador<CLEARCOLOR>.
+[IDS_PICKUP_M09_PYRAMID_KNIFE_DESC]Uma faca com diversas marcas de sangue...
 
-[IDS_PICKUP_M10_CemetaryKey]Cemetery Key
-[IDS_PICKUP_M10_CemetaryKey_GOT]I got the <COLOR,155,240,155>Cemetery Key<CLEARCOLOR>.
+[IDS_PICKUP_M10_CemetaryKey]Chave do Cemitério
+[IDS_PICKUP_M10_CemetaryKey_GOT]Você obteve a <COLOR,155,240,155>Chave do Cemitério<CLEARCOLOR>.
 [IDS_PICKUP_M10_CemetaryKey_DESC]An old fashioned iron key. The words 'Dargento Cemetery' are stamped in tiny letters on the shaft.
 
 [IDS_PICKUP_M11_WIRE01]Scrap of Wire
-[IDS_PICKUP_M11_WIRE01_GOT]I got a <COLOR,155,240,155>Scrap of Wire<CLEARCOLOR>.
+[IDS_PICKUP_M11_WIRE01_GOT]Você obteve o <COLOR,155,240,155>Scrap of Wire<CLEARCOLOR>.
 [IDS_PICKUP_M11_WIRE01_DESC]A scrap of electrical wire - I found it in an old toolbox.
 [IDS_PICKUP_M11_WIRE01_USED]I used the <COLOR,155,240,155>Scrap of Wire<CLEARCOLOR>.
 
 [IDS_PICKUP_M11_WIRE02]Radio Wire
-[IDS_PICKUP_M11_WIRE02_GOT]I got a <COLOR,155,240,155>Radio Wire<CLEARCOLOR>.
+[IDS_PICKUP_M11_WIRE02_GOT]Você obteve o <COLOR,155,240,155>Radio Wire<CLEARCOLOR>.
 [IDS_PICKUP_M11_WIRE02_DESC]I tore this wire out of an old radio. It could come in handy.
 [IDS_PICKUP_M11_WIRE02_USED]I used the <COLOR,155,240,155>Radio Wire<CLEARCOLOR>.
 
 [IDS_PICKUP_M11_WIRE03]Loose Wire
-[IDS_PICKUP_M11_WIRE03_GOT]I got a <COLOR,155,240,155>Loose Wire<CLEARCOLOR>.
+[IDS_PICKUP_M11_WIRE03_GOT]Você obteve o <COLOR,155,240,155>Loose Wire<CLEARCOLOR>.
 [IDS_PICKUP_M11_WIRE03_DESC]A piece of loose wire I pulled from a broken light.
 [IDS_PICKUP_M11_WIRE03_USED]I used the <COLOR,155,240,155>Loose Wire<CLEARCOLOR>.
 
@@ -788,28 +788,28 @@
 
 [IDS_PICKUP_IronBlade_Vengeance]Sword Plate
 [IDS_PICKUP_IronBlade_Vengeance_DESC]A brass plate etched with an image of a sword.
-[IDS_PICKUP_IronBlade_Vengeance_GOT]I got the <COLOR,155,240,155>Sword Plate<CLEARCOLOR>.
+[IDS_PICKUP_IronBlade_Vengeance_GOT]Você obteve o <COLOR,155,240,155>Sword Plate<CLEARCOLOR>.
 [IDS_PICKUP_IronBlade_Penitent]Kneeling Man Plate
 [IDS_PICKUP_IronBlade_Penitent_DESC]A brass plate etched with an image of a man begging for forgiveness.
-[IDS_PICKUP_IronBlade_Penitent_GOT]I got the <COLOR,155,240,155>Kneeling Man Plate<CLEARCOLOR>.
+[IDS_PICKUP_IronBlade_Penitent_GOT]Você obteve o <COLOR,155,240,155>Kneeling Man Plate<CLEARCOLOR>.
 [IDS_PICKUP_IronBlade_Desire]Tree Plate
 [IDS_PICKUP_IronBlade_Desire_DESC]A brass plate etched with an image of a tree.
-[IDS_PICKUP_IronBlade_Desire_GOT]I got the <COLOR,155,240,155>Tree Plate<CLEARCOLOR>.
+[IDS_PICKUP_IronBlade_Desire_GOT]Você obteve o <COLOR,155,240,155>Tree Plate<CLEARCOLOR>.
 [IDS_PICKUP_IronBlade_Sacrifice]Chalice Plate
 [IDS_PICKUP_IronBlade_Sacrifice_DESC]A brass plate etched with an image of a chalice.
-[IDS_PICKUP_IronBlade_Sacrifice_GOT]I got the <COLOR,155,240,155>Chalice Plate<CLEARCOLOR>.
+[IDS_PICKUP_IronBlade_Sacrifice_GOT]Você obteve o <COLOR,155,240,155>Chalice Plate<CLEARCOLOR>.
 [IDS_PICKUP_IronBlade_Sorrow]Candle Plate
 [IDS_PICKUP_IronBlade_Sorrow_DESC]A brass plate etched with an image of a candle.
-[IDS_PICKUP_IronBlade_Sorrow_GOT]I got the <COLOR,155,240,155>Candle Plate<CLEARCOLOR>.
+[IDS_PICKUP_IronBlade_Sorrow_GOT]Você obteve o <COLOR,155,240,155>Candle Plate<CLEARCOLOR>.
 
 [IDS_PICKUP_M14_DUNGEONKEY]Sector 3 Key
 [IDS_PICKUP_M14_DUNGEONKEY_DESC]It's a large, metal key.
-[IDS_PICKUP_M14_DUNGEONKEY_GOT]I got a <COLOR,155,240,155>Sector 3 Key<CLEARCOLOR>.
+[IDS_PICKUP_M14_DUNGEONKEY_GOT]Você obteve o <COLOR,155,240,155>Sector 3 Key<CLEARCOLOR>.
 [IDS_PICKUP_M14_DUNGEONKEY_USED]I used the <COLOR,155,240,155>Sector 3 Key<CLEARCOLOR>.
 
 [IDS_PICKUP_M14_ARMORYKEY]Room 301 Key
 [IDS_PICKUP_M14_ARMORYKEY_DESC]This key has the word ?Armory? scratched into it.
-[IDS_PICKUP_M14_ARMORYKEY_GOT]I got a <COLOR,155,255,155>Room 301 Key<CLEARCOLOR>.
+[IDS_PICKUP_M14_ARMORYKEY_GOT]Você obteve o <COLOR,155,255,155>Room 301 Key<CLEARCOLOR>.
 [IDS_PICKUP_M14_ARMORYKEY_USED]I used the <COLOR,155,255,155>Room 301 Key<CLEARCOLOR>.
 
 [IDS_PICKUP_M14MAP]Mapa do Esconderijo da Ordem
@@ -2449,7 +2449,7 @@
 
 ### STORY INTEREST POINTS FOR M06_SGTown3 ###
 
-[M06_PLACEHOLDER_Weapons]I got all of my weapons back.
+[M06_PLACEHOLDER_Weapons]Você obteve oll of my weapons back.
 [M06_PLACEHOLDER_Elle1]Elle: Alex, there's a valve. Maybe it opens the gate?
 [M06_PLACEHOLDER_Elle2]Elle: Ok, I'm through, hang on a second.
 [M06_PLACEHOLDER_Elle3]Elle: Here we go... I'll hold it open and you come through.
@@ -2572,7 +2572,7 @@
 [M06_Interest_60_Shrine_C1]A little girl's dresser... Why would Doctor Fitch put all this stuff in here?
 [M06_Interest_60_Shrine_C2]This case is locked.
 
-[M06_Interest_61_sewermap_GOT]I got a <COLOR,155,240,155>Sewer Map<CLEARCOLOR>.
+[M06_Interest_61_sewermap_GOT]Você obteve o <COLOR,155,240,155>Sewer Map<CLEARCOLOR>.
 
 ### M07_Church ###
 
@@ -2923,31 +2923,31 @@
 
 [M10_Locket_TITLE]Elle's Locket
 [M10_Locket_DESC]This is the locket that Elle took from her mom.
-[M10_Locket_GOT]I got the <COLOR,155,240,155>Locket<CLEARCOLOR>.
+[M10_Locket_GOT]Você obteve o <COLOR,155,240,155>Locket<CLEARCOLOR>.
 
 [M10_Blood_TITLE]Bloodstone
 [M10_Blood_DESC]Bloodstone is the birthstone for March.
-[M10_Blood_GOT]I got the <COLOR,155,240,155>Bloodstone<CLEARCOLOR>.
+[M10_Blood_GOT]Você obteve o <COLOR,155,240,155>Bloodstone<CLEARCOLOR>.
 [M10_Blood_USED]I used the <COLOR,155,240,155>Bloodstone<CLEARCOLOR>.
 
 [M10_Garnet_TITLE]Garnet
 [M10_Garnet_DESC]Garnet is the birthstone for January.
-[M10_Garnet_GOT]I got the <COLOR,155,240,155>Garnet<CLEARCOLOR>.
+[M10_Garnet_GOT]Você obteve o <COLOR,155,240,155>Garnet<CLEARCOLOR>.
 [M10_Garnet_USED]I used the <COLOR,155,240,155>Garnet<CLEARCOLOR>.
 
 [M10_Sapphire_TITLE]Sapphire
 [M10_Sapphire_DESC]Sapphire is the birthstone for September.
-[M10_Sapphire_GOT]I got the <COLOR,155,240,155>Sapphire<CLEARCOLOR>.
+[M10_Sapphire_GOT]Você obteve o <COLOR,155,240,155>Sapphire<CLEARCOLOR>.
 [M10_Sapphire_USED]I used the <COLOR,155,240,155>Sapphire<CLEARCOLOR>.
 
 [M10_Turquoise_TITLE]Turquoise
 [M10_Turquoise_DESC]Turquoise is the birthstone for December.
-[M10_Turquoise_GOT]I got the <COLOR,155,240,155>Turquoise<CLEARCOLOR>.
+[M10_Turquoise_GOT]Você obteve o <COLOR,155,240,155>Turquoise<CLEARCOLOR>.
 [M10_Turquoise_USED]I used the <COLOR,155,240,155>Turquoise<CLEARCOLOR>.
 
 [M10_GraveyardKey_TITLE]Moon Garden Key
 [M10_GraveyardKey_DESC]<COLOR,195,188,228>Property of Dargento Cemetery<CLEARCOLOR> is etched into the key.
-[M10_GraveyardKey_GOT]I got the <COLOR,155,240,155>Moon Garden Key<CLEARCOLOR>.
+[M10_GraveyardKey_GOT]Você obteve o <COLOR,155,240,155>Moon Garden Key<CLEARCOLOR>.
 [M10_GraveyardKey_USED]I used the <COLOR,155,240,155>Moon Garden Key<CLEARCOLOR>.
 
 ### M10A Docks ###
@@ -3128,7 +3128,7 @@
 
 [M10B_GeneratorKey_TITLE]Toluca Lake Water and Power Key
 [M10B_GeneratorKey_DESC]<COLOR,195,188,228>Toluca Lake Water and Power<CLEARCOLOR> is barely legible on the tag.
-[M10B_GeneratorKey_GOT]I got the <COLOR,155,240,155>Toluca Lake Water and Power Key<CLEARCOLOR>.
+[M10B_GeneratorKey_GOT]Você obteve o <COLOR,155,240,155>Toluca Lake Water and Power Key<CLEARCOLOR>.
 [M10B_GeneratorKey_USED]I used the <COLOR,155,240,155>Toluca Lake Water and Power Key<CLEARCOLOR>.
 
 ### M10B Dialogue Trees ###
