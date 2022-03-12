@@ -591,7 +591,7 @@
 [IDS_PICKUP_M02_GASCAN_FULL]Tanque de Gasolina (cheio)
 [IDS_PICKUP_M02_GASCAN_FULL_DESC]O tanque agora está cheio com a gasolina que tirei daquele caminhäo.
 [IDS_PICKUP_M02_GASCAN_FULL_GOT]Obteve um <COLOR,155,255,155>Tanque de Gasolina (cheio)<CLEARCOLOR>.
-[IDS_PICKUP_M02_GASCAN_FULL_USE]Usou o <COLOR,155,255,155>Tanque de Gasolina<CLEARCOLOR>.
+[IDS_PICKUP_M02_GASCAN_FULL_USE]Você usou o <COLOR,155,255,155>Tanque de Gasolina<CLEARCOLOR>.
 
 [IDS_PICKUP_M03_MAP_DESC]Parece o mapa da minha casa... Foi feito com giz de cera verde.
 [IDS_PICKUP_M03_MAP_GOT]Obteve o <COLOR,155,255,155>Mapa da Casa<CLEARCOLOR>.
@@ -607,7 +607,7 @@
 [IDS_PICKUP_M03_CASSETTE]Fita Cassette
 [IDS_PICKUP_M03_CASSETTE_DESC]Uma Fita Cassette antiga. O nome foi riscado...
 [IDS_PICKUP_M03_CASSETTE_GOT]Obteve uma <COLOR,155,255,155>Fita Cassette<CLEARCOLOR>.
-[IDS_PICKUP_M03_CASSETTE_USED]Eu Usou a <COLOR,155,255,155>Fita Cassette<CLEARCOLOR>.
+[IDS_PICKUP_M03_CASSETTE_USED]Eu Você usou a <COLOR,155,255,155>Fita Cassette<CLEARCOLOR>.
 
 [IDS_PICKUP_M03_GARAGEREMOTE]Controle da Garagem.
 [IDS_PICKUP_M03_GARAGEREMOTE_DESC]O controle remóto que controla a porta da garagem. O Papai sempre perdia isso...
@@ -633,7 +633,7 @@
 [IDS_PICKUP_M05_MAINTENANCEKEY]Chave da Equipe de Manutençäo
 [IDS_PICKUP_M05_MAINTENANCEKEY_DESC]Chave utilizada pela equipe de manutençäo para acessar áreas dentro e fora do hotel.
 [IDS_PICKUP_M05_MAINTENANCEKEY_GOT]Obteve a <COLOR,155,255,155>Chave da Equipe de Manutençäo<CLEARCOLOR>.
-[IDS_PICKUP_M05_MAINTENANCEKEY_USED]Usou a <COLOR,155,255,155>Chave da Equipe de Manutençäo<CLEARCOLOR>.
+[IDS_PICKUP_M05_MAINTENANCEKEY_USED]Você usou a <COLOR,155,255,155>Chave da Equipe de Manutençäo<CLEARCOLOR>.
 [IDS_PICKUP_M05_DOORPIECE_1]Cartäo Postal do Lago Toluca
 [IDS_PICKUP_M05_DOORPIECE_1_DESC]Um Cartäo Postal do Lago Toluca, famoso na regiäo de Silent Hill.
 [IDS_PICKUP_M05_DOORPIECE_1_GOT]Obteve o <COLOR,155,255,155>Cartäo Postal do Lago Toluca<CLEARCOLOR>.
@@ -646,7 +646,7 @@
 [IDS_PICKUP_M05_206Key]Chave Estranha
 [IDS_PICKUP_M05_206Key_DESC]Com sorte, essa chave abrirá a porta em que o Josh está.
 [IDS_PICKUP_M05_206Key_GOT]Obteve a <COLOR,155,255,155>Chave Estranha<CLEARCOLOR>.
-[IDS_PICKUP_M05_206Key_USE]Usou a <COLOR,155,255,155>Chave Estranha<CLEARCOLOR>.
+[IDS_PICKUP_M05_206Key_USE]Você usou a <COLOR,155,255,155>Chave Estranha<CLEARCOLOR>.
 [IDS_PICKUP_M05MAP]Mapa do Grand Hotel
 [IDS_PICKUP_M05MAP_DESC]Um mapa mostrando o saguäo e as salas do hotel, além de algumas ruas nas imediaçöes. Ideal para turistas.
 [IDS_PICKUP_M05MAP_GOT]Obteve o mapa do <COLOR,155,255,155>Grand Hotel<CLEARCOLOR>.
@@ -753,24 +753,24 @@
 
 [IDS_PICKUP_M10_CemetaryKey]Chave do Cemitério
 [IDS_PICKUP_M10_CemetaryKey_GOT]Você obteve a <COLOR,155,240,155>Chave do Cemitério<CLEARCOLOR>.
-[IDS_PICKUP_M10_CemetaryKey_DESC]An old fashioned iron key. The words 'Dargento Cemetery' are stamped in tiny letters on the shaft.
+[IDS_PICKUP_M10_CemetaryKey_DESC]Uma chave que parece antiga. Da pra ler o nome "Cemitério Dargento" em letras pequenas ao redor da ponta...
 
 [IDS_PICKUP_M11_WIRE01]Scrap of Wire
 [IDS_PICKUP_M11_WIRE01_GOT]Você obteve o <COLOR,155,240,155>Scrap of Wire<CLEARCOLOR>.
 [IDS_PICKUP_M11_WIRE01_DESC]A scrap of electrical wire - I found it in an old toolbox.
-[IDS_PICKUP_M11_WIRE01_USED]I used the <COLOR,155,240,155>Scrap of Wire<CLEARCOLOR>.
+[IDS_PICKUP_M11_WIRE01_USED]Você Você usou a <COLOR,155,240,155>Scrap of Wire<CLEARCOLOR>.
 
 [IDS_PICKUP_M11_WIRE02]Radio Wire
 [IDS_PICKUP_M11_WIRE02_GOT]Você obteve o <COLOR,155,240,155>Radio Wire<CLEARCOLOR>.
 [IDS_PICKUP_M11_WIRE02_DESC]I tore this wire out of an old radio. It could come in handy.
-[IDS_PICKUP_M11_WIRE02_USED]I used the <COLOR,155,240,155>Radio Wire<CLEARCOLOR>.
+[IDS_PICKUP_M11_WIRE02_USED]Você Você usou a <COLOR,155,240,155>Radio Wire<CLEARCOLOR>.
 
 [IDS_PICKUP_M11_WIRE03]Loose Wire
 [IDS_PICKUP_M11_WIRE03_GOT]Você obteve o <COLOR,155,240,155>Loose Wire<CLEARCOLOR>.
 [IDS_PICKUP_M11_WIRE03_DESC]A piece of loose wire I pulled from a broken light.
-[IDS_PICKUP_M11_WIRE03_USED]I used the <COLOR,155,240,155>Loose Wire<CLEARCOLOR>.
+[IDS_PICKUP_M11_WIRE03_USED]Você Você usou a <COLOR,155,240,155>Loose Wire<CLEARCOLOR>.
 
-[IDS_PICKUP_M11_MAP_GOT]Obteve o <COLOR,155,240,155>Mapa da Prisäo<CLEARCOLOR>.
+[IDS_PICKUP_M11_MAP_GOT]Você obteve o <COLOR,155,240,155>Mapa da Prisäo<CLEARCOLOR>.
 
 [IDS_PICKUP_M12_GATE_KEY]Chave do Portäo
 [IDS_PICKUP_M12_GATE_KEY_GOT]Obteve a <COLOR,155,240,155>Chave do Portäo<CLEARCOLOR>.
@@ -786,31 +786,31 @@
 [IDS_PICKUP_M13ShepherdRing_DESC]Meu pai me deu esse anel antes de morrer. Ele é um legado, passado de geraçäo em geraçäo...
 [IDS_PICKUP_M13ShepherdRing_GOT]Obteve o <COLOR,155,255,155>Anel dos Sheperd<CLEARCOLOR>.
 
-[IDS_PICKUP_IronBlade_Vengeance]Sword Plate
-[IDS_PICKUP_IronBlade_Vengeance_DESC]A brass plate etched with an image of a sword.
-[IDS_PICKUP_IronBlade_Vengeance_GOT]Você obteve o <COLOR,155,240,155>Sword Plate<CLEARCOLOR>.
-[IDS_PICKUP_IronBlade_Penitent]Kneeling Man Plate
-[IDS_PICKUP_IronBlade_Penitent_DESC]A brass plate etched with an image of a man begging for forgiveness.
-[IDS_PICKUP_IronBlade_Penitent_GOT]Você obteve o <COLOR,155,240,155>Kneeling Man Plate<CLEARCOLOR>.
-[IDS_PICKUP_IronBlade_Desire]Tree Plate
-[IDS_PICKUP_IronBlade_Desire_DESC]A brass plate etched with an image of a tree.
-[IDS_PICKUP_IronBlade_Desire_GOT]Você obteve o <COLOR,155,240,155>Tree Plate<CLEARCOLOR>.
-[IDS_PICKUP_IronBlade_Sacrifice]Chalice Plate
-[IDS_PICKUP_IronBlade_Sacrifice_DESC]A brass plate etched with an image of a chalice.
-[IDS_PICKUP_IronBlade_Sacrifice_GOT]Você obteve o <COLOR,155,240,155>Chalice Plate<CLEARCOLOR>.
-[IDS_PICKUP_IronBlade_Sorrow]Candle Plate
-[IDS_PICKUP_IronBlade_Sorrow_DESC]A brass plate etched with an image of a candle.
-[IDS_PICKUP_IronBlade_Sorrow_GOT]Você obteve o <COLOR,155,240,155>Candle Plate<CLEARCOLOR>.
+[IDS_PICKUP_IronBlade_Vengeance]Placa da Espada
+[IDS_PICKUP_IronBlade_Vengeance_DESC]Uma placa de latão com uma imagem de uma espada.
+[IDS_PICKUP_IronBlade_Vengeance_GOT]Você obteve a <COLOR,155,240,155>Placa da Espada<CLEARCOLOR>.
+[IDS_PICKUP_IronBlade_Penitent]Placa do Homem Ajoelhado
+[IDS_PICKUP_IronBlade_Penitent_DESC]Uma placa de latão com uma imagem de um homem ajoelhado, clamando por perdão...
+[IDS_PICKUP_IronBlade_Penitent_GOT]Você obteve a <COLOR,155,240,155>Placa do Homem Ajoelhado<CLEARCOLOR>.
+[IDS_PICKUP_IronBlade_Desire]Placa da Árvore
+[IDS_PICKUP_IronBlade_Desire_DESC]Uma placa de latão com uma imagem de uma árvore.
+[IDS_PICKUP_IronBlade_Desire_GOT]Você obteve a <COLOR,155,240,155>Placa da Árvore<CLEARCOLOR>.
+[IDS_PICKUP_IronBlade_Sacrifice]Placa do Cálice
+[IDS_PICKUP_IronBlade_Sacrifice_DESC]Uma placa de latão com uma imagem de um cálice.
+[IDS_PICKUP_IronBlade_Sacrifice_GOT]Você obteve a <COLOR,155,240,155>Placa do Cálice<CLEARCOLOR>.
+[IDS_PICKUP_IronBlade_Sorrow]Placa da Vela
+[IDS_PICKUP_IronBlade_Sorrow_DESC]Uma placa de latão com uma imagem de uma vela.
+[IDS_PICKUP_IronBlade_Sorrow_GOT]Você obteve a <COLOR,155,240,155>Placa da Vela<CLEARCOLOR>.
 
-[IDS_PICKUP_M14_DUNGEONKEY]Sector 3 Key
-[IDS_PICKUP_M14_DUNGEONKEY_DESC]It's a large, metal key.
-[IDS_PICKUP_M14_DUNGEONKEY_GOT]Você obteve o <COLOR,155,240,155>Sector 3 Key<CLEARCOLOR>.
-[IDS_PICKUP_M14_DUNGEONKEY_USED]I used the <COLOR,155,240,155>Sector 3 Key<CLEARCOLOR>.
+[IDS_PICKUP_M14_DUNGEONKEY]Chave do Setor 3
+[IDS_PICKUP_M14_DUNGEONKEY_DESC]Uma chave de metal grande.
+[IDS_PICKUP_M14_DUNGEONKEY_GOT]Você obteve a <COLOR,155,240,155>Chave do Setor 3<CLEARCOLOR>.
+[IDS_PICKUP_M14_DUNGEONKEY_USED]Você Você usou a <COLOR,155,240,155>Chave do Setor 3<CLEARCOLOR>.
 
 [IDS_PICKUP_M14_ARMORYKEY]Room 301 Key
 [IDS_PICKUP_M14_ARMORYKEY_DESC]This key has the word ?Armory? scratched into it.
 [IDS_PICKUP_M14_ARMORYKEY_GOT]Você obteve o <COLOR,155,255,155>Room 301 Key<CLEARCOLOR>.
-[IDS_PICKUP_M14_ARMORYKEY_USED]I used the <COLOR,155,255,155>Room 301 Key<CLEARCOLOR>.
+[IDS_PICKUP_M14_ARMORYKEY_USED]Você Você usou a <COLOR,155,255,155>Room 301 Key<CLEARCOLOR>.
 
 [IDS_PICKUP_M14MAP]Mapa do Esconderijo da Ordem
 [IDS_PICKUP_M14MAP_DESC]A map showing the layout of the Order's lair.
@@ -842,7 +842,7 @@
 [IDS_CROUCH_UNDER] <COMMAND_KICK> Passar
 [IDS_PULL]<COMMAND_KICK> Puxar
 [IDS_ROTATE]<COMMAND_KICK> Girar
-[IDS_BUNNY_HOLE_IMS]<COMMAND_KICK> Alcan?ar
+[IDS_BUNNY_HOLE_IMS]<COMMAND_KICK> Alcançar
 [IDS_VAULT_OVER]<COMMAND_KICK> Pular
 [IDS_JUMP_ACROSS]<COMMAND_KICK> Pular
 [IDS_CLIMB_UP] <COMMAND_KICK> Subir
@@ -888,20 +888,20 @@
 [M01_Interest_89_Flesh_Wall]Como eu posso passar por isso?
 [M01_Interest_90_Flesh_Wall]Acho que posso cortar isso...
 [M01_Interest_92_Flesh_Wall_without_Knife]Seja lá o que for, está bloqueando meu caminho...
-[M01_Interest_94_Flesh_Wall_without_Knife]Talvez eu poossa cortar isso com uma faca...
+[M01_Interest_94_Flesh_Wall_without_Knife]Talvez eu possa cortar isso com uma lâmina ou faca...
 
 ### Investigation ###
 [IDS_INVESTIGATION_INVITE]<COMMAND_KICK> Investigar
 [IDS_INVESTIGATION_INVITE_INSPECT]<COMMAND_KICK> Investigar   <COMMAND_JUMP> Voltar
 [IDS_INVESTIGATION_INVITE_EXAMINE]<COMMAND_KICK> Investigar   <COMMAND_JUMP> Voltar
 [IDS_INVESTIGATION_INVITE_MOVE]<COMMAND_KICK> Mover   <COMMAND_JUMP> Voltar
-[IDS_INVESTIGATION_INVITE_INVENTORY]<INVENTORY_WHEEL>/<COMMAND_KICK> Invent?rio   <COMMAND_JUMP> Voltar
+[IDS_INVESTIGATION_INVITE_INVENTORY]<INVENTORY_WHEEL>/<COMMAND_KICK> Inventário   <COMMAND_JUMP> Voltar
 [IDS_INVESTIGATION_INVITE_PLACE]<COMMAND_KICK> Colocar   <COMMAND_JUMP> Voltar
 [IDS_INVESTIGATION_INVITE_ROT_LOCK]<COMMAND_MOVEMENT> Girar   <COMMAND_JUMP> Voltar
 [IDS_INVESTIGATION_INVITE_WOF_CLOCK]<COMMAND_LEFT_STICK_LEFTRIGHT> Escolher    <COMMAND_LEFT_STICK_UPDOWN> Girar   <COMMAND_JUMP> Voltar
 [IDS_INVESTIGATION_INVITE_CUT]<COMMAND_KICK> Cortar   <COMMAND_JUMP> Voltar
-[IDS_INVESTIGATION_PLACE_BAD]That item cannot be used here.
-[IDS_INVESTIGATION_NO_ITEMS]You don't have any items to place.
+[IDS_INVESTIGATION_PLACE_BAD]Esse item não pode ser usado aqui...
+[IDS_INVESTIGATION_NO_ITEMS]Você não tem itens pra colocar aqui...
 [IDS_INVESTIGATION_INVITE_TAKE]<COMMAND_KICK> Pegar   <COMMAND_JUMP> Voltar
 [IDS_INVESTIGATION_INVITE_TAKE_NOBACK]<COMMAND_KICK> Pegar
 [IDS_INVESTIGATION_INVITE_TAKE_BACK]<COMMAND_JUMP> Voltar
@@ -923,8 +923,8 @@
 
 ### Consumer Test ###
 
-[CT_Combattest1]<COLOR,240,155,155>Feature Test:<CLEARCOLOR>  Do not begin until prompted by the facilitator.  When instructed, press <COMMAND_KICK> to begin.
-[CT_Combattest2]<COLOR,255,155,155>Get Ready!<CLEARCOLOR>
+[CT_Combattest1]<COLOR,240,155,155>Teste funcional:<CLEARCOLOR> Não inicie até o sinal do assistente. Quando instruido, aperte <COMMAND_KICK> para começar.
+[CT_Combattest2]<COLOR,255,155,155>Pronto?<CLEARCOLOR>
 [CT_Combattest3]<COLOR,255,155,155>3<CLEARCOLOR>
 [CT_Combattest4]<COLOR,255,155,155>2<CLEARCOLOR>
 [CT_Combattest5]<COLOR,255,155,155>1<CLEARCOLOR>
@@ -934,16 +934,16 @@
 [CT_Combattest9]<COLOR,255,155,155>Test Complete:<CLEARCOLOR>  Please wait for instruction.
 [CT_reset1]<COLOR,255,155,155>Resetting in 30 seconds...<CLEARCOLOR>
 [CT_reset2]<COLOR,255,155,155>Resetting in 20 seconds...<CLEARCOLOR>
-[CT_reset3]<COLOR,255,155,155>Combat begins in 10 seconds...<CLEARCOLOR>
-[CT_reset4]<COLOR,255,155,155>Resetting in 5<CLEARCOLOR>
-[CT_reset5]<COLOR,255,155,155>Resetting in 4<CLEARCOLOR>
-[CT_reset6]<COLOR,255,155,155>Resetting in 3<CLEARCOLOR>
-[CT_reset7]<COLOR,255,155,155>Resetting in 2<CLEARCOLOR>
-[CT_reset8]<COLOR,255,155,155>Resetting in 1<CLEARCOLOR>
+[CT_reset3]<COLOR,255,155,155>Combat inicia em 10 segundos...<CLEARCOLOR>
+[CT_reset4]<COLOR,255,155,155>Reiniciando em 5<CLEARCOLOR>
+[CT_reset5]<COLOR,255,155,155>Reiniciando em 4<CLEARCOLOR>
+[CT_reset6]<COLOR,255,155,155>Reiniciando em 3<CLEARCOLOR>
+[CT_reset7]<COLOR,255,155,155>Reiniciando em 2<CLEARCOLOR>
+[CT_reset8]<COLOR,255,155,155>Reiniciando em 1<CLEARCOLOR>
 [CT_Navtest1]You have reached the end of this feature test.
-[CT_Navtest2]The <COLOR,255,155,155>Exit Door<CLEARCOLOR> is now open.
-[CT_Navtest3]You may exit when you are ready.
-[CT_Text1]<COLOR,195,188,228>This again...
+[CT_Navtest2]A <COLOR,255,155,155>saida<CLEARCOLOR> agora está aberta.
+[CT_Navtest3]Você pode sair quando estiver pronto...
+[CT_Text1]<COLOR,195,188,228>Isso de novo...
 [CT_Text2]<COLOR,195,188,228>Looking at it makes my head hurt,\nbut at the same time, it's like,\nso familiar....
 [CT_Text3]<COLOR,195,188,228>I know I've forgotten something\nreally important.....
 [CT_Text4]<COLOR,195,188,228>But I also have the feeling that I'd\nbe better off not remembering it.<CLEARCOLOR>
@@ -995,8 +995,8 @@
 
 [M00_FashionMag]Uma revista de moda. Näo estou interessado nisso agora...
 [M00_AwfulSmell]Eu näo quero olhar dentro disso... Algo cheira muito mal...
-[M00_RustyDrawers_1]Essas gavetas estäo enferrujadas, entäo nem väo se mexer...
-[M00_RustyDrawers_2]Isso deve estar enferrujado ou coisa assim... Nem da pra puxar.
+[M00_RustyDrawers_1]Essas gavetas estäo enferrujadas, não se mexem...
+[M00_RustyDrawers_2]Isso deve estar enferrujado ou coisa assim... Não da pra puxar.
 [M00_HandWritten]É uma mensagem manuscrita:
 
 ### M01_Nightmare ###
@@ -1034,45 +1034,45 @@
 
 [M01_TheaterKey_TITLE]Chave da Sala de Operaçöes
 [M01_TheaterKey_DESC]Está escrito no chaveiro: <COLOR,195,188,228>Sala de Operaçöes<CLEARCOLOR>.
-[M01_TheaterKey_GOT]Obteve a <COLOR,155,240,155>Chave da Sala de Operaçöes<CLEARCOLOR>.
-[M01_TheaterKey_USED]Usou a <COLOR,155,240,155>Chave da Sala de Operaçöes<CLEARCOLOR>.
+[M01_TheaterKey_GOT]Você obteve a <COLOR,155,240,155>Chave da Sala de Operaçöes<CLEARCOLOR>.
+[M01_TheaterKey_USED]Você usou a <COLOR,155,240,155>Chave da Sala de Operaçöes<CLEARCOLOR>.
 
 [M01_XRAY2_TITLE]Filme de Raio-X
 [M01_XRAY2_DESC]Uma chapa (filme) de Raio-X do peito de um paciente.
-[M01_XRAY2_GOT]Obteve o <COLOR,155,240,155>Filme de Raio-X<CLEARCOLOR>.
-[M01_XRAY2_USED]Usou o <COLOR,155,240,155>Filme de Raio-X<CLEARCOLOR>.
+[M01_XRAY2_GOT]Você obteve o <COLOR,155,240,155>Filme de Raio-X<CLEARCOLOR>.
+[M01_XRAY2_USED]Você usou o <COLOR,155,240,155>Filme de Raio-X<CLEARCOLOR>.
 
 [M01_StuffedBunny_TITLE]Robbie
 [M01_StuffedBunny_DESC]Está escrito na etiqueta 'Parque de Diversöes Lakeside'.
-[M01_StuffedBunny_GOT]Obteve o coelhinho <COLOR,155,240,155>Robbie<CLEARCOLOR>.
+[M01_StuffedBunny_GOT]Você obteve o coelhinho <COLOR,155,240,155>Robbie<CLEARCOLOR>.
 
-[M01_HospitalMap_GOT]Obteve o <COLOR,155,240,155>Mapa do Hospital<CLEARCOLOR>.
+[M01_HospitalMap_GOT]Você obteve o <COLOR,155,240,155>Mapa do Hospital<CLEARCOLOR>.
 
-[M01_CombatManual_GOT]Obteve o <COLOR,155,240,155>Manual de Combate Básico<CLEARCOLOR>.
+[M01_CombatManual_GOT]Você obteve o <COLOR,155,240,155>Manual de Combate Básico<CLEARCOLOR>.
 
 [M01_Polaroid_TITLE]Foto Polaroid
 [M01_Polaroid_DESC]O coelhinho do Joshua dentro da mochila dele...
-[M01_Polaroid_GOT]Obteve uma <COLOR,155,240,155>Foto Polaroid<CLEARCOLOR>.
+[M01_Polaroid_GOT]Você obteve uma <COLOR,155,240,155>Foto Polaroid<CLEARCOLOR>.
 
 [M01_Drawing_01_TITLE]Desenho de Criança (1)
 [M01_Drawing_02_DESC]Uma família de coelhinhos.
-[M01_Drawing_01_GOT]Obteve um <COLOR,155,240,155>Desenho de Criança<CLEARCOLOR>.
+[M01_Drawing_01_GOT]Você obteve um <COLOR,155,240,155>Desenho de Criança<CLEARCOLOR>.
 
 [M01_Drawing_02_TITLE]Desenho de Criança (2)
 [M01_Drawing_01_DESC]Três coelhinhos sangrentos.
-[M01_Drawing_02_GOT]Obteve um <COLOR,155,240,155>Desenho de Criança<CLEARCOLOR>.
+[M01_Drawing_02_GOT]Você obteve um <COLOR,155,240,155>Desenho de Criança<CLEARCOLOR>.
 
 [M01_Drawing_03_TITLE]Desenho de Criança (3)
 [M01_Drawing_03_DESC]Esse coelhinho parece catatônico.
-[M01_Drawing_03_GOT]Obteve um <COLOR,155,240,155>Desenho de Criança<CLEARCOLOR>.
+[M01_Drawing_03_GOT]Você obteve um <COLOR,155,240,155>Desenho de Criança<CLEARCOLOR>.
 
 [M01_Drawing_04_TITLE]Desenho de Criança (4)
 [M01_Drawing_04_DESC]Um coelhinho em chamas.
-[M01_Drawing_04_GOT]Obteve um <COLOR,155,240,155>Desenho de Criança<CLEARCOLOR>.
+[M01_Drawing_04_GOT]Você obteve um <COLOR,155,240,155>Desenho de Criança<CLEARCOLOR>.
 
 [M01_Drawing_05_TITLE]Desenho de Criança (5)
 [M01_Drawing_05_DESC]Esse coelhinho parece estar se debatendo na água.
-[M01_Drawing_05_GOT]Obteve um <COLOR,155,240,155>Desenho de Criança<CLEARCOLOR>.
+[M01_Drawing_05_GOT]Você obteve um <COLOR,155,240,155>Desenho de Criança<CLEARCOLOR>.
 
 
 
@@ -1096,7 +1096,7 @@
 
 [M01_CombatNote_02]<COLOR,195,188,228>Escolhendo sua arma: \n\nPara equipar sua arma, segure ou aperte <COMBAT_WHEEL> e entäo use <COMMAND_MOVEMENT> para escolher sua arma.<CLEARCOLOR>
 
-[M01_CombatNote_03]<COLOR,195,188,228>How to use combat stance and targeting: \n\nTo get into your combat ready stance, pull and hold <TARGETING> when a melee weapon is equipped. \n\nWhen you enter combat stance and enemies are present, you will automatically target the closest enemy in your field of view.<CLEARCOLOR>
+[M01_CombatNote_03]<COLOR,195,188,228>Como se preparar para um combate: \n\naperte e segure o botão <TARGETING> quando uma arma branca estiver equipada. \n\nQuando você entra na postura de combate, você sempre ira focar no inimígo mais próximo dentro do seu campo de visäo.<CLEARCOLOR>
 [M01_CombatNote_04]<COLOR,195,188,228>If multiple enemies are surrounding you, the target will be the closest hostile. \n\nThe targeted enemy will be highlighted by the flashlight.<CLEARCOLOR>
 [M01_CombatNote_05]<COLOR,195,188,228>To change targets, tap <COMMAND_CAMERA> in the direction of that target, typically left or right. \n\nTo break targeting at any time, exit combat stance by releasing <TARGETING>.<CLEARCOLOR>
 
@@ -1127,7 +1127,7 @@
 [M01_DoctorNote_A_1]Anotaçöes do doutor:
 [M01_DoctorNote_A_2]<COLOR,195,188,228>The patient in room 206 is scheduled to undergo a trans-orbital lobotomy tomorrow.<CLEARCOLOR>
 [M01_DoctorNote_A_3]<COLOR,195,188,228>I've mandated that the following medications be doubled on the day of the procedure...<CLEARCOLOR>
-[M01_DoctorNote_A_4]<CLEARCOLOR>I thought lobotomies were obsolete.  Who scheduled this procedure?
+[M01_DoctorNote_A_4]<CLEARCOLOR>Eu pensei que lobotomias eram considaradas uma prática obsoleta. Quem será que marcou este procedimento?
 
 [M01_JanitorNote]<COLOR,195,188,228>I'm tired of cleaning up after the beatings. <CLEARCOLOR>
 [M01_JanitorNote2]<COLOR,195,188,228>There was so much blood the last time, it looked like someone died!\nPlease be more careful - when the blood dries it makes the floor very slippery and is a safety hazard.\nKeep the mess to a minimum.<CLEARCOLOR>
@@ -1266,13 +1266,13 @@
 [M01_Interest_06]Meu Deus.
 [M01_BunnyDrawing_A_1]É um desenho de criança sobre uma família de coelhinhos.
 [M01_BunnyDrawing_A_2]Tem três coelhinhos: o Papai, a Mamäe e o Bebê...
-[M01_BunnyDrawing_A_3]I think the bunnies are supposed to look afraid, and off to the side there is a wolf, or a monster or something.
+[M01_BunnyDrawing_A_3]Acho que os coelhinhos deveriam estar assustados... mais ao lado tem um lobo, monstro, ou coisa assim...
 [M01_BunnyDrawing_B_1]Outro desenho de coelhinho.
 [M01_BunnyDrawing_B_2]One of the bunnies looks young and innocent.
 [M01_BunnyDrawing_B_3]The older one's face has a strange expression.
-[M01_BunnyDrawing_B_4]It looks as if it knows something terrible.
+[M01_BunnyDrawing_B_4]Parece que ele descobriu algo terrível...
 [M01_BunnyDrawing_C_1]Esse desenho só tem um coelhinho...
-[M01_BunnyDrawing_C_2]Why is it isolated in a tiled room?
+[M01_BunnyDrawing_C_2]Por que ele está isolado em uma sala?
 [M01_BunnyDrawing_D_1]These nurse bunnies are gathered around a TV set.
 [M01_BunnyDrawing_D_2]As poses säo bem assustadoras.
 [M01_BunnyDrawing_E_1]Esse coelhinho está vestido de soldado.
@@ -1283,14 +1283,14 @@
 [M01_BunnyDrawing_G_2]Parece algum tipo de cerimônia.
 [M01_BunnyDrawing_H_1]Um dos coelhinhos parece bom, já o outro parece mau...
 
-[M01_Interest_08]Why is this here?
-[M01_Interest_09]It's a pile of magazines, but I don't recognize any of the titles.
+[M01_Interest_08]Por que isso está aqui?
+[M01_Interest_09]Uma pilha de revistas, mas eu não conheço nenhuma delas...
 [M01_Interest_12]What happened here? People come to hospitals to get better- why are there no doctors?
-[M01_Interest_13]This place does not smell like a hospital- at least not a very clean hospital.
-[M01_Interest_14]Why draw all these bunnies?
-[M01_Interest_15]Why is Joshua leaving these behind?
-[M01_Interest_18b]Someone forgot to turn it off...
-[M01_Interest_18c]Did I just see something in the static?
+[M01_Interest_13]Esse lugar não cheira como um hospital... Pelo menos não cheira como um hospital limpo...
+[M01_Interest_14]Por que desenhar tantos coelhinhos?
+[M01_Interest_15]Por que Joshua está deixando isso para trás?
+[M01_Interest_18b]Alguém esqueceu de desligar...
+[M01_Interest_18c]Será que eu vi algo ali?
 
 
 # Additional Story Strings #
@@ -1343,7 +1343,7 @@
 [M01_Interest_80_More_Comments_for_Toilets]Esse banheiro cheira pior que veneno...
 [M01_Interest_81_More_Comments_for_Toilets]Esse cheiro horrível... Näo consigo nem respirar aqui...
 [M01_Interest_82_More_Comments_for_Toilets]Isso está muito sujo e cheira muito mal.
-[M01_Interest_83_More_Comments_for_Toilets]Ah cara, acho que vou vomitar...
+[M01_Interest_83_More_Comments_for_Toilets]Meu Deus, acho que vou vomitar...
 [M01_Interest_84_More_Comments_for_Toilets]Quem deixaria isso assim?! Que nojo!
 [M01_Interest_85_More_Comments_for_Toilets]Parece que algo morreu aqui...
 [M01_Interest_86_More_Comments_for_Toilets]Será que eu ouvi algo aqui?
@@ -1440,13 +1440,13 @@
 [M02_Interest_DrainB1]I remember teasing Joshua that monsters would grab his feet if he walked too close to storm drains.
 [M02_Interest_DrainB1]I bet he still won't go near them.
 
-[M02_Interest_DrainC1]I swear I heard something moving down there.
+[M02_Interest_DrainC1]Eu tenho certeza que ouvi algo se mexendo lá em baixo...
 
-[M02_Interest_Banner1]It's the banner for the 150th anniversary parade.
-[M02_Interest_Banner2]I thought that was years ago.
+[M02_Interest_Banner1]É o banner anunciando o evento de aniversário de 150 anos da cidade.
+[M02_Interest_Banner2]Eu pensei que isso tivesse acontecido há alguns anos...
 
-[M02_Interest_FlyerA1]Mayor Bartlett was one of the first to congratulate me when I joined the military.
-[M02_Interest_FlyerA2]I should see him while I'm in town.
+[M02_Interest_FlyerA1]Prefeito Barlett foi o primeiro a me cumprimentar quando eu decidi me juntar as forças militares.
+[M02_Interest_FlyerA2]Eu deveria vê-lo enquanto estou na cidade.
 
 [M02_Interest_MonumentA1]The text is badly worn.  I can only make out a few words...
 [M02_Interest_MonumentA2]<COLOR,195,188,228> In memorial of our glorious founding, we the people of Shepherd's -----<CLEARCOLOR>
@@ -1596,7 +1596,7 @@
 [M02_Interest_HolloOfficeA2]There doesn't seem to be anything inside... she must have just returned from a trip.
 
 [M02_Interest_HolloOfficeB1]Elle Holloway...
-[M02_Interest_HolloOfficeB2]It's been so long since I've seen her.
+[M02_Interest_HolloOfficeB2]Faz tanto tempo que eu não a vejo...
 
 [M02_Interest_ShepOfficeA1]These boxes are covered in dust.
 [M02_Interest_ShepOfficeA2]It looks like they haven't been touched in a long time.
@@ -1618,8 +1618,8 @@
 [M02_Interest_Odd_Keyhole_on_Podium]I always thought this symbol was odd.  Dad always got angry if I played with this.
 
 # Main Street and Town Hall #
-[M02_Interest_16_Park_Ride]I remember when Dad spun me so hard on this, I threw up.
-[M02_Interest_20_Alex_walks_into_Fog]I should turn back.
+[M02_Interest_16_Park_Ride]Eu lembro de um dia que meu pai me girou tão forte nesse brinquedo que eu fui lançado pra fora...
+[M02_Interest_20_Alex_walks_into_Fog]Eu tenho que voltar...
 [M02_Interest_32_Alex_Front_Window]Why are all of the curtains drawn?
 [M02_Interest_33_Alex_Front_Window]Looks like they haven't been opened in years.
 
@@ -2736,8 +2736,8 @@
 [M09_Coolerclosed]It's an ice chest.
 [M09_Cooleropened]It's a key!
 [M09_AtticDoor_LOCKED]The door to the attic is locked.
-[M09_CeremonialDagger_USE]I used the <COLOR,155,240,155>Ceremonial Dagger<CLEARCOLOR>.
-[M09_AtticKey_USE]I used the <COLOR,155,240,155>Attic Key <CLEARCOLOR>.
+[M09_CeremonialDagger_USE]Você Você usou a <COLOR,155,240,155>Ceremonial Dagger<CLEARCOLOR>.
+[M09_AtticKey_USE]Você Você usou a <COLOR,155,240,155>Attic Key <CLEARCOLOR>.
 
 [M09_DadsLetter_Read1]<COLOR,195,188,228>I have failed, and they know it.  They blame me. They should. I swore to protect this town, but I can't.\nThe streets decay before our eyes. The curse we always feared has come upon us.  Worse yet, The Order has returned, kidnapping and killing with impunity, brainwashing those they take in an effort to rebuild their flock.<CLEARCOLOR>
 [M09_DadsLetter_Read2]<COLOR,195,188,228>Whether they want to punish us for the exodus of our forefathers - or simply to breathe new life into the old ways, I don't know. But they've taken our people.\nThe only thing left is to face the source of this evil, to fight it, and pray that some hope can be restored. My sole consolation is that I've finally opened my eyes to the evil in Silent Hill.<CLEARCOLOR>
@@ -2928,27 +2928,27 @@
 [M10_Blood_TITLE]Bloodstone
 [M10_Blood_DESC]Bloodstone is the birthstone for March.
 [M10_Blood_GOT]Você obteve o <COLOR,155,240,155>Bloodstone<CLEARCOLOR>.
-[M10_Blood_USED]I used the <COLOR,155,240,155>Bloodstone<CLEARCOLOR>.
+[M10_Blood_USED]Você Você usou a <COLOR,155,240,155>Bloodstone<CLEARCOLOR>.
 
 [M10_Garnet_TITLE]Garnet
 [M10_Garnet_DESC]Garnet is the birthstone for January.
 [M10_Garnet_GOT]Você obteve o <COLOR,155,240,155>Garnet<CLEARCOLOR>.
-[M10_Garnet_USED]I used the <COLOR,155,240,155>Garnet<CLEARCOLOR>.
+[M10_Garnet_USED]Você Você usou a <COLOR,155,240,155>Garnet<CLEARCOLOR>.
 
 [M10_Sapphire_TITLE]Sapphire
 [M10_Sapphire_DESC]Sapphire is the birthstone for September.
 [M10_Sapphire_GOT]Você obteve o <COLOR,155,240,155>Sapphire<CLEARCOLOR>.
-[M10_Sapphire_USED]I used the <COLOR,155,240,155>Sapphire<CLEARCOLOR>.
+[M10_Sapphire_USED]Você Você usou a <COLOR,155,240,155>Sapphire<CLEARCOLOR>.
 
 [M10_Turquoise_TITLE]Turquoise
 [M10_Turquoise_DESC]Turquoise is the birthstone for December.
 [M10_Turquoise_GOT]Você obteve o <COLOR,155,240,155>Turquoise<CLEARCOLOR>.
-[M10_Turquoise_USED]I used the <COLOR,155,240,155>Turquoise<CLEARCOLOR>.
+[M10_Turquoise_USED]Você Você usou a <COLOR,155,240,155>Turquoise<CLEARCOLOR>.
 
 [M10_GraveyardKey_TITLE]Moon Garden Key
 [M10_GraveyardKey_DESC]<COLOR,195,188,228>Property of Dargento Cemetery<CLEARCOLOR> is etched into the key.
 [M10_GraveyardKey_GOT]Você obteve o <COLOR,155,240,155>Moon Garden Key<CLEARCOLOR>.
-[M10_GraveyardKey_USED]I used the <COLOR,155,240,155>Moon Garden Key<CLEARCOLOR>.
+[M10_GraveyardKey_USED]Você Você usou a <COLOR,155,240,155>Moon Garden Key<CLEARCOLOR>.
 
 ### M10A Docks ###
 
@@ -3129,7 +3129,7 @@
 [M10B_GeneratorKey_TITLE]Toluca Lake Water and Power Key
 [M10B_GeneratorKey_DESC]<COLOR,195,188,228>Toluca Lake Water and Power<CLEARCOLOR> is barely legible on the tag.
 [M10B_GeneratorKey_GOT]Você obteve o <COLOR,155,240,155>Toluca Lake Water and Power Key<CLEARCOLOR>.
-[M10B_GeneratorKey_USED]I used the <COLOR,155,240,155>Toluca Lake Water and Power Key<CLEARCOLOR>.
+[M10B_GeneratorKey_USED]Você Você usou a <COLOR,155,240,155>Toluca Lake Water and Power Key<CLEARCOLOR>.
 
 ### M10B Dialogue Trees ###
 
