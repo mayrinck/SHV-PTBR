@@ -50,11 +50,10 @@ Os arquivos que estiverem marcados na lista estão 100% traduzidos e revisados:
 - [x] m07_dialogue (diálogos com o doutor Fitch)
 - [x] m08_dialogue (diálogos com o delegado Wheeler via radio)
 - [x] m09_dialogue (diálogos dos membros da ordem)
-- [ ] m10_dialogue
-- [ ] m11_dialogue
-- [ ] m12_dialogue
-- [ ] m13_dialogue
-- [ ] m14_dialogue
+- [x] m10_dialogue (Frases de combate e diálogos do Wheeler e alguns membros da Ordem #1)
+- [ ] m11_dialogue (Frases de combate e diálogos do Wheeler e alguns membros da Ordem #2)
+- [ ] m13_dialogue (Frases e diálogos do pai do Alex na Igreja)
+- [ ] m14_dialogue (Frases e Diálogos com a Juiza Holloway e o Curtis)
 - [x] m15_dialogue (Frases de combate e reações do Wheeler e da Elle)
-- [ ] m16_dialogue
+- [ ] m16_dialogue (Diálogos diversos entre Alex e outros personagens do jogo)
 - [ ] strings      (Interações diversas: Textos de interfaces, Diálogos de escolha, Nomes de items, etc...)

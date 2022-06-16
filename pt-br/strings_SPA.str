@@ -81,7 +81,7 @@
 
 ###LEGAL SCREEN TEXT
 [IDS_SHELL_LEGAL_SCREEN_TEXT](c)2008 Konami Digital Entertainment, Inc.  (c)1999 Konami Digital Entertainment Co., Ltd. Todos os direitos reservados.  "Silent Hill" é uma marca registrada da Konami Digital Entertainment Co., Ltd. KONAMI é uma marca registrada da KONAMI CORPORATION.  Silent Hill: Homecoming usa Havok (c)1999-2008. Havok.com Inc. (ou licenciados). Todos os direitos reservados. Detalhes em www.havok.com
-[IDS_SHELL_LEGAL_SCREEN_TEXT_2]Desenvolvido pela Double Helix, uma divisäo da Foundation 9 Entertainment. O nome "Double Helix" e logotipo säo marcas registradas da Foundation 9 Entertainment. Traduçäo e Localizaçäo feita por <COLOR,100,65,164>GRISS0N (twitch.tv/griss0n)<CLEARCOLOR>. Devido a limitaçöes da fonte do jogo, alguns caractéres com "til" foram substituidos por outros disponíveis. Feito para os fäs, sem fins lucrativos.
+[IDS_SHELL_LEGAL_SCREEN_TEXT_2]Desenvolvido pela Double Helix, uma divisäo da Foundation 9 Entertainment. O nome "Double Helix" e logotipo säo marcas registradas da Foundation 9 Entertainment. Traduçäo e Localizaçäo feita por <COLOR,100,65,164>GRISS0N (twitch.tv/griss0n)<CLEARCOLOR>. Devido a limitaçöes da fonte do jogo, alguns caractéres com "til" foram substituidos por trema. Feito para os fäs, sem fins lucrativos.
 
 ###MENU TITLES
 [IDS_SHELL_INVENTORY_WHEEL_TITLE]INVENTÁRIO
@@ -378,7 +378,7 @@
 [IDS_LOADING_TIP_SMOG_1]O ponto fraco do Smog säo os pulmöes, você pode esperar eles ficarem expostos para executar um ataque de grande impacto.
 [IDS_LOADING_TIP_SMOG_2]A fumaça tóxica do Smog faz com que Alex fique atordoado e leve dano, entäo mantenha a distância.
 
-[IDS_LOADING_TIP_SIAM_1]O lado feminino da Siam é o menos protegido. Ataque pelas costas para garantir mais dano.
+[IDS_LOADING_TIP_SIAM_1]O lado feminino de Siam é o menos protegido. Ataque pelas costas para garantir mais dano.
 [IDS_LOADING_TIP_SIAM_2]Siam vai tentar te esmagar se te derrubar, entäo levante-se rápido apertando o botäo de esquiva.
 
 [IDS_LOADING_TIP_NEEDLER_1]O Needler pode bloquear ataques frontais (incluindo tiros). Ataque pelo lado ou costas para garantir a efetividade dos ataques.
@@ -425,14 +425,14 @@
 [IDS_SHELL_PLAYER_SIGNED_OUT]Uma mudança de credenciais ocorreu. Você será mandado de volta para o Menu Principal.
 
 ### MEMORY CARD MESSAGES
-[IDS_SHELL_MEMORY_CARD_REMOVED]O MEMORY CARD (PS3) não foi inserido no Slot 1. Insira o memory card e tente novamente.
+[IDS_SHELL_MEMORY_CARD_REMOVED]O MEMORY CARD (PS3) näo foi inserido no Slot 1. Insira o memory card e tente novamente.
 [IDS_SHELL_MEMORY_CARD_CHANGED]MEMORY CARD (PS3) foi inserido.
 
 [IDS_SHELL_MEMORY_CARD_NOT_FORMATTED]Memory card (PS3) in MEMORY CARD slot 1 is unformatted. Do you want to format it?
 [IDS_SHELL_FORMATTING]Formatting Memory card (PS3) in MEMORY CARD slot 1. Do not remove memory card (PS3), controller, or reset/switch off console.
 [IDS_SHELL_FORMATTING_FAILED]Format failed. Please check the memory card (PS3) in MEMORY CARD slot 1.
 
-[IDS_SHELL_NOT_ENOUGH_SPACE_PC]Não há espaço para salvar o progresso...
+[IDS_SHELL_NOT_ENOUGH_SPACE_PC]Näo há espaço para salvar o progresso...
 [IDS_SHELL_NOT_ENOUGH_SPACE_PS3_GAMEDATA]Saia do jogo e apague alguns dados para salvar.
 [IDS_SHELL_NOT_ENOUGH_SPACE_PS3_SAVEDATA]Would you like to delete save data in order to free up enough space?  Selecting No will continue without saving.
 [IDS_SHELL_NOT_ENOUGH_SPACE_XBOX360]Your Xbox 360 console doesn't have enough free blocks to save games. At least % additional blocks are required to save the game.  Would you like to go to the Xbox Dashboard to free up more blocks?
@@ -524,11 +524,11 @@
 [IDS_PICKUP_RIFLE_PICKUP]Obteve o <COLOR,155,255,155>Rifle M-14<CLEARCOLOR>.
 
 [IDS_PICKUP_DOLL_FULL]Boneca da Scarlet
-[IDS_PICKUP_DOLL_FULL_DESC]Acho que essa era a boneca favorita dela... Parece já ter estado em melhores condiçöes...
+[IDS_PICKUP_DOLL_FULL_DESC]Acho que essa era a boneca favorita dela... Parece que já esteve em melhores condiçöes...
 [IDS_PICKUP_DOLL_FULL_PICKUP]Obteve a <COLOR,155,255,155>Boneca da Scarlet<CLEARCOLOR>.
 
 [IDS_PICKUP_SHOTGUN]Escopeta Calibre-12
-[IDS_PICKUP_SHOTGUN_DESC]É devastadora de perto, mas atira e recarrega lentamente...
+[IDS_PICKUP_SHOTGUN_DESC]É devastadora de perto, mas é lenta para atirar e recarregar...
 [IDS_PICKUP_SHOTGUN_PICKUP]Obteve a <COLOR,155,255,155>Escopeta Calibre-12<CLEARCOLOR>.
 
 [IDS_PICKUP_LASER_PISTOL]Pistola Laser
@@ -536,7 +536,7 @@
 [IDS_PICKUP_LASER_PISTOL_PICKUP]Obteve a <COLOR,155,255,155>Pistola Laser<CLEARCOLOR>.
 
 [IDS_PICKUP_REVOLVER]Revolver Antigo
-[IDS_PICKUP_REVOLVER_DESC]Obteve com a minha mäe... O cilindro está enferrujado e näo gira. Seria uma arma muito boa, se funcionasse...
+[IDS_PICKUP_REVOLVER_DESC]Estava com a minha mäe... O cilindro está enferrujado e näo gira. Seria uma arma muito boa, se funcionasse...
 [IDS_PICKUP_REVOLVER_GOT]Obteve o <COLOR,155,255,155>Revolver Antigo<CLEARCOLOR>.
 
 [IDS_PICKUP_PISTOL_AMMO]Caixa de Muniçäo de Pistola
@@ -596,9 +596,9 @@
 [IDS_PICKUP_M03_MAP_DESC]Parece o mapa da minha casa... Foi feito com giz de cera verde.
 [IDS_PICKUP_M03_MAP_GOT]Obteve o <COLOR,155,255,155>Mapa da Casa<CLEARCOLOR>.
 
-[IDS_PICKUP_M03_LINEAGE]História da Família Sheperd
+[IDS_PICKUP_M03_LINEAGE]História da Família Shepherd
 [IDS_PICKUP_M03_LINEAGE_DESC]Esse livro documenta a história de várias geraçöes da minha família.
-[IDS_PICKUP_M03_LINEAGE_GOT]Obteve um livro com a <COLOR,155,255,155>História da Família Sheperd<CLEARCOLOR>.
+[IDS_PICKUP_M03_LINEAGE_GOT]Obteve um livro com a <COLOR,155,255,155>História da Família Shepherd<CLEARCOLOR>.
 
 [IDS_PICKUP_M03_PHOTOALBUM]Album de Fotos
 [IDS_PICKUP_M03_PHOTOALBUM_DESC]O antigo album de fotos do Joshua. Tantas memórias estavam aqui...
@@ -689,19 +689,19 @@
 
 [IDS_PICKUP_M09_MASK_01]Mascara Sorridente
 [IDS_PICKUP_M09_MASK_01_GOT]Você obteve a <COLOR,155,240,155>Máscara Sorridente<CLEARCOLOR>.
-[IDS_PICKUP_M09_MASK_01_DESC]Essa máscara me lembra da minha mãe... Como se ela estivesse rindo de mim...
+[IDS_PICKUP_M09_MASK_01_DESC]Essa máscara me lembra da minha mäe... Como se ela estivesse rindo de mim...
 
 [IDS_PICKUP_M09_MASK_02]Mascara Entristecida
 [IDS_PICKUP_M09_MASK_02_GOT]Você obteve a <COLOR,155,240,155>Máscara Entristecida<CLEARCOLOR>.
-[IDS_PICKUP_M09_MASK_02_DESC]Essa máscara parece minha mãe... A expressão parece de uma profunda e perpétua tristeza...
+[IDS_PICKUP_M09_MASK_02_DESC]Essa máscara parece minha mäe... A expressäo parece de uma profunda e perpétua tristeza...
 
 [IDS_PICKUP_M09_MASK_03]Mascara Indiferente
 [IDS_PICKUP_M09_MASK_03_GOT]Você obteve a <COLOR,155,240,155>Máscara Indiferente<CLEARCOLOR>.
-[IDS_PICKUP_M09_MASK_03_DESC]Essa máscara lembra o rosto da minha mãe... Fria e sem emoção, como sempre...
+[IDS_PICKUP_M09_MASK_03_DESC]Essa máscara lembra o rosto da minha mäe... Fria e sem emoçäo, como sempre...
 
 [IDS_PICKUP_M09_MASK_04]Mascara Raivosa
 [IDS_PICKUP_M09_MASK_04_GOT]Você obteve a <COLOR,155,240,155>Mascara Raivosa<CLEARCOLOR>.
-[IDS_PICKUP_M09_MASK_04_DESC]Essa máscara lembra o rosto da minha mãe... Parece que ela está desapontada comigo...
+[IDS_PICKUP_M09_MASK_04_DESC]Essa máscara lembra o rosto da minha mäe... Parece que ela está desapontada comigo...
 
 [IDS_PICKUP_M09_MEDAL_01]Medalha de Guerra: Estrela Caida
 [IDS_PICKUP_M09_MEDAL_01_GOT]Você obteve a <COLOR,155,240,155>Medalha de Guerra: Estrela Caida<CLEARCOLOR>.
@@ -755,26 +755,26 @@
 [IDS_PICKUP_M10_CemetaryKey_GOT]Você obteve a <COLOR,155,240,155>Chave do Cemitério<CLEARCOLOR>.
 [IDS_PICKUP_M10_CemetaryKey_DESC]Uma chave que parece antiga. Da pra ler o nome "Cemitério Dargento" em letras pequenas ao redor da ponta...
 
-[IDS_PICKUP_M11_WIRE01]Scrap of Wire
-[IDS_PICKUP_M11_WIRE01_GOT]Você obteve o <COLOR,155,240,155>Scrap of Wire<CLEARCOLOR>.
-[IDS_PICKUP_M11_WIRE01_DESC]A scrap of electrical wire - I found it in an old toolbox.
-[IDS_PICKUP_M11_WIRE01_USED]Você Você usou a <COLOR,155,240,155>Scrap of Wire<CLEARCOLOR>.
+[IDS_PICKUP_M11_WIRE01]Pedaço de fio
+[IDS_PICKUP_M11_WIRE01_GOT]Você obteve um <COLOR,155,240,155>Pedaço de Fio<CLEARCOLOR>.
+[IDS_PICKUP_M11_WIRE01_DESC]Um pedaço de um fio. Encontrei em uma caixa de ferramentas velha.
+[IDS_PICKUP_M11_WIRE01_USED]Você usou o <COLOR,155,240,155>Pedaço de Fio<CLEARCOLOR>.
 
-[IDS_PICKUP_M11_WIRE02]Radio Wire
-[IDS_PICKUP_M11_WIRE02_GOT]Você obteve o <COLOR,155,240,155>Radio Wire<CLEARCOLOR>.
-[IDS_PICKUP_M11_WIRE02_DESC]I tore this wire out of an old radio. It could come in handy.
-[IDS_PICKUP_M11_WIRE02_USED]Você Você usou a <COLOR,155,240,155>Radio Wire<CLEARCOLOR>.
+[IDS_PICKUP_M11_WIRE02]Fio do Radio
+[IDS_PICKUP_M11_WIRE02_GOT]Você obteve um <COLOR,155,240,155>Fio do Radio<CLEARCOLOR>.
+[IDS_PICKUP_M11_WIRE02_DESC]Eu arranquei isso de um radio velho. Talvez seja útil...
+[IDS_PICKUP_M11_WIRE02_USED]Você usou o <COLOR,155,240,155>Fio do Rádio<CLEARCOLOR>.
 
-[IDS_PICKUP_M11_WIRE03]Loose Wire
-[IDS_PICKUP_M11_WIRE03_GOT]Você obteve o <COLOR,155,240,155>Loose Wire<CLEARCOLOR>.
-[IDS_PICKUP_M11_WIRE03_DESC]A piece of loose wire I pulled from a broken light.
-[IDS_PICKUP_M11_WIRE03_USED]Você Você usou a <COLOR,155,240,155>Loose Wire<CLEARCOLOR>.
+[IDS_PICKUP_M11_WIRE03]Fio da luminária
+[IDS_PICKUP_M11_WIRE03_GOT]Você obteve o <COLOR,155,240,155>Fio da luminária<CLEARCOLOR>.
+[IDS_PICKUP_M11_WIRE03_DESC]Um pedaço de fio que estava solto. Tirei de uma luminária que estava quebrada.
+[IDS_PICKUP_M11_WIRE03_USED]Você usou o <COLOR,155,240,155>Fio da Luminária<CLEARCOLOR>.
 
 [IDS_PICKUP_M11_MAP_GOT]Você obteve o <COLOR,155,240,155>Mapa da Prisäo<CLEARCOLOR>.
 
 [IDS_PICKUP_M12_GATE_KEY]Chave do Portäo
 [IDS_PICKUP_M12_GATE_KEY_GOT]Obteve a <COLOR,155,240,155>Chave do Portäo<CLEARCOLOR>.
-[IDS_PICKUP_M12_GATE_KEY_DESC]É ma chave de um portäo, mas qual?
+[IDS_PICKUP_M12_GATE_KEY_DESC]É uma chave de portäo, mas qual?
 
 [IDS_PICKUP_m13_candle]Vela apagada
 [IDS_PICKUP_m13_candle_DESC]Essa vela parecia fora do lugar onde eu a achei. Me pergunto onde ela deveria estar...
@@ -782,24 +782,24 @@
 [IDS_PICKUP_M13MAP]Mapa da Igreja
 [IDS_PICKUP_M13MAP_DESC]Um mapa mostrando as salas da igreja.
 [IDS_PICKUP_M13MAP_GOT]Obteve o <COLOR,155,255,155>Mapa da Igreja<CLEARCOLOR>.
-[IDS_PICKUP_M13ShepherdRing]Anel dos Sheperd
+[IDS_PICKUP_M13ShepherdRing]Anel dos Shepherd
 [IDS_PICKUP_M13ShepherdRing_DESC]Meu pai me deu esse anel antes de morrer. Ele é um legado, passado de geraçäo em geraçäo...
-[IDS_PICKUP_M13ShepherdRing_GOT]Obteve o <COLOR,155,255,155>Anel dos Sheperd<CLEARCOLOR>.
+[IDS_PICKUP_M13ShepherdRing_GOT]Obteve o <COLOR,155,255,155>Anel dos Shepherd<CLEARCOLOR>.
 
 [IDS_PICKUP_IronBlade_Vengeance]Placa da Espada
-[IDS_PICKUP_IronBlade_Vengeance_DESC]Uma placa de latão com uma imagem de uma espada.
+[IDS_PICKUP_IronBlade_Vengeance_DESC]Uma placa de latäo com uma imagem de uma espada.
 [IDS_PICKUP_IronBlade_Vengeance_GOT]Você obteve a <COLOR,155,240,155>Placa da Espada<CLEARCOLOR>.
 [IDS_PICKUP_IronBlade_Penitent]Placa do Homem Ajoelhado
-[IDS_PICKUP_IronBlade_Penitent_DESC]Uma placa de latão com uma imagem de um homem ajoelhado, clamando por perdão...
+[IDS_PICKUP_IronBlade_Penitent_DESC]Uma placa de latäo com uma imagem de um homem ajoelhado, clamando por perdäo...
 [IDS_PICKUP_IronBlade_Penitent_GOT]Você obteve a <COLOR,155,240,155>Placa do Homem Ajoelhado<CLEARCOLOR>.
 [IDS_PICKUP_IronBlade_Desire]Placa da Árvore
-[IDS_PICKUP_IronBlade_Desire_DESC]Uma placa de latão com uma imagem de uma árvore.
+[IDS_PICKUP_IronBlade_Desire_DESC]Uma placa de latäo com uma imagem de uma árvore.
 [IDS_PICKUP_IronBlade_Desire_GOT]Você obteve a <COLOR,155,240,155>Placa da Árvore<CLEARCOLOR>.
 [IDS_PICKUP_IronBlade_Sacrifice]Placa do Cálice
-[IDS_PICKUP_IronBlade_Sacrifice_DESC]Uma placa de latão com uma imagem de um cálice.
+[IDS_PICKUP_IronBlade_Sacrifice_DESC]Uma placa de latäo com uma imagem de um cálice.
 [IDS_PICKUP_IronBlade_Sacrifice_GOT]Você obteve a <COLOR,155,240,155>Placa do Cálice<CLEARCOLOR>.
 [IDS_PICKUP_IronBlade_Sorrow]Placa da Vela
-[IDS_PICKUP_IronBlade_Sorrow_DESC]Uma placa de latão com uma imagem de uma vela.
+[IDS_PICKUP_IronBlade_Sorrow_DESC]Uma placa de latäo com uma imagem de uma vela.
 [IDS_PICKUP_IronBlade_Sorrow_GOT]Você obteve a <COLOR,155,240,155>Placa da Vela<CLEARCOLOR>.
 
 [IDS_PICKUP_M14_DUNGEONKEY]Chave do Setor 3
@@ -807,14 +807,14 @@
 [IDS_PICKUP_M14_DUNGEONKEY_GOT]Você obteve a <COLOR,155,240,155>Chave do Setor 3<CLEARCOLOR>.
 [IDS_PICKUP_M14_DUNGEONKEY_USED]Você Você usou a <COLOR,155,240,155>Chave do Setor 3<CLEARCOLOR>.
 
-[IDS_PICKUP_M14_ARMORYKEY]Room 301 Key
-[IDS_PICKUP_M14_ARMORYKEY_DESC]This key has the word ?Armory? scratched into it.
-[IDS_PICKUP_M14_ARMORYKEY_GOT]Você obteve o <COLOR,155,255,155>Room 301 Key<CLEARCOLOR>.
-[IDS_PICKUP_M14_ARMORYKEY_USED]Você Você usou a <COLOR,155,255,155>Room 301 Key<CLEARCOLOR>.
+[IDS_PICKUP_M14_ARMORYKEY]Chave da sala 301
+[IDS_PICKUP_M14_ARMORYKEY_DESC]Essa chave tem uma inscriçäo nela? Parece estar escrito "Sala de armas"...
+[IDS_PICKUP_M14_ARMORYKEY_GOT]Você obteve a <COLOR,155,255,155>chave da sala 301<CLEARCOLOR>.
+[IDS_PICKUP_M14_ARMORYKEY_USED]Você usou a <COLOR,155,255,155>chave da sala 301<CLEARCOLOR>.
 
 [IDS_PICKUP_M14MAP]Mapa do Esconderijo da Ordem
-[IDS_PICKUP_M14MAP_DESC]A map showing the layout of the Order's lair.
-[IDS_PICKUP_M14MAP_GOT]Obtive o <COLOR,155,255,155>mapa do Esconderijo<CLEARCOLOR>.
+[IDS_PICKUP_M14MAP_DESC]Um mapa mostrando as salas e estruturas do esconderijo da ordem.
+[IDS_PICKUP_M14MAP_GOT]Você obteve o <COLOR,155,255,155>mapa do Esconderijo<CLEARCOLOR>.
 
 ###Crayon Drawings
 
@@ -828,9 +828,9 @@
 [IDS_Crayon_Drawing_8]Uma foto da juiza.
 [IDS_Crayon_Drawing_9]Uma foto da Morte.
 [IDS_Crayon_Drawing_10]Uma foto da Scarlet.
-[IDS_Crayon_Drawing_11]Uma foto de uma spider.
-[IDS_Crayon_Drawing_12]Uma foto de uma spider.
-[IDS_Crayon_Drawing_13]Uma foto de uma spider.
+[IDS_Crayon_Drawing_11]Uma foto de uma Aranha.
+[IDS_Crayon_Drawing_12]Uma foto de uma Aranha.
+[IDS_Crayon_Drawing_13]Uma foto de uma Aranha.
 
 ### IMS Interaction Prompts ###
 [IDS_ROTATE] <COMMAND_KICK> Girar
@@ -864,7 +864,7 @@
 [IDS_CEREMONIAL_DAGGER_NOT_EQUIPPED] Näo da pra abrir essa porta com esse equipamento.
 
 [IDS_PRY_EQUIPPED]<COMMAND_KICK> Arrombar
-[IDS_PRY_NOT_EQUIPPED]N?o da pra arrombar isso com esse equipamento.
+[IDS_PRY_NOT_EQUIPPED]Näo da pra arrombar isso com esse equipamento.
 [IDS_PRY_MISSING]Preciso achar algo para arrombar isso...
 
 [IDS_HACK_EQUIPPED]<COMMAND_KICK> Cortar
@@ -900,8 +900,8 @@
 [IDS_INVESTIGATION_INVITE_ROT_LOCK]<COMMAND_MOVEMENT> Girar   <COMMAND_JUMP> Voltar
 [IDS_INVESTIGATION_INVITE_WOF_CLOCK]<COMMAND_LEFT_STICK_LEFTRIGHT> Escolher    <COMMAND_LEFT_STICK_UPDOWN> Girar   <COMMAND_JUMP> Voltar
 [IDS_INVESTIGATION_INVITE_CUT]<COMMAND_KICK> Cortar   <COMMAND_JUMP> Voltar
-[IDS_INVESTIGATION_PLACE_BAD]Esse item não pode ser usado aqui...
-[IDS_INVESTIGATION_NO_ITEMS]Você não tem itens pra colocar aqui...
+[IDS_INVESTIGATION_PLACE_BAD]Esse item näo pode ser usado aqui...
+[IDS_INVESTIGATION_NO_ITEMS]Você näo tem itens pra colocar aqui...
 [IDS_INVESTIGATION_INVITE_TAKE]<COMMAND_KICK> Pegar   <COMMAND_JUMP> Voltar
 [IDS_INVESTIGATION_INVITE_TAKE_NOBACK]<COMMAND_KICK> Pegar
 [IDS_INVESTIGATION_INVITE_TAKE_BACK]<COMMAND_JUMP> Voltar
@@ -923,7 +923,7 @@
 
 ### Consumer Test ###
 
-[CT_Combattest1]<COLOR,240,155,155>Teste funcional:<CLEARCOLOR> Não inicie até o sinal do assistente. Quando instruido, aperte <COMMAND_KICK> para começar.
+[CT_Combattest1]<COLOR,240,155,155>Teste funcional:<CLEARCOLOR> Näo inicie até o sinal do assistente. Quando instruido, aperte <COMMAND_KICK> para começar.
 [CT_Combattest2]<COLOR,255,155,155>Pronto?<CLEARCOLOR>
 [CT_Combattest3]<COLOR,255,155,155>3<CLEARCOLOR>
 [CT_Combattest4]<COLOR,255,155,155>2<CLEARCOLOR>
@@ -965,7 +965,7 @@
 [M00_Lock10]Bloqueado.
 [M00_Lock11]Emperrado.
 [M00_Lock12]Está trancado... Perda de tempo.
-[M00_Lock13]Se está bloqueado, existe um motivo...
+[M00_Lock13]Bloqueado... \nSe está bloqueado, existe um motivo...
 [M00_Lock14]Caminho errado...
 [M00_Lock15]Deixa pra lá...
 [M00_Lock16]Droga... \nMesmo forçando, isso nem se mexe...
@@ -995,8 +995,8 @@
 
 [M00_FashionMag]Uma revista de moda. Näo estou interessado nisso agora...
 [M00_AwfulSmell]Eu näo quero olhar dentro disso... Algo cheira muito mal...
-[M00_RustyDrawers_1]Essas gavetas estäo enferrujadas, não se mexem...
-[M00_RustyDrawers_2]Isso deve estar enferrujado ou coisa assim... Não da pra puxar.
+[M00_RustyDrawers_1]Essas gavetas estäo enferrujadas, näo se mexem...
+[M00_RustyDrawers_2]Isso deve estar enferrujado ou coisa assim... Näo da pra puxar.
 [M00_HandWritten]É uma mensagem manuscrita:
 
 ### M01_Nightmare ###
@@ -1026,8 +1026,8 @@
 
 
 [HOLE_TOPIC_01]Colocar o braço na abertura?
-[HOLE_RESPONSE_01]Pegar o Brinquedo
-[HOLE_RESPONSE_02]Deixar ai
+[HOLE_RESPONSE_01]Sim
+[HOLE_RESPONSE_02]Näo
 
 
 ### M01 Pickups ###
@@ -1096,12 +1096,12 @@
 
 [M01_CombatNote_02]<COLOR,195,188,228>Escolhendo sua arma: \n\nPara equipar sua arma, segure ou aperte <COMBAT_WHEEL> e entäo use <COMMAND_MOVEMENT> para escolher sua arma.<CLEARCOLOR>
 
-[M01_CombatNote_03]<COLOR,195,188,228>Como se preparar para um combate: \n\naperte e segure o botão <TARGETING> quando uma arma branca estiver equipada. \n\nQuando você entra na postura de combate, você sempre ira focar no inimígo mais próximo dentro do seu campo de visäo.<CLEARCOLOR>
-[M01_CombatNote_04]<COLOR,195,188,228>If multiple enemies are surrounding you, the target will be the closest hostile. \n\nThe targeted enemy will be highlighted by the flashlight.<CLEARCOLOR>
-[M01_CombatNote_05]<COLOR,195,188,228>To change targets, tap <COMMAND_CAMERA> in the direction of that target, typically left or right. \n\nTo break targeting at any time, exit combat stance by releasing <TARGETING>.<CLEARCOLOR>
+[M01_CombatNote_03]<COLOR,195,188,228>Como se preparar para um combate: \n\naperte e segure o botäo <TARGETING> quando uma arma branca estiver equipada. \n\nQuando você entra na postura de combate, você sempre ira focar no inimígo mais próximo dentro do seu campo de visäo.<CLEARCOLOR>
+[M01_CombatNote_04]<COLOR,195,188,228>Se houverem multiplos alvos ao seu redor, foque no mais próximo sempre.\n\nVocê pode focar no alvo melhor se tiver uma lanterna por perto.<CLEARCOLOR>
+[M01_CombatNote_05]<COLOR,195,188,228>Para mudar de alvos, aperte <COMMAND_CAMERA> na direçäo do alvo, seja a esquerda ou a direita. \n\nLembre-se, algumas vezes é sábio fugir, entäo solte <TARGETING> e corra pela sua vida!<CLEARCOLOR>
 
-[M01_CombatNote_06]<COLOR,195,188,228>Fast Attacks, Strong Attacks, Charge Attacks, and Combos: \n\nWhen in combat stance, press <ACTION> for Fast attacks and <HEAVY_ATTACK> for Strong Attacks.<CLEARCOLOR>
-[M01_CombatNote_07]<COLOR,195,188,228>Strong attacks can be charged up for added damage by holding down <HEAVY_ATTACK>. \n\nSuccessive Fast attacks followed by a Strong attack can make for uninterrupted strikes known as Combos.<CLEARCOLOR>
+[M01_CombatNote_06]<COLOR,195,188,228>Ataques rápidos, pesados, carregados e combinaçöes: \n\nQuando estiver em postura para o combate, aperte <ACTION> para ataques rápidos e <HEAVY_ATTACK> para ataques pesados.<CLEARCOLOR>
+[M01_CombatNote_07]<COLOR,195,188,228>Ataques pesados podem ser carregados para amplicar o dano, basta respirar fundo e segurar <HEAVY_ATTACK>. \n\nAtaques rápidos seguidos de ataques pesados podem ocasionar que você ataque ininterruptamente, chamamos isso de "combinaçäo".<CLEARCOLOR>
 
 [M01_KeypadHint_1]<COLOR,195,188,228>Atençäo funcionários: \n\nNossa segurança foi comprometida- um paciente usou um filme de raio-x para escrever o código de segurança do portäo. Nós recuperamos a primeira metade, mas a segunda ainda está por ai... Caso você encontrem a parte perdida, notifiquem o chefe de segurança imediatamente.<CLEARCOLOR>
 
@@ -1114,10 +1114,10 @@
 [M01_UnrulyPatient_3]<COLOR,195,188,228>O paciente parou de responder aos comandos verbais. Três membros da equipe conseguiram subjulgar o paciente. <CLEARCOLOR>
 [M01_UnrulyPatient_4]<COLOR,195,188,228>O paciente entrou em estado catatônico e parou de responder aos estimulos externos. Amarras foram desnecessárias nas sessöes de terapia de eletro-choque nas semanas seguintes.<CLEARCOLOR>
 
-[M01_ElectroMemo_1]<COLOR,195,188,228>...setting the electroshock machine beyond the seizure threshold has yielded impressive results in the patients.<CLEARCOLOR>
-[M01_ElectroMemo_2]<COLOR,195,188,228>The most violent and depressed patients are rendered completely docile... The only side-effects have been minor: memory loss, some dislocated bones, one fractured leg, and a patient bit off his tongue.<CLEARCOLOR>
-[M01_ElectroMemo_3]<COLOR,195,188,228>This accident was quite a nice side effect as this particular patient was also one of our noisiest.<CLEARCOLOR>
-[M01_ElectroMemo_4]<COLOR,195,188,228>I've instructed the doctors to continue with this intensity level for all treatments.<CLEARCOLOR>
+[M01_ElectroMemo_1]<COLOR,195,188,228>...configurar a maquina de eletrochoque acima da márgem de segurança demonstrou-se uma prática de resultados impressionantes.<CLEARCOLOR>
+[M01_ElectroMemo_2]<COLOR,195,188,228>Os paciêntes mais violêntos e depressivos passaram a se comportar de forma dócil... Os efeitos colateráis existem, mas säo mínimos, como: perda de memória, ossos deslocados, uma perna fraturada... E um paciente rasgou a lingua com uma mordida muito forte durante o procedimento.<CLEARCOLOR>
+[M01_ElectroMemo_3]<COLOR,195,188,228>Este último acidente acabou sendo algo muito benéfico, já que este paciente específico era um dos mais barulhentos.<CLEARCOLOR>
+[M01_ElectroMemo_4]<COLOR,195,188,228>Eu instrui todo o corpo médico a continuar com esta configuraçäo de intensidade para todos os tratamentos.<CLEARCOLOR>
 
 [M01_Death_Report_A_1]It's a Coroner's Autopsy report:
 [M01_Death_Report_A_2]<COLOR,195,188,228>Post-Mortem examination reveals that subject died from profuse bleeding...<CLEARCOLOR>
@@ -1273,10 +1273,10 @@
 [M01_BunnyDrawing_B_4]Parece que ele descobriu algo terrível...
 [M01_BunnyDrawing_C_1]Esse desenho só tem um coelhinho...
 [M01_BunnyDrawing_C_2]Por que ele está isolado em uma sala?
-[M01_BunnyDrawing_D_1]These nurse bunnies are gathered around a TV set.
+[M01_BunnyDrawing_D_1]Essas enfermeiras estäo ao redor da TV... Por que?
 [M01_BunnyDrawing_D_2]As poses säo bem assustadoras.
 [M01_BunnyDrawing_E_1]Esse coelhinho está vestido de soldado.
-[M01_BunnyDrawing_E_2]I wonder why all of his insignia is scribbled out.
+[M01_BunnyDrawing_E_2]Eu me pergunto por que todas as suas insígnias estäo rabiscadas.
 [M01_BunnyDrawing_F_1]Josh deve adorar aquele coelhinho... Já que ele desenha coelhos tantas vezes...
 [M01_BunnyDrawing_F_2]Por que o Joshua quer tanto esse brinquedo?
 [M01_BunnyDrawing_G_1]Este coelinho está cercado pelos outros.
@@ -1284,9 +1284,9 @@
 [M01_BunnyDrawing_H_1]Um dos coelhinhos parece bom, já o outro parece mau...
 
 [M01_Interest_08]Por que isso está aqui?
-[M01_Interest_09]Uma pilha de revistas, mas eu não conheço nenhuma delas...
+[M01_Interest_09]Uma pilha de revistas, mas eu näo conheço nenhuma delas...
 [M01_Interest_12]What happened here? People come to hospitals to get better- why are there no doctors?
-[M01_Interest_13]Esse lugar não cheira como um hospital... Pelo menos não cheira como um hospital limpo...
+[M01_Interest_13]Esse lugar näo cheira como um hospital... Pelo menos näo cheira como um hospital limpo...
 [M01_Interest_14]Por que desenhar tantos coelhinhos?
 [M01_Interest_15]Por que Joshua está deixando isso para trás?
 [M01_Interest_18b]Alguém esqueceu de desligar...
@@ -1300,7 +1300,7 @@
 [M01_Interest_32_Torture_Arm_over_Gurney]Isso parece algum tipo de instrumento de tortura.
 [M01_Interest_33_Blood_Puddle]Tem sangue em todos os lugares... Será que fomos atacados?
 [M01_Interest_34_Blood_Puddle]Näo tem um corpo aqui... O que está acontecendo?
-[M01_Interest_36_Iron_Lung]Eu me sentiria perdido se me colocassem em um desses...
+[M01_Interest_36_Iron_Lung]Eu perderia as esperanças se me colocassem em um desses...
 [M01_Interest_37_Medical_Record_Psychotic_Patient]É o registro médico de um paciente...
 [M01_Interest_38_Medical_Record_Psychotic_Patient]<COLOR,195,188,228>O paciente sofre de uma anomalia mental severa, -------- distúrbio de personalidade.<CLEARCOLOR>
 [M01_Interest_39_Medical_Record_Psychotic_Patient]<COLOR,195,188,228>-------- demonstra atenuaçäo dos sintomas de psicose pres---- a maior parte do tempo.<CLEARCOLOR>
@@ -1319,12 +1319,12 @@
 [M01_Interest_52_Disturbing_Autopsy_Report]I found a Coroner's Autopsy report:
 [M01_Interest_53_Disturbing_Autopsy_Report]<COLOR,195,188,228>Post-Mortem examination reveals subject died from profuse bleeding<CLEARCOLOR>
 [M01_Interest_54_Disturbing_Autopsy_Report]<COLOR,195,188,228>due to self-inflicted puncturing of both eyes with a pair of metal scissors.<CLEARCOLOR>
-[M01_Interest_55_Note_from_Janitor_in_Storage_Room]It's a note scribbled on a paper towel:
-[M01_Interest_56_Note_from_Janitor_in_Storage_Room]<COLOR,195,188,228>I've had it! I'm sick of mopping up everyone's bloody messes.<CLEARCOLOR>
-[M01_Interest_57_Note_from_Janitor_in_Storage_Room]<COLOR,195,188,228>What you doctors do to the patients here disgusts me. I quit!<CLEARCOLOR>
-[M01_Interest_58_Additional_Interest_01_points_for_Baby_Incubators]I don't think I want to know what happened here.
-[M01_Interest_59_Additional_Interest_01_points_for_Baby_Incubators]Oh god, how horrible.
-[M01_Interest_60_Additional_Interest_01_points_for_Baby_Incubators]I don't want to think about what happened here.
+[M01_Interest_55_Note_from_Janitor_in_Storage_Room]É uma anotaçäo escrita em uma toalha de papel:
+[M01_Interest_56_Note_from_Janitor_in_Storage_Room]<COLOR,195,188,228>Pra mim chega! Estou cansado de limpar a bagunça sangrenta de todo mundo.<CLEARCOLOR>
+[M01_Interest_57_Note_from_Janitor_in_Storage_Room]<COLOR,195,188,228>O que vocês fazem com os pacientes aqui me enoja! Eu me demito!!<CLEARCOLOR>
+[M01_Interest_58_Additional_Interest_01_points_for_Baby_Incubators]Eu näo sei se quero saber o que houve aqui.
+[M01_Interest_59_Additional_Interest_01_points_for_Baby_Incubators]Meu Deus, que horrível.
+[M01_Interest_60_Additional_Interest_01_points_for_Baby_Incubators]Näo quero nem pensar no que houve aqui...
 [M01_Interest_61_Crayon_Drawings]Por que Joshua está deixando estes desenhos por ai?
 [M01_Interest_62_Crayon_Drawings]Eu näo sei como ou porque o Joshua estaria em um hospital militar...
 [M01_Interest_63_Crayon_Drawings]Será que ele está tentando me dizer algo?
@@ -1596,7 +1596,7 @@
 [M02_Interest_HolloOfficeA2]There doesn't seem to be anything inside... she must have just returned from a trip.
 
 [M02_Interest_HolloOfficeB1]Elle Holloway...
-[M02_Interest_HolloOfficeB2]Faz tanto tempo que eu não a vejo...
+[M02_Interest_HolloOfficeB2]Faz tanto tempo que eu näo a vejo...
 
 [M02_Interest_ShepOfficeA1]These boxes are covered in dust.
 [M02_Interest_ShepOfficeA2]It looks like they haven't been touched in a long time.
@@ -1618,7 +1618,7 @@
 [M02_Interest_Odd_Keyhole_on_Podium]I always thought this symbol was odd.  Dad always got angry if I played with this.
 
 # Main Street and Town Hall #
-[M02_Interest_16_Park_Ride]Eu lembro de um dia que meu pai me girou tão forte nesse brinquedo que eu fui lançado pra fora...
+[M02_Interest_16_Park_Ride]Eu lembro de um dia que meu pai me girou täo forte nesse brinquedo que eu fui lançado pra fora...
 [M02_Interest_20_Alex_walks_into_Fog]Eu tenho que voltar...
 [M02_Interest_32_Alex_Front_Window]Why are all of the curtains drawn?
 [M02_Interest_33_Alex_Front_Window]Looks like they haven't been opened in years.
