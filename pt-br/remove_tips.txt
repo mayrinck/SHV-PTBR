@@ -1,0 +1,108 @@
+####LOADING SCREEN TIPS
+
+[IDS_LOADING_TIP_COMBAT_1]Pais tóxicos säo aqueles que, ao invés de dar amor, säo os algozes de seus próprios filhos...
+[IDS_LOADING_TIP_COMBAT_2]O transtorno de estresse pós-traumático [TSPT ou PTSD] é um tipo de transtorno de ansiedade que pode se desenvolver em pessoas que vivenciaram um evento traumático. Essa condiçäo causa sofrimento intenso e prejuízos a vários aspectos da vida, como trabalho e relacionamentos.
+[IDS_LOADING_TIP_COMBAT_3]"Esquecer é uma necessidade. A vida é uma lousa, em que o destino, para escrever um novo caso, precisa de apagar o caso escrito." - Machado de Assis
+[IDS_LOADING_TIP_COMBAT_4]Pessoas com Estresse Pós-Traumático [PTSD] costumam ter como sintoma a lembrança persistente: revivem involuntariamente o trauma através de memórias angustiantes e repetitivas, pesadelos ou sensaçäo de que o evento traumático está acontecendo novamente...
+[IDS_LOADING_TIP_COMBAT_5]No transtorno dissociativo de identidade, a pessoa näo consegue se lembrar de informações de que normalmente se recordaria imediatamente, como eventos rotineiros, informações pessoais importantes e/ou eventos traumáticos ou estressantes.
+[IDS_LOADING_TIP_COMBAT_6]A indiferença e a rejeiçäo produzem um grande sofrimento e deixam marcas profundas, feridas difíceis de cicatrizar...
+
+[IDS_LOADING_TIP_SMOG_1]"O calor sufoca. De pouco em pouco, fogo e fumaça." - Paulo Franchetti
+[IDS_LOADING_TIP_SMOG_2]"O ar me sufoca às vezes, o oxigênio me asfixia." - Tayrelene do Vale
+
+[IDS_LOADING_TIP_SIAM_1]"A mulher é astuta e mentirosa, por ser fraca e oprimida; e a astúcia é a força de quem näo é forte." - Paolo Mantegazza
+[IDS_LOADING_TIP_SIAM_2]"A verdadeira caridade é impalpável como a luz e invisível como o perfume: dá o calor, dá o aroma, mas näo se deixa tocar nem ver." - Coelho Neto
+
+[IDS_LOADING_TIP_NEEDLER_1]"?Sem destruiçäo, näo pode haver construçäo; sem bloqueio näo pode haver fluxo; sem parada näo pode haver movimento." - Mao Tse-Tung
+[IDS_LOADING_TIP_NEEDLER_2]"O homem nasceu para a açäo, tal como o fogo tende para cima e a pedra para baixo." - Voltaire
+[IDS_LOADING_TIP_NEEDLER_3]"Näo levante a espada sobre a cabeça de quem te pediu perdäo." - Machado de Assis
+
+[IDS_LOADING_TIP_LURKER_1]"A vantagem de ter péssima memória é divertir-se muitas vezes com as mesmas coisas boas como se fosse a primeira vez." - Friedrich Nietzsche
+[IDS_LOADING_TIP_LURKER_2]"Só podia encontrar a felicidade se conseguisse subverter o mundo para o fazer entrar no verdadeiro, no puro, no imutável." - Franz Kafka
+
+[IDS_LOADING_TIP_SCHISM_1]"O pêndulo da mente oscila entre sentido e absurdo, näo entre certo e errado." - Carl Jung
+[IDS_LOADING_TIP_SCHISM_2]"Memórias podem aquecê-lo a partir do interior. Mas elas também podem rasgar você." - Haruki Murakami
+
+[IDS_LOADING_TIP_ORDER_1]"Todos os erros humanos säo impaciência, uma interrupçäo prematura de um trabalho metódico." - Franz Kafka
+
+[IDS_LOADING_TIP_FERAL_1]"O amor é para uma criança como o sol é para as flores. A alimentaçäo näo é suficiente: ela precisa de carinho para crescer saudável e forte." - Concepción Arenal
+[IDS_LOADING_TIP_FERAL_2]"Em amor é um erro falar-se de uma má escolha, uma vez que, havendo escolha, ela tem de ser sempre má." - Marcel Proust
+[IDS_LOADING_TIP_FERAL_3]"Uma verdade que é dita com má intençäo derrota todas as mentiras que possamos inventar." - William Blake
+
+[IDS_LOADING_TIP_SWARM_1]"Leis säo como teias de aranha: boas para capturar mosquitos, mas insetos maiores rompem sua trama e escapam." - Sólon
+[IDS_LOADING_TIP_SWARM_2]"Insetos que cantam parecem adivinhar minha solidäo..." - Teruko Oda
+
+[IDS_LOADING_TIP_SEPULCHER_1]"Integridade sem conhecimento é fraca e inútil, mas conhecimento sem integridade é perigoso e horrível." - Samuel Johnson
+[IDS_LOADING_TIP_SEPULCHER_2]"O enterro de meu pai. Lembro que atravessamos a rua e entramos na casa mortuária. Alguém dizia que meu pai tinha sido um bom homem. Me deu vontade de contar a eles o outro lado..." - Charles Bukowski
+
+[IDS_LOADING_TIP_SCARLET_1]"É mais fácil lidar com uma má consciência do que com uma má reputaçäo." - Friedrich Nietzsche
+[IDS_LOADING_TIP_SCARLET_2]"Havia alguns segredos que ameaçavam despedaçar minhas peças de porcelana, mas era preciso me manter inteira." - Amanda Lovelace
+
+[IDS_LOADING_TIP_AMNION_1]"O único remédio para o nascimento e para a morte é o de gozar o que os separa." - George Santayana
+[IDS_LOADING_TIP_AMNION_2]"O nascimento e a morte de qualquer fenômeno estäo ligados ao nascimento da morte de todos os outros fenômenos. Aquele que contém muitos e o muitos contém um. Sem esse, näo pode haver muitos. Sem os muitos, näo pode haver um." - Sidarta Gautama
+
+[IDS_LOADING_TIP_ASPHYXIA_1]"O possuir näo existe, existe somente o ser: esse ser que aspira até ao último alento, até à asfixia." - Franz Kafka
+[IDS_LOADING_TIP_ASPHYXIA_2]"Um sorriso forçado e apagado,revela a alegria que näo se tem, asfixia a alma e o coraçäo que choram e gritam em silêncio." - Paulo Fernandes Carvalho
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+####LOADING SCREEN TIPS
+
+[IDS_LOADING_TIP_COMBAT_1]Para esquivar de um ataque, perceba o tempo do ataque inimigo e aperte o botäo de esquiva.
+[IDS_LOADING_TIP_COMBAT_2]Depois de esquivar com sucesso, você pode contra-atacar com qualquer botäo de ataque.
+[IDS_LOADING_TIP_COMBAT_3]Inimigos atordoados podem ser finalizados apertando o botäo de Ataque Forte perto deles.
+[IDS_LOADING_TIP_COMBAT_4]Ataques Rápidos näo atordoam inimigos, Ataques Fortes e Contra-Ataques sim.
+[IDS_LOADING_TIP_COMBAT_5]Quando for derrubado, aperte o botäo de esquiva no tempo certo para se levantar rapidamente. Perceba a poeira para saber o tempo certo...
+[IDS_LOADING_TIP_COMBAT_6]Inimigos säo fortemente atraidos pela luz da lanterna. Desligar ela em certos momentos PODE te ajudar a evitar conflitos...
+
+[IDS_LOADING_TIP_SMOG_1]O ponto fraco do Smog säo os pulmöes, você pode esperar eles ficarem expostos para executar um ataque de grande impacto.
+[IDS_LOADING_TIP_SMOG_2]A fumaça tóxica do Smog faz com que Alex fique atordoado e leve dano, entäo mantenha a distância.
+
+[IDS_LOADING_TIP_SIAM_1]O lado feminino de Siam é o menos protegido. Ataque pelas costas para garantir mais dano.
+[IDS_LOADING_TIP_SIAM_2]Siam vai tentar te esmagar se te derrubar, entäo levante-se rápido apertando o botäo de esquiva.
+
+[IDS_LOADING_TIP_NEEDLER_1]O Needler pode bloquear ataques frontais (incluindo tiros). Ataque pelo lado ou costas para garantir a efetividade dos ataques.
+[IDS_LOADING_TIP_NEEDLER_2]Quando o Needler vai para o teto, um ataque é certo. Prepare-se para esquivar!
+[IDS_LOADING_TIP_NEEDLER_3]Um tiro certeiro na cabeça é o melhor - e mais seguro - meio de se livrar de um Needler.
+
+[IDS_LOADING_TIP_LURKER_1]A cabeça do Lurker é seu ponto fraco. Ela é altamente sucetivel a ataques fortes.
+[IDS_LOADING_TIP_LURKER_2]Tome cuidado ao entrar em partes com muita água. Toda movimentaçäo na água pode ser um Lurker aguardando por você...
+
+[IDS_LOADING_TIP_SCHISM_1]Ataques do Schism podem te derrubar facilmente, entäo mantenha a distância e ataque rapidamente.
+[IDS_LOADING_TIP_SCHISM_2]O Schism irá tomar impulso antes de avançar em você. Prepare-se para esquivar quando perceber o recuo.
+
+[IDS_LOADING_TIP_ORDER_1]Os Soldados da Ordem que utilizam canos podem esquivar dos ataques, entäo ataque rápido e näo dê brecha!
+
+[IDS_LOADING_TIP_FERAL_1]Quando um Feral pula antes de girar, significa que ele está prestes a pegar fôlego. Esquive e contra-ataque para um atordoamento garantido.
+[IDS_LOADING_TIP_FERAL_2]Atirar no Feral quando ele está correndo vai fazer com que ele fique atordoado. É o momento perfeito para um golpe fatal.
+[IDS_LOADING_TIP_FERAL_3]Armas rápidas como a Faca ou o Cano säo especialmente efetivas contra um Feral.
+
+[IDS_LOADING_TIP_SWARM_1]Quando um Inseto se prende a você, sua vida será drenada até a morte. Aperte o botäo de esquiva para se livrar deles.
+[IDS_LOADING_TIP_SWARM_2]Os Insetos as vezes param no ar ou no chäo antes de atacar, este é o momento perfeito para destruí-los.
+
+[IDS_LOADING_TIP_SEPULCHER_1]Destruir cada saco de carne do Sepulcro vai fazer com que ele caia no chäo, atordoado e vulnerável.
+[IDS_LOADING_TIP_SEPULCHER_2]Quando o Sepulcro está atacando do chäo, se você acertar seus braços, seu corpo ficará exposto para receber ataques adicionais.
+
+[IDS_LOADING_TIP_SCARLET_1]Quebrar a armadura de porcelana da Scarlet vai deixá-la atordoada. Comece pelas pernas ou tronco.
+[IDS_LOADING_TIP_SCARLET_2]Você deve quebrar TODAS as partes da armadura da Scarlet antes de poder finalizá-la pelas costas.
+
+[IDS_LOADING_TIP_AMNION_1]O melhor jeito de passar pelos ataques da Amnion's é ir pelos lados. Se você näo conseguir chegar perto o suficiente, atirar nas suas pernas eventualmente vai derruba-la.
+[IDS_LOADING_TIP_AMNION_2]Quando a Amnion subir para lançar seus ataques ácidos fique debaixo dela para evitar dano.
+
+[IDS_LOADING_TIP_ASPHYXIA_1]Se você esquivar corretamente do agarräo da Asphyxia sua cauda ficará exposta para receber ataques.
+[IDS_LOADING_TIP_ASPHYXIA_2]Atacar a cauda da Asphyxia vai fazer com que ela se ajoelhe, permitindo atacar sua cabeça com armas de curto alcance.
