@@ -372,7 +372,7 @@
 [IDS_LOADING_TIP_COMBAT_2]O transtorno de estresse pós-traumático [TSPT ou PTSD] é um tipo de transtorno de ansiedade que pode se desenvolver em pessoas que vivenciaram um evento traumático. Essa condiçäo causa sofrimento intenso e prejuízos a vários aspectos da vida, como trabalho e relacionamentos.
 [IDS_LOADING_TIP_COMBAT_3]"Esquecer é uma necessidade. A vida é uma lousa, em que o destino, para escrever um novo caso, precisa de apagar o caso escrito." - Machado de Assis
 [IDS_LOADING_TIP_COMBAT_4]Pessoas com Estresse Pós-Traumático [PTSD] costumam ter como sintoma a lembrança persistente: revivem involuntariamente o trauma através de memórias angustiantes e repetitivas, pesadelos ou sensaçäo de que o evento traumático está acontecendo novamente...
-[IDS_LOADING_TIP_COMBAT_5]No transtorno dissociativo de identidade, a pessoa näo consegue se lembrar de informações de que normalmente se recordaria imediatamente, como eventos rotineiros, informações pessoais importantes e/ou eventos traumáticos ou estressantes.
+[IDS_LOADING_TIP_COMBAT_5]No transtorno dissociativo de identidade, a pessoa näo consegue se lembrar de informaçöes de que normalmente se recordaria imediatamente, como eventos rotineiros, informaçöes pessoais importantes e/ou eventos traumáticos ou estressantes.
 [IDS_LOADING_TIP_COMBAT_6]A indiferença e a rejeiçäo produzem um grande sofrimento e deixam marcas profundas, feridas difíceis de cicatrizar...
 
 [IDS_LOADING_TIP_SMOG_1]"O calor sufoca. De pouco em pouco, fogo e fumaça." - Paulo Franchetti
@@ -1413,32 +1413,32 @@
 [M02_Interest_Bait1]Parece que a loja da pescaria também fechou...
 [M02_Interest_Bait2]Se bem que, com esse clima, eu duvido que alguém queira pescar...
 
-[M02_Interest_Dock1]The gate is sealed shut - there's no way I could open it.
-[M02_Interest_Dock2]This should lead down to the docks and boat launch.
-[M02_Interest_Dock3]As a kid, I would spend entire summer days out on the lake.
-[M02_Interest_Dock4]But it looks like no one uses this path now...
+[M02_Interest_Dock1]O portäo está selado por completo. Näo tem jeito de abrir.
+[M02_Interest_Dock2]Esse caminho leva as docas onde ficam os barcos.
+[M02_Interest_Dock3]Quando eu era criança, eu passava todos os meus dias das férias de veräo lá no lago.
+[M02_Interest_Dock4]Mas parece que ninguém mais usa esse caminho...
 
-[M02_Interest_Building1]This building is abandoned.
-[M02_Interest_Building2]I don't even remember what was here before I left...
-[M02_Interest_Building3]Everything looks so different now.
+[M02_Interest_Building1]Esse prédio foi abandonado.
+[M02_Interest_Building2]Eu nem me lembro desse prédio estar aqui quando fui embora...
+[M02_Interest_Building3]Tudo parece täo diferente agora.
 
-[M02_Interest_Hardware1]It's Mr. Olson's Hardware Store, but no one is in there.
-[M02_Interest_Hardware2]Once Joshua got caught stealing a pack of gum from here.
-[M02_Interest_Hardware3]Dad lectured me for letting my little brother shoplift, and grounded us both.
+[M02_Interest_Hardware1]É a loja de ferragens do Sr. Olson. \nNäo tem ninguém.
+[M02_Interest_Hardware2]Uma vez o Joshua foi pego roubando um pacote de chicletes bem aqui.
+[M02_Interest_Hardware3]Nosso pai me repreendeu por näo ter impedido meu irmäo de roubar, e colocou nós dois de castigo.
 
-[M02_Interest_Garage1]It looks like something was trying to claw its way into the garage...
-[M02_Interest_Garage2]This door wont open without the garage door remote...
+[M02_Interest_Garage1]Parece que alguma coisa arranhou muito a porta para tentar entrar na garagem...
+[M02_Interest_Garage2]Essa porta näo vai abrir sem o controle remoto dela...
 
-[M02_Interest_BusStop1]The local bus stop.
-[M02_Interest_BusStop2]I remember dad didn't even come to say goodbye when I left to join the service.
-[M02_Interest_BusStop3]I thought I was making him proud.
+[M02_Interest_BusStop1]A parada de ônibus da cidade.
+[M02_Interest_BusStop2]Eu me lembro que meu pai nem veio se despedir no dia em que eu fui embora para me alistar.
+[M02_Interest_BusStop3]Eu pensei que deixaria ele orgulhoso fazendo isso...
 
-[M02_Interest_DrainA1]God, it smells terrible down there.
-[M02_Interest_DrainA2]It's not sewage, it's something else...
-[M02_Interest_DrainA3]I'd rather not think about it.
+[M02_Interest_DrainA1]Meu Deus aqui embaixo cheira mau demais.
+[M02_Interest_DrainA2]Näo é cheiro de esgoto, é algo diferente...
+[M02_Interest_DrainA3]Acho melhor näo pensar muito sobre isso.
 
-[M02_Interest_DrainB1]I remember teasing Joshua that monsters would grab his feet if he walked too close to storm drains.
-[M02_Interest_DrainB1]I bet he still won't go near them.
+[M02_Interest_DrainB1]Eu me lembro de assustar meu irmäo contando a ele que monstros puxariam ele pelos pés se ele passasse perto dos bueiros.
+[M02_Interest_DrainB1]Aposto que ele ainda näo passa perto deles.
 
 [M02_Interest_DrainC1]Eu tenho certeza que ouvi algo se mexendo lá em baixo...
 
@@ -1448,21 +1448,21 @@
 [M02_Interest_FlyerA1]Prefeito Barlett foi o primeiro a me cumprimentar quando eu decidi me juntar as forças militares.
 [M02_Interest_FlyerA2]Eu deveria vê-lo enquanto estou na cidade.
 
-[M02_Interest_MonumentA1]The text is badly worn.  I can only make out a few words...
-[M02_Interest_MonumentA2]<COLOR,195,188,228> In memorial of our glorious founding, we the people of Shepherd's -----<CLEARCOLOR>
-[M02_Interest_MonumentA3]<COLOR,195,188,228>Always remember the ----- and those that lit the way to our new -----<CLEARCOLOR>
-[M02_Interest_MonumentA4]<COLOR,195,188,228>The price we paid ----- And the ----- that we leave behind to continue that mission will be our legacy.<CLEARCOLOR>
-[M02_Interest_MonumentA5]<COLOR,195,188,228>-----lett built this clock tower, and as its hands will never stop turning so will -----<CLEARCOLOR>
-[M02_Interest_MonumentA6]<COLOR,195,188,228>The rest is completely illegible. <CLEARCOLOR>
+[M02_Interest_MonumentA1]As escrituras estäo muito desgastadas.  Eu só consigo ver algumas palavras...
+[M02_Interest_MonumentA2]<COLOR,195,188,228> Em memória de nossos gloriósos fundadores, nós as pessoas de Shepherd's-----<CLEARCOLOR>
+[M02_Interest_MonumentA3]<COLOR,195,188,228>Sempre nos lembraremos dos----- e aqueles que iluminaram o caminho para o nosso novo-----<CLEARCOLOR>
+[M02_Interest_MonumentA4]<COLOR,195,188,228>O preço que pagamos ----- E as ----- que deixamos para trás para continuar aquela missäo seräo nosso legado<CLEARCOLOR>
+[M02_Interest_MonumentA5]<COLOR,195,188,228>-----lett construiu esta torre do relógio, e assim como os ponteiros näo deixaräo de girar, nós-----<CLEARCOLOR>
+[M02_Interest_MonumentA6]<COLOR,195,188,228>O resto é ilegível. <CLEARCOLOR>
 
-[M02_Interest_GasTank1]The gas tank is open...
-[M02_Interest_GasTank2]It looks like someone syphoned some gas out of this.
+[M02_Interest_GasTank1]O tamque de combustível está aberto...
+[M02_Interest_GasTank2]Parece que alguém já pegou um pouco do combustivel aqui.
 
-[M02_Interest_FillGas1]I can use this to fill up the <COLOR,155,255,155>Gas Can<CLEARCOLOR>...
-[M02_Interest_FillGas2]There was not much left, but I should be able to power up the generator with this.
+[M02_Interest_FillGas1]Eu posso usar isso pra encher o <COLOR,155,255,155>Tanque de Combustível<CLEARCOLOR>...
+[M02_Interest_FillGas2]Näo tinha muito sobrando, mas eu acho que é suficiente pra ligar a bomba.
 
-[M02_Interest_Bank1]The bank is closed too...
-[M02_Interest_Bank2]It can't be a holiday. No one is around.
+[M02_Interest_Bank1]O banco também está fechado...
+[M02_Interest_Bank2]Cara, näo pode ser um feriado. Näo tem ninguém nessa cidade.
 
 [M02_Interest_DadCar1]It's Dad's old car. Mom always told him that he would never finish repairing it.
 [M02_Interest_DadCar2]I guess she was right. It doesn't look like his truck is going anywhere.
@@ -1504,25 +1504,25 @@
 [M02_Interest_CoalMine3]A series of accidents coupled with a decline in the coal industry eventually forced the closure of most local mines.
 [M02_Interest_CoalMine4]However, most people took up new jobs rather than abandon the beautiful town they had built.
 
-[M02_Interest_Awards1]It's a display for all the awards the town has won over the years.
-[M02_Interest_Awards2]Shepherd's Glen always won "Best Vacation Spot in New England."
+[M02_Interest_Awards1]Aqui estäo todos os prêmios que a cidade ganhou ao longo dos anos.
+[M02_Interest_Awards2]Shepherd's Glen sempre ganhou o prêmio de "Melhor lugar para férias em New England."
 
-[M02_Interest_Football1]This is the varsity football team that won the state championship.
+[M02_Interest_Football1]Este é o time de futebol do colégio que ganhou o campeonato estadual.
 
-[M02_Interest_CaseA1]The case is empty.
-[M02_Interest_CaseA2]This case used to be full of photos and other mementos.
-[M02_Interest_CaseA3]I wonder why it's empty now...
+[M02_Interest_CaseA1]A caixa está vazia.
+[M02_Interest_CaseA2]Essa caixa costumava ser cheia de fotos e outras lembranças.
+[M02_Interest_CaseA3]Me pergunto o por que está vazia agora...
 
-[M02_Interest_OldPhoto1]It's a photo of Shepherd's Glen back when Main Street was still a dirt road.
+[M02_Interest_OldPhoto1]É uma antiga foto de quando a rua principal da cidade ainda era de terra batida.
 
-[M02_Interest_BlankSpace1]It looks like there used to be a picture right here...
-[M02_Interest_BlankSpace2]I wonder why it's empty now?
+[M02_Interest_BlankSpace1]Parece que tinha uma foto bem aqui...
+[M02_Interest_BlankSpace2]Por que será que retiraram?
 
 [M02_Interest_BreakingGround1]It's a picture of Mason Bartlett breaking ground on the Town Hall.
 
-[M02_Interest_FounderBart1]One of Mayor Bartlett's ancestors was a town founder.
-[M02_Interest_FounderBart2]Bartlett has been Mayor since I was born and no one ever ran against him.
-[M02_Interest_FounderBart3]I guess family heritage counts for a lot here.
+[M02_Interest_FounderBart1]Um dos ancestrais do prefeito Barlett foi um dos fundadores da cidade.
+[M02_Interest_FounderBart2]Bartlett é o prefeito desde que eu nasci, e ninguém nunca tentou concorrer contra ele.
+[M02_Interest_FounderBart3]A herança familiar parece que conta muito por aqui...
 
 [M02_Interest_FounderFitch1]This is Cornelius Fitch, another of Shepherd's Glen's four founders.
 [M02_Interest_FounderFitch2]I always forget that Doctor Fitch is his direct descendant.
@@ -1533,13 +1533,13 @@
 [M02_Interest_FounderHollo3]She and Elle even sent me letters when I left for the war... more letters than anyone else sent.
 [M02_Interest_FounderHollo4]Sometimes I wonder how things would have turned out if I were born into a different family...
 
-[M02_Interest_FounderShep1]This is my great, great, great, great, great grandfather, Isaac Shepherd.
-[M02_Interest_FounderShep2]He was one of the four founders, and they named the town after him.
-[M02_Interest_FounderShep3]Why isn't this on the wall?
+[M02_Interest_FounderShep1]Esse é o meu quinto-avô, pai do meu tataravô. Seu nome era Isaac Shepherd.
+[M02_Interest_FounderShep2]Ele foi um dos quatro membros fundadores, e a cidade foi nomeada em sua homenagem.
+[M02_Interest_FounderShep3]Por que isso näo está descrito aqui?
 
-[M02_Interest_FitchShelfA1]The shelves contain medicine and anatomy journals.
+[M02_Interest_FitchShelfA1]As prateleiras tem diversos artigos sobre anatomia e medicina.
 
-[M02_Interest_FitchShelfB1]It's a collection of historical books.
+[M02_Interest_FitchShelfB1]Uma coleçäo de livros históricos.
 [M02_Interest_FitchShelfB2]<COLOR,195,188,228>"Famous Coal Mining Towns of New England"<CLEARCOLOR>
 [M02_Interest_FitchShelfB3]<COLOR,195,188,228>"Pivotal Battles of the Civil War"<CLEARCOLOR>
 [M02_Interest_FitchShelfB4]<COLOR,195,188,228>"Frontier Cures: Bleed and Purge" <CLEARCOLOR>
@@ -1561,10 +1561,10 @@
 [M02_Interest_FitchOfficeA2]Everyone always said he was the best father in town.
 [M02_Interest_FitchOfficeA3]Scarlet was about Josh's age, but I don't think she ever played with any of the kids in town.
 
-[M02_Interest_FitchOfficeB1]It's a picture of Scarlet, Doc Fitch's daughter.
-[M02_Interest_FitchOfficeB2]Doctor Fitch would do anything for that girl.
+[M02_Interest_FitchOfficeB1]É uma foto da Scarlet, filha do Dr. Fitch.
+[M02_Interest_FitchOfficeB2]Dr. Fitch faria qualquer coisa pela filha dele.
 
-[M02_Interest_FitchOfficeCIntro]It's a newspaper article...
+[M02_Interest_FitchOfficeCIntro]É um artigo de jornal...
 
 [M02_Interest_FitchOfficeC1]<COLOR,195,188,228>What should have been a normal school run home turned into tragedy last week when a freak thunderstorm washed a school bus into the raging torrent of the Toluca River. The normally placid river, swollen by nearly a week of record-breaking rainfall, was running almost 15ft higher than normal.<CLEARCOLOR>
 
@@ -1584,23 +1584,23 @@
 
 [M02_Interest_FitchOfficeC17]<COLOR,195,188,228>For his feat of bravery the City council gave their highest award to Doctor Fitch, along with the Key to the City.\nThough tragedy struck for Martin Ward; the potential loss of all those children was averted by the selfless act of one man, Dr. Martin Fitch MD.<CLEARCOLOR>
 
-[M02_Interest_BartOfficeA1]These plants look healthy.
-[M02_Interest_BartOfficeA2]If someone has time to water the plants, why don't they clean up the rest of the office?
+[M02_Interest_BartOfficeA1]Essas plantas parecem saudáveis.
+[M02_Interest_BartOfficeA2]Se alguém teve tempo de regar as plantas, por que näo limparam o resto das coisas?
 
-[M02_Interest_BartOfficeB1]Are these the only green plants in the whole town?
-[M02_Interest_BartOfficeB2]What are they feeding these plants to keep them so vibrant?
+[M02_Interest_BartOfficeB1]Será que essas säo as únicas plantas saudáveis na cidade toda?
+[M02_Interest_BartOfficeB2]O que eles estäo dando pra essas plantas ficarem täo fortes e vibrantes?
 
-[M02_Interest_53_Bartletts_Room_Item_1]This must belong to the mayor's son, Joey.
+[M02_Interest_53_Bartletts_Room_Item_1]Isso pertencia ao filho do prefeito, Joey.
 
-[M02_Interest_HolloOfficeA1]It looks like the Judge's luggage.
-[M02_Interest_HolloOfficeA2]There doesn't seem to be anything inside... she must have just returned from a trip.
+[M02_Interest_HolloOfficeA1]Parece que é a lixeira da Juiza Holloway.
+[M02_Interest_HolloOfficeA2]Näo parece ter nada dentro... Ela deve ter voltado de viagem recentemente ou coisa assim.
 
 [M02_Interest_HolloOfficeB1]Elle Holloway...
 [M02_Interest_HolloOfficeB2]Faz tanto tempo que eu näo a vejo...
 
-[M02_Interest_ShepOfficeA1]These boxes are covered in dust.
-[M02_Interest_ShepOfficeA2]It looks like they haven't been touched in a long time.
-[M02_Interest_ShepOfficeA3]Is this just a storage room?
+[M02_Interest_ShepOfficeA1]Essas caixas estäo cobertas de poeira.
+[M02_Interest_ShepOfficeA2]Parece que näo foram mexidas por um bom tempo...
+[M02_Interest_ShepOfficeA3]Será que isso é só um depósito mesmo?
 
 [M02_Interest_SchoolHouse1]<COLOR,195,188,228>When the homesteaders of Shepherd's Glen needed their first school, the community sprung into action. <CLEARCOLOR>
 [M02_Interest_SchoolHouse2]<COLOR,195,188,228>The one-room school house was built with donated money and materials, as well as the sweat and hopes of the town.<CLEARCOLOR>
@@ -1620,14 +1620,14 @@
 # Main Street and Town Hall #
 [M02_Interest_16_Park_Ride]Eu lembro de um dia que meu pai me girou täo forte nesse brinquedo que eu fui lançado pra fora...
 [M02_Interest_20_Alex_walks_into_Fog]Eu tenho que voltar...
-[M02_Interest_32_Alex_Front_Window]Why are all of the curtains drawn?
-[M02_Interest_33_Alex_Front_Window]Looks like they haven't been opened in years.
+[M02_Interest_32_Alex_Front_Window]Por que as cortinas estäo fechadas?
+[M02_Interest_33_Alex_Front_Window]Parece que elas näo foram abertas por anos...
 
 # M02 - Inside the Town Hall #
-[M02_Interest_59_Fitch_Painting_Plaque]The plaque reads, <COLOR,195,188,228>Cornelius Fitch, the town butcher, prepares a pig for market.<CLEARCOLOR>
-[M02_Interest_60_Bartlett_Painting_Plaque]The plaque reads, <COLOR,195,188,228>Farmer Mason Bartlett breaks ground on the Shepherd's Glen Town Hall.<CLEARCOLOR>
-[M02_Interest_61_Holloway_Painting_Plaque]The plaque reads, <COLOR,195,188,228>Lawyer Edwin Holloway dedicates the Sequoit River Windmill.<CLEARCOLOR>
-[M02_Interest_62_Shepherd_Painting_Plaque]The plaque reads, <COLOR,195,188,228>Isaac Shepherd, the town's first mayor, operates the new well.<CLEARCOLOR>
+[M02_Interest_59_Fitch_Painting_Plaque]Aqui diz: <COLOR,195,188,228>Cornelius Fitch, o açougueiro da cidade, preparando um porco para a venda.<CLEARCOLOR>
+[M02_Interest_60_Bartlett_Painting_Plaque]Aqui diz: <COLOR,195,188,228>Farmer Mason Bartlett breaks ground on the Shepherd's Glen Town Hall.<CLEARCOLOR>
+[M02_Interest_61_Holloway_Painting_Plaque]Aqui diz: <COLOR,195,188,228>O advogado Edwin Holloway dedica o Moinho de Vento do Rio Sequoit.<CLEARCOLOR>
+[M02_Interest_62_Shepherd_Painting_Plaque]Aqui diz: <COLOR,195,188,228>Isaac Shepherd, the town's first mayor, operates the new well.<CLEARCOLOR>
 
 [M02_Interest_Sinkhole1]A huge sinkhole!  Right in the middle of town!  What is going on?
 [M02_Interest_Sinkhole2]The earth just collapsed under the whole street.  I can't even see the bottom!
@@ -1639,28 +1639,28 @@
 
 [M03_Basement_Dark_01]It's too dark to see anything down there.
 [M03_Basement_Dark_02]I should look for my old flashlight - it's probably upstairs.
-[M03_Tape_Recorder1]It's our answering machine.
-[M03_Tape_Recorder2]It's our answering machine.\nThere's no tape inside.
-[M03_Tape_1]It's an old cassette tape.  The label's been ripped off.
-[M03_Tape_2]I wonder what's on it.
-[M03_Military_Photos3]<COLOR,195,188,228>Join the Fight<CLEARCOLOR>
+[M03_Tape_Recorder1]Uma secretária eletrônica...
+[M03_Tape_Recorder2]É a nossa secretária eletrônica.\nEstá sem fita.
+[M03_Tape_1]É uma fita cassete velha. O nome foi riscado.
+[M03_Tape_2]Me pergunto o que está gravado aqui...
+[M03_Military_Photos3]<COLOR,195,188,228>Junte-se a luta!<CLEARCOLOR>
 [M03_Water_Pump_Full]The water pump is still running...
-[M03_Water_Pump_Empty1]It's a water pump.
-[M03_Water_Pump_Empty2]It won't start. The fuel gauge is on "empty".
-[M03_Water_Pump_Empty3]The water pump won't start without gas.
+[M03_Water_Pump_Empty1]É uma bomba d'água.
+[M03_Water_Pump_Empty2]Näo vai funcionar. Parece que está sem combustível.
+[M03_Water_Pump_Empty3]A bomba näo vai ligar se näo estiver abastecida.
 [M03_Water_Pump_Empty4]It looks like the remote for our garage is sitting on top of this water pump...  What is it doing down here?
-[M03_Water_Pump_Empty5]There's a note underneath...
-[M03_Water_Pump_Empty6]<COLOR,195,188,228>If it runs out of fuel, use the can from the garage to fill it.\n\n-Adam<CLEARCOLOR>
+[M03_Water_Pump_Empty5]Tem uma anotaçäo aqui...
+[M03_Water_Pump_Empty6]<COLOR,195,188,228>Se ficar sem combustível, use o tanque da garágem pra abastecer.\n\n-Adam<CLEARCOLOR>
 [M03_Water_Pump_Empty7]Well, the pump won't start without gas.  I should check the garage.
-[M03_Basement_Door1]This leads to the backyard.
-[M03_Basement_Door2]The basement door is locked.
-[M03_SecretDoor1]This bookshelf has seen better days.\nBut there was something special about it...
-[M03_SecretDoor2]I seem to remember there being something special about it.
+[M03_Basement_Door1]Essa porta leva ao quintal.
+[M03_Basement_Door2]A porta do poräo está trancada.
+[M03_SecretDoor1]Essa estante já esteve em condições melhores.\nMe lembro que tinha algo de especial sobre ela...
+[M03_SecretDoor2]Eu me lembro de ter algo especial sobre essa estante...
 
 ### STORY INTEREST POINTS FOR M03_Alex1 ###
 
-[M03_Interest_01]The clock has stopped.
-[M03_Interest_01b]Mom keeps everything in perfect order - why hasn't she fixed the clock?
+[M03_Interest_01]O relógio parou.
+[M03_Interest_01b]Minha mäe sempre mantém tudo em perfeita ordem, entäo... Por que ela näo mandou consertarem o relógio?
 
 [M03_Interest_03]It's a photo of the whole family. We're at one of the town festivals...
 [M03_Interest_03b]Everyone always thought we were the perfect family.
@@ -1715,26 +1715,26 @@
 [M03_Interest_23]Mom always loved the way Dad looked when he's in uniform.
 [M03_Interest_23b]She'd tell Josh that he needed to grow up big and strong so he could be handsome just like Dad.
 
-[M03_Interest_26]Where did this come from?
-[M03_Interest_28]It looks like my parents sold all my toys.
-[M03_Interest_28b]I guess after I left for the service, they didn't see much point in keeping any of my stuff.
+[M03_Interest_26]De onde veio isso?
+[M03_Interest_28]Parece que meus pais venderam todos os meus brinquedos.
+[M03_Interest_28b]Acho que depois que eu fui servir ao exército meus pais näo viram mais necessidade de guardar minhas coisas...
 
-[M03_Interest_30]There's nothing to eat in the fridge. Besides, I'm not hungry.
-[M03_Interest_30A]These cupboards are empty... I'm not hungry anyway.
-[M03_Interest_31]Somebody was afraid of something.
-[M03_Interest_33]Why am I never in any of these pictures?
-[M03_Interest_34]Joshua never could draw very well.
-[M03_Interest_35]This is the same TV my parents had when I left.
-[M03_Interest_35b]I always begged them to buy a new one, but my dad says that kids shouldn't sit in front of the TV all day.
-[M03_Interest_35c]What does he know?
+[M03_Interest_30]Näo tem nada pra comer na geladeira. Além disso, eu näo estou com fome.
+[M03_Interest_30A]Esses armários estäo vazios... Bem, eu nem tava com fome mesmo...
+[M03_Interest_31]Alguém estava com medo de alguma coisa...
+[M03_Interest_33]Por que eu nunca estou nas fotos?
+[M03_Interest_34]Joshua nunca desenhou muito bem.
+[M03_Interest_35]Essa ainda é a mesma TV que meus pais tinham quando eu fui embora.
+[M03_Interest_35b]Eu sempre pedi pra que eles comprassem uma nova, mas o pai sempre disse que crianças näo deveriam sentar na frente da TV o dia todo...
+[M03_Interest_35c]Ele näo sabe de nada.
 
-[M03_Interest_37]This thing always freaked me out.
-[M03_Interest_37b]I forgot about this place...
-[M03_Interest_43]Looks water-damaged.
+[M03_Interest_37]Essa coisa sempre me assustava.
+[M03_Interest_37b]Eu me esqueci desse lugar...
+[M03_Interest_43]Parece danificado pela água.
 [M03_Interest_44]Dad was always so protective of these tools, he wouldn't leave them open like this...
-[M03_Interest_45]Is this thing on?
+[M03_Interest_45]Isso ta ligado?
 [M03_Interest_47]I've got to get this started.
-[M03_Interest_48]Hey... Where's the dog?
+[M03_Interest_48]Espera... Cadê o cachorro?
 [M03_Interest_48b]It's our air conditioning unit. It never worked very well.
 [M03_Interest_48c]It doesn't look like anybody has sat out here in a long time.
 [M03_Interest_48d]The sink is full of dishes.  The smell is awful.  Why hasn't Mom been cleaning?
