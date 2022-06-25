@@ -1,0 +1,45 @@
+####LOADING SCREEN TIPS
+
+[IDS_LOADING_TIP_COMBAT_1]Para esquivar de um ataque, perceba o tempo do ataque inimigo e aperte o botäo de esquiva.
+[IDS_LOADING_TIP_COMBAT_2]Depois de esquivar com sucesso, você pode contra-atacar com qualquer botäo de ataque.
+[IDS_LOADING_TIP_COMBAT_3]Inimigos atordoados podem ser finalizados apertando o botäo de Ataque Forte perto deles.
+[IDS_LOADING_TIP_COMBAT_4]Ataques Rápidos näo atordoam inimigos, Ataques Fortes e Contra-Ataques sim.
+[IDS_LOADING_TIP_COMBAT_5]Quando for derrubado, aperte o botäo de esquiva no tempo certo para se levantar rapidamente. Perceba a poeira para saber o tempo certo...
+[IDS_LOADING_TIP_COMBAT_6]Inimigos säo fortemente atraidos pela luz da lanterna. Desligar ela em certos momentos PODE te ajudar a evitar conflitos...
+
+[IDS_LOADING_TIP_SMOG_1]O ponto fraco do Smog säo os pulmöes, você pode esperar eles ficarem expostos para executar um ataque de grande impacto.
+[IDS_LOADING_TIP_SMOG_2]A fumaça tóxica do Smog faz com que Alex fique atordoado e leve dano, entäo mantenha a distância.
+
+[IDS_LOADING_TIP_SIAM_1]O lado feminino de Siam é o menos protegido. Ataque pelas costas para garantir mais dano.
+[IDS_LOADING_TIP_SIAM_2]Siam vai tentar te esmagar se te derrubar, entäo levante-se rápido apertando o botäo de esquiva.
+
+[IDS_LOADING_TIP_NEEDLER_1]O Needler pode bloquear ataques frontais (incluindo tiros). Ataque pelo lado ou costas para garantir a efetividade dos ataques.
+[IDS_LOADING_TIP_NEEDLER_2]Quando o Needler vai para o teto, um ataque é certo. Prepare-se para esquivar!
+[IDS_LOADING_TIP_NEEDLER_3]Um tiro certeiro na cabeça é o melhor - e mais seguro - meio de se livrar de um Needler.
+
+[IDS_LOADING_TIP_LURKER_1]A cabeça do Lurker é seu ponto fraco. Ela é altamente sucetivel a ataques fortes.
+[IDS_LOADING_TIP_LURKER_2]Tome cuidado ao entrar em partes com muita água. Toda movimentaçäo na água pode ser um Lurker aguardando por você...
+
+[IDS_LOADING_TIP_SCHISM_1]Ataques do Schism podem te derrubar facilmente, entäo mantenha a distância e ataque rapidamente.
+[IDS_LOADING_TIP_SCHISM_2]O Schism irá tomar impulso antes de avançar em você. Prepare-se para esquivar quando perceber o recuo.
+
+[IDS_LOADING_TIP_ORDER_1]Os Soldados da Ordem que utilizam canos podem esquivar dos ataques, entäo ataque rápido e näo dê brecha!
+
+[IDS_LOADING_TIP_FERAL_1]Quando um Feral pula antes de girar, significa que ele está prestes a pegar fôlego. Esquive e contra-ataque para um atordoamento garantido.
+[IDS_LOADING_TIP_FERAL_2]Atirar no Feral quando ele está correndo vai fazer com que ele fique atordoado. É o momento perfeito para um golpe fatal.
+[IDS_LOADING_TIP_FERAL_3]Armas rápidas como a Faca ou o Cano säo especialmente efetivas contra um Feral.
+
+[IDS_LOADING_TIP_SWARM_1]Quando um Inseto se prende a você, sua vida será drenada até a morte. Aperte o botäo de esquiva para se livrar deles.
+[IDS_LOADING_TIP_SWARM_2]Os Insetos as vezes param no ar ou no chäo antes de atacar, este é o momento perfeito para destruí-los.
+
+[IDS_LOADING_TIP_SEPULCHER_1]Destruir cada saco de carne do Sepulcro vai fazer com que ele caia no chäo, atordoado e vulnerável.
+[IDS_LOADING_TIP_SEPULCHER_2]Quando o Sepulcro está atacando do chäo, se você acertar seus braços, seu corpo ficará exposto para receber ataques adicionais.
+
+[IDS_LOADING_TIP_SCARLET_1]Quebrar a armadura de porcelana da Scarlet vai deixá-la atordoada. Comece pelas pernas ou tronco.
+[IDS_LOADING_TIP_SCARLET_2]Você deve quebrar TODAS as partes da armadura da Scarlet antes de poder finalizá-la pelas costas.
+
+[IDS_LOADING_TIP_AMNION_1]O melhor jeito de passar pelos ataques da Amnion's é ir pelos lados. Se você näo conseguir chegar perto o suficiente, atirar nas suas pernas eventualmente vai derruba-la.
+[IDS_LOADING_TIP_AMNION_2]Quando a Amnion subir para lançar seus ataques ácidos fique debaixo dela para evitar dano.
+
+[IDS_LOADING_TIP_ASPHYXIA_1]Se você esquivar corretamente do agarräo da Asphyxia sua cauda ficará exposta para receber ataques.
+[IDS_LOADING_TIP_ASPHYXIA_2]Atacar a cauda da Asphyxia vai fazer com que ela se ajoelhe, permitindo atacar sua cabeça com armas de curto alcance.

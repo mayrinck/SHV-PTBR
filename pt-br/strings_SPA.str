@@ -1007,7 +1007,7 @@
 
 [M01_Obj_1]- Fuja do Hospital
 [M01_Obj_2]- Siga o Josh
-[M01_Obj_3]- Encontrar Robbie, o brinquedo do Josh
+[M01_Obj_3]- Encontre Robbie, o brinquedo do Josh
 [M01_Obj_4]- Levar Robbie para o Josh
 
 
@@ -1026,8 +1026,8 @@
 
 
 [HOLE_TOPIC_01]Colocar o braço na abertura?
-[HOLE_RESPONSE_01]Sim
-[HOLE_RESPONSE_02]Näo
+[HOLE_RESPONSE_01]Colocar o braço
+[HOLE_RESPONSE_02]Deixar pra lá
 
 
 ### M01 Pickups ###
@@ -1119,24 +1119,24 @@
 [M01_ElectroMemo_3]<COLOR,195,188,228>Este último acidente acabou sendo algo muito benéfico, já que este paciente específico era um dos mais barulhentos.<CLEARCOLOR>
 [M01_ElectroMemo_4]<COLOR,195,188,228>Eu instrui todo o corpo médico a continuar com esta configuraçäo de intensidade para todos os tratamentos.<CLEARCOLOR>
 
-[M01_Death_Report_A_1]It's a Coroner's Autopsy report:
-[M01_Death_Report_A_2]<COLOR,195,188,228>Post-Mortem examination reveals that subject died from profuse bleeding...<CLEARCOLOR>
-[M01_Death_Report_A_3]<COLOR,195,188,228>...injuries appear to be inflicted by a rusty scissor blade found nearby....<CLEARCOLOR>
-[M01_Death_Report_A_4]<COLOR,195,188,228>The missing Operation Theater key was later discovered inside the patient's chest cavity.<CLEARCOLOR>
+[M01_Death_Report_A_1]É o relatório da autópsia:
+[M01_Death_Report_A_2]<COLOR,195,188,228>Exames Post-Mortem revelaram que o paciente morreu por sangramento excessivo...<CLEARCOLOR>
+[M01_Death_Report_A_3]<COLOR,195,188,228>...ferimentos parecem ter sido causados por uma tesoura enferrujada encontrada próxima ao corpo....<CLEARCOLOR>
+[M01_Death_Report_A_4]<COLOR,195,188,228>A chave da sala de operaçöes que estava perdida foi encontrada na cavidade toráxica do paciente.<CLEARCOLOR>
 
 [M01_DoctorNote_A_1]Anotaçöes do doutor:
-[M01_DoctorNote_A_2]<COLOR,195,188,228>The patient in room 206 is scheduled to undergo a trans-orbital lobotomy tomorrow.<CLEARCOLOR>
-[M01_DoctorNote_A_3]<COLOR,195,188,228>I've mandated that the following medications be doubled on the day of the procedure...<CLEARCOLOR>
+[M01_DoctorNote_A_2]<COLOR,195,188,228>O paciênte do quarto 206 está marcado para um procedimento de lobotomia trans-orbital amanhä.<CLEARCOLOR>
+[M01_DoctorNote_A_3]<COLOR,195,188,228>Eu indiquei que as seguintes medicaçöes deveriam ser dobradas no dia anterior ao procedimento: ...<CLEARCOLOR>
 [M01_DoctorNote_A_4]<CLEARCOLOR>Eu pensei que lobotomias eram considaradas uma prática obsoleta. Quem será que marcou este procedimento?
 
-[M01_JanitorNote]<COLOR,195,188,228>I'm tired of cleaning up after the beatings. <CLEARCOLOR>
-[M01_JanitorNote2]<COLOR,195,188,228>There was so much blood the last time, it looked like someone died!\nPlease be more careful - when the blood dries it makes the floor very slippery and is a safety hazard.\nKeep the mess to a minimum.<CLEARCOLOR>
+[M01_JanitorNote]<COLOR,195,188,228>Estou cansado de limpar tudo depois das surras. <CLEARCOLOR>
+[M01_JanitorNote2]<COLOR,195,188,228>Tinha muito sangue na ultima vez, era como se tivessem matado alguém!\nPor favor, tenham mais cuidado - quando o sangue resseca ele torna o chäo mais escorregadio, isso é um problema pra segurança.\nSuas bagunças... Façam o mínimo possível.<CLEARCOLOR>
 
-[M01_TreatmentSchedule_1]<COLOR,195,188,228>SCHEDULE OF TREATMENT\nTYPE  Electroshock  DOCTOR  Copen\nDoctor's signature is required after each entry.<CLEARCOLOR>
-[M01_TreatmentSchedule_2]<COLOR,195,188,228>MONDAY  9:00 a.m. (signed) Dr. Copen\nTUESDAY  9:15 a.m. (signed) Dr. Copen\nWEDNESDAY 9:00 a.m. (signed) Dr. Copen\n5:00 p.m. (signed) Dr. Copen\nTHURSDAY   9:15 a.m. (signed) Dr. Copen\nFRIDAY  9:00 a.m. (signed) Dr. Copen\n5:00 p.m. (signed) Dr. Copen\n11:00 p.m. (signed) Dr. Copen\nSATURDAY\nSUNDAY<CLEARCOLOR>
-[M01_TreatmentSchedule_3]<COLOR,195,188,228>Comments:  Treatment has yet to achieve desired results. Patient is non-responsive.  Please administer pureed foods only.<CLEARCOLOR>
+[M01_TreatmentSchedule_1]<COLOR,195,188,228>AGENDA DE TRATAMENTOS\nTIPO: ELETROCHOQUE   DOUTOR:  Copen\nA rúbrica do doutor é necessária após qualquer procedimento.<CLEARCOLOR>
+[M01_TreatmentSchedule_2]<COLOR,195,188,228>SEGUNDA-FEIRA  09:00 (assinado) Dr. Copen\nTERÇA-FEIRA  09:15 (assinado) Dr. Copen\nQUARTA-FEIRA 09:00 (assinado) Dr. Copen\n17:00 (assinado) Dr. Copen\nQUINTA-FEIRA   09:15 (assinado) Dr. Copen\nSEXTA-FEIRA  09:00 (assinado) Dr. Copen\n17:00 (assinado) Dr. Copen\n23:00 (assinado) Dr. Copen\nSÁBADO\nDOMINGO<CLEARCOLOR>
+[M01_TreatmentSchedule_3]<COLOR,195,188,228>Observaçöes:  Tratamento ainda näo alcançou os resultados desejados. Paciente se encontra näo-responsivo. Por favor, somente alimentar com purês.<CLEARCOLOR>
 
-[M01_NotHere_2]<COLOR,195,188,228>Ela näo ta aqui Ela näo ta aqui\nEla näo ta aqui Ela näo ta aqui\nEla näo ta aqui Ela näo ta aqui\nEla näo ta aqui Ela näo ta aqui<CLEARCOLOR>
+[M01_NotHere_2]<COLOR,195,188,228>Ela näo ta aqui  Ela näo ta aqui\nEla näo ta aqui  Ela näo ta aqui\nEla näo ta aqui  Ela näo ta aqui\nEla näo ta aqui  Ela näo ta aqui<CLEARCOLOR>
 
 
 ### M01 Interest Points ###
@@ -1181,7 +1181,7 @@
 [OrderlyKey_2]A mäo dele está segurando uma espécie de chave.
 [M01_PadlockDoor_1]Näo da pra passar por aqui, a porta está acorrentada.
 [M01_IncDoll_1]Uma boneca... Parece estar queimada.
-[M01_IncDoll_2]Me pergunto... Como ela chegou ali?
+[M01_IncDoll_2]Como ela chegou ali?
 
 [M01_Door206_01]Eu acho que ouvi o som de água caindo de uma cachoeira... Parece que está vindo de trás desta porta. Mas isso é impossível, isso é um hospital.
 
@@ -1249,8 +1249,8 @@
 [M01_AntiMan_2]<COLOR,195,188,228>Näo existe mais liberdade nesse mundo... Será que somente eu sei a verdade?<CLEARCOLOR>
 
 
-[M01_Torture]O que é essa coisa esquisita aqui?
-[M01_Torture2]O que é essa coisa horrível aqui?
+[M01_Torture]O que é essa coisa esquisita?
+[M01_Torture2]O que é essa coisa horrível?
 
 [M01_StaffOnly]<COLOR,195,188,228>Somente funcionários. Nenhum visitante é permitido além deste ponto.<CLEARCOLOR>
 [M01_BathroomDoor2]A porta está trancada. Mas posso jurar que ouvi alguém do outro lado.
@@ -1285,7 +1285,7 @@
 
 [M01_Interest_08]Por que isso está aqui?
 [M01_Interest_09]Uma pilha de revistas, mas eu näo conheço nenhuma delas...
-[M01_Interest_12]What happened here? People come to hospitals to get better- why are there no doctors?
+[M01_Interest_12]O que aconteceu aqui? As pessoas vem para os hospitais para melhorar, entäo... Por que näo tem médicos aqui?
 [M01_Interest_13]Esse lugar näo cheira como um hospital... Pelo menos näo cheira como um hospital limpo...
 [M01_Interest_14]Por que desenhar tantos coelhinhos?
 [M01_Interest_15]Por que Joshua está deixando isso para trás?
@@ -1304,21 +1304,21 @@
 [M01_Interest_37_Medical_Record_Psychotic_Patient]É o registro médico de um paciente...
 [M01_Interest_38_Medical_Record_Psychotic_Patient]<COLOR,195,188,228>O paciente sofre de uma anomalia mental severa, -------- distúrbio de personalidade.<CLEARCOLOR>
 [M01_Interest_39_Medical_Record_Psychotic_Patient]<COLOR,195,188,228>-------- demonstra atenuaçäo dos sintomas de psicose pres---- a maior parte do tempo.<CLEARCOLOR>
-[M01_Interest_40_Patient_Chart_1]<COLOR,195,188,228>Patient suffered injuries received during a roadside bomb attack.<CLEARCOLOR>
+[M01_Interest_40_Patient_Chart_1]<COLOR,195,188,228>Paciente sofreu os ferimentos durante um ataque a bomba na estrada.<CLEARCOLOR>
 [M01_Interest_41_Patient_Chart_1]<COLOR,195,188,228>Right thigh gouged by hot shrapnel resulting in severe laceration and excretion of blood and tissue.<CLEARCOLOR>
 [M01_Interest_42_Patient_Chart_1]<COLOR,195,188,228>Right shoulder also injured, but it is yet unclear as to the extremity of the wound.<CLEARCOLOR>
-[M01_Interest_43_Patient_Chart_2]<COLOR,195,188,228>Patient continues irrational behavior and contrived savior fantasy.<CLEARCOLOR>
+[M01_Interest_43_Patient_Chart_2]<COLOR,195,188,228>O paciente continua com o comportamento irracional e a fantasia de salvador inventada.<CLEARCOLOR>
 [M01_Interest_44_Patient_Chart_2]<COLOR,195,188,228>Receives regularly scheduled treatment of electroconvulsive therapy.<CLEARCOLOR>
 [M01_Interest_45_Patient_Chart_2]<COLOR,195,188,228>Exhibits confusion and memory loss for events during the time of ECT Treatment.<CLEARCOLOR>
 [M01_Interest_46_Patient_Chart_3]<COLOR,195,188,228>Patient sustained deep gashes across face and chest during battle.<CLEARCOLOR>
 [M01_Interest_47_Patient_Chart_3]<COLOR,195,188,228>Both hands obliterated when an explosive device detonated prematurely.<CLEARCOLOR>
 [M01_Interest_48_Patient_Chart_3]<COLOR,195,188,228>Receiving care for traumatic brain injuries and post traumatic stress disorder.<CLEARCOLOR>
-[M01_Interest_49_Disturbing_Accident_Report]It's a Nurse's Accident Report:
+[M01_Interest_49_Disturbing_Accident_Report]É um relatório de acidente de uma enfermeira:
 [M01_Interest_50_Disturbing_Accident_Report]<COLOR,195,188,228>Patient restrained due to extreme violent behavior and moved to secure room.<CLEARCOLOR>
 [M01_Interest_51_Disturbing_Accident_Report]<COLOR,195,188,228>Hour later, was found sick and choking on his own vomit. Patient was promptly resuscitated.<CLEARCOLOR>
-[M01_Interest_52_Disturbing_Autopsy_Report]I found a Coroner's Autopsy report:
-[M01_Interest_53_Disturbing_Autopsy_Report]<COLOR,195,188,228>Post-Mortem examination reveals subject died from profuse bleeding<CLEARCOLOR>
-[M01_Interest_54_Disturbing_Autopsy_Report]<COLOR,195,188,228>due to self-inflicted puncturing of both eyes with a pair of metal scissors.<CLEARCOLOR>
+[M01_Interest_52_Disturbing_Autopsy_Report]Encontrei um relatório de autópsia:
+[M01_Interest_53_Disturbing_Autopsy_Report]<COLOR,195,188,228>Exames Post-Mortem revelaram que o paciente morreu por sangramento excessivo<CLEARCOLOR>
+[M01_Interest_54_Disturbing_Autopsy_Report]<COLOR,195,188,228>causado por duas perfuraçöes nas orbitas oculares, causadas por um par de tesouras.<CLEARCOLOR>
 [M01_Interest_55_Note_from_Janitor_in_Storage_Room]É uma anotaçäo escrita em uma toalha de papel:
 [M01_Interest_56_Note_from_Janitor_in_Storage_Room]<COLOR,195,188,228>Pra mim chega! Estou cansado de limpar a bagunça sangrenta de todo mundo.<CLEARCOLOR>
 [M01_Interest_57_Note_from_Janitor_in_Storage_Room]<COLOR,195,188,228>O que vocês fazem com os pacientes aqui me enoja! Eu me demito!!<CLEARCOLOR>
@@ -1330,7 +1330,7 @@
 [M01_Interest_63_Crayon_Drawings]Será que ele está tentando me dizer algo?
 [M01_Interest_64_A_Scrawled_Note_on_a_Wall]Tem uma mensagem na parede.
 [M01_Interest_65_A_Scrawled_Note_on_a_Wall]está escrito: <COLOR,195,188,228>Por que você está aqui?<CLEARCOLOR>
-[M01_Interest_66_Hear_Somebody_in_Locked_Bathroom_Stall]Acho que tem alguém aqui, mas a porta está trancada...
+[M01_Interest_66_Hear_Somebody_in_Locked_Bathroom_Stall]Acho que tem alguém aqui, a porta está trancada...
 [M01_Interest_68_Hear_Somebody_in_Locked_Bathroom_Stall]Näo tem resposta...
 [M01_Interest_69_More_Comments_for_Toilets]Esse banheiro está coberto de dejetos...
 [M01_Interest_70_More_Comments_for_Toilets]Tem vômito por todo canto daqui...
@@ -1368,11 +1368,11 @@
 [M01_Interest_116_Save_Symbols]O que será que isso faz?
 [M01_Interest_117_Save_Symbols]Tenho certeza de que já vi isso antes...
 [M01_Interest_118_2nd_Floor_Storage_Room_Photograph]Parece uma foto antiga.
-[M01_Interest_119_2nd_Floor_Storage_Room_Photograph]It's a faded picture of some food.
-[M01_Interest_120_2nd_Floor_Storage_Room_Photograph]But the meat is covered with maggots! Disgusting!
-[M01_Interest_121_C_Version_Operating_Theater]It's a message in blood on the X-Ray board.
+[M01_Interest_119_2nd_Floor_Storage_Room_Photograph]É uma foto antiga de alguma comida.
+[M01_Interest_120_2nd_Floor_Storage_Room_Photograph]Mas a carne está coberta de larvas! Que nojo!
+[M01_Interest_121_C_Version_Operating_Theater]Tem uma mensagem escrita em sangue:
 [M01_Interest_122_C_Version_Operating_Theater]Aqui diz, <COLOR,195,188,228>Estou ficando louco. Gostaria de se juntar a mim?<CLEARCOLOR>
-[M01_Interest_124_C_Version_Operating_Theater]It's a patient's chart:
+[M01_Interest_124_C_Version_Operating_Theater]É a ficha de um paciente:
 
 
 ### M02_SGTown1 ###
@@ -1455,24 +1455,24 @@
 [M02_Interest_MonumentA5]<COLOR,195,188,228>-----lett construiu esta torre do relógio, e assim como os ponteiros näo deixaräo de girar, nós-----<CLEARCOLOR>
 [M02_Interest_MonumentA6]<COLOR,195,188,228>O resto é ilegível. <CLEARCOLOR>
 
-[M02_Interest_GasTank1]O tamque de combustível está aberto...
-[M02_Interest_GasTank2]Parece que alguém já pegou um pouco do combustivel aqui.
+[M02_Interest_GasTank1]O tanque de gasolina está aberto...
+[M02_Interest_GasTank2]Parece que alguém já pegou um pouco da gasolina aqui.
 
-[M02_Interest_FillGas1]Eu posso usar isso pra encher o <COLOR,155,255,155>Tanque de Combustível<CLEARCOLOR>...
+[M02_Interest_FillGas1]Eu posso usar isso pra encher o <COLOR,155,255,155>Tanque de Gasolina<CLEARCOLOR>...
 [M02_Interest_FillGas2]Näo tinha muito sobrando, mas eu acho que é suficiente pra ligar a bomba.
 
 [M02_Interest_Bank1]O banco também está fechado...
 [M02_Interest_Bank2]Cara, näo pode ser um feriado. Näo tem ninguém nessa cidade.
 
-[M02_Interest_DadCar1]It's Dad's old car. Mom always told him that he would never finish repairing it.
-[M02_Interest_DadCar2]I guess she was right. It doesn't look like his truck is going anywhere.
+[M02_Interest_DadCar1]É o caminhäo do papai. Minha mäe sempre disse que ele nunca terminaria de reparar isso.
+[M02_Interest_DadCar2]Acho que ela estava certa. Näo me parece que esse caminhäo vai funcional algum dia.
 
-[M02_Interest_BBoardA1]"Shepherd's Glen Town Hall, Town Happenings" This looks the same as it always did...
-[M02_Interest_BBoardA2]Softball team schedules, antiques for sale, and missing person notices.
+[M02_Interest_BBoardA1]"Prefeitura de Shepherd's Glen, acontecimentos da cidade" ... ainda parece a mesma coisa de antigamente...
+[M02_Interest_BBoardA2]Tabela com os jogos dos times de softbol, antiguidades a venda e avisos de pessoas desaparecidas.
 
-[M08_Interest_BBoardA1]<COLOR,195,188,228>Shepherd's Glen Town Hall, Town Happenings<CLEARCOLOR>
-[M08_Interest_BBoardA2]It looks like Elle updated the board. It's nothing but missing persons now...
-[M08_Interest_BBoardA3]What the hell happened to all of these people?
+[M08_Interest_BBoardA1]<COLOR,195,188,228>Prefeitura de Shepherd's Glen, acontecimentos da cidade<CLEARCOLOR>
+[M08_Interest_BBoardA2]Parece que a Elle atualizou o quadro. \nAgora só tem cartazes de pessoas desaparecidas...
+[M08_Interest_BBoardA3]O que houve com todas essas pessoas?
 
 [M02_Interest_MemoraA1]It's a photo from one of the town picnics with silly party games.
 [M02_Interest_MemoraA2]Every year Mom would ask me to let Joshua win at least one of the games...
@@ -1488,21 +1488,21 @@
 [M02_Interest_MemoraD2]It was a pretty challenging event that attracted people from all over the county.
 [M02_Interest_MemoraD3]The route circled most of Toluca Lake and ended back here at our docks.
 
-[M02_Interest_SignIn1]It's the town's visitor sign-in book.
-[M02_Interest_SignIn1]This is where tourists could tell us what they thought. I wonder how many glowing reviews are in there.
+[M02_Interest_SignIn1]É o livro de registro de visitantes da cidade. It's the town's visitor sign-in book.
+[M02_Interest_SignIn1]Aqui os turistas poderiam falar pra gente as coisas que eles gostaram ou näo. \nMe pergunto quantas coisas foram ditas aqui...
 
 [M02_Interest_Podium1]This is where the Town Council holds town meetings.
 [M02_Interest_Podium2]I remember going to a lot of those meetings, but I never paid attention.
 [M02_Interest_Podium3]Elle and I would just goof off in the back and wait for our parents to finish.
 
-[M02_Interest_Scuffle1]It looks like there was some kind of scuffle here.
-[M02_Interest_HallShelfA]These are volumes of archived minutes from the Town Meetings.
-[M02_Interest_HallShelfB]There are binders of indexed local families and individuals here.
+[M02_Interest_Scuffle1]Parece que houve uma briga aqui.
+[M02_Interest_HallShelfA]Estes säo volumes de atas arquivadas das Assembleias Municipais.
+[M02_Interest_HallShelfB]Há pastas de famílias e indivíduos locais indexados aqui.
 
-[M02_Interest_CoalMine1]Shepherd's Glen used to be known for its coal mining back in the late 1800's.
-[M02_Interest_CoalMine2]The town grew quickly as miners traveled here to work in the prosperous mines.
-[M02_Interest_CoalMine3]A series of accidents coupled with a decline in the coal industry eventually forced the closure of most local mines.
-[M02_Interest_CoalMine4]However, most people took up new jobs rather than abandon the beautiful town they had built.
+[M02_Interest_CoalMine1]Shepherd's Glen já foi conhecida por suas minas de carväo por volta do ano de 1800.
+[M02_Interest_CoalMine2]A cidade cresceu rapidamente com a chegada de mineradores que vieram para trabalhar nas prósperas minas da cidade.
+[M02_Interest_CoalMine3]Uma série de acidentes juntamente com o declínio da industria do carväo levou ao fechamento de muitas das minas.
+[M02_Interest_CoalMine4]Mesmo assim, muitas pessoas preferiram só mudar de profissäo ao invés de abandonar a cidade que construiram.
 
 [M02_Interest_Awards1]Aqui estäo todos os prêmios que a cidade ganhou ao longo dos anos.
 [M02_Interest_Awards2]Shepherd's Glen sempre ganhou o prêmio de "Melhor lugar para férias em New England."
@@ -1654,7 +1654,7 @@
 [M03_Water_Pump_Empty7]Well, the pump won't start without gas.  I should check the garage.
 [M03_Basement_Door1]Essa porta leva ao quintal.
 [M03_Basement_Door2]A porta do poräo está trancada.
-[M03_SecretDoor1]Essa estante já esteve em condições melhores.\nMe lembro que tinha algo de especial sobre ela...
+[M03_SecretDoor1]Essa estante já esteve em condiçöes melhores.\nMe lembro que tinha algo de especial sobre ela...
 [M03_SecretDoor2]Eu me lembro de ter algo especial sobre essa estante...
 
 ### STORY INTEREST POINTS FOR M03_Alex1 ###
@@ -2098,7 +2098,7 @@
 [M04_Interest_187_Original_4_Sacrificed_Bart]<COLOR,195,188,228>Helen Bartlett\ndaughter of Mr. Mason Bartlett\nDied September 26th at 2 years of age.<CLEARCOLOR>
 [M04_Interest_188_Curtis_Shooting_Gallery]Hey soldier-boy. Why don't you try out that piece in the shooting gallery I've got in the back.
 
-[M04_Interest_189_LongPuzzlePiece_01]This piece needs to be pulled free.
+[M04_Interest_189_LongPuzzlePiece_01]Essa parte precisa ser solta.
 
 [M04_Interest_200_Gate_01]It's locked. There is a light coming from the other side.
 [M04_Interest_201_Gate_01]This is where the bereaved would sit.
@@ -2952,9 +2952,9 @@
 
 ### M10A Docks ###
 
-[M10A_FishingBoat_01]The bait boxes are all filled with ash now.
-[M10A_FreshBait_01]<COLOR,195,188,228>'Fresh Bait'<CLEARCOLOR>
-[M10A_BaitBox_01]<COLOR,195,188,228>'Bait Box'<CLEARCOLOR>
+[M10A_FishingBoat_01]As caixas de iscas agora só tem cinzas dentro.
+[M10A_FreshBait_01]<COLOR,195,188,228>'Iscas frescas'<CLEARCOLOR>
+[M10A_BaitBox_01]<COLOR,195,188,228>'Caixa de Iscas'<CLEARCOLOR>
 [M10A_BaitBox_02]There must be some kind of bait shop nearby.
 [M10A_BoatCabin_01]This looks like a lake patrol boat, though it's hard to tell with all the rust...
 [M10A_BoatCabin_02]The ignition key is nowhere to be found.
