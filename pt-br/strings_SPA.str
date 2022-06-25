@@ -1518,7 +1518,7 @@
 [M02_Interest_BlankSpace1]Parece que tinha uma foto bem aqui...
 [M02_Interest_BlankSpace2]Por que será que retiraram?
 
-[M02_Interest_BreakingGround1]It's a picture of Mason Bartlett breaking ground on the Town Hall.
+[M02_Interest_BreakingGround1]É uma foto de Mason Bartlett abrindo caminho na Prefeitura.
 
 [M02_Interest_FounderBart1]Um dos ancestrais do prefeito Barlett foi um dos fundadores da cidade.
 [M02_Interest_FounderBart2]Bartlett é o prefeito desde que eu nasci, e ninguém nunca tentou concorrer contra ele.
@@ -1528,10 +1528,10 @@
 [M02_Interest_FounderFitch2]I always forget that Doctor Fitch is his direct descendant.
 [M02_Interest_FounderFitch3]Doc never really liked to talk about town history.
 
-[M02_Interest_FounderHollo1]This is Edith Holloway, one of the town's founders.
-[M02_Interest_FounderHollo2]My father hated the Holloways, but Margaret always treated me well.
-[M02_Interest_FounderHollo3]She and Elle even sent me letters when I left for the war... more letters than anyone else sent.
-[M02_Interest_FounderHollo4]Sometimes I wonder how things would have turned out if I were born into a different family...
+[M02_Interest_FounderHollo1]Essa é Edith Holloway, uma das fundadoras da cidade.
+[M02_Interest_FounderHollo2]Meu pai odiava os Holloways, mas a Juiza Margaret sempre me tratou bem.
+[M02_Interest_FounderHollo3]Ela e Elle até me mandaram cartas enquanto eu estive na guerra... mais cartas do que qualquer outra pessoa.
+[M02_Interest_FounderHollo4]As vezes me pergunto como seriam as coisas se eu tivesse nascido em uma família diferente...
 
 [M02_Interest_FounderShep1]Esse é o meu quinto-avô, pai do meu tataravô. Seu nome era Isaac Shepherd.
 [M02_Interest_FounderShep2]Ele foi um dos quatro membros fundadores, e a cidade foi nomeada em sua homenagem.
@@ -1540,22 +1540,22 @@
 [M02_Interest_FitchShelfA1]As prateleiras tem diversos artigos sobre anatomia e medicina.
 
 [M02_Interest_FitchShelfB1]Uma coleçäo de livros históricos.
-[M02_Interest_FitchShelfB2]<COLOR,195,188,228>"Famous Coal Mining Towns of New England"<CLEARCOLOR>
-[M02_Interest_FitchShelfB3]<COLOR,195,188,228>"Pivotal Battles of the Civil War"<CLEARCOLOR>
-[M02_Interest_FitchShelfB4]<COLOR,195,188,228>"Frontier Cures: Bleed and Purge" <CLEARCOLOR>
+[M02_Interest_FitchShelfB2]<COLOR,195,188,228>"Cidades de mineraçäo de carväo famosas de New England"<CLEARCOLOR>
+[M02_Interest_FitchShelfB3]<COLOR,195,188,228>"Batalhas cruciais da Guerra Civil"<CLEARCOLOR>
+[M02_Interest_FitchShelfB4]<COLOR,195,188,228>"Curas de fronteira: sangrar e purgar" <CLEARCOLOR>
 
-[M02_Interest_FitchShelfC1]It looks like a record of the town's obituaries.
-[M02_Interest_FitchShelfC2]Attached is a record of burials in Rose Heights Cemetery.
+[M02_Interest_FitchShelfC1]Parece um registro dos obituários da cidade.
+[M02_Interest_FitchShelfC2]Em anexo está um registro de sepultamentos no Cemitério Rose Heights.
 
-[M02_Interest_BartShelfA1]It's an unorganized collection of township journals and election records...
+[M02_Interest_BartShelfA1]É uma coleçäo desorganizada de jornais municipais e registros eleitorais...
 
-[M02_Interest_BartShelfB1]It looks like the last 50 years of Farmer's Almanacs...
-[M02_Interest_BartShelfB2]Each once is perfectly sorted - not a single year is missing.
+[M02_Interest_BartShelfB1]Parece os últimos 50 anos de registros de agricultores...
+[M02_Interest_BartShelfB2]Cada uma está perfeitamente ordenado - näo falta um único ano.
 
-[M02_Interest_HolloShelfA1]It's a collection of law encyclopedias and town government papers.
-[M02_Interest_HolloShelfA2]There's also a collection of newspapers from the neighboring towns.
-[M02_Interest_ShepShelfA1]It's a collection of criminal justice and law enforcement manuals.
-[M02_Interest_ShepShelfA2]These look like directories of land holdings in town.
+[M02_Interest_HolloShelfA1]É uma coleçäo de enciclopédias jurídicas e documentos do governo municipal.
+[M02_Interest_HolloShelfA2]Há também uma coleçäo de jornais das cidades vizinhas.
+[M02_Interest_ShepShelfA1]É uma coleçäo de manuais de justiça criminal e aplicaçäo da lei.
+[M02_Interest_ShepShelfA2]Parecem diretórios de propriedades na cidade.
 
 [M02_Interest_FitchOfficeA1]This shelf is full of pictures of Doctor Fitch's daughter.
 [M02_Interest_FitchOfficeA2]Everyone always said he was the best father in town.
@@ -1608,7 +1608,7 @@
 [M02_Interest_SchoolHouse4]<COLOR,195,188,228>For years, the house was also used for social events such as town meetings, dances, and even weddings. <CLEARCOLOR>
 [M02_Interest_SchoolHouse5]<COLOR,195,188,228>Rather than tear down the old building, the Shepherd's Glen Historical Society raised funds to turn it in to museum documenting the town's rich history. <CLEARCOLOR>
 
-[M02_Interest_GemShow1]<COLOR,195,188,228>Second Annual Shepherd's Glen Mineral Show\nFriday, February 13 <CLEARCOLOR>
+[M02_Interest_GemShow1]<COLOR,195,188,228>Segunda Exposiçäo Anual de Minerais de Shepherd's Glen\nSexta-feira, 13 de Fevereiro <CLEARCOLOR>
 
 [M02_Interest_GemShow2]<COLOR,195,188,228>Rules to Enter:\n1. Read and sign the Exhibitor Agreement Form.\n2. You may only submit one entry per category.\n3. Prior to acceptance, our Show Committee will review your entry,\nwhich will be examined to ensure compliance with the rules and regulations,\nand will assist in classifying your entry.<CLEARCOLOR>
 [M02_Interest_GemShow3]<COLOR,195,188,228>Any inquiries can be made to Mrs. Lillian Shepherd, Show Committee President.<CLEARCOLOR>

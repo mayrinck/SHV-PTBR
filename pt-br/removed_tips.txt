@@ -1,3 +1,9 @@
+Caso você queira restaurar as dicas sobre combate e outras situações que vem originalmente no jogo, você pode copiar os dados abaixo e substituir no arquivo "strings_SPA.str" a partir da linha 369, utilizando o Notepad++
+
+É válido ressaltar que o arquivo só vai entender efetivamente os dados se for aberto e salvo no formato ANSI.
+
+
+
 ####LOADING SCREEN TIPS
 
 [IDS_LOADING_TIP_COMBAT_1]Para esquivar de um ataque, perceba o tempo do ataque inimigo e aperte o botäo de esquiva.
