@@ -80,7 +80,7 @@
 [WHE116]Eu sei que você ta ai.
 [WHE118]Eu to te ouvindo!
 [WHE140]O que foi aquilo?
-[WHE142]Uh oh.
+[WHE142]O-ou.
 [WHE144]Isso näo é bom.
 [WHE146]Vem aqui logo.
 [WHE148]Morra!
@@ -124,7 +124,7 @@
 [WHE406]Morto? Merda! É melhor você falar que tipo de merda você ta envolvido Alex. Eu quero saber o que você fez agora!!
 [WHE407]Um monte de gente desapareceu, mas isso näo da á você o direito de matar um homem.
 [WHE408]Entäo o que houve com o prefeito Barlett?!
-[WHE409]Ah Alex, eu posso acreditar em muita coisa. Só confia em mim. Agora me fala o que houve.
+[WHE409]Ah Alex, eu posso acreditar em muita coisa, confia em mim. Agora me fala o que houve.
 [WHE410]Agora parece que você ta mentindo pra mim e pra SI mesmo.  Me fala o que você viu DE VERDADE.
 [WHE411]Entäo você também vê as criaturas...
 [WHE413]Alex, eu te contei tudo que eu sei.
@@ -132,15 +132,15 @@
 [WHE415]Agora näo é uma boa hora.  Eu to meio ocupado.
 [WHE416]Você näo ta vendo que eu to ocupado aqui?
 [WHE417]Merda, Alex, eu to tentando manter o foco aqui.
-[WHE418]You've been gone a while, so I'll assume you don't know squat.  This all started a few years back.  Probably just around the time you left.  This damn fog rolled in, and the town started to fall apart.  The clocks stopped.  People started disappearing.
-[WHE419]Your brother was one of the first to go missing.  It took quite a toll on your mother, I'm afraid.  But a lot of other kids disappeared too.  Doctor's Fitch's daughter and...well, there've been a lot.
-[WHE420]I'm telling you all this because I respected your father.  He was a hard man, but he was hell bent on protecting this town.  I think it finally took its toll on him.  He went off, saying he was going to go find the source of this evil that had come upon us...or something.  I haven't seen him since.
-[WHE421]So now I got myself barricaded up in here.  Creatures and strange people are being seen all over town, and there's not much I can do by myself.  But I'm the only law left in town, so I've been trying to do some research, figure out if maybe something happened here that caused all this.  I got some theories.  You wanna hear?
-[WHE422]Ah, então deixa pra lá. Parece que você já sabe de tudo, não é.  Não precisa da minha ajuda.
-[WHE423]Well, when I started looking into the history of this town, I found a lot of strange things.  Stories about cults, unexplained deaths and disappearances...
-[WHE424]Então essa cidade foi construída em algum tipo de cemitério? Porra, isso pode ser um experimento do governo. Eles podem estar testando os efeitos do estresse na psique humana, pra criar soldados que aguentem as pressões de uma guerra.
+[WHE418]Você foi embora tem um tempo, entäo vou assumir que você näo sabe nada.  Tudo começou alguns anos atrás.  Provavelmente no mesmo período em que você saiu.  Essa neblina maldita apareceu, as ruas da cidade viraram crateras, os relógios pararam e pessoas começaram a desaparecer.
+[WHE419]Seu irmäo foi um dos primeiros a sumir.  Eu imagino que foi um baque e tanto pra sua mäe.  Mas muitas outras crianças sumiram também.  A filha do Dr. Fitch e... bem, muitas outras.
+[WHE420]Eu to te contando tudo isso por que respeito o seu pai.  Ele era um homem difícil, mas ele estava empenhado em proteger essa cidade.  Eu acho que ele finalmente sentiu o peso disso nele.  Ele saiu, disse que encontraria a raiz desse mal que veio até nós... ou algo assim.  Näo o vi desde entäo.
+[WHE421]Entäo eu me tranquei por aqui. Avistamentos de criaturas e gente estranha estäo acontecendo por toda a cidade, e näo tem muito que eu possa fazer sozinho.  Mesmo assim, eu sou a única autoridade na cidade, entäo eu to investigando, tentando descobrir se algo pode ter acontecido aqui que causou tudo isso. Eu tenho algumas teorias, quer ouvir?
+[WHE422]Ah, entäo deixa pra lá. Parece que você já sabe de tudo, näo é.  Näo precisa da minha ajuda.
+[WHE423]Bem, quando eu comecei a investigar a história da cidade eu encontrei muita coisa estranha.  Histórias sobre cultos, mortes inexplicáveis e desaparecimentos...
+[WHE424]Entäo essa cidade foi construída em algum tipo de cemitério? Porra, isso pode ser um experimento do governo. Eles podem estar testando os efeitos do estresse na psique humana, pra criar soldados que aguentem as pressöes de uma guerra.
 [WHE425]Ei, näo brinca com essas coisas.  De todo modo, eu fico feliz de que você esteja por aqui.
-[WHE426]Certo, agora você quer ouvir. Ok. Quando eu comecei a procurar na história da cidade, eu encontrei muitas coisas estranhas.  Histórias sobre cultos, mortes não-explicadas e desaparecimentos...
+[WHE426]Certo, agora você quer ouvir. Ok. Quando eu comecei a procurar na história da cidade, eu encontrei muitas coisas estranhas.  Histórias sobre cultos, mortes näo-explicadas e desaparecimentos...
 [WHE427]Eu näo to te falando isso só pra me sentir melhor näo.
 [WHE428]Alex eu näo to falando só pra me ouvir falar näo, presta atençäo.
 [WHE429]Eu to tentando mostrar uma ideia aqui, tu ta ouvindo?
@@ -172,10 +172,10 @@
 [WHE718]Eu to ficando velho pra fazer essas merdas.
 [WHE719]Eu vou te dar cobertura.
 [WHE720]Tu vai me dar cobertura?
-[WHE721]Hold up, I gotta think...  I was looking for Mayor Bartlett because I found some weird stuff.
-[WHE722]I think he and the other founders might be involved with what's going on around here.
-[WHE723]I was gonna find Doc Fitch to see if I could get some answers from him.  But now he seems to have disappeared.
-[WHE724]You say you saw Sam Bartlett get killed by one of those creatures, right?
+[WHE721]Espera, eu preciso pensar... Eu estava procurando o prefeito Barlett por que eu achei umas coisas estranhas.
+[WHE722]Eu acho que ele e os outros fundadores podem estar envolvidos com o que está acontecendo aqui.
+[WHE723]Eu estava indo atrás do Dr. Fitch pra ver se encontrava algumas respostas. Mas aparentemente ele desapareceu.
+[WHE724]Você quer dizer que viu Sam Barlett ser morto por uma dessas criaturas, certo?
 [WHE725]Merda, se o Barlett foi morto por uma dessas criaturas, entäo podemos apostar que o Dr. Fitch também pode estar com problemas.
 [WHE726]Nós precisamos chegar até ele antes que eles cheguem.
 [WHE808]Espera, eu preciso pensar... Escuta, eu sei alguém que pode ajudar a gente.

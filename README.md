@@ -1,6 +1,6 @@
 # Silent Hill: Homecoming - Translation (PT-BR)
 
-Tradução de Silent Hill Homecoming para Português do Brasil. (funciona somente com o patch feito por unknownproject)
+Tradução de Silent Hill Homecoming para Português do Brasil. (funciona com o patch feito por unknownproject)
 
 Infelizmente, devido a limitações do arquivo da fonte do jogo, a tradução não pode utilizar alguns caracteres como o til (letras, como "Ã", "õ" e "ã"), que foram substituídos por uma trema, ficando: "Ä", "ö" e "ä".
 
@@ -35,6 +35,11 @@ E pronto, a tradução está instalada, assumindo o lugar da tradução para esp
 
 
 
+### Telas de Carregamento e Dicas
+
+As dicas da tela de carregamento foram removidas na tradução, se tornando mensagens relacionadas ao contexto do jogo (como citações e informações). Isso foi feito para aumentar a imersão do jogo. Caso você queira restauras as dicas com tradução no jogo, siga as instruções do arquivo removed_tips.txt
+
+
 
 ### Progresso da Tradução
 
@@ -46,7 +51,7 @@ Os arquivos que estiverem marcados na lista estão 100% traduzidos e revisados:
 - [x] m03_dialogue (diálogos com a mãe do Alex)
 - [x] m04_dialogue (diálogos com Curtis e Elle na cidade)
 - [x] m05_dialogue (diálogos com o prefeito Barlett e a moça do Hotel)
-- [ ] m06_dialogue (diálogos com o delegado Wheeler e Elle)
+- [x] m06_dialogue (diálogos com o delegado Wheeler e Elle)
 - [x] m07_dialogue (diálogos com o doutor Fitch)
 - [x] m08_dialogue (diálogos com o delegado Wheeler via radio)
 - [x] m09_dialogue (diálogos dos membros da ordem)
