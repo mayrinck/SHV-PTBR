@@ -467,7 +467,7 @@
 ###PICKUPS
 [IDS_PICKUP_TAKE]<COMMAND_KICK> Obter
 [IDS_PICKUP_USE]<COMMAND_KICK> Usar
-[IDS_PICKUP_CANT_CARRY_ANY_MORE] Sem espaço para carregar mais coisas.
+[IDS_PICKUP_CANT_CARRY_ANY_MORE] Sem espaço para carregar mais disso.
 [IDS_PICKUP_DEFAULT]Obteve o Item.
 [IDS_PICKUP_BUNNY1]Obteve o Coelhinho.
 [IDS_PICKUP_DRAWING]Obteve um <COLOR,155,240,155>Desenho de Criança<CLEARCOLOR>.
@@ -584,14 +584,14 @@
 [IDS_PICKUP_M01_BUNNY]Coelhinho de Pelúcia
 [IDS_PICKUP_M01_BUNNY_DESC]É o brinquedo favorito do Joshua.
 
-[IDS_PICKUP_M02_GASCAN]Tanque de Gasolina (vazio)
-[IDS_PICKUP_M02_GASCAN_DESC]Um tanque de gasolina vazio.
-[IDS_PICKUP_M02_GASCAN_GOT]Obteve um <COLOR,155,255,155>Tanque de Gasolina (vazio)<CLEARCOLOR>.
+[IDS_PICKUP_M02_GASCAN]Galäo de Gasolina (vazio)
+[IDS_PICKUP_M02_GASCAN_DESC]Um galäo de gasolina vazio.
+[IDS_PICKUP_M02_GASCAN_GOT]Obteve um <COLOR,155,255,155>Galäo de Gasolina (vazio)<CLEARCOLOR>.
 
-[IDS_PICKUP_M02_GASCAN_FULL]Tanque de Gasolina (cheio)
-[IDS_PICKUP_M02_GASCAN_FULL_DESC]O tanque agora está cheio com a gasolina que tirei daquele caminhäo.
-[IDS_PICKUP_M02_GASCAN_FULL_GOT]Obteve um <COLOR,155,255,155>Tanque de Gasolina (cheio)<CLEARCOLOR>.
-[IDS_PICKUP_M02_GASCAN_FULL_USE]Você usou o <COLOR,155,255,155>Tanque de Gasolina<CLEARCOLOR>.
+[IDS_PICKUP_M02_GASCAN_FULL]Galäo de Gasolina (cheio)
+[IDS_PICKUP_M02_GASCAN_FULL_DESC]O galäo agora está cheio com a gasolina que tirei daquele caminhäo.
+[IDS_PICKUP_M02_GASCAN_FULL_GOT]Obteve um <COLOR,155,255,155>Galäo de Gasolina (cheio)<CLEARCOLOR>.
+[IDS_PICKUP_M02_GASCAN_FULL_USE]Você usou o <COLOR,155,255,155>Galäo de Gasolina<CLEARCOLOR>.
 
 [IDS_PICKUP_M03_MAP_DESC]Parece o mapa da minha casa... Foi feito com giz de cera verde.
 [IDS_PICKUP_M03_MAP_GOT]Obteve o <COLOR,155,255,155>Mapa da Casa<CLEARCOLOR>.
@@ -658,21 +658,21 @@
 [IDS_PICKUP_M08_LODGEKEY_DESCRIPTION]Uma chave de bronze com uma cruz na cabeça.
 [IDS_PICKUP_M08_LODGEKEY_GOT]Obteve a <COLOR,155,255,155>Chave dos Fundadores<CLEARCOLOR>.
 [IDS_PICKUP_M08_KEYBARTLETT]Chave dos Barlett
-[IDS_PICKUP_M08_KEYBARTLETT_DESCRIPTION]A bronze key with a tree carved into the head piece.
+[IDS_PICKUP_M08_KEYBARTLETT_DESCRIPTION]Uma chave de bronze com uma árvore desenhada.
 [IDS_PICKUP_M08_KEYFITCH]Chave dos Fitch
-[IDS_PICKUP_M08_KEYFITCH_DESCRIPTION]A bronze key with a snake carved into the bow.
+[IDS_PICKUP_M08_KEYFITCH_DESCRIPTION]Uma chave de bronze com uma cobra desenhada.
 [IDS_PICKUP_M08_KEYHOLLOWAY]Chave dos Holloway
-[IDS_PICKUP_M08_KEYHOLLOWAY_DESCRIPTION]A bronze key with a bird carved into the bow.
+[IDS_PICKUP_M08_KEYHOLLOWAY_DESCRIPTION]Uma chave de bronze com um pássaro desenhado.
 [IDS_PICKUP_M08_KEYSHEPHERD]Chave dos Shepherd
-[IDS_PICKUP_M08_KEYSHEPHERD_DESCRIPTION]A bronze key with crossed swords carved into the bow.
+[IDS_PICKUP_M08_KEYSHEPHERD_DESCRIPTION]Uma chave de bronze com duas espadas cruzadas desenhadas.
 [IDS_PICKUP_M08_CRESTBARTLETT]Emblema dos Bartlett
-[IDS_PICKUP_M08_CRESTBARTLETT_DESCRIPTION]A small bronze plaque engraved with the Bartlett family crest.
+[IDS_PICKUP_M08_CRESTBARTLETT_DESCRIPTION]Uma placa de bronze com o símbolo dos Barlett desenhado.
 [IDS_PICKUP_M08_CRESTFITCH]Emblema dos Fitch
-[IDS_PICKUP_M08_CRESTFITCH_DESCRIPTION]A small bronze plaque engraved with the Fitch family crest.
+[IDS_PICKUP_M08_CRESTFITCH_DESCRIPTION]Uma placa de bronze com o símbolo dos Fitch desenhado.
 [IDS_PICKUP_M08_CRESTHOLLOWAY]Emblema dos Holloway
-[IDS_PICKUP_M08_CRESTHOLLOWAY_DESCRIPTION]A small bronze plaque engraved with the Holloway family crest.
+[IDS_PICKUP_M08_CRESTHOLLOWAY_DESCRIPTION]Uma placa de bronze com o símbolo dos Holloway desenhado.
 [IDS_PICKUP_M08_CRESTSHEPHERD]Emblema dos Shepherd
-[IDS_PICKUP_M08_CRESTSHEPHERD_DESCRIPTION]A small bronze plaque engraved with the Shepherd family crest.
+[IDS_PICKUP_M08_CRESTSHEPHERD_DESCRIPTION]Uma placa de bronze com o símbolo dos Shepherd desenhado.
 
 [IDS_PICKUP_M09_ATTICKEY]Chave do Sótäo
 [IDS_PICKUP_M09_ATTICKEY_GOT]Obteve a <COLOR,155,240,155>Chave do Sótäo<CLEARCOLOR>.
@@ -1524,9 +1524,9 @@
 [M02_Interest_FounderBart2]Bartlett é o prefeito desde que eu nasci, e ninguém nunca tentou concorrer contra ele.
 [M02_Interest_FounderBart3]A herança familiar parece que conta muito por aqui...
 
-[M02_Interest_FounderFitch1]This is Cornelius Fitch, another of Shepherd's Glen's four founders.
-[M02_Interest_FounderFitch2]I always forget that Doctor Fitch is his direct descendant.
-[M02_Interest_FounderFitch3]Doc never really liked to talk about town history.
+[M02_Interest_FounderFitch1]Este é Cornelius Fitch, outros dos quatro fundadores de Shepherd's Glen.
+[M02_Interest_FounderFitch2]Eu sempre me esqueço que o Dr. Fitch é um descendente direto dele.
+[M02_Interest_FounderFitch3]Dr. Fitch näo gosta de falar Doc never really liked to talk about town history.
 
 [M02_Interest_FounderHollo1]Essa é Edith Holloway, uma das fundadoras da cidade.
 [M02_Interest_FounderHollo2]Meu pai odiava os Holloways, mas a Juiza Margaret sempre me tratou bem.
@@ -1615,7 +1615,7 @@
 
 [M02_Interest_Quarterly1]<COLOR,195,188,228>Sign up for our Clock Tower Quarterly!\nOur local publication is always packed with informative and interesting stories both past and present.\nThis special edition also includes all the details for the town's 150th anniversary celebration. Don't miss it!<CLEARCOLOR>
 
-[M02_Interest_Odd_Keyhole_on_Podium]I always thought this symbol was odd.  Dad always got angry if I played with this.
+[M02_Interest_Odd_Keyhole_on_Podium]Eu sempre achei esse símbolo estranho.  Meu pai sempre ficava com raiva quando eu brincava com isso.
 
 # Main Street and Town Hall #
 [M02_Interest_16_Park_Ride]Eu lembro de um dia que meu pai me girou täo forte nesse brinquedo que eu fui lançado pra fora...
@@ -1625,33 +1625,33 @@
 
 # M02 - Inside the Town Hall #
 [M02_Interest_59_Fitch_Painting_Plaque]Aqui diz: <COLOR,195,188,228>Cornelius Fitch, o açougueiro da cidade, preparando um porco para a venda.<CLEARCOLOR>
-[M02_Interest_60_Bartlett_Painting_Plaque]Aqui diz: <COLOR,195,188,228>Farmer Mason Bartlett breaks ground on the Shepherd's Glen Town Hall.<CLEARCOLOR>
+[M02_Interest_60_Bartlett_Painting_Plaque]Aqui diz: <COLOR,195,188,228>O fazendeiro Mason Bartlett inicia sua jornada na prefeitura de Shepherd's Glen.<CLEARCOLOR>
 [M02_Interest_61_Holloway_Painting_Plaque]Aqui diz: <COLOR,195,188,228>O advogado Edwin Holloway dedica o Moinho de Vento do Rio Sequoit.<CLEARCOLOR>
-[M02_Interest_62_Shepherd_Painting_Plaque]Aqui diz: <COLOR,195,188,228>Isaac Shepherd, the town's first mayor, operates the new well.<CLEARCOLOR>
+[M02_Interest_62_Shepherd_Painting_Plaque]Aqui diz: <COLOR,195,188,228>Isaac Shepherd, o primeiro prefeito da cidade, opera o novo poço.<CLEARCOLOR>
 
-[M02_Interest_Sinkhole1]A huge sinkhole!  Right in the middle of town!  What is going on?
-[M02_Interest_Sinkhole2]The earth just collapsed under the whole street.  I can't even see the bottom!
-[M02_Interest_Sinkhole3]Another massive sinkhole.  It's like they are devouring the town.
-[M02_Interest_SinkholeHouse]So close to our house!  Why hasn't everyone moved somewhere safer?
+[M02_Interest_Sinkhole1]Uma cratera! Bem no meio da cidade! O que está acontecendo?
+[M02_Interest_Sinkhole2]A terra logo abaixo do asfalto colapsou levando tudo com ela.  Eu nem consigo ver o fundo!
+[M02_Interest_Sinkhole3]Outra cratera gigante... Parece que estäo devorando a cidade.
+[M02_Interest_SinkholeHouse]Täo perto de casa! Por que todo mundo näo foi pra um lugar mais seguro?
 
 
 ### M03_Alex1 ###
 
-[M03_Basement_Dark_01]It's too dark to see anything down there.
-[M03_Basement_Dark_02]I should look for my old flashlight - it's probably upstairs.
+[M03_Basement_Dark_01]Está muito escuro pra ver qualquer coisa lá embaixo.
+[M03_Basement_Dark_02]Eu deveria ver se encontro uma lanterna. Deve ter uma no andar de cima.
 [M03_Tape_Recorder1]Uma secretária eletrônica...
 [M03_Tape_Recorder2]É a nossa secretária eletrônica.\nEstá sem fita.
 [M03_Tape_1]É uma fita cassete velha. O nome foi riscado.
 [M03_Tape_2]Me pergunto o que está gravado aqui...
 [M03_Military_Photos3]<COLOR,195,188,228>Junte-se a luta!<CLEARCOLOR>
-[M03_Water_Pump_Full]The water pump is still running...
+[M03_Water_Pump_Full]A bomba d'água ainda está funcionando...
 [M03_Water_Pump_Empty1]É uma bomba d'água.
 [M03_Water_Pump_Empty2]Näo vai funcionar. Parece que está sem combustível.
 [M03_Water_Pump_Empty3]A bomba näo vai ligar se näo estiver abastecida.
-[M03_Water_Pump_Empty4]It looks like the remote for our garage is sitting on top of this water pump...  What is it doing down here?
+[M03_Water_Pump_Empty4]É o controle do portäo da garágem. O que ele está fazendo aqui em baixo?
 [M03_Water_Pump_Empty5]Tem uma anotaçäo aqui...
 [M03_Water_Pump_Empty6]<COLOR,195,188,228>Se ficar sem combustível, use o tanque da garágem pra abastecer.\n\n-Adam<CLEARCOLOR>
-[M03_Water_Pump_Empty7]Well, the pump won't start without gas.  I should check the garage.
+[M03_Water_Pump_Empty7]Bem, a bomba näo vai ligar enquanto ela näo tiver combustível... Eu deveria olhar na garágem.
 [M03_Basement_Door1]Essa porta leva ao quintal.
 [M03_Basement_Door2]A porta do poräo está trancada.
 [M03_SecretDoor1]Essa estante já esteve em condiçöes melhores.\nMe lembro que tinha algo de especial sobre ela...
@@ -1662,21 +1662,21 @@
 [M03_Interest_01]O relógio parou.
 [M03_Interest_01b]Minha mäe sempre mantém tudo em perfeita ordem, entäo... Por que ela näo mandou consertarem o relógio?
 
-[M03_Interest_03]It's a photo of the whole family. We're at one of the town festivals...
-[M03_Interest_03b]Everyone always thought we were the perfect family.
-[M03_Interest_03c]I guess people believe what they want to...
+[M03_Interest_03]É uma foto da família toda. Nós estávamos em um dos festivais da cidade...
+[M03_Interest_03b]Todos achavam que éramos a família perfeita.
+[M03_Interest_03c]As pessoas acreditam em tudo que veem...
 
-[M03_Interest_04]It's a picture of Dad, Mom, and Josh.
-[M03_Interest_04b]How come I'm not in it? I know I was there...
-[M03_Interest_04c]Oh right... I must have taken the photo.
+[M03_Interest_04]É uma foto da mamäe, papai e Josh.
+[M03_Interest_04b]Como é que eu näo estou nela? Eu sei que eu estava lá...
+[M03_Interest_04c]Ahh sim... Eu devo ter sido quem tirou a foto.
 
-[M03_Interest_05]It's a photo of Dad, Mom, and Josh.
-[M03_Interest_05b]I don't remember this one.\nI must have been gone when they put it up.
+[M03_Interest_05]Uma foto do Pai, Mäe e Josh.
+[M03_Interest_05b]Eu näo me lembro dessa aqui.\nDeve ter sido tirada depois que eu fui embora.
 
-[M03_Interest_06]That's us on the shore of Toluca Lake.
-[M03_Interest_06b]There used to be a picture here.
-[M03_Interest_06c]There was a picture here, but it's gone now...
-[M03_Interest_06d]There was a photo of me here...\nWhere is it?
+[M03_Interest_06]É uma foto nossa nas docas do lago Toluca.
+[M03_Interest_06b]Tinha uma foto que ficava bem aqui.
+[M03_Interest_06c]Tinha uma foto aqui, agora ela se foi...
+[M03_Interest_06d]Tinha uma foto minha aqui...\nCadê ela?
 [M03_Interest_06e]It's a photo of Dad and Josh fishing at the lake.
 
 [M03_Interest_07]It's a letter from Mom to Dad.
@@ -1733,49 +1733,49 @@
 [M03_Interest_43]Parece danificado pela água.
 [M03_Interest_44]Dad was always so protective of these tools, he wouldn't leave them open like this...
 [M03_Interest_45]Isso ta ligado?
-[M03_Interest_47]I've got to get this started.
+[M03_Interest_47]Eu tenho que colocar isso pra funcionar.
 [M03_Interest_48]Espera... Cadê o cachorro?
-[M03_Interest_48b]It's our air conditioning unit. It never worked very well.
+[M03_Interest_48b]É nosso ar-condicionado.  Ele nunca funcionou muito bem.
 [M03_Interest_48c]It doesn't look like anybody has sat out here in a long time.
-[M03_Interest_48d]The sink is full of dishes.  The smell is awful.  Why hasn't Mom been cleaning?
-[M03_Interest_48e]It looks like Mom was working on a dress.
-[M03_Interest_48f]It's our old water heater.  It looks broken.
-[M03_Interest_49]We had so many good times.
-[M03_Interest_50]I remember the day we built this tree house.
-[M03_Interest_51]This hasn't been used in a while.
+[M03_Interest_48d]A pia está cheia de louça, e o cheiro ta péssimo.  Por que minha mäe näo tem limpado isso?
+[M03_Interest_48e]Parece que minha mäe estava trabalhando em um vestido.
+[M03_Interest_48f]É nosso aquecedor de água.  Claramente está quebrado.
+[M03_Interest_49]Nós tivemos muitos dias bons.
+[M03_Interest_50]Eu me lembro do dia que construimos esta casa na árvore.
+[M03_Interest_51]Isso näo foi usado tem algum tempo.
 [M03_Interest_51b]Josh was so excited when they bought this for him.  They never bought anything like this for me...
-[M03_Interest_52]What's this on the fence?
-[M03_Interest_53]This is Joshua's backpack!\nThere's a photo inside...
-[M03_Interest_54]Strange...  It's barred from the other side.
-[M03_Interest_55]The door is locked.
-[M03_Interest_55b]I thought I heard a voice on the other side...
-[M03_Interest_56]Maybe Mom's is in there resting...
+[M03_Interest_52]O que é isso na cerca?
+[M03_Interest_53]É a mochila do Joshua!\nTem uma foto aqui dentro...
+[M03_Interest_54]Estranho...  Parrece que tem algo bloquenado do outro lado.
+[M03_Interest_55]A porta está trancada.
+[M03_Interest_55b]Eu tenho certeza de ter ouvido uma voz do outro lado...
+[M03_Interest_56]Talvez minha mäe esteja aqui dentro descansando...
 
 # Additional Story Strings #
 [M03_Interest_57_Sewing_Machine]I remember when Mom fixed my baseball mitt with this machine.
 [M03_Interest_58_Sewing_Machine]She loved to make Josh warm winter clothes.
 [M03_Interest_59_Sewing_Machine]Josh loved that wool cap. He even wore it during the summer.
-[M03_Interest_60_Sewing_Room]This is Mom's favorite room.
-[M03_Interest_61_Sewing_Room]She's always working on some needlepoint project.
-[M03_Interest_62_Note_next_to_Phone]There's a note next to the phone.
-[M03_Interest_63_Note_next_to_Phone]<COLOR,195,188,228>Adam, don't forget to ask Curtis about the engine.<CLEARCOLOR>
-[M03_Interest_64_Moms_Grandfather_Clock]The hands have stopped at 2:06.
-[M03_Interest_65_Moms_Grandfather_Clock]Maybe Mom forgot to set it.
-[M03_Interest_66_Book_Shelf_Dad]These are Dad's books.
-[M03_Interest_67_Book_Shelf_Dad]These are Dad's books.\nHe always got so worked up if I touched any of his stuff.
+[M03_Interest_60_Sewing_Room]Essa é a sala favorita da mamäe.
+[M03_Interest_61_Sewing_Room]Ela sempre estava trabalhando em algum projeto de costura.
+[M03_Interest_62_Note_next_to_Phone]Tem uma anotaçäo perto do telefone.
+[M03_Interest_63_Note_next_to_Phone]<COLOR,195,188,228>Adam, näo se esqueça de perguntar ao Curtis sobre o motor.<CLEARCOLOR>
+[M03_Interest_64_Moms_Grandfather_Clock]O relógio parou as 02:06.
+[M03_Interest_65_Moms_Grandfather_Clock]Talvez minha mäe se esqueceu de ligar ele.
+[M03_Interest_66_Book_Shelf_Dad]Säo os livros do meu pai.
+[M03_Interest_67_Book_Shelf_Dad]Säo os livros do meu pai.\nEle sempre ficava transtornado sempre que eu tocava em alguma das coisas dele.
 [M03_Interest_68_Book_Shelf_Dad]What was his problem?
 [M03_Interest_69_Book_Shelf_Mom]These are Mom's sewing books.
 [M03_Interest_70_Book_Shelf_Mom]She'd sit on the couch for hours and plan her next sewing project.
 [M03_Interest_71_Book_Shelf_Mom]Making new clothes was something she loved to do.
-[M03_Interest_72_Candle_Holders]I think these were my grandfather's candleholders.
-[M03_Interest_73_Candle_Holders]Mom always insisted on lighting them when people came over for big dinners.
-[M03_Interest_74_Candle_Holders]I'd see how long I could hold my hand over the flame.
+[M03_Interest_72_Candle_Holders]Eu acho que säo os castiçais do meu avô.
+[M03_Interest_73_Candle_Holders]Minha mäe insistia em colocar eles sempre que outras pessoas vinham jantar.
+[M03_Interest_74_Candle_Holders]Eu sempre testava quanto tempo eu aguentava colocando minha mäo em cima do fogo.
 [M03_Interest_75_Couch]This couch is really worn out.
 [M03_Interest_76_Couch]Me and Josh used to hide our comic books in the cushions.
 [M03_Interest_77_Couch]Mom always said they were a waste of time. She didn't understand.
 [M03_Interest_78_Suitcases]Looks like someone got the suitcases down from the attic.
-[M03_Interest_79_Suitcases]Were Mom and Dad planning on going somewhere...?
-[M03_Interest_80_After_Audio_Cassette_Tape]Somehow, I always managed to screw up, but Joshua never did anything wrong.
+[M03_Interest_79_Suitcases]Meus pais estavam planejando ir a algum lugar?
+[M03_Interest_80_After_Audio_Cassette_Tape]De alguma forma, eu sempre estragava tudo, mas Joshua nunca fazia nada de errado.
 [M03_Interest_81_Bug_Collection]This is Joshua's bug collection.
 [M03_Interest_82_Bug_Collection]One time I helped him catch some spiders in the backyard.
 [M03_Interest_83_Bug_Collection]He loves spiders for some weird reason.
@@ -1805,14 +1805,14 @@
 [M03_Interest_110_Kitchen_Door_to_Backyard]The back door's stuck.
 [M03_Interest_111_Kitchen_Door_to_Backyard]The handle turns, but the door won't open.
 [M03_Interest_112_Kitchen_Door_to_Backyard]It feels like it's boarded up from the outside...  Why?
-[M03_Interest_113_Basement_Electrical_Box]This box is a fused mess.
-[M03_Interest_114_Basement_Electrical_Box]It's a wonder any of these lights are working at all.
-[M03_Interest_115_Basement_Electrical_Box]I'll just leave it alone - don't want to get shocked.
+[M03_Interest_113_Basement_Electrical_Box]Essa caixa é uma gambiarra total.
+[M03_Interest_114_Basement_Electrical_Box]É incrível pensar que alguma luz funcione apesar disso.
+[M03_Interest_115_Basement_Electrical_Box]Eu vou deixar isso pra lá - Näo quero tomar um choque.
 [M03_Interest_116_Canoe_Back_Story]I love this canoe.  We bought it that summer of the big brush fire.
 [M03_Interest_117_Canoe_Back_Story]I used to take it out onto the lake and float around for hours...
 [M03_Interest_118_Canoe_Back_Story]My Dad told us to never go out on the lake by ourselves, but we did anyway. It was so much fun.
 [M03_Interest_119_Canoe_Back_Story]Dad never took me out on the lake when I was little...
-[M03_Interest_119_Washer_and_Dryer_History]Ah, the trusty old washer and dryer.  They were constantly breaking down.
+[M03_Interest_119_Washer_and_Dryer_History]Ah, as "super confiáveis" maquinas de lavar e secar roupas. Elas sempre quebravam.
 [M03_Interest_121_Washer_and_Dryer_History]But Dad was too cheap to get new ones, of course. "They work fine!" he'd yell.
 [M03_Interest_122_Whats_behind_the_Camouflage]Dad? Is that you?
 [M03_Interest_124_Mannequin_with_Uniform]It's just his old jacket.
@@ -1820,10 +1820,10 @@
 [M03_Interest_126_Basement_Door_to_Backyard]The backyard door won't open while the basement is flooded. The safety latch is somewhere under all that water.
 [M03_Interest_128_Basement_Door_to_Backyard]I'm not putting my hand in there.
 [M03_Interest_129_Vase_LivingRoom]It's just a vase, nothing useful.
-[M03_Interest_130_Desk]It's just some old desk. Nothing interesting here.
+[M03_Interest_130_Desk]É só uma mesa velha.  Nada de interessante aqui.
 [M03_Interest_131_Landscape]It's a painting of a landscape.\nI wonder if it's based on a real place?
 [M03_Interest_132_Dresser]It's just a dresser. Nothing useful.
-[M03_Interest_133_Vaccuum]Vacuum cleaner. Looks old.
+[M03_Interest_133_Vaccuum]Um aspirador. Parece velho.
 [M03_Interest_134_Parents_Chairs]I remember mom sitting here, cradling Joshua as a baby.
 [M03_Interest_135_Parents_Closet]The closet is empty... Where are the clothes?\nAre they in the suitcase downstairs?
 [M03_Interest_136_Bath_Basket]It's a laundry hamper.
@@ -1839,11 +1839,11 @@
 [M04_Interest_04_No_Trespassing_Sign]Municipal access gate, there's a message here...
 [M04_Interest_04_No_Trespassing_Sign1]<COLOR,195,188,228>No Trespassing: Violators may be subject to prosecution<CLEARCOLOR>
 [M04_Interest_05_Head_Stones_A]This marker's pretty worn...  Only a few letters are still visible.
-[M04_Interest_06_Head_Stones_B]These graves are ancient.
-[M04_Interest_07_Head_Stones_C]The names are entirely worn away.
-[M04_Interest_09_Large_Crypt_A]I think this was my biology teacher in high school.
-[M04_Interest_10_Large_Crypt_B]I don't recognize this name.
-[M04_Interest_11_Large_Crypt_C]Another crypt in ruins.
+[M04_Interest_06_Head_Stones_B]Esses túmulos estäo bem velhos.
+[M04_Interest_07_Head_Stones_C]Os nomes estäo completamente apagados.
+[M04_Interest_09_Large_Crypt_A]Eu acho que essa foi minha professora de biologia na escola.
+[M04_Interest_10_Large_Crypt_B]Eu näo reconheço esse nome.
+[M04_Interest_11_Large_Crypt_C]Outra cripta em ruínas.
 [M04_Interest_12_Large_Crypt_D]This was someone's wife and daughter.
 [M04_Interest_13_Crypts_on_Wall_A]So many men and women have died in Shepherd's Glen.
 [M04_Interest_14_Crypts_on_Wall_B]Some of these folks died recently.
@@ -1859,27 +1859,27 @@
 [M04_Interest_23_First_Bartlett_Coffin_on_Left]<COLOR,195,188,228>Charles Bartlett. Died 18... something.<CLEARCOLOR> I can't read the rest, it's so old.
 [M04_Interest_24_Second_Bartlett_Coffin_on_Right]<COLOR,195,188,228>Patricia Bartlett. Died 19...<CLEARCOLOR> I can't make out the rest.
 [M04_Interest_25_Joey_Bartletts_Coffin]This looks like a child's coffin.
-[M04_Interest_26_Side_Gate_to_Mausoleums]These gates are locked tight.
+[M04_Interest_26_Side_Gate_to_Mausoleums]Esses portöes estäo bem trancados.
 [M04_Interest_27_Washout_Area_Drains]During the rainy season, this drainage area backs up and the whole cemetery floods.
 [M04_Interest_27_Washout_Area_Drains2]My folks told me to stay out of the cemetery when it flooded because old bones and body parts would seep out of the graves...
-[M04_Interest_28_Special_Mausoleum_1]This is a strange symbol...
-[M04_Interest_29_Special_Mausoleum_2]When I was a kid I thought these were just cool emblems made for rich dead people or something...
-[M04_Interest_29_Special_Mausoleum_3]On second thought, it almost looks like a keyhole...  What kind of key would fit?
+[M04_Interest_28_Special_Mausoleum_1]Esse é im simbolo bem estranho...
+[M04_Interest_29_Special_Mausoleum_2]Quando eu era criança eu achava que esses símbolos eram só enfeites legais pra pessoas ricas que morriam ou algo assim...
+[M04_Interest_29_Special_Mausoleum_3]MAs pensando bem, eles se parecem com buracos de fechaduras... Mas, que tipo de chave se encaixaria nisso?
 
-[M04_Interest_31_Special_Mausoleum_2]I bet the dagger I got from the Founder's room would fit here perfectly!
-[M04_Interest_34_Fountain_with_Pixie_Statue]The inscription reads, <COLOR,195,188,228>Sacred are the memories of our lives.<CLEARCOLOR>
-[M04_Interest_35_Locked_Gate]There's a parking lot on the other side.
-[M04_Interest_36_Stonework_Facade_1]This was once a quiet, peaceful place.
-[M04_Interest_37_Stonework_Facade_2]This area hasn't been maintained at all.
-[M04_Interest_38_Main_SG_Cemetery_Gate]The main gate to Rose Heights Cemetery.
+[M04_Interest_31_Special_Mausoleum_2]Acho que a adaga que eu consegui na sala dos fundadores se encaixa aqui perfeitamente!
+[M04_Interest_34_Fountain_with_Pixie_Statue]A inscriçäo diz: <COLOR,195,188,228>Sagradas säo as memórias de nossas vidas.<CLEARCOLOR>
+[M04_Interest_35_Locked_Gate]Tem um estacionamento do outro lado.
+[M04_Interest_36_Stonework_Facade_1]Esse já foi um lugar quieto, de paz.
+[M04_Interest_37_Stonework_Facade_2]Esse local näo está nada conservado.
+[M04_Interest_38_Main_SG_Cemetery_Gate]O portäo principal para o cemitério Rose Heights.
 
-[M04_Interest_780_LockedGrate]This grate seems to be firmly attached.
-[M04_Interest_781_MoundOfDirt]The hole is full of mud. I'm not going through here any time soon.
-[M04_Interest_800_GatePuzzle_1]It's locked by this mechanism...  Looks like something circular would open it.
+[M04_Interest_780_LockedGrate]O portäo está bem trancado.
+[M04_Interest_781_MoundOfDirt]Esse buraco ta cheio de lama. Eu näo vou por aqui de jeito nenhum.
+[M04_Interest_800_GatePuzzle_1]Está trancado por este mecanismo... Parece que algo circular abriria os portões.
 
 # M04 - Streets outside Police Station #
-[M04_Interest_39_Storefront_A]It's a small General Store...  Well at least it was.
-[M04_Interest_39_Storefront_A1]It's so dark I can't even make out if there's anything inside anymore.
+[M04_Interest_39_Storefront_A]É uma pequena mercearia...  Bem, pelo menos era.
+[M04_Interest_39_Storefront_A1]Está täo escuro lá dentro que eu nem consigo saber se tem algo lá dentro.
 
 [M04_Interest_40_Storefront_B]A comic book store opened here right before I left...
 [M04_Interest_40_Storefront_B2]It looks closed now...  I guess there wasn't enough demand for juvenile stuff like comics.
@@ -1887,17 +1887,17 @@
 [M04_Interest_41_Storefront_C]This was a small fortune teller's shop.
 [M04_Interest_41_Storefront_C2]My dad would never let me go in there, said he didn't want me to get caught up in that "occult nonsense."
 [M04_Interest_41_Storefront_C3]I guess the shop is out of business now.
-[M04_Interest_42_Storefront_D]Another abandoned shop...
-[M04_Interest_42_Storefront_D2]Is there anything around here still open?
+[M04_Interest_42_Storefront_D]Outra loja abandonada...
+[M04_Interest_42_Storefront_D2]Será que ainda tem algo aberto por aqui?
 
-[M04_Interest_43_Phone_Booth]It's a pay phone.
-[M04_Interest_44_Delivery_Van_A2]It's covered in dust and ash.  This van hasn't gone anywhere in a long time.
-[M04_Interest_45_Delivery_Van_B2]Why hasn't this been towed away?  It's obviously broken down.
-[M04_Interest_46_Abandoned_Car2]I can't see anything inside.
-[M04_Interest_47_Police_Car_A]It's a squad car like my dad used to drive.
-[M04_Interest_47_Police_Car_A3]I wonder if one of these is his.
+[M04_Interest_43_Phone_Booth]Um telefone público.
+[M04_Interest_44_Delivery_Van_A2]Está coberta de sujeira. Essa van näo saiu do lugar tem muito tempo...
+[M04_Interest_45_Delivery_Van_B2]Por que näo guincharam ela pra outro lugar? Ela está claramente quebrada.
+[M04_Interest_46_Abandoned_Car2]Näo consigo ver nada dentro.
+[M04_Interest_47_Police_Car_A]É um dos carros da força policial local. Meu pai dirigia um desses.
+[M04_Interest_47_Police_Car_A3]Será que algum desses era o dele?
 
-[M04_Interest_49_Police_Car_B]The door is locked.
+[M04_Interest_49_Police_Car_B]A porta está trancada.
 [M04_Interest_50_Wall_of_Flyers]All these people are...missing?  My God, what happened?
 [M04_Interest_51_Front_Door_to_Sheriff_Station]This is the station where Dad works.
 [M04_Interest_51_Front_Door_to_Sheriff_Station2]I wonder if his buddies on the force know what happened here...
