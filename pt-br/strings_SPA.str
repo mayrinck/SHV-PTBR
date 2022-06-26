@@ -1826,7 +1826,7 @@
 [M03_Interest_133_Vaccuum]Um aspirador. Parece velho.
 [M03_Interest_134_Parents_Chairs]Eu me lembro da minha mäe sentada aqui, cuidando do Joshua quando ele era só um bebê.
 [M03_Interest_135_Parents_Closet]The closet is empty... Where are the clothes?\nAre they in the suitcase downstairs?
-[M03_Interest_136_Bath_Basket]It's a laundry hamper.
+[M03_Interest_136_Bath_Basket]É um cesto de roupa suja.
 
 ### M04_SGTown2 ###
 
@@ -1834,7 +1834,7 @@
 
 # M04 - Graveyard #
 [M04_Interest_01_Start_Door]This leads back to my house.
-[M04_Interest_02_Rusty_Valve]These valves are rusted shut.
+[M04_Interest_02_Rusty_Valve]Essas valvulas estäo enferrujadas e travadas. Näo da pra mexer.
 [M04_Interest_03_Trash_Can_2]The lid is stuck.
 [M04_Interest_04_No_Trespassing_Sign]Municipal access gate, there's a message here...
 [M04_Interest_04_No_Trespassing_Sign1]<COLOR,195,188,228>No Trespassing: Violators may be subject to prosecution<CLEARCOLOR>
@@ -1852,19 +1852,19 @@
 [M04_Interest_18_Fountain_in_Sinkhole]It looks like this fountain hasn't worked for a very long time...
 [M04_Interest_18_Fountain_in_Sinkhole2]Funny...  It was perfectly fine before I left, and that was only a few years ago...
 
-[M04_Interest_19_Open_Graves_Before_Curtis]Why is that guy digging up graves?
-[M04_Interest_20_Open_Graves_After Curtis]This is where Mayor Bartlett was digging, why would he want to do that?
-[M04_Interest_21_Locked_Bartlett_Mausoleum_Door]The gate to the Bartlett Family Mausoleum is locked.
+[M04_Interest_19_Open_Graves_Before_Curtis]Por que aquele cara está cavando covas??
+[M04_Interest_20_Open_Graves_After Curtis]Prefeito Barlett estava cavando covas bem aqui agora pouco.  Por que ele faria isso?
+[M04_Interest_21_Locked_Bartlett_Mausoleum_Door]este portão leva até o mausoléu da família Barlett.\nEstá trancado.
 [M04_Interest_22_Bartlett_Mausoleum_Inscription]The inscription reads, <COLOR,195,188,228>And until we meet again, may God hold you in the hollow of his hand.<CLEARCOLOR>
-[M04_Interest_23_First_Bartlett_Coffin_on_Left]<COLOR,195,188,228>Charles Bartlett. Died 18... something.<CLEARCOLOR> I can't read the rest, it's so old.
-[M04_Interest_24_Second_Bartlett_Coffin_on_Right]<COLOR,195,188,228>Patricia Bartlett. Died 19...<CLEARCOLOR> I can't make out the rest.
+[M04_Interest_23_First_Bartlett_Coffin_on_Left]<COLOR,195,188,228>Charles Bartlett. Morreu aos 18... alguma coisa.<CLEARCOLOR> Eu não consigo ler o restante, isso está muito velho.
+[M04_Interest_24_Second_Bartlett_Coffin_on_Right]<COLOR,195,188,228>Patricia Bartlett. Morreu aos 19 anos...<CLEARCOLOR> não dá pra ler o resto.
 [M04_Interest_25_Joey_Bartletts_Coffin]This looks like a child's coffin.
 [M04_Interest_26_Side_Gate_to_Mausoleums]Esses portöes estäo bem trancados.
 [M04_Interest_27_Washout_Area_Drains]During the rainy season, this drainage area backs up and the whole cemetery floods.
 [M04_Interest_27_Washout_Area_Drains2]My folks told me to stay out of the cemetery when it flooded because old bones and body parts would seep out of the graves...
-[M04_Interest_28_Special_Mausoleum_1]Esse é im simbolo bem estranho...
+[M04_Interest_28_Special_Mausoleum_1]Esse é um simbolo bem estranho...
 [M04_Interest_29_Special_Mausoleum_2]Quando eu era criança eu achava que esses símbolos eram só enfeites legais pra pessoas ricas que morriam ou algo assim...
-[M04_Interest_29_Special_Mausoleum_3]MAs pensando bem, eles se parecem com buracos de fechaduras... Mas, que tipo de chave se encaixaria nisso?
+[M04_Interest_29_Special_Mausoleum_3]Mas pensando bem, eles se parecem com buracos de fechaduras... Mas, que tipo de chave se encaixaria nisso?
 
 [M04_Interest_31_Special_Mausoleum_2]Acho que a adaga que eu consegui na sala dos fundadores se encaixa aqui perfeitamente!
 [M04_Interest_34_Fountain_with_Pixie_Statue]A inscriçäo diz: <COLOR,195,188,228>Sagradas säo as memórias de nossas vidas.<CLEARCOLOR>
