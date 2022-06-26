@@ -20,7 +20,7 @@ Esse passo a passo considera que você COMPROU o jogo na plataforma Steam, que e
 
 - Com o jogo fechado, navegue até a pasta **Steam\steamapps\common\Silent Hill Homecoming\Engine** - normalmente esta pasta está localizada no disco C, em Arquivos de Programas (ou Arquivos de Programas x86).
 
-- Coloque o arquivo **default_pc.cfg** que está no ZIP baixado nesta pasta. 
+- Coloque o arquivo **default_pc.cfg** que está no ZIP baixado nesta pasta (pasta Engine). 
 
 - Agora, navegue até a pasta **Steam\steamapps\common\Silent Hill Homecoming\Engine\gameinfo\strings**
 
