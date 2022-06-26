@@ -868,8 +868,8 @@
 [IDS_PRY_MISSING]Preciso achar algo para arrombar isso...
 
 [IDS_HACK_EQUIPPED]<COMMAND_KICK> Cortar
-[IDS_HACK_NOT_EQUIPPED] Eu preciso de um equipamento diferente para cortar essas tábuas...
-[IDS_HACK_MISSING] Eu preciso de algo para cortar essas tábuas...
+[IDS_HACK_NOT_EQUIPPED] Näo da pra cortar isso com este equipamento.
+[IDS_HACK_MISSING] Eu preciso de um machado para cortar essas tábuas...
 
 [IDS_BREACH_EQUIPPED]<COMMAND_KICK> Quebrar
 [IDS_BREACH_NOT_EQUIPPED] Näo da pra quebrar isso com este equipamento.
@@ -1835,10 +1835,10 @@
 # M04 - Graveyard #
 [M04_Interest_01_Start_Door]This leads back to my house.
 [M04_Interest_02_Rusty_Valve]Essas valvulas estäo enferrujadas e travadas. Näo da pra mexer.
-[M04_Interest_03_Trash_Can_2]The lid is stuck.
+[M04_Interest_03_Trash_Can_2]A tampa está presa.
 [M04_Interest_04_No_Trespassing_Sign]Municipal access gate, there's a message here...
 [M04_Interest_04_No_Trespassing_Sign1]<COLOR,195,188,228>No Trespassing: Violators may be subject to prosecution<CLEARCOLOR>
-[M04_Interest_05_Head_Stones_A]This marker's pretty worn...  Only a few letters are still visible.
+[M04_Interest_05_Head_Stones_A]Esta placa está bem gasta... Apenas algumas letras ainda säo visíveis.
 [M04_Interest_06_Head_Stones_B]Esses túmulos estäo bem velhos.
 [M04_Interest_07_Head_Stones_C]Os nomes estäo completamente apagados.
 [M04_Interest_09_Large_Crypt_A]Eu acho que essa foi minha professora de biologia na escola.
@@ -1854,10 +1854,10 @@
 
 [M04_Interest_19_Open_Graves_Before_Curtis]Por que aquele cara está cavando covas??
 [M04_Interest_20_Open_Graves_After Curtis]Prefeito Barlett estava cavando covas bem aqui agora pouco.  Por que ele faria isso?
-[M04_Interest_21_Locked_Bartlett_Mausoleum_Door]este portão leva até o mausoléu da família Barlett.\nEstá trancado.
+[M04_Interest_21_Locked_Bartlett_Mausoleum_Door]este portäo leva até o mausoléu da família Barlett.\nEstá trancado.
 [M04_Interest_22_Bartlett_Mausoleum_Inscription]The inscription reads, <COLOR,195,188,228>And until we meet again, may God hold you in the hollow of his hand.<CLEARCOLOR>
-[M04_Interest_23_First_Bartlett_Coffin_on_Left]<COLOR,195,188,228>Charles Bartlett. Morreu aos 18... alguma coisa.<CLEARCOLOR> Eu não consigo ler o restante, isso está muito velho.
-[M04_Interest_24_Second_Bartlett_Coffin_on_Right]<COLOR,195,188,228>Patricia Bartlett. Morreu aos 19 anos...<CLEARCOLOR> não dá pra ler o resto.
+[M04_Interest_23_First_Bartlett_Coffin_on_Left]<COLOR,195,188,228>Charles Bartlett. Morreu aos 18... alguma coisa.<CLEARCOLOR> Eu näo consigo ler o restante, isso está muito velho.
+[M04_Interest_24_Second_Bartlett_Coffin_on_Right]<COLOR,195,188,228>Patricia Bartlett. Morreu aos 19 anos...<CLEARCOLOR> näo dá pra ler o resto.
 [M04_Interest_25_Joey_Bartletts_Coffin]This looks like a child's coffin.
 [M04_Interest_26_Side_Gate_to_Mausoleums]Esses portöes estäo bem trancados.
 [M04_Interest_27_Washout_Area_Drains]During the rainy season, this drainage area backs up and the whole cemetery floods.
