@@ -4,7 +4,7 @@ Tradução de Silent Hill Homecoming para Português do Brasil. (funciona també
 
 Infelizmente, devido a limitações do arquivo da fonte do jogo, a tradução não pode utilizar alguns caracteres como o til (letras, como "Ã", "õ" e "ã"), que foram substituídos por uma trema, ficando: "Ä", "ö" e "ä".
 
-**Este ainda é um trabalho em progresso, a tradução ainda está longe de ser terminada, mas já tem algumas coisas traduzidas em todos os arquivos, porém incompletas, nesta versão.**
+**Este ainda é um trabalho em progresso, a tradução está quase completa, faltando somente algumas frases em alguns poucos arquivos.**
 
 
 
