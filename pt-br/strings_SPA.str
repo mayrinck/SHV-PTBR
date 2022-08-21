@@ -657,7 +657,7 @@
 [IDS_PICKUP_M08_LODGEKEY]Chave dos Fundadores
 [IDS_PICKUP_M08_LODGEKEY_DESCRIPTION]Uma chave de bronze com uma cruz na cabeça.
 [IDS_PICKUP_M08_LODGEKEY_GOT]Obteve a <COLOR,155,255,155>Chave dos Fundadores<CLEARCOLOR>.
-[IDS_PICKUP_M08_KEYBARTLETT]Chave dos Barlett
+[IDS_PICKUP_M08_KEYBARTLETT]Chave dos Bartlett
 [IDS_PICKUP_M08_KEYBARTLETT_DESCRIPTION]Uma chave de bronze com uma árvore desenhada.
 [IDS_PICKUP_M08_KEYFITCH]Chave dos Fitch
 [IDS_PICKUP_M08_KEYFITCH_DESCRIPTION]Uma chave de bronze com uma cobra desenhada.
@@ -666,7 +666,7 @@
 [IDS_PICKUP_M08_KEYSHEPHERD]Chave dos Shepherd
 [IDS_PICKUP_M08_KEYSHEPHERD_DESCRIPTION]Uma chave de bronze com duas espadas cruzadas desenhadas.
 [IDS_PICKUP_M08_CRESTBARTLETT]Emblema dos Bartlett
-[IDS_PICKUP_M08_CRESTBARTLETT_DESCRIPTION]Uma placa de bronze com o símbolo dos Barlett desenhado.
+[IDS_PICKUP_M08_CRESTBARTLETT_DESCRIPTION]Uma placa de bronze com o símbolo dos Bartlett desenhado.
 [IDS_PICKUP_M08_CRESTFITCH]Emblema dos Fitch
 [IDS_PICKUP_M08_CRESTFITCH_DESCRIPTION]Uma placa de bronze com o símbolo dos Fitch desenhado.
 [IDS_PICKUP_M08_CRESTHOLLOWAY]Emblema dos Holloway
@@ -865,7 +865,7 @@
 
 [IDS_PRY_EQUIPPED]<COMMAND_KICK> Arrombar
 [IDS_PRY_NOT_EQUIPPED]Näo da pra arrombar isso com esse equipamento.
-[IDS_PRY_MISSING]Preciso achar algo para arrombar isso...
+[IDS_PRY_MISSING]Preciso achar algo forte para arrombar isso...
 
 [IDS_HACK_EQUIPPED]<COMMAND_KICK> Cortar
 [IDS_HACK_NOT_EQUIPPED] Näo da pra cortar isso com este equipamento.
@@ -1445,7 +1445,7 @@
 [M02_Interest_Banner1]É o banner anunciando o evento de aniversário de 150 anos da cidade.
 [M02_Interest_Banner2]Eu pensei que isso tivesse acontecido há alguns anos...
 
-[M02_Interest_FlyerA1]Prefeito Barlett foi o primeiro a me cumprimentar quando eu decidi me juntar as forças militares.
+[M02_Interest_FlyerA1]Prefeito Bartlett foi o primeiro a me cumprimentar quando eu decidi me juntar as forças militares.
 [M02_Interest_FlyerA2]Eu deveria vê-lo enquanto estou na cidade.
 
 [M02_Interest_MonumentA1]As escrituras estäo muito desgastadas.  Eu só consigo ver algumas palavras...
@@ -1520,7 +1520,7 @@
 
 [M02_Interest_BreakingGround1]É uma foto de Mason Bartlett abrindo caminho na Prefeitura.
 
-[M02_Interest_FounderBart1]Um dos ancestrais do prefeito Barlett foi um dos fundadores da cidade.
+[M02_Interest_FounderBart1]Um dos ancestrais do prefeito Bartlett foi um dos fundadores da cidade.
 [M02_Interest_FounderBart2]Bartlett é o prefeito desde que eu nasci, e ninguém nunca tentou concorrer contra ele.
 [M02_Interest_FounderBart3]A herança familiar parece que conta muito por aqui...
 
@@ -1853,8 +1853,8 @@
 [M04_Interest_18_Fountain_in_Sinkhole2]Funny...  It was perfectly fine before I left, and that was only a few years ago...
 
 [M04_Interest_19_Open_Graves_Before_Curtis]Por que aquele cara está cavando covas??
-[M04_Interest_20_Open_Graves_After Curtis]Prefeito Barlett estava cavando covas bem aqui agora pouco.  Por que ele faria isso?
-[M04_Interest_21_Locked_Bartlett_Mausoleum_Door]este portäo leva até o mausoléu da família Barlett.\nEstá trancado.
+[M04_Interest_20_Open_Graves_After Curtis]Prefeito Bartlett estava cavando covas bem aqui agora pouco.  Por que ele faria isso?
+[M04_Interest_21_Locked_Bartlett_Mausoleum_Door]este portäo leva até o mausoléu da família Bartlett.\nEstá trancado.
 [M04_Interest_22_Bartlett_Mausoleum_Inscription]The inscription reads, <COLOR,195,188,228>And until we meet again, may God hold you in the hollow of his hand.<CLEARCOLOR>
 [M04_Interest_23_First_Bartlett_Coffin_on_Left]<COLOR,195,188,228>Charles Bartlett. Morreu aos 18... alguma coisa.<CLEARCOLOR> Eu näo consigo ler o restante, isso está muito velho.
 [M04_Interest_24_Second_Bartlett_Coffin_on_Right]<COLOR,195,188,228>Patricia Bartlett. Morreu aos 19 anos...<CLEARCOLOR> näo dá pra ler o resto.
@@ -3698,7 +3698,7 @@
 [IDS_TREETEST02_ToStartWith_DESCRIPTION]Para começar, como você chegou aqui?
 [IDS_TREETEST02_ToStartWith_ElleLetMe]Elle me deixou entrar.
 [IDS_TREETEST02_ToStartWith_IBrokeIn]Eu invadi.
-[IDS_TREETEST02_ToStartWith_DontRemember]A ultima coisa que eu lembro era de estar na estufa... com o prefeito Barlett.
+[IDS_TREETEST02_ToStartWith_DontRemember]A ultima coisa que eu lembro era de estar na estufa... com o prefeito Bartlett.
 
 [IDS_TREETEST02_DontBelieveYou_DESCRIPTION]Boa tentativa. Agora me fala, como você realmente entrou aqui?
 
@@ -4266,58 +4266,58 @@
 [IDS_CIN_M04_010_ELE_15]Alex, I hope you find what you're looking for.
 
 # CIN_M04_020 Strings #
-[IDS_CIN_M04_020_ALX_1]Maybe this will interest you.
-[IDS_CIN_M04_020_CUR_1]I know you.  The sheriff's kid.
+[IDS_CIN_M04_020_ALX_1]Talvez isso te interesse.
+[IDS_CIN_M04_020_CUR_1]Eu te conheço.  Tu é o filho do xerife.
 [IDS_CIN_M04_020_ALX_2]Alex.
-[IDS_CIN_M04_020_CUR_2]Riiiight...
-[IDS_CIN_M04_020_CUR_3]Military man now, I see.
-[IDS_CIN_M04_020_ALX_3]I'm pretty sure it's broken, what do you think?
-[IDS_CIN_M04_020_CUR_4]Hmmm...I think you musta stole this from your daddy.
-[IDS_CIN_M04_020_ALX_4]Just tell me if you can fix it.
-[IDS_CIN_M04_020_CUR_5]Now don't go barking orders at me, soldier.  The only person that tells me what to do is me, you got it?
-[IDS_CIN_M04_020_CUR_6]Hmmmm...pretty neglected.
-[IDS_CIN_M04_020_CUR_7]It's a damn shame the way people mistreat such nice things.
-[IDS_CIN_M04_020_ALX_5]Look, what I really need is some information.  Have you seen my brother Joshua?
-[IDS_CIN_M04_020_CUR_8]You want to talk to the Mayor.  He knows everybody's business.
-[IDS_CIN_M04_020_ALX_6]Mayor Bartlett?  You know where I can find him?
-[IDS_CIN_M04_020_CUR_9]Sure.  Same place he is everyday, digging up people's graves.
-[IDS_CIN_M04_020_CUR_10]There's something seriously wrong with that guy.  You know, like in the head?
-[IDS_CIN_M04_020_ALX_7]That's Mayor Bartlett?
-[IDS_CIN_M04_020_CUR_11]Yup.  No wonder all the streets are broken.  Nobody around here gives a shit anymore.
-[IDS_CIN_M04_020_CUR_12]Yeah, I can fix it...might take a little while, though.
-[IDS_CIN_M04_020_ALX_8]Keep it, it's yours.
-[IDS_CIN_M04_020_CUR_13]What's the catch?
-[IDS_CIN_M04_020_ALX_9]Consider it payment for your help.
-[IDS_CIN_M04_020_CUR_14]A soldier's gotta have a gun.
-[IDS_CIN_M04_020_ALX_10]Thanks.
-[IDS_CIN_M04_020_CUR_15]Yeah, I like a fair trade.
+[IDS_CIN_M04_020_CUR_2]Ceeeeerto...
+[IDS_CIN_M04_020_CUR_3]É um militar agora, né.
+[IDS_CIN_M04_020_ALX_3]Eu tenho certeza de que ta quebrado, o que você acha?
+[IDS_CIN_M04_020_CUR_4]Hmmm... Eu acho que tu roubou isso do teu papaizinho.
+[IDS_CIN_M04_020_ALX_4]Só em fala se você pode consertar.
+[IDS_CIN_M04_020_CUR_5]Näo vem querendo me dar ordens näo, soldadinho. O único aqui que me dá ordens sou eu, tu entendeu?
+[IDS_CIN_M04_020_CUR_6]Hmmmm... ta bem ruim mesmo.
+[IDS_CIN_M04_020_CUR_7]É uma droga que as pessoas tratem mal coisas täo bonitas.
+[IDS_CIN_M04_020_ALX_5]Olha, o que eu preciso mesmo é de informaçäo. Você viu meu irmäo Joshua?
+[IDS_CIN_M04_020_CUR_8]Bem, fale com o prefeito. Ele é quem sabe da vida de todo mundo aqui.
+[IDS_CIN_M04_020_ALX_6]Prefeito Bartlett?  Você sabe onde eu posso achar ele?
+[IDS_CIN_M04_020_CUR_9]Claro.  Mesmo lugar que ele está todos os dias.  Cavando covas das pessoas.
+[IDS_CIN_M04_020_CUR_10]Tem algo muito errado com aquele maluco.  Você sabe, tipo... na cabeça?
+[IDS_CIN_M04_020_ALX_7]Aquele cara é o prefeito Bartlett?
+[IDS_CIN_M04_020_CUR_11]Aham.  Por isso as ruas estäo todas quebradas.  Ninguém ta ligando pra nada nessa merda.
+[IDS_CIN_M04_020_CUR_12]É, eu consigo consertar... Mas vai levar um tempo.
+[IDS_CIN_M04_020_ALX_8]Pode ficar, é sua agora.
+[IDS_CIN_M04_020_CUR_13]Ta, qual é a pegadinha?
+[IDS_CIN_M04_020_ALX_9]Considere como um pagamento pela sua ajuda.
+[IDS_CIN_M04_020_CUR_14]Um soldado tem que ter uma arma.
+[IDS_CIN_M04_020_ALX_10]Valeu.
+[IDS_CIN_M04_020_CUR_15]É, eu gosto de uma boa barganha.
 
 # CIN_M04_030 Strings #
 [IDS_CIN_M04_030_WHE_1]RADIO: Elle.  Elle, are you there?
-[IDS_CIN_M04_030_ALX_1]Hello?
-[IDS_CIN_M04_030_WHE_2]RADIO: Who the hell is this?
+[IDS_CIN_M04_030_ALX_1]Alô?
+[IDS_CIN_M04_030_WHE_2]RADIO: Quem caralhos ta falando?
 [IDS_CIN_M04_030_ALX_2]Alex Shepherd.
-[IDS_CIN_M04_030_WHE_3]RADIO: Alex Shepherd?  I thought you were-- <static>
-[IDS_CIN_M04_030_ALX_3]Hello?  Hello?
+[IDS_CIN_M04_030_WHE_3]RADIO: Alex Shepherd?  Eu pensei que você-- <static>
+[IDS_CIN_M04_030_ALX_3]Alô?  Alô?
 
 # CIN_M04_040 Strings #
-[IDS_CIN_M04_040_ALX_1]Forgive me...?
+[IDS_CIN_M04_040_ALX_1]Me perdoe...?
 [IDS_CIN_M04_040_ALX_2]Ahh!
 [IDS_CIN_M04_040_ALX_3]Ahhh...ahhh!!
 
 # CIN_M05_010 Strings #
-[IDS_CIN_M05_010_ALX_1]Where am I?
-[IDS_CIN_M05_010_ALX_2]What the hell?
-[IDS_CIN_M05_010_ALX_3]Hey!  Josh.
+[IDS_CIN_M05_010_ALX_1]Onde eu to?
+[IDS_CIN_M05_010_ALX_2]Mas que droga é...?
+[IDS_CIN_M05_010_ALX_3]Ei!  Josh.
 
 # CIN_M05_030 Strings #
-[IDS_CIN_M05_030_ALX_1]What the hell?
-[IDS_CIN_M05_030_ALX_2]You gotta be shittin' me!
+[IDS_CIN_M05_030_ALX_1]Mas que diabos é...?
+[IDS_CIN_M05_030_ALX_2]Isso só pode ser sacanagem!
 
 # CIN_M05_050 Strings #
 [IDS_CIN_M05_050_ALX_1]Josh!
-[IDS_CIN_M05_050_ALX_2]Please help me.
-[IDS_CIN_M05_050_ALX_3]Josh!  Don't let me fall!
+[IDS_CIN_M05_050_ALX_2]Me ajuda, por favor.
+[IDS_CIN_M05_050_ALX_3]Josh!  Näo me deixa cair!
 [IDS_CIN_M05_050_ALX_4]Ahhh!
 [IDS_CIN_M05_050_ALX_5]Josh...
 
@@ -4332,22 +4332,22 @@
 [IDS_CIN_M05_060_MAY_5]Something has come...and taken everyone away.
 [IDS_CIN_M05_060_MAY_6]You can't stop them.  They'll get you too.
 [IDS_CIN_M05_060_ALX_4]Who's taking them?  What are you talking about?
-[IDS_CIN_M05_060_ALX_5]Where's...MY...BROTHER?!
-[IDS_CIN_M05_060_ALX_6]Bastard sonofabitch.
-[IDS_CIN_M05_060_MAY_7]You can't save them.
-[IDS_CIN_M05_060_ALX_7]Wha...what?
+[IDS_CIN_M05_060_ALX_5]CADÊ... O MEU... IRMäO?!
+[IDS_CIN_M05_060_ALX_6]Filho da puta de merda.
+[IDS_CIN_M05_060_MAY_7]Você näo pode salva-los.
+[IDS_CIN_M05_060_ALX_7]O q-O Que?
 [IDS_CIN_M05_060_ALX_8]What's happening?  What did you do?!
-[IDS_CIN_M05_060_ALX_9]What is all this?!
-[IDS_CIN_M05_060_ALX_10]Jesus Christ!
-[IDS_CIN_M05_060_ALX_11]You sick fuck!!
-[IDS_CIN_M05_060_MAY_8]Oh no.  Oh God no.
-[IDS_CIN_M05_060_MAY_9]Show mercy on me!
-[IDS_CIN_M05_060_MAY_10]I only live to serve you!
-[IDS_CIN_M05_060_MAY_11]Please...please protect me in this moment of...
-[IDS_CIN_M05_060_ALX_12]Oh, shit!!
+[IDS_CIN_M05_060_ALX_9]O que é tudo isso?!
+[IDS_CIN_M05_060_ALX_10]Jesus Cristo!
+[IDS_CIN_M05_060_ALX_11]Seu maluco!!
+[IDS_CIN_M05_060_MAY_8]Oh näo.  Oh Deus näo.
+[IDS_CIN_M05_060_MAY_9]Tenha piedade de mim!
+[IDS_CIN_M05_060_MAY_10]Eu vivo para servi-lo!
+[IDS_CIN_M05_060_MAY_11]Por favor... Eu suplico, me proteja neste momento de...
+[IDS_CIN_M05_060_ALX_12]Caralho!!
 
 # CIN_M06_010 Strings #
-[IDS_CIN_M06_010_ALX_1]Anybody here?
+[IDS_CIN_M06_010_ALX_1]Tem alguém aqui?
 
 # CIN_M06_020 Strings #
 [IDS_CIN_M06_020_ALX_1]Deputy Wheeler?
@@ -4358,38 +4358,38 @@
 [IDS_CIN_M06_020_WHE_3]You won't be going anywhere until I get some answers.
 
 # CIN_M06_025 Strings #
-[IDS_CIN_M06_025_WHE_1]Hold it.  This isn't good.
-[IDS_CIN_M06_025_ALX_1]What is it?
-[IDS_CIN_M06_025_WHE_2]Your gear!  It's in the Chief's Office.  Run that way!
-[IDS_CIN_M06_025_ALX_2]Alright!
-[IDS_CIN_M06_025_WHE_3]NOW!!
+[IDS_CIN_M06_025_WHE_1]Espera.  Isso näo é bom.
+[IDS_CIN_M06_025_ALX_1]O que foi?
+[IDS_CIN_M06_025_WHE_2]Suas coisas! Estäo na sala do xerife. Corre por ali!
+[IDS_CIN_M06_025_ALX_2]Entendido!
+[IDS_CIN_M06_025_WHE_3]AGORA!!
 
 # CIN_M06_030 Strings #
 [IDS_CIN_M06_030_ELE_1]RADIO: Alex!  Wheeler!  Come in.  I'm on my way to the sheriff's station. Something's after me!
 [IDS_CIN_M06_030_ALX_1]Elle, head to the parking lot behind the station.  We'll meet you there.
 [IDS_CIN_M06_030_WHE_1]Okay, clear a path through the lobby and break down the barricade.  I'll cover you.  Okay?
 [IDS_CIN_M06_030_ALX_2]Alright.
-[IDS_CIN_M06_030_WHE_2]Ready?
+[IDS_CIN_M06_030_WHE_2]Pronto?
 
 # CIN_M06_035 Strings #
-[IDS_CIN_M06_035_ALX_1]Oh, God!
-[IDS_CIN_M06_035_ALX_2]What the...?!
+[IDS_CIN_M06_035_ALX_1]Oh, Deus!
+[IDS_CIN_M06_035_ALX_2]Mas que...?!
 [IDS_CIN_M06_035_ALX_3]Wheeler!!
 
 # CIN_M06_040 Strings #
 [IDS_CIN_M06_040_ALX_1]Elle...
-[IDS_CIN_M06_040_ALX_2]Look out!
-[IDS_CIN_M06_040_ALX_3]No!!
+[IDS_CIN_M06_040_ALX_2]Cuidado!
+[IDS_CIN_M06_040_ALX_3]Näo!!
 [IDS_CIN_M06_040_ALX_4]Elle!!
 
 # CIN_M06_050 Strings #
-[IDS_CIN_M06_050_ALX_1]Elle!  I'm right here.  Come on!
-[IDS_CIN_M06_050_ELE_1]Thanks.
-[IDS_CIN_M06_050_ELE_2]Alex, where's Wheeler?
-[IDS_CIN_M06_050_ALX_2]I don't think he made it.
-[IDS_CIN_M06_050_ALX_3]Come on.  We need to find Doctor Fitch.
-[IDS_CIN_M06_050_ELE_3]We'll be safer underground.  Come on!
-[IDS_CIN_M06_050_ALX_4]C'mon, c'mon!!
+[IDS_CIN_M06_050_ALX_1]Elle!  Eu vou te ajudar.  Vem!
+[IDS_CIN_M06_050_ELE_1]Valeu.
+[IDS_CIN_M06_050_ELE_2]Alex, cadê o Wheeler?
+[IDS_CIN_M06_050_ALX_2]Eu näo acho que ele sobreviveu.
+[IDS_CIN_M06_050_ALX_3]Vamos.  Temos que achar o doutor Fitch.
+[IDS_CIN_M06_050_ELE_3]Estaremos mais seguros no esgoto.  Vamos!
+[IDS_CIN_M06_050_ALX_4]Vai, vai!!
 
 # CIN_M06_060 Strings #
 [IDS_CIN_M06_060_ALX_1]Are you okay?
@@ -4523,28 +4523,28 @@
 [IDS_CIN_M11_020_LIL_9]Please, Alex.  Please...
 
 # CIN_M11_030 Strings #
-[IDS_CIN_M11_030_ALX_1]I can't.
-[IDS_CIN_M11_030_LIL_1]It's okay, Alex.
-[IDS_CIN_M11_030_LIL_2]I love you...
+[IDS_CIN_M11_030_ALX_1]Eu näo posso.
+[IDS_CIN_M11_030_LIL_1]Ta tudo bem, Alex.
+[IDS_CIN_M11_030_LIL_2]Eu te amo...
 
 # CIN_M11_040 Strings #
-[IDS_CIN_M11_040_ALX_1]I can't.
-[IDS_CIN_M11_040_ALX_2]I'm sorry, Mom.
+[IDS_CIN_M11_040_ALX_1]Eu näo posso.
+[IDS_CIN_M11_040_ALX_2]Me desculpa mäe.
 [IDS_CIN_M11_040_LIL_1]Ahhhh!!
-[IDS_CIN_M11_040_ALX_3]No!!!
+[IDS_CIN_M11_040_ALX_3]Näo!!!
 
 # CIN_M11_050 Strings #
-[IDS_CIN_M11_050_WHE_1]Thank God you're alive.  I was about to go looney tunes in this roach motel.
-[IDS_CIN_M11_050_WHE_2]What is it?
-[IDS_CIN_M11_050_ALX_1]I found my mother.
-[IDS_CIN_M11_050_ALX_2]I couldn't save her.
+[IDS_CIN_M11_050_WHE_1]Graças a Deus tu ta vivo.  Eu tava a ponto de ficar lelé da cuca nessa porra aqui.
+[IDS_CIN_M11_050_WHE_2]O que foi?
+[IDS_CIN_M11_050_ALX_1]Eu achei minha mäe.
+[IDS_CIN_M11_050_ALX_2]Eu näo pude salva-la.
 [IDS_CIN_M11_050_WHE_3]I'm sorry, Alex.  I'm afraid I got more bad news... I found this on one of those Order soldiers I roughed up.
 [IDS_CIN_M11_050_WHE_4]Elle's name is on it.
 [IDS_CIN_M11_050_ALX_3]Then we gotta get out of here.
-[IDS_CIN_M11_050_WHE_5]Let's go, partner.
+[IDS_CIN_M11_050_WHE_5]Vamos nessa, parceiro.
 
 # CIN_M11_060 Strings #
-[IDS_CIN_M11_060_ALX_1]Judge Holloway.
+[IDS_CIN_M11_060_ALX_1]Juiza Holloway.
 [IDS_CIN_M11_060_JUD_1]Alex!
 [IDS_CIN_M11_060_WHE_1]Quick, you get her loose before they start pumping the gas.  I'll shut off the valves.
 [IDS_CIN_M11_060_JUD_2]Alex, thank God.  How did you find me?
@@ -4560,74 +4560,74 @@
 [IDS_CIN_M11_060_WHE_2]They turned on the gas--
 [IDS_CIN_M11_060_ALX_7]Wheeler!
 [IDS_CIN_M11_060_ALX_8]Run!  Get out!  Get out of here!  I'll save Wheeler!
-[IDS_CIN_M11_060_ALX_9]Oh God, Wheeler!
-[IDS_CIN_M11_060_ALX_10]Wheeler, where are you?!
-[IDS_CIN_M11_060_ALX_11]Jesus Christ, look at that thing!!
-[IDS_CIN_M11_060_ALX_12]Holy fuck!!
+[IDS_CIN_M11_060_ALX_9]Oh Deus, Wheeler!
+[IDS_CIN_M11_060_ALX_10]Wheeler, cadê você?!
+[IDS_CIN_M11_060_ALX_11]Jesus Cristo, olha aquela coisa!!
+[IDS_CIN_M11_060_ALX_12]Minha nossa senhora!!
 
 # CIN_M11_070 Strings #
 [IDS_CIN_M11_070_ALX_1]Josh...
-[IDS_CIN_M11_070_ALX_2]Wait, Josh!
+[IDS_CIN_M11_070_ALX_2]Espera, Josh!
 
 # CIN_M13_010 Strings #
-[IDS_CIN_M13_010_ALX_1]Dad?
-[IDS_CIN_M13_010_ADA_1]Alex?  What are you doing here?
-[IDS_CIN_M13_010_ALX_2]I'm here to save Joshua.
-[IDS_CIN_M13_010_ADA_2]Joshua?  You can't save him.  You need to get out of here.
+[IDS_CIN_M13_010_ALX_1]Pai?
+[IDS_CIN_M13_010_ADA_1]Alex?  O que você faz aqui?
+[IDS_CIN_M13_010_ALX_2]Eu to aqui pra salvar o Joshua.
+[IDS_CIN_M13_010_ADA_2]Joshua?  Você näo tem como salvar ele.  Você precisa sair daqui.
 [IDS_CIN_M13_010_ALX_3]Stop giving me orders, Dad.  You have no idea what I'm capable of.
 [IDS_CIN_M13_010_ADA_3]You hate me.  It's okay.  I don't blame you.
 [IDS_CIN_M13_010_ALX_4]I don't hate you.  I forgot you...a long time ago.
 [IDS_CIN_M13_010_ADA_4]I never meant to hurt you, son.  I had to make a choice, and now I'm paying for it.  We all are.
 [IDS_CIN_M13_010_ADA_5]After all I've done, you still wear my old dog tags...that must mean something.
 [IDS_CIN_M13_010_ALX_5]What are you talking about?  These are mine.  I'm a soldier...just like you wanted.
-[IDS_CIN_M13_010_ADA_6]Alex...you've been in the hospital...
-[IDS_CIN_M13_010_ALX_6]I know.  I was wounded in battle.
-[IDS_CIN_M13_010_ADA_7]No... A mental hospital.
-[IDS_CIN_M13_010_ADA_8]You've been there ever since the accident.
+[IDS_CIN_M13_010_ADA_6]Alex... Você esteve no hospital por um tempo...
+[IDS_CIN_M13_010_ALX_6]Eu sei, eu me acidentei em combate.
+[IDS_CIN_M13_010_ADA_7]Näo... Em um hospital psiquiátrico.
+[IDS_CIN_M13_010_ADA_8]Você estava lá desde o acidente.
 [IDS_CIN_M13_010_ALX_7]No...  That's not true.  I'm a soldier.  I protect people.
 [IDS_CIN_M13_010_ADA_9]We had to take you there...after that night.  After I gave your brother this.
-[IDS_CIN_M13_010_ALX_8]What is this thing?  What did you do?  Where's Joshua?!
-[IDS_CIN_M13_010_ADA_10]Alex, forgive me.
-[IDS_CIN_M13_010_ALX_9]No!!!!
+[IDS_CIN_M13_010_ALX_8]O que é essa coisa?  O que você fez?  Cadê o Joshua?!
+[IDS_CIN_M13_010_ADA_10]Alex, me perdoe.
+[IDS_CIN_M13_010_ALX_9]Näo!!!!
 
 # CIN_M14_030 Strings #
 [IDS_CIN_M14_030_CUR_1]Boo!
-[IDS_CIN_M14_030_ALX_1]Curtis!  Stop!!
-[IDS_CIN_M14_030_CUR_2]It's a damn shame the way people mistreat such nice things.
-[IDS_CIN_M14_030_ELE_1]No!  Oh God!
-[IDS_CIN_M14_030_ELE_2]Please don't!!
+[IDS_CIN_M14_030_ALX_1]Curtis!  Pare!!
+[IDS_CIN_M14_030_CUR_2]É uma pena que as pessoas cuidem mal de coisas täo bonitas.
+[IDS_CIN_M14_030_ELE_1]Näo!  Oh Deus!
+[IDS_CIN_M14_030_ELE_2]Por favor, näo!!
 
 # CIN_M14_035 Strings #
-[IDS_CIN_M14_035_ELE_1]Please don't!  Help me!!
+[IDS_CIN_M14_035_ELE_1]Por favor, näo!  ME AJUDA!!
 
 # CIN_M14_040 Strings #
-[IDS_CIN_M14_040_ELE_1]Alex, my mother...
-[IDS_CIN_M14_040_ALX_1]I'm sorry, Elle.
-[IDS_CIN_M14_040_ELE_2]Oh God, I can't believe this.
-[IDS_CIN_M14_040_ALX_2]We gotta get you out of here.  Come on.
+[IDS_CIN_M14_040_ELE_1]Alex, minha mäe...
+[IDS_CIN_M14_040_ALX_1]Sinto muito, Elle.
+[IDS_CIN_M14_040_ELE_2]Oh Deus, eu näo acredito nisso.
+[IDS_CIN_M14_040_ALX_2]A gente tem que te tirar daquui.  Vamos logo.
 
 # CIN_M14_045 Strings #
 [IDS_CIN_M14_045_WHE_1]Wheeler... Ahhh!
 
 # CIN_M14_047 Strings #
-[IDS_CIN_M14_047_ALX_1]You need to get him out of here.
-[IDS_CIN_M14_047_ELE_1]What about you?
-[IDS_CIN_M14_047_ALX_2]I can't.  Not without Joshua.
-[IDS_CIN_M14_047_ELE_2]Be careful.  I can't lose you too.
+[IDS_CIN_M14_047_ALX_1]Você tem que tirar ele daqui.
+[IDS_CIN_M14_047_ELE_1]Mas e você?
+[IDS_CIN_M14_047_ALX_2]Eu ainda näo posso. Näo sem o Joshua.
+[IDS_CIN_M14_047_ELE_2]Toma cuidado. Eu näo posso te perder também.
 
 # CIN_M14_048 Strings #
-[IDS_CIN_M14_048_ALX_1]You need to get out of here.
-[IDS_CIN_M14_048_ELE_1]What about you?
-[IDS_CIN_M14_048_ALX_2]I can't.  Not without Joshua.
-[IDS_CIN_M14_048_ELE_2]Be careful.  I can't lose you too.
+[IDS_CIN_M14_048_ALX_1]Você tem que sair daqui.
+[IDS_CIN_M14_048_ELE_1]Mas e você?
+[IDS_CIN_M14_048_ALX_2]Eu ainda näo posso. Näo sem o Joshua.
+[IDS_CIN_M14_048_ELE_2]Toma cuidado. Eu näo posso te perder também.
 
 # CIN_M14_050 Strings #
-[IDS_CIN_M14_050_ALX_1]What...?
-[IDS_CIN_M14_050_JOS_1]What's the matter?
-[IDS_CIN_M14_050_YAL_1]Get dressed.
-[IDS_CIN_M14_050_JOS_2]What are we doing here, Alex?  Dad'll freak if he finds out.
-[IDS_CIN_M14_050_YAL_2]Give that to me.  Someone will see us.
-[IDS_CIN_M14_050_JOS_3]Nooo.
+[IDS_CIN_M14_050_ALX_1]O que...?
+[IDS_CIN_M14_050_JOS_1]O que houve?
+[IDS_CIN_M14_050_YAL_1]Se veste.
+[IDS_CIN_M14_050_JOS_2]O que a gente ta fazendo, Alex?  Papai vai ficar furioso se ele descobrir.
+[IDS_CIN_M14_050_YAL_2]Me da isso.  Alguém vai ver a gente.
+[IDS_CIN_M14_050_JOS_3]Näooo.
 [IDS_CIN_M14_050_YAL_3]It's okay.  I'm not going to let anything happen to you...
 [IDS_CIN_M14_050_JOS_4]Why are we here Alex?  What's going on?
 [IDS_CIN_M14_050_YAL_4]What's the matter...you scared?
@@ -4653,26 +4653,26 @@
 [IDS_CIN_M14_050_ALX_2a]No...
 [IDS_CIN_M14_050_ALX_2]What's happening...?
 [IDS_CIN_M14_050_ALX_3]What's going on?
-[IDS_CIN_M14_050_ALX_4]Oh, no...not again.
-[IDS_CIN_M14_050_ALX_5]Whoa...what...?!
+[IDS_CIN_M14_050_ALX_4]Oh, näo... de novo näo.
+[IDS_CIN_M14_050_ALX_5]Whoa... Que...?!
 [IDS_CIN_M14_050_ALX_6]Jesus!
-[IDS_CIN_M14_050_ALX_7]What the fuck?!
+[IDS_CIN_M14_050_ALX_7]Que porra é essa?!
 
 # CIN_M14_060 Strings #
 [IDS_CIN_M14_060_ALX_1]Josh...
 [IDS_CIN_M14_060_ALX_2]Josh...
-[IDS_CIN_M14_060_ALX_3]I'm sorry, Josh.
-[IDS_CIN_M14_060_ALX_4]I never meant for this to happen.
-[IDS_CIN_M14_060_ALX_5]Here buddy...take this...
-[IDS_CIN_M14_060_ALX_6]I forgot...
+[IDS_CIN_M14_060_ALX_3]Me perdoa, Josh.
+[IDS_CIN_M14_060_ALX_4]Eu nunca quis que isso acontecesse.
+[IDS_CIN_M14_060_ALX_5]Aqui amigäo... Fica com isso...
+[IDS_CIN_M14_060_ALX_6]Eu esqueci...
 [IDS_CIN_M14_060_ALX_7]Josh...
-[IDS_CIN_M14_060_ALX_8]I'm sorry...
+[IDS_CIN_M14_060_ALX_8]Me perdoa...
 
 # CIN_M15_010 Strings #
-[IDS_CIN_M15_010_ALX_1]Elle.  You're okay?
-[IDS_CIN_M15_010_ELE_1]Yeah.  I think so.
-[IDS_CIN_M15_010_ELE_2]What did you see in there?
-[IDS_CIN_M15_010_ALX_2]What I needed to.
+[IDS_CIN_M15_010_ALX_1]Elle.  Você está bem?
+[IDS_CIN_M15_010_ELE_1]É.  Eu acho que sim.
+[IDS_CIN_M15_010_ELE_2]O que você viu lá embaixo?
+[IDS_CIN_M15_010_ALX_2]O que eu precisava ver.
 
 # CIN_M15_020 Strings #
 [IDS_MOV_M15_020_01]Näo tenha medo, filho. Seu sacrificio vai nos salvar. Joshua estará a salvo para carregar o legado da família.
@@ -4697,7 +4697,7 @@
 # CIN_M15_050 Strings #
 [IDS_CIN_M15_050_ALX_1]Elle...
 [IDS_CIN_M15_050_ALX_2]Ahhh merda.
-[IDS_CIN_M15_050_WHE_1]Entäo é aqui que estavam trazendo todo mundo, eu sabia!
+[IDS_CIN_M15_050_WHE_1]Entäo é isso que aconteceu com todo mundo, eu sabia!
 
 # CIN_M15_060 Strings #
 [IDS_CIN_M15_060_JOS_1]Sorria!
@@ -4836,7 +4836,7 @@
 [IDS_NOTES_Holloway_Family_Contract]<COLOR,195,188,228>We, the Family Holloway, in order to ensure our continued protection and prosperity, do enter into this Holy Contract with our God, accept our duties as Keeper of Lore and willingly consign our child to the noose in God's name.<CLEARCOLOR>
 
 # Text from a Book Jacket. Found somewhere in the Cult hideout? Suggests someone in The Order is a bit skeptical #
-[IDS_NOTES_M14_Book_Jacket_Text_01]<COLOR,195,188,228>Through the Fog - A Skeptic in Silent Hill\nby: Paul Scheible<CLEARCOLOR>
+[IDS_NOTES_M14_Book_Jacket_Text_01]<COLOR,195,188,228>Dentro da névoa - Um cético em Silent Hill\npor: Paul Scheible<CLEARCOLOR>
 [IDS_NOTES_M14_Book_Jacket_Text_02]<COLOR,195,188,228>Silent Hill: A town known for its mysterious happenings and now-defunct cult, "The Order," which was recently exposed by Detective Douglas Cartland.<CLEARCOLOR>
 [IDS_NOTES_M14_Book_Jacket_Text_03]<COLOR,195,188,228>But, what darkness really lies behind the simple veneer of this sleepy town?<CLEARCOLOR>
 [IDS_NOTES_M14_Book_Jacket_Text_04]<COLOR,195,188,228>Paul Scheible's latest book chronicles his research during a two-year stay in the town,\nincluding detailed interviews with long-time residents, cult documents you won't find\nanywhere else, and an appendix of popular local legends.  As expected, life in Silent Hill<CLEARCOLOR>
@@ -4855,15 +4855,15 @@
 [IDS_JOURNAL_Joshua_After_Judge_tells_Alex_about_the_sacrifices]My God.  Nora Holloway, Joey Bartlett, Scarlet Fitch...all murdered by their own parents. But not Joshua, that's what Judge Holloway said. Dad couldn't do it. That means he's alive.
 
 # Lillian Shepherd #
-[IDS_JOURNAL_Lillian_After_Lillian_Gets_Kidnapped]They took her.  I know she's involved in all this somehow, but she doesn't deserve to get hurt.
-[IDS_JOURNAL_Lillian_After_Alex_Does_or_Doesn't_Kill_Mom]I never thought I'd hear Mom say that she loved me.  But I guess it took the fear of death to make her realize it.  I spent so long hating her, and now, I can't believe she's gone.
+[IDS_JOURNAL_Lillian_After_Lillian_Gets_Kidnapped]Eles pegaram ela.  Eu sei que minha mäe está envolvida com essa loucura de alguma forma forma, mas isso näo significa que ela mereça se machucar. Eu preciso salva-la.
+[IDS_JOURNAL_Lillian_After_Alex_Does_or_Doesn't_Kill_Mom]Eu nunca pensei que minha mäe diria que me amava, mas acho que ela precisou sentir o medo de morrer para finalmente entender isso.  Eu passei muito tempo odiando ela, e agora, eu näo acredito que ela se foi. Eu acho que deveria ter feito mais...
 
 # Adam Shepherd #
-[IDS_JOURNAL_Adam_After_Adam_is_Killed_by_Pyramid_Head]I can't believe he was still alive, after all that.  He wanted forgiveness.  Well, he can't have it.  Repenting on your deathbed doesn't make up for a lifetime of neglect.  I'm sorry, but too much has happened.
+[IDS_JOURNAL_Adam_After_Adam_is_Killed_by_Pyramid_Head]Eu näo acredito que ele ainda estava vivo depois de tudo aquilo.  Ele queria perdäo, redençäo.  Bem, ele näo conseguiu.  Se arrepender nos momentos finais da vida näo paga uma vida inteira de negligência com um filho.  Me desculpe, mas aconteceram muitas coisas...
 
 # Crazy Man in Graveyard #
-[IDS_JOURNAL_Graveyard_Man_Name]Crazy Man in Graveyard
-[IDS_JOURNAL_Graveyard_Man_After_Alex_First_Sees_Mayor_Digging_Graves]This man was digging graves in the cemetery, but I get the sneaking suspicion he doesn't work there.  I couldn't talk to him, and I'm not sure he'd be any help even if I could.
+[IDS_JOURNAL_Graveyard_Man_Name]Homem esquisito no cemitério
+[IDS_JOURNAL_Graveyard_Man_After_Alex_First_Sees_Mayor_Digging_Graves]Tinha um cara cavando covas no cemitério, mas eu suspeito de que esse näo era o trabalho dele.  Eu näo consegui falar com ele, mas tenho certeza de que ele näo seria de grande ajuda também.
 
 # Elle Holloway #
 [IDS_JOURNAL_Elle_After_Alex_Wakes_Up_On_Shore]When I woke up on the shore, Elle was gone.  The Order must have her.  But I'm gonna find her.  I swear to God, I will.  She's not going to become another missing person like those people on her flyers.  I won't let that happen.
@@ -4887,7 +4887,7 @@
 [IDS_JOURNAL_Fitch_After_Doctor_is_Killed]If that demon hadn't killed Dr. Fitch, he would have eventually done it himself.  But what happened to his daughter that was so bad he would torture himself that way?  Does he even know?  Is it grief or guilt?  And how is this all connected to Joshua?  I'm running out of people to ask.
 
 # Man in Confessional #
-[IDS_JOURNAL_Confess_Name]Man in Confessional
+[IDS_JOURNAL_Confess_Name]Homem no confessionário
 [IDS_JOURNAL_Confess_After_Alex_Speaks_with_Man]I heard this man asking for forgiveness on the other side of the confessional.  His voice was filled with pain, and remorse...  Then he left, and I never got the chance to meet him face to face.
 
 # Man Locked Up in Hospital #
@@ -4899,89 +4899,89 @@
 ### Mission Objective Strings - What to Do!!! ###
 
 ### M03 Mission Objectives ###
-[M03_Objective_ExploreHouse]- Explore the house.
-[M03_Objective_Investigate_Basement]- Investigate the basement.
-[M03_Objective_Drain_Basement]- Drain the water in the basement.
-[M03_Objective_SearchForJosh]- Joshua isn't at home. Search the rest of the town.
+[M03_Objective_ExploreHouse]- Explore a sua casa.
+[M03_Objective_Investigate_Basement]- Investigue o poräo.
+[M03_Objective_Drain_Basement]- Drene a água do poräo.
+[M03_Objective_SearchForJosh]- Procure por Joshua no resto da cidade.
 
 
 ### M04 Mission Objectives ###
-[M04_Objective_SearchForJosh]- Search the graveyard and nearby sections of the town for information on Joshua's disappearance.
-[M04_Objective_InfoAboutGun]- Find someone who knows something about fixing guns.
-[M04_Objective_FindCurtis]- Find Curtis' shop.
-[M04_Objective_FindMayor]- Find Mayor Bartlett. He was digging graves in the cemetery.
-[M04_Objective_SearchMasoleum]- Search the Bartlett Mausoleum for information.
-[M04_Objective_OpenCasket]- Open the lock to the casket inside the Bartlett Mausoleum.
+[M04_Objective_SearchForJosh]- Procure por Joshua no cemitério e outras áreas próximas.
+[M04_Objective_InfoAboutGun]- Encontre alguém que saiba consertar armas de fogo.
+[M04_Objective_FindCurtis]- Encontre a loja do Curtis.
+[M04_Objective_FindMayor]- Encontre o prefeito Bartlett.
+[M04_Objective_SearchMasoleum]- Investigue o mausoléu dos Bartlett no cemitério.
+[M04_Objective_OpenCasket]- Abra a tranca do caixäo no mausoléu dos Bartlett.
 
 
 ### M05 Mission Objectives ###
-[M05_Objective_GetToJosh]- Catch up to Joshua.
-[M05_Objective_RestorePower]- Restore power to the Hotel to get the elevator working.
-[M05_Objective_UseElevator]- Power has been restored. Use the elevator.
-[M05_Objective_CutPainting]- There seems to be something behind the painting. Cut it to find out what.
-[M05_Objective_OpenJoshDoor]- Room 306 has a unique lock. Find way to open it.
-[M05_Objective_FindMemories]- Find three memories for the lady in room 301.
-[M05_Objective_UseKey]- Use the key I got from the lady in room 301.
-[M05_Objective_SearchGreenhouse]- Search the greenhouse.
-[M05_Objective_TalkToMayor]- Ask Mayor Bartlett what he is doing here.
-[M05_Objective_DestroySepulcher]- Destroy Sepulcher.
+[M05_Objective_GetToJosh]- Alcance Joshua.
+[M05_Objective_RestorePower]- Restaure a energia do Grand Hotel.
+[M05_Objective_UseElevator]- Use o elevador do Grand Hotel.
+[M05_Objective_CutPainting]- Existe algo atrás da pintura, investigue.
+[M05_Objective_OpenJoshDoor]- Quarto 306 tem uma tranca diferente. Descubra como abrir.
+[M05_Objective_FindMemories]- Encontre as memórias da mulher no quarto 301.
+[M05_Objective_UseKey]- Descubra onde usar a chave dada pela mulher no quarto 301.
+[M05_Objective_SearchGreenhouse]- Investigue o jardim.
+[M05_Objective_TalkToMayor]- Interrogue o prefeito Bartlett.
+[M05_Objective_DestroySepulcher]- Destrua o Sepulcher.
 
 
 ### M06 Mission Objectives ###
-[M06_Objective_JailCell]- Escape the jail cell.
-[M06_Objective_FollowWheeler]- Follow Deputy Wheeler through the station.
-[M06_Objective_ChiefsOffice]- Retrieve my gear from my Dad's Office.
-[M06_Objective_MeetElle]- Escape the station and meet up with Elle.
-[M06_Objective_SaveElle]- Rescue Elle.
-[M06_Objective_ProtectElle]- Keep Elle Safe.
-[M06_Objective_EscapeSewers]- Find a way out of the sewers.
+[M06_Objective_JailCell]- Escape da cela.
+[M06_Objective_FollowWheeler]- Siga o delegado Wheeler pela delegacia.
+[M06_Objective_ChiefsOffice]- Recupere os equipamentos no escritório do xerife.
+[M06_Objective_MeetElle]- Escape da delegacia e encontre Elle.
+[M06_Objective_SaveElle]- Salve a Elle.
+[M06_Objective_ProtectElle]- Mantenha a Elle em segurança.
+[M06_Objective_EscapeSewers]- Descubra uma forma de sair dos esgotos.
 
 
 ### M07 Mission Objectives ###
-[M07_Objective_InvestigateArea]- Investigate the area.
-[M07_Objective_FindJoshua]- Find Joshua.
-[M07_Objective_DefeatScarlet]- Defeat Scarlet.
+[M07_Objective_InvestigateArea]- Investigue o local.
+[M07_Objective_FindJoshua]- Encontre o Joshua.
+[M07_Objective_DefeatScarlet]- Derrote a Scarlet.
 
 ### M08 Mission Objectives ###
 
 ### M08B Mission Objectives ###
-[M08B_Objective_Enter_House]- Traverse the Cemetery and enter the Shepherd House from the backyard.
+[M08B_Objective_Enter_House]- Passe pelo cemitério e entre na casa dos Shepherd pelos fundos.
 
 ### M09 Mission Objectives ###
-[M09_Objective_Unlock_Attic]- Find a way into the attic.
-[M09_Objective_Ask_Mom]- Talk to Mom about Dad's letter.
-[M09_Objective_EscapeHouse]- Escape the house.
-[M09_Objective_UnlockDoor]- Find a way to unlock the front door.
-[M09_Objective_SolvePuzzles]- Solve each puzzle.
+[M09_Objective_Unlock_Attic]- Encontre uma forma de ir ao sótäo.
+[M09_Objective_Ask_Mom]- Fale com Lillian, sua mäe, sobre a carta de Adam.
+[M09_Objective_EscapeHouse]- Escape da casa.
+[M09_Objective_UnlockDoor]- Descubra uma forma de abrir a porta da frente da casa.
+[M09_Objective_SolvePuzzles]- Resolva os enigmas.
 
 
 ### M11 Mission Objectives ###
-[M11_Objective_FindWheeler]- Find Wheeler.
-[M11_Objective_EscortWheeler]- Escort Wheeler to safety.
-[M11_Objective_Escape]- Find a way out.
-[M11_Objective_FindElle]- Find Elle.
-[M11_Objective_DefeatAmnion]- Defeat Asphyxia.
-[M11_Objective_FollowJoshua]- Follow Joshua.
+[M11_Objective_FindWheeler]- Encontre o delegado Wheeler.
+[M11_Objective_EscortWheeler]- Proteja o delegado Wheeler.
+[M11_Objective_Escape]- Descubra uma forma de sair.
+[M11_Objective_FindElle]- Encontre a Elle.
+[M11_Objective_DefeatAmnion]- Derrote a Asphyxia.
+[M11_Objective_FollowJoshua]- Siga o Joshua.
 
 
 ### M12 Mission Objectives ###
-[M12_Objecitve_FollowJosh]- Joshua is trying to lead me somewhere. I need to find out where he's going.
-[M12_Objective_GateKey]- Find the Gate Key.
+[M12_Objecitve_FollowJosh]- Joshua parece querer ser seguido. Siga-o até seu destino.
+[M12_Objective_GateKey]- Encontre a chave do portäo.
 
 
 ### M13 Mission Objectives ###
-[M13_Objective_ExploreChurch]- Search the church for anything helpful.
-[M13_Objective_FindFiveTablets]- Find the pieces missing from the five prongs.
-[M13_Objective_TalkToAdam]- Talk to dad.
-[M13_Objective_FollowPyramidHead]- Follow the monster.
-[M13_Objective_FindSteamProtection]- I have to find something that will protect me from the steam.
-[M13_Objective_UseElevator]- Find out where the monster went.
+[M13_Objective_ExploreChurch]- Investigue a igreja.
+[M13_Objective_FindFiveTablets]- Encontre as partes que faltam dos cinco grampos.
+[M13_Objective_TalkToAdam]- Fale com Adam Shepherd, seu pai.
+[M13_Objective_FollowPyramidHead]- Siga o monstro.
+[M13_Objective_FindSteamProtection]- Encontre algo que te proteja do vapor quente.
+[M13_Objective_UseElevator]- Descubra para onde o monstro foi.
 
 
 ### M14 Mission Objectives ###
-[M14_Objective_FindElle]- Find Elle.
-[M14_Objective_SaveElle]- Save Elle.
-[M14_Objective_Wheel]- Uncover your past.
+[M14_Objective_FindElle]- Encontre a Elle.
+[M14_Objective_SaveElle]- Resgate a Elle.
+[M14_Objective_Wheel]- Descubra seu passado.
 
 
 ### Journal Entry Strings - THINGS TO REMEMBER ###
@@ -4999,7 +4999,7 @@
 [M01_CombatManual_06]Fast Attacks, Strong Attacks, Charge Attacks, and Combos: \n\nWhen in combat stance, press <ACTION> for Fast attacks and <HEAVY_ATTACK> for Strong Attacks.
 [M01_CombatManual_07]Strong attacks can be charged up for added damage by holding down <HEAVY_ATTACK>. \n\nSuccessive Fast attacks followed by a Strong attack can make for uninterrupted strikes known as Combos.
 
-[M01_Keypad_Clue]The number 624872 is written across the X-Ray Film.
+[M01_Keypad_Clue]O número "624872" está escrito nos filmes de Raios-X. Parece uma senha...
 
 ### M02 Journal Entries ###
 
@@ -5032,7 +5032,7 @@
 
 [M04_Four_Founders_Journal]There are four founding families for the town - Bartlett, Fitch, Holloway and Shepherd.
 
-[M04_Bartletts_Winery_Journal]The Bartlett's have a winery.
+[M04_Bartletts_Winery_Journal]Os Bartlett tem um vinhedo.
 
 
 ### M05 Journal Entries ###
@@ -5049,7 +5049,7 @@
 
 
 ### M08b Journal Entries ###
-[M08b_Rituals_Under_Lodge_Journal]The four founding families had ritualistic meetings in a secret chamber hidden under the Town Hall.
+[M08b_Rituals_Under_Lodge_Journal]As quatro famílias fundadoras faziam encontros ritualisticos em uma câmara secreta na cidade. A entrada ficava escondida logo abaixo da prefeitura.
 
 
 ### M09 Journal Entries ###
@@ -5059,7 +5059,7 @@
 
 
 ### M11 Journal Entries ###
-[M11_Prisoner_Journal]A prisoner with the number 110391 writes:\n"To escape your fate, you must first visit solitary confinement."
+[M11_Prisoner_Journal]O prisioneiro de número 110391 esreveu:\n"Para escapar do seu destino final, você precisa primeiro visitar a solitária."
 
 ### M12 Journal Entries ###
 
@@ -5070,49 +5070,49 @@
 ### M14 Journal Entries ###
 
 ###Added after Initial Torture Struggle###
-[M14_Journal_01]The Original Founders of Shepherd's Glen left Silent Hill to start a new life.\n They were worried about the old God's wrath, so they made a pact. Every 50 years, each family must sacrifice one of their children to appease their new God.
-[M14_Journal_02]When it came time for the current town descedents to fulfill their blood oath...\n Judge Holloway choked Nora to death, Dr. Fitch dismembered Scarlett, and Mayor Bartlett buried poor Joey alive.\n My Dad could not sacrifice Joshua.
-[M14_Journal_03]Dad didn't follow through with the Pact, so Judge Holloway returned to the old ways, the true faith of The Order.
-[M14_Journal_04]The townsfolk who disappeared have either converted to the Old Faith, or been murdered by The Order.
-[M14_Journal_05]Curtis is a member of The Order. Not very surprising....
+[M14_Journal_01]Os fundadores originais de Shepherd's Glen sairam de Silent Hill para começar uma nova vida.\n Eles se preocuparam com a fúria de seu antigo Deus, entäo apra aplacá-la, decidiram por um pacto. A cada 50 anos, as quatro famílias precisariam fazer um sacrifício de um de seus filhos para agradar ao seu novo Deus.
+[M14_Journal_02]Quando chegou o tempo dos atuais descendentes fazerem seu sacrifício, aconteceu o seguinte:\n A juiza Holloway asfixiou Nora até a morte, Dr. Fitch desmembrou sua filha Scarlett e o prefeito Bartlett enterrou seu filho Joey vivo.\n Meu pai näo foi capaz de fazer sua parte.
+[M14_Journal_03]Meu pai näo conseguiu continuar o pacto, entäo a juiza Holloway decidiu usar os métodos antigos, remetentes da verdadeira fé da Ordem no seu antigo Deus.
+[M14_Journal_04]As pessoas da cidade que sumiram se tornaram membros da Ordem ou foram mortas por ela.
+[M14_Journal_05]Curtis também é um membro da Ordem. Näo me surpreende...
 
 ###Added after Killing Curtis###
-[M14_Journal_06]Elle was almost tortured by Curtis, but I killed that sick bastard before he could do anything to her.
+[M14_Journal_06]Elle quase foi torturada por Curtis, mas eu matei aquele filho de uma puta antes que ele conseguisse fazer qualquer coisa com ela.
 
 ###Added after Saving or Failing to Save Wheeler###
-[M14_Journal_07_saved]The Order almost tortured Wheeler to death. It's a good thing I was there to save him.\n I hope he and Elle make it out of the Lair safely.
-[M14_Journal_07_died]The Order tortured Wheeler to death. I'm going to make them pay for that! I hope Elle can escape by herself...
+[M14_Journal_07_saved]A ordem torturou gravemente Wheeler. Ele quase morreu. Que bom que pude salva-lo antes do pior acontecer. \nEspero que elle consiga sair do covil em segurança.
+[M14_Journal_07_died]A Ordem torturou Wheeler até a morte. Eu farei com que eles paguem por isso! \nEspero que Elle consiga escapar por conta própria...
 [M14_Journal_08]I still have to find Joshua! I can't leave my little brother alone in this terrible place.
 
 ###Added after Defeating Amnion###
-[M14_Journal_09]The child sacrifices took place here, in The Order Lair. I still can't believe they'd kill their own children.
-[M14_Journal_10]Joshua died on Toluca Lake because I couldn't save him. All this time, and it was my fault...
+[M14_Journal_09]Os sacrifícios das crianças aconteciam aqui, no Covil da Ordem.  Eu ainda näo consigo acreditar que eles matavam os próprios filhos...
+[M14_Journal_10]Joshua morreu no lago Toluca por que eu näo pude salva-lo.  A culpa de tudo isso foi minha, o tempo todo...
 
 ### M15 Journal Entries ###
 
-[IDS_JOURNAL_Alternate_Ending_Good]Alternate Ending Good.
-[IDS_JOURNAL_Alternate_Ending_Bad]Alternate Ending Bad.
-[IDS_JOURNAL_Alternate_Ending_Pyramid_Head]Alternate Ending Pyramid Head.
-[IDS_JOURNAL_Alternate_Ending_Hospital]Alternate Ending Hospital.
-[IDS_JOURNAL_Alternate_Ending_UFO]Alternate Ending UFO.
+[IDS_JOURNAL_Alternate_Ending_Good]Final: Bom.
+[IDS_JOURNAL_Alternate_Ending_Bad]Final: Ruim.
+[IDS_JOURNAL_Alternate_Ending_Pyramid_Head]Final: Pyramid Head.
+[IDS_JOURNAL_Alternate_Ending_Hospital]Final: Hospital.
+[IDS_JOURNAL_Alternate_Ending_UFO]Final: UFO.
 [IDS_JOURNAL_Kicker_Ending_Polaroid]Ah, entäo foi nesse periodo que essa foto foi tirada.
 
 ### Global Journal Entries ###
 
 ### The 11 Polaroids with Psychological Insights ###
 # Bosses - 4 Pictures #
-[IDS_JOURNAL_Polaroid_1]Joey Bartlett sitting in the Tree House in our backyard.
-[IDS_JOURNAL_Polaroid_2]Scarlet Fitch, in her bedroom with all of her dolls.
-[IDS_JOURNAL_Polaroid_3]Nora Holloway sitting on the Town Hall steps.
-[IDS_JOURNAL_Polaroid_4]A big spider crawling next to my army toys in the park.
+[IDS_JOURNAL_Polaroid_1]Joey Bartlett na casa da árvore do nosso quintal.
+[IDS_JOURNAL_Polaroid_2]Scarlet Fitch, em seu quarto com todas as suas bonecas.
+[IDS_JOURNAL_Polaroid_3]Nora Holloway sentada nos degraus da entrada da prefeitura.
+[IDS_JOURNAL_Polaroid_4]Uma aranha gigante perto do meu exercito de brinquedo no parque.
 # Other People/Things - 7 Pictures #
-[IDS_JOURNAL_Polaroid_5]Mom and Judge Holloway talking in our house.
-[IDS_JOURNAL_Polaroid_6]Dad and Deputy Wheeler on the Police Boat.
-[IDS_JOURNAL_Polaroid_7]Joshua taking a picture of himself in our bathroom.
-[IDS_JOURNAL_Polaroid_8]This looks like a picture of dad's hunting room, but how did Joshua get in there?
-[IDS_JOURNAL_Polaroid_9]The repair guy Curtis Ackers in his shop.
-[IDS_Polaroid_Bunny]Joshua's Robbie the Rabbit doll stuffed in his backpack.
-[IDS_JOURNAL_Polaroid_11]Hey...  This is me.  What am I doing?
+[IDS_JOURNAL_Polaroid_5]Mamäe e a juiza Holloway conversando na nossa casa.
+[IDS_JOURNAL_Polaroid_6]Papai e o delegado Wheeler no barco da polícia.
+[IDS_JOURNAL_Polaroid_7]Joshua tirando uma foto de si mesmo no nosso banheiro.
+[IDS_JOURNAL_Polaroid_8]Essa parece ser uma foto da sala de caça do papai, mas como o Joshua entrou lá?
+[IDS_JOURNAL_Polaroid_9]O cara que conserta tudo... Curtis Ackers na loja dele.
+[IDS_Polaroid_Bunny]O coelhinho Robbie do Joshua dentro da mochila dele.
+[IDS_JOURNAL_Polaroid_11]Ei...  Esse sou eu.  O que eu estou fazendo?
 
 
 
@@ -5146,40 +5146,40 @@
 
 ### M01 Ambient ###
 
-[IDS_AMBIENT_M01Nightmare_Hospital_Sign_2]ATTENTION NURSING STAFF: All medications to be administered daily before 9:00 a.m.
-[IDS_AMBIENT_M01Nightmare_Hospital_Sign_3]ATTENTION: New admissions must provide ID
-[IDS_AMBIENT_M01Nightmare_Hospital_Sign_4]Do NOT give rubber gloves to children.
-[IDS_AMBIENT_M01Nightmare_Hospital_Sign_5]Visiting hours are from 9:00 a.m. to 9:00 p.m.
-[IDS_AMBIENT_M01Nightmare_Hospital_Sign_6]Staff only beyond this point.
-[IDS_AMBIENT_M01Nightmare_Hospital_Sign_7]ID Bracelet must be worn at ALL times.
-[IDS_AMBIENT_M01Nightmare_Hospital_Sign_8]Please keep noise to a minimum.
-[IDS_AMBIENT_M01Nightmare_Hospital_Sign_9]If you have donated blood within the past 3 months, please notify staff.
-[IDS_AMBIENT_M01Nightmare_Hospital_Sign_10]NOTICE: It is illegal to carry firearms/ammunition beyond this point.
-[IDS_AMBIENT_M01Nightmare_Hospital_Sign_11]God Bless America
-[IDS_AMBIENT_M01Nightmare_Hospital_Sign_12]Loose Lips Sink Ships
-[IDS_AMBIENT_M01Nightmare_Hospital_Sign_13]Please present military ID at check-in desk.
-[IDS_AMBIENT_M01Nightmare_Hospital_Sign_14]RESTRICTED AREA: Department Of Health Officials Only
-[IDS_AMBIENT_M01Nightmare_Hospital_Sign_15]Oxygen In Use
-[IDS_AMBIENT_M01Nightmare_Hospital_Sign_16]AVOID HEALTH RISKS!  WEAR GLOVES
-[IDS_AMBIENT_M01Nightmare_Hospital_Sign_17]Charts must be filled in by attending nurse.
-[IDS_AMBIENT_M01Nightmare_Hospital_Sign_18]Do not reuse gowns.
-[IDS_AMBIENT_M01Nightmare_Hospital_Sign_19]DUE TO RECENT STATE HEALTH REGULATIONS, ONLY STAFF ARE ALLOWED IN STATION
-[IDS_AMBIENT_M01Nightmare_Missing_Patients_Board_01]MISSING!
+[IDS_AMBIENT_M01Nightmare_Hospital_Sign_2]ATENÇäO EQUIPE DE ENFERMAGEM: Todos os medicamentos devem ser administrados diariamente antes das 09:00.
+[IDS_AMBIENT_M01Nightmare_Hospital_Sign_3]ATENÇäO: Novas admissöes devem apresentar documento de identificaçäo
+[IDS_AMBIENT_M01Nightmare_Hospital_Sign_4]NäO dê luvas de borracha para crianças.
+[IDS_AMBIENT_M01Nightmare_Hospital_Sign_5]O horário de visitaçäo é das 9h às 21h.
+[IDS_AMBIENT_M01Nightmare_Hospital_Sign_6]Somente funcionários a partir deste ponto.
+[IDS_AMBIENT_M01Nightmare_Hospital_Sign_7]A pulseira de identificaçäo deve ser usada em TODOS os momentos.
+[IDS_AMBIENT_M01Nightmare_Hospital_Sign_8]Por favor, mantenha os ruídos ao mínimo.
+[IDS_AMBIENT_M01Nightmare_Hospital_Sign_9]Se você doou sangue nos últimos 3 meses, notifique a equipe.
+[IDS_AMBIENT_M01Nightmare_Hospital_Sign_10]AVISO: É ilegal transportar armas de fogo/muniçöes além deste ponto.
+[IDS_AMBIENT_M01Nightmare_Hospital_Sign_11]Deus abençoe a América
+[IDS_AMBIENT_M01Nightmare_Hospital_Sign_12]Lábios que ficam muito à vontade afundam navios
+[IDS_AMBIENT_M01Nightmare_Hospital_Sign_13]Por favor, apresente o documento de identificaçäo militar no balcäo de check-in.
+[IDS_AMBIENT_M01Nightmare_Hospital_Sign_14]ÁREA RESTRITA: Somente funcionários do Departamento de Saúde
+[IDS_AMBIENT_M01Nightmare_Hospital_Sign_15]Oxigênio em uso
+[IDS_AMBIENT_M01Nightmare_Hospital_Sign_16]EVITE RISCOS DE SAÚDE! USE LUVAS
+[IDS_AMBIENT_M01Nightmare_Hospital_Sign_17]Os prontuários devem ser preenchidos pela enfermeira assistente.
+[IDS_AMBIENT_M01Nightmare_Hospital_Sign_18]Näo reutilizem vestidos.
+[IDS_AMBIENT_M01Nightmare_Hospital_Sign_19]DEVIDO AOS RECENTES REGULAMENTOS DE SAÚDE DO ESTADO, APENAS FUNCIONÁRIOS SäO PERMITIDOS NA INSTALAÇäO
+[IDS_AMBIENT_M01Nightmare_Missing_Patients_Board_01]DESAPARECIDO!
 [IDS_AMBIENT_M01Nightmare_Missing_Patients_Board_02]Lydia Findly
 [IDS_AMBIENT_M01Nightmare_Missing_Patients_Board_03]Trevor F. White
 [IDS_AMBIENT_M01Nightmare_Missing_Patients_Board_04]Albert Lords
 [IDS_AMBIENT_M01Nightmare_Missing_Patients_Board_05]Roberta T. Morgan
 [IDS_AMBIENT_M01Nightmare_Missing_Patients_Board_06]Edward C. Briggs
-[IDS_AMBIENT_M01Nightmare_Button_Sign_01]Do Not Push Under Any Circumstances
-[IDS_AMBIENT_M01Nightmare_Button_Sign_02]To Be Pushed On Doctor's Orders Only
-[IDS_AMBIENT_M01Nightmare_Button_Sign_03]Hey!  Don't mess with this button unless YOU ARE A DOCTOR!!! - Dr. L.
+[IDS_AMBIENT_M01Nightmare_Button_Sign_01]Näo aperte sob nenhuma circunstância
+[IDS_AMBIENT_M01Nightmare_Button_Sign_02]Aperte somente com ordens de um médico
+[IDS_AMBIENT_M01Nightmare_Button_Sign_03]Ei! Näo mexa com este botäo a menos que VOCÊ SEJA UM DOUTOR!!! - Dr. L.
 [IDS_AMBIENT_M01Nightmare_Directors_Desk_Nameplate]Dr. Stephen Copen
 
 
 ### M02 Ambient ###
 [IDS_AMBIENT_SGTown1_Corner_Stone_on_Town_Hall]"A Fé é a base do sucesso" - Prefeitura de Shepherd's Glen.
 [IDS_AMBIENT_SGTown1_Celebration_Banner]ANIVERSÁRIO DE 150 ANOS DE SHEPHERD'S GLEN! 20 a 21 de Setembro.
-[IDS_AMBIENT_SGTown1_Bartlett_Winery_Sign]Vinhedos Barlett. Um vinhedo local de excelência e tradiçäo.
+[IDS_AMBIENT_SGTown1_Bartlett_Winery_Sign]Vinhedos Bartlett. Um vinhedo local de excelência e tradiçäo.
 
 ### M03 Ambient ###
 [IDS_AMBIENT_Alex1_Military_Poster_1]Seja o homem entre todos os homens.
@@ -5195,7 +5195,7 @@
 [IDS_AMBIENT_Alex1_Shepherd_House_Number]Rua principal 1133.
 
 ### M04 Ambient ###
-[IDS_AMBIENT_SGTown2_Bartlett_Mausoleum_Inscription]And until we meet again, may God hold you in the hollow of his hand.
+[IDS_AMBIENT_SGTown2_Bartlett_Mausoleum_Inscription]E até que nos encontremos novamente, que Deus te guarde no vazio de suas mäos.
 
 ### M05 Ambient ###
 [IDS_AMBIENT_M05Hotel_Signage_2]KEEP OUT UNTIL FURTHER NOTICE
@@ -5214,7 +5214,7 @@
 ### M08 Ambient ###
 [IDS_AMBIENT_SGTown4_Corner_Stone_on_Town_Hall]"A Fé é a base do sucesso" - Prefeitura de Shepherd's Glen.
 [IDS_AMBIENT_SGTown4_Celebration_Banner]ANIVERSÁRIO DE 150 ANOS DE SHEPHERD'S GLEN! 20 a 21 de Setembro.
-[IDS_AMBIENT_SGTown4_Bartlett_Winery_Sign]Vinhedos Barlett. Um vinhedo local de excelência e tradiçäo.
+[IDS_AMBIENT_SGTown4_Bartlett_Winery_Sign]Vinhedos Bartlett. Um vinhedo local de excelência e tradiçäo.
 
 ### M09 Ambient ###
 [IDS_AMBIENT_M09Alex2_Note_On_Refrigerator]Lembrem de alimentar o Corwin. - Lillian
@@ -5222,13 +5222,13 @@
 [IDS_AMBIENT_M09Alex2_Motivational_Military_Sign]Mantenha seus amigos perto, e seus inimigos mortos em um saco de corpos.
 
 ### M10 Ambient ###
-[IDS_AMBIENT_M10SHTown1_Silent_Hill_Sign]Welcome to Silent Hill
+[IDS_AMBIENT_M10SHTown1_Silent_Hill_Sign]Bem vindos a Silent Hill
 
 ### M11 Ambient ###
 [IDS_AMBIENT_M11Prison_Signage_01]There is absolutely no talking in hallways.
 [IDS_AMBIENT_M11Prison_Signage_02]Remember why you are here.
 [IDS_AMBIENT_M11Prison_Signage_03]No loud noise, pushing, or fighting while in line.
-[IDS_AMBIENT_M11Prison_Signage_04]Solitary
+[IDS_AMBIENT_M11Prison_Signage_04]Solitária
 [IDS_AMBIENT_M11Prison_Signage_05]<COLOR,195,188,228>NOTICE: All visitors must check in with guard before entering. ID badges must be worn at all times.<CLEARCOLOR>
 [IDS_AMBIENT_M11Prison_Signage_06]Eyes down.
 [IDS_AMBIENT_M11Prison_Signage_07]Speak only when spoken to.
@@ -5243,11 +5243,11 @@
 
 ### M12 Ambient ###
 [IDS_AMBIENT_M12SHTown2_Coin_Op_Signage]Resident Hazard
-[IDS_AMBIENT_M12SHTown2_Sewer_Warning_Signage_01]CAUTION: STEAM
-[IDS_AMBIENT_M12SHTown2_Sewer_Warning_Signage_02]CAUTION: HOT
-[IDS_AMBIENT_M12SHTown2_Sewer_Warning_Signage_03]CUIDADO: CALIENTE!
-[IDS_AMBIENT_M12SHTown2_Sewer_Order_Checkpoint_Signage_01]STOP! This area is off limits.
-[IDS_AMBIENT_M12SHTown2_Sewer_Order_Checkpoint_Signage_02]STOP! Be prepared to show identification.
+[IDS_AMBIENT_M12SHTown2_Sewer_Warning_Signage_01]PERIGO: VAPOR
+[IDS_AMBIENT_M12SHTown2_Sewer_Warning_Signage_02]PERIGO: ALTA TEMPERATURA
+[IDS_AMBIENT_M12SHTown2_Sewer_Warning_Signage_03]PERIGO: CALIENTE!
+[IDS_AMBIENT_M12SHTown2_Sewer_Order_Checkpoint_Signage_01]PARE! O acesso a este local é proibido.
+[IDS_AMBIENT_M12SHTown2_Sewer_Order_Checkpoint_Signage_02]PARE! esteja pronto para se identificar.
 [IDS_AMBIENT_M12SHTown2_Sewer_Order_Checkpoint_Signage_03]CHECKPOINT AHEAD: Be prepared to show identification.
 
 ### M13 Ambient ###
@@ -5282,7 +5282,7 @@
 
 [M01_CombatNote_02_PC]<COLOR,195,188,228>Equipando armas: \n\nPara equipar uma arma, abra o inventário de Equipamentos (botäo <COMBAT_WHEEL>) e use <COMMAND_MOVEMENT> para escolher sua arma.<CLEARCOLOR>
 [M01_CombatNote_03_PC]<COLOR,195,188,228>Modo de combate e escolha de alvos: \n\nPara entrar no modo de combate, segure ou aperte <TARGETING> com uma arma corpo-a-corpo em mäos. \n\nQuando você entra no modo de combate, você irá focar no alvo mais próximo do seu campo de visäo automaticamente.<CLEARCOLOR>
-[M01_CombatNote_04_PC]<COLOR,195,188,228>If multiple enemies are surrounding you, the target will be the closest hostile. \n\nThe targeted enemy will be highlighted by the flashlight.<CLEARCOLOR>
+[M01_CombatNote_04_PC]<COLOR,195,188,228>Se vários inimigos estiverem em volta de você, o alvo será sempre o que estiver mais perto. \n\nO inimigo que for focado será iluminado pela lanterna.<CLEARCOLOR>
 [M01_CombatNote_05_PC]<COLOR,195,188,228>To change targets, turn the camera in the direction of that target, typically left or right. \n\nTo break targeting at any time, exit combat stance by releasing <TARGETING> or tapping it again.<CLEARCOLOR>
 
 [M01_CombatNote_06_PC]<COLOR,195,188,228>Fast Attacks, Strong Attacks, Charge Attacks, and Combos: \n\nWhen in combat stance, press <ACTION> for Fast attacks and <HEAVY_ATTACK> for Strong Attacks.<CLEARCOLOR>
