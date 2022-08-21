@@ -4197,24 +4197,24 @@
 [IDS_CIN_M03_010_YAL_4]Valeu.
 
 # CIN_M03_020 Strings #
-[IDS_CIN_M03_020_ALX_1]Mom.
-[IDS_CIN_M03_020_ALX_2]Mom?
-[IDS_CIN_M03_020_LIL_1]Alex.  What are you doing here?
-[IDS_CIN_M03_020_ALX_3]I just got discharged.  I was in the hospital for a bit, but I'm all right now.
-[IDS_CIN_M03_020_LIL_2]You've been gone too long.
-[IDS_CIN_M03_020_ALX_4]Yeah.
-[IDS_CIN_M03_020_ALX_5]Where is everybody?  Where's Josh?
-[IDS_CIN_M03_020_LIL_3]I don't know.  Your father went to look for him.
-[IDS_CIN_M03_020_LIL_4]But now he's gone.  Everyone's gone.
-[IDS_CIN_M03_020_ALX_6]Mom, what's going on here?  What happened?
-[IDS_CIN_M03_020_ALX_7]Mom!
-[IDS_CIN_M03_020_LIL_5]I miss your brother, Alex.
-[IDS_CIN_M03_020_ALX_8]Look, I'll find him.
-[IDS_CIN_M03_020_ALX_9]I had this dream that...
-[IDS_CIN_M03_020_ALX_10]I just have a feeling he's in trouble.
-[IDS_CIN_M03_020_ALX_11]Don't worry about it.  I'll find Joshua.
-[IDS_CIN_M03_020_ALX_12]Mom, your dress is--
-[IDS_CIN_M03_020_ALX_13]What was that?
+[IDS_CIN_M03_020_ALX_1]Mäe.
+[IDS_CIN_M03_020_ALX_2]Mäe?
+[IDS_CIN_M03_020_LIL_1]Alex.  O que você está fazendo aqui?
+[IDS_CIN_M03_020_ALX_3]Eu fui dispensado.  Fiquei no hospital por um tempo, mas já estou bem.
+[IDS_CIN_M03_020_LIL_2]Você ficou fora muito tempo.
+[IDS_CIN_M03_020_ALX_4]Sim.
+[IDS_CIN_M03_020_ALX_5]Onde está todo mundo?  Onde está o Josh?
+[IDS_CIN_M03_020_LIL_3]Eu näo sei. Seu pai foi procurar por ele.
+[IDS_CIN_M03_020_LIL_4]Mas ele sumiu. Todo mundo sumiu
+[IDS_CIN_M03_020_ALX_6]Mäe, o que é isso?  O que aconteceu aqui?
+[IDS_CIN_M03_020_ALX_7]Mäe!
+[IDS_CIN_M03_020_LIL_5]Eu sinto falta do seu irmäo, Alex.
+[IDS_CIN_M03_020_ALX_8]Olha, eu vou achar ele.
+[IDS_CIN_M03_020_ALX_9]Eu tive um sonho em que ele...
+[IDS_CIN_M03_020_ALX_10]Eu sinto que ele ta em perigo.
+[IDS_CIN_M03_020_ALX_11]Näo se preocupe com isso. Eu vou encontrar o Joshua.
+[IDS_CIN_M03_020_ALX_12]Mäe, seu vestido está--
+[IDS_CIN_M03_020_ALX_13]O que foi isso?
 [IDS_CIN_M03_020_LIL_6]O poräo.
 
 # CIN_M03_025 Strings #
@@ -4228,7 +4228,7 @@
 [IDS_CIN_M03_030_ADA_1]Mas que merda você ta fazendo?!
 [IDS_CIN_M03_030_ADA_2]Eu já te falei que esse lugar é proibido.
 [IDS_CIN_M03_030_ADA_3]Eu näo quero nunca mais te ver aqui!
-[IDS_CIN_M03_030_ADA_4]VOCÊ  ENTENDEU?!
+[IDS_CIN_M03_030_ADA_4]EU  FUI  CLARO?!
 [IDS_CIN_M03_030_YAL_2]Me desculpe. Sim. Sim, senhor.
 
 # CIN_M04_005 Strings #
@@ -4236,12 +4236,12 @@
 [IDS_CIN_M04_005_ALX_2]Oou... Calma... Calma!
 
 # CIN_M04_010 Strings #
-[IDS_CIN_M04_010_ELE_1]Dammit!
-[IDS_CIN_M04_010_ALX_1]You always were a klutz. You okay?
-[IDS_CIN_M04_010_ELE_2]Alex?  Oh my God, Alex!
-[IDS_CIN_M04_010_ALX_2]Hey, Elle.  Your mom told me I might see you around here.
+[IDS_CIN_M04_010_ELE_1]Droga!
+[IDS_CIN_M04_010_ALX_1]Você sempre foi desastrada.  Ta tudo bem?
+[IDS_CIN_M04_010_ELE_2]Alex?  Meu Deus, Alex!
+[IDS_CIN_M04_010_ALX_2]Ei, Elle.  Sua mäe me disse que eu te acharia por aqui.
 [IDS_CIN_M04_010_ELE_3]My God, it's so good to see you.  It feels like it's been forever.
-[IDS_CIN_M04_010_ALX_3]Yeah. Are you alone out here?
+[IDS_CIN_M04_010_ALX_3]É mesmo. Você ta sozinha aqui fora?
 [IDS_CIN_M04_010_ELE_4]Hey, you know I didn't think I'd ever see you again.
 [IDS_CIN_M04_010_ELE_5]You took off without saying goodbye.
 [IDS_CIN_M04_010_ALX_4]Yeah, well, I'm not here for long.  I'm looking for my brother.  You seen him?
@@ -4350,12 +4350,12 @@
 [IDS_CIN_M06_010_ALX_1]Tem alguém aqui?
 
 # CIN_M06_020 Strings #
-[IDS_CIN_M06_020_ALX_1]Deputy Wheeler?
-[IDS_CIN_M06_020_WHE_1]Well, well.  Back in the world of the living.
-[IDS_CIN_M06_020_ALX_2]How did I get here?
-[IDS_CIN_M06_020_WHE_2]I put you here.  I haven't quite made up my mind about you yet.
-[IDS_CIN_M06_020_ALX_3]Wheeler, c'mon you know me.  Let me out!
-[IDS_CIN_M06_020_WHE_3]You won't be going anywhere until I get some answers.
+[IDS_CIN_M06_020_ALX_1]Delegado Wheeler?
+[IDS_CIN_M06_020_WHE_1]Ora, ora.  De volta ao mundo dos vivos.
+[IDS_CIN_M06_020_ALX_2]Como eu cheguei aqui?
+[IDS_CIN_M06_020_WHE_2]Eu te coloquei ai.  Näo to muito certo de qual é a sua ainda.
+[IDS_CIN_M06_020_ALX_3]Wheeler, qual é, você me conhece.  Me deixa sair!
+[IDS_CIN_M06_020_WHE_3]Você näo vai a lugar algum até eu ter algumas respostas.
 
 # CIN_M06_025 Strings #
 [IDS_CIN_M06_025_WHE_1]Espera.  Isso näo é bom.

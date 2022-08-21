@@ -1,6 +1,6 @@
 # Silent Hill: Homecoming - Translation (PT-BR)
 
-Tradução de Silent Hill Homecoming para Português do Brasil. (funciona com o patch feito por unknownproject)
+Tradução de Silent Hill Homecoming para Português do Brasil. (funciona também com o patch feito por unknownproject)
 
 Infelizmente, devido a limitações do arquivo da fonte do jogo, a tradução não pode utilizar alguns caracteres como o til (letras, como "Ã", "õ" e "ã"), que foram substituídos por uma trema, ficando: "Ä", "ö" e "ä".
 
@@ -14,9 +14,9 @@ Infelizmente, devido a limitações do arquivo da fonte do jogo, a tradução n�
 Esse passo a passo considera que você COMPROU o jogo na plataforma Steam, que ele já está instalado no seu computador e foi iniciado corretamente pelo menos uma vez.
 
 
-- Primeiro, instale o [Patch do unknownproject](https://unknownproject.github.io/silent_hill). Esse patch vai corrigir diversos problemas de otimização da versão de PC deste jogo. Caso seu jogo esteja com problemas para iniciar, talvez este patch corrija esse problema também.
+- (opcional) Instale o [Patch do unknownproject](https://unknownproject.github.io/silent_hill). Esse patch vai corrigir diversos problemas de otimização da versão de PC deste jogo. Caso seu jogo esteja com problemas para iniciar, talvez este patch corrija esse problema também.
 
-- Depois de instalar o patch, teste o jogo para ter certeza de que tudo está funcionando como deveria. Depois de testar, ative as legendas e feche o jogo.
+- (opcional) Depois de instalar o patch, teste o jogo para ter certeza de que tudo está funcionando como deveria. Depois de testar, ative as legendas e feche o jogo.
 
 - Com o jogo fechado, navegue até a pasta **Steam\steamapps\common\Silent Hill Homecoming\Engine** - normalmente esta pasta está localizada no disco C, em Arquivos de Programas (ou Arquivos de Programas x86).
 
@@ -37,7 +37,7 @@ E pronto, a tradução está instalada, assumindo o lugar da tradução para esp
 
 ### Telas de Carregamento e Dicas
 
-As dicas da tela de carregamento foram removidas na tradução, se tornando mensagens relacionadas ao contexto do jogo (como citações e informações). Isso foi feito para aumentar a imersão do jogo. Caso você queira restauras as dicas com tradução no jogo, siga as instruções do arquivo removed_tips.txt
+As dicas da tela de carregamento foram removidas na tradução, se tornando mensagens relacionadas ao contexto do jogo (como citações e informações sobre saúde mental e outras informações). Isso foi feito para aumentar a imersão do jogo. Caso você queira restauras as dicas com tradução no jogo, siga as instruções do arquivo removed_tips.txt
 
 
 
@@ -57,7 +57,7 @@ Os arquivos que estiverem marcados na lista estão 100% traduzidos e revisados:
 - [x] m09_dialogue (diálogos dos membros da ordem)
 - [x] m10_dialogue (Frases de combate e diálogos do Wheeler e alguns membros da Ordem #1)
 - [ ] m11_dialogue (Frases de combate e diálogos do Wheeler e alguns membros da Ordem #2)
-- [ ] m13_dialogue (Frases e diálogos do pai do Alex na Igreja)
+- [x] m13_dialogue (Frases e diálogos do pai do Alex na Igreja)
 - [x] m14_dialogue (Frases e Diálogos com a Juiza Holloway e o Curtis)
 - [x] m15_dialogue (Frases de combate e reações do Wheeler e da Elle)
 - [ ] m16_dialogue (Diálogos diversos entre Alex e outros personagens do jogo)
