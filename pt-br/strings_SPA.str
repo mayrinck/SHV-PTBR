@@ -4122,7 +4122,7 @@
 [IDS_MOV_M15_020_02]Näo!!!
 
 
-### Strings for Cinematics Played In-game - DIÁLOGOS DOS PERSONAGENS ###
+### Strings for Cinematics Played In-game - CINEMÁTICAS: DIÁLOGOS DOS PERSONAGENS ###
 
 # CIN_M01_ORDERDTH Strings #
 [IDS_CIN_M01_ORDERDTH_ORD_1]Ahhh!!!
@@ -4240,30 +4240,30 @@
 [IDS_CIN_M04_010_ALX_1]Você sempre foi desastrada.  Ta tudo bem?
 [IDS_CIN_M04_010_ELE_2]Alex?  Meu Deus, Alex!
 [IDS_CIN_M04_010_ALX_2]Ei, Elle.  Sua mäe me disse que eu te acharia por aqui.
-[IDS_CIN_M04_010_ELE_3]My God, it's so good to see you.  It feels like it's been forever.
+[IDS_CIN_M04_010_ELE_3]Meu Deus, como é bom te ver!  Pareceu uma eternidade desde que você saiu.
 [IDS_CIN_M04_010_ALX_3]É mesmo. Você ta sozinha aqui fora?
-[IDS_CIN_M04_010_ELE_4]Hey, you know I didn't think I'd ever see you again.
-[IDS_CIN_M04_010_ELE_5]You took off without saying goodbye.
-[IDS_CIN_M04_010_ALX_4]Yeah, well, I'm not here for long.  I'm looking for my brother.  You seen him?
-[IDS_CIN_M04_010_ELE_6]No.  I haven't, Alex.
-[IDS_CIN_M04_010_ELE_7]I'm sorry.
-[IDS_CIN_M04_010_ALX_5]Jesus.  What the hell is going on here?
-[IDS_CIN_M04_010_ELE_8]I don't know.
-[IDS_CIN_M04_010_ELE_9]Everyday there are more flyers to put up...everyday more people disappear.
-[IDS_CIN_M04_010_ALX_6]I had no idea.
-[IDS_CIN_M04_010_ELE_10]And if you did?  Would you have done anything about it?
-[IDS_CIN_M04_010_ALX_7]Yeah, I would've come back for Josh, gotten him the hell out of here.  God knows what kind of trouble he's in now.
-[IDS_CIN_M04_010_ELE_11]Trouble? Look around you, Alex.  This whole place is in trouble.
-[IDS_CIN_M04_010_ALX_8]I know.  I get it.
-[IDS_CIN_M04_010_ALX_9]But I have to find my brother.  He's my responsibility.  After that, I'm gone.
-[IDS_CIN_M04_010_ALX_10]I suggest you do the same.
-[IDS_CIN_M04_010_ELE_12]Alex, wait.
-[IDS_CIN_M04_010_ALX_11]Yeah?
-[IDS_CIN_M04_010_ELE_13]I got this from Deputy Wheeler.  You should take it.
-[IDS_CIN_M04_010_ALX_12]What for?
-[IDS_CIN_M04_010_ELE_14]If I hear anything, I'll let you know...
-[IDS_CIN_M04_010_ALX_13]Thanks, Elle.
-[IDS_CIN_M04_010_ELE_15]Alex, I hope you find what you're looking for.
+[IDS_CIN_M04_010_ELE_4]Ei, eu pensei que nunca mais te veria de novo.
+[IDS_CIN_M04_010_ELE_5]Você foi embora e nem disse tchau.
+[IDS_CIN_M04_010_ALX_4]É eu sei, mas näo vou ficar por muito tempo.  To procurando pelo meu irmäo, você viu ele?
+[IDS_CIN_M04_010_ELE_6]Näo vi näo, Alex.
+[IDS_CIN_M04_010_ELE_7]Foi mal...
+[IDS_CIN_M04_010_ALX_5]Jesus.  O que ta acontecendo aqui?
+[IDS_CIN_M04_010_ELE_8]Eu näo sei.
+[IDS_CIN_M04_010_ELE_9]Todos os dias tem mais cartazes desses pra por... Todos os dias mais pessoas somem.
+[IDS_CIN_M04_010_ALX_6]Eu näo sabia disso.
+[IDS_CIN_M04_010_ELE_10]E se soubesse? Você faria o que sobre isso?
+[IDS_CIN_M04_010_ALX_7]Ah cara, eu voltaria pra pegar o Josh e tirar ele desse inferno.  Só deus sabe que tipo de problemas ele pode estar passando agora.
+[IDS_CIN_M04_010_ELE_11]Problemas? Olha em volta, Alex.  Este lugar inteiro está com problemas.
+[IDS_CIN_M04_010_ALX_8]Eu sei.  Pude perceber.
+[IDS_CIN_M04_010_ALX_9]Mas eu tenho que achar o meu irmäo.  Ele é minha responsabilidade.  Depois de achar, eu vou embora daqui.
+[IDS_CIN_M04_010_ALX_10]Eu sugiro que faça o mesmo.
+[IDS_CIN_M04_010_ELE_12]Alex, espera.
+[IDS_CIN_M04_010_ALX_11]Hein?
+[IDS_CIN_M04_010_ELE_13]Eu peguei isso com o delegado Wheeler.  Fica com ele.
+[IDS_CIN_M04_010_ALX_12]Pra que?
+[IDS_CIN_M04_010_ELE_14]Se eu ficar sabendo de algo, eu vou entrar em contato...
+[IDS_CIN_M04_010_ALX_13]Obrigado, Elle.
+[IDS_CIN_M04_010_ELE_15]Alex, espero que você ache o que procura.
 
 # CIN_M04_020 Strings #
 [IDS_CIN_M04_020_ALX_1]Talvez isso te interesse.
@@ -4322,21 +4322,21 @@
 [IDS_CIN_M05_050_ALX_5]Josh...
 
 # CIN_M05_060 Strings #
-[IDS_CIN_M05_060_MAY_1]What the hell is this?
-[IDS_CIN_M05_060_ALX_1]It belongs to your son, doesn't it?  Where is he?
+[IDS_CIN_M05_060_MAY_1]Que merda é essa?
+[IDS_CIN_M05_060_ALX_1]É do seu filho näo é?  Onde ele está?
 [IDS_CIN_M05_060_MAY_2]Joey?
-[IDS_CIN_M05_060_ALX_2]Yes, Joey.  He and my brother were friends.  I need to find him.
-[IDS_CIN_M05_060_MAY_3]You shouldn't have come back, Alex.  Times are bad...
-[IDS_CIN_M05_060_MAY_4]The people don't trust me anymore.  I can't protect them.
-[IDS_CIN_M05_060_ALX_3]Protect them from what?  What did you do?
-[IDS_CIN_M05_060_MAY_5]Something has come...and taken everyone away.
-[IDS_CIN_M05_060_MAY_6]You can't stop them.  They'll get you too.
-[IDS_CIN_M05_060_ALX_4]Who's taking them?  What are you talking about?
-[IDS_CIN_M05_060_ALX_5]CADÊ... O MEU... IRMäO?!
+[IDS_CIN_M05_060_ALX_2]Sim, Joey.  Ele e meu irmäo eram amigos.  Eu preciso achar ele.
+[IDS_CIN_M05_060_MAY_3]Você näo devia ter voltado, Alex.  Säo tempos ruins...
+[IDS_CIN_M05_060_MAY_4]As pessoas näo confiam mais em mim.  Eu näo consigo protege-las.
+[IDS_CIN_M05_060_ALX_3]Protege-las do que?  O que você fez?
+[IDS_CIN_M05_060_MAY_5]Alguma coisa veio... e levou todo mundo.
+[IDS_CIN_M05_060_MAY_6]Você näo pode parar eles.  Eles väo te pegar também.
+[IDS_CIN_M05_060_ALX_4]Quem está levando eles?  Do que você ta falando?
+[IDS_CIN_M05_060_ALX_5]CADÊ... O MEU... IRMÄO?!
 [IDS_CIN_M05_060_ALX_6]Filho da puta de merda.
 [IDS_CIN_M05_060_MAY_7]Você näo pode salva-los.
 [IDS_CIN_M05_060_ALX_7]O q-O Que?
-[IDS_CIN_M05_060_ALX_8]What's happening?  What did you do?!
+[IDS_CIN_M05_060_ALX_8]O que ta acontecendo?  O que você fez?!
 [IDS_CIN_M05_060_ALX_9]O que é tudo isso?!
 [IDS_CIN_M05_060_ALX_10]Jesus Cristo!
 [IDS_CIN_M05_060_ALX_11]Seu maluco!!
@@ -4365,10 +4365,10 @@
 [IDS_CIN_M06_025_WHE_3]AGORA!!
 
 # CIN_M06_030 Strings #
-[IDS_CIN_M06_030_ELE_1]RADIO: Alex!  Wheeler!  Come in.  I'm on my way to the sheriff's station. Something's after me!
-[IDS_CIN_M06_030_ALX_1]Elle, head to the parking lot behind the station.  We'll meet you there.
-[IDS_CIN_M06_030_WHE_1]Okay, clear a path through the lobby and break down the barricade.  I'll cover you.  Okay?
-[IDS_CIN_M06_030_ALX_2]Alright.
+[IDS_CIN_M06_030_ELE_1]RADIO: Alex!  Wheeler!  Respondam.  Eu to indo pra delegacia. Tem alguma coisa me perseguindo!
+[IDS_CIN_M06_030_ALX_1]Elle, vai pro estacionamento atrás da delegqacia.  A gente te encontra lá.
+[IDS_CIN_M06_030_WHE_1]Ok, limpa o caminho do saguäo e quebra a barricada, eu te dou cobertura. Ok?
+[IDS_CIN_M06_030_ALX_2]Certo.
 [IDS_CIN_M06_030_WHE_2]Pronto?
 
 # CIN_M06_035 Strings #
@@ -4392,135 +4392,135 @@
 [IDS_CIN_M06_050_ALX_4]Vai, vai!!
 
 # CIN_M06_060 Strings #
-[IDS_CIN_M06_060_ALX_1]Are you okay?
-[IDS_CIN_M06_060_ELE_1]It's getting worse, Alex.
-[IDS_CIN_M06_060_ELE_2]The whole town is falling apart, and there's nothing we can do about it.
-[IDS_CIN_M06_060_ELE_3]We're never gonna find them.
-[IDS_CIN_M06_060_ALX_2]Your sister.  I didn't know.
-[IDS_CIN_M06_060_ELE_4]She vanished when all of this started.
-[IDS_CIN_M06_060_ALX_3]Your mom told me things had changed.  I guess I didn't realize.
-[IDS_CIN_M06_060_ALX_4]Look, we're gonna find her, okay?  This is all connected, and when we find Josh, we're gonna find her too.
-[IDS_CIN_M06_060_ELE_5]Yeah?
-[IDS_CIN_M06_060_ALX_5]Yeah.
+[IDS_CIN_M06_060_ALX_1]Ta tudo bem?
+[IDS_CIN_M06_060_ELE_1]Isso ta piorando, Alex.
+[IDS_CIN_M06_060_ELE_2]A cidade está sendo destruida e näo tem nada que a gente possa fazer.
+[IDS_CIN_M06_060_ELE_3]Näo vamos mais achar eles.
+[IDS_CIN_M06_060_ALX_2]Sua irmä... Eu näo sabia.
+[IDS_CIN_M06_060_ELE_4]Ela sumiu assim que tudo isso começou
+[IDS_CIN_M06_060_ALX_3]Sua mäe disse que as coisas mudaram.  Acho que näo tinha entendido assim.
+[IDS_CIN_M06_060_ALX_4]Olha, a gente vai achar ela, ta bom?  Ta tudo conectado, quando acharmos o Josh, acharemos ela também.
+[IDS_CIN_M06_060_ELE_5]Tem certeza?
+[IDS_CIN_M06_060_ALX_5]Tenho.
 
 # CIN_M06_080 Strings #
-[IDS_CIN_M06_080_ALX_0]Creepy.
+[IDS_CIN_M06_080_ALX_0]Macabro.
 [IDS_CIN_M06_080_ALX_1]Arrrgghhh!
 
 # CIN_M07_030 Strings #
-[IDS_CIN_M07_030_FIT_1]Scarlet's doll.  Where did...?
-[IDS_CIN_M07_030_GRL_1]Daddy?
-[IDS_CIN_M07_030_ALX_1]Doctor Fitch, what's happening?  What's going on?!
-[IDS_CIN_M07_030_ALX_2]Oh, God!
-[IDS_CIN_M07_030_ALX_3]What?
-[IDS_CIN_M07_030_ALX_4]Oh my God...
-[IDS_CIN_M07_030_FIT_2]Forgive me.
+[IDS_CIN_M07_030_FIT_1]É a boneca da Scarlet.  Onde você...?
+[IDS_CIN_M07_030_GRL_1]Papai?
+[IDS_CIN_M07_030_ALX_1]Doutor Fitch, o que ta acontecendo?  O que é isso?!
+[IDS_CIN_M07_030_ALX_2]Meu Deus!
+[IDS_CIN_M07_030_ALX_3]O que?
+[IDS_CIN_M07_030_ALX_4]MEU DEUS...
+[IDS_CIN_M07_030_FIT_2]Me perdoe.
 [IDS_CIN_M07_030_ALX_5]Ahhh!!
 
 # CIN_M08_020_010 Strings #
-[IDS_CIN_M08_020_ALX_1]Wait a minute, is this...?
-[IDS_CIN_M08_020_ADA_1]What the hell are you doing?
-[IDS_CIN_M08_020_ADA_2]You know this place is off limits.
-[IDS_CIN_M08_020_ADA_3]I don't ever want to see you in here again!
-[IDS_CIN_M08_020_ADA_4]Are we clear?
-[IDS_CIN_M08_020_ALX_2]That's it.
+[IDS_CIN_M08_020_ALX_1]Espera, isso é...?
+[IDS_CIN_M08_020_ADA_1]Que merda você ta fazendo aqui?
+[IDS_CIN_M08_020_ADA_2]Você sabe que esse lugar é proibido.
+[IDS_CIN_M08_020_ADA_3]Eu näo quero te ver aqui de novo!
+[IDS_CIN_M08_020_ADA_4]EU FUI CLARO?
+[IDS_CIN_M08_020_ALX_2]É isso.
 
 # CIN_M08_020_075 Strings #
-[IDS_CIN_M08_020_ALX_2]Dad!
-[IDS_CIN_M08_020_ADA_1]What the hell are you doing?
-[IDS_CIN_M08_020_ADA_2]You know this place is off limits.
-[IDS_CIN_M08_020_ADA_3]I don't ever want to see you in here again!
-[IDS_CIN_M08_020_ADA_4]Are we clear?
-[IDS_CIN_M08_020_ALX_3]I'm sorry.  Yes.  Yes sir.
+[IDS_CIN_M08_020_ALX_2]Pai!
+[IDS_CIN_M08_020_ADA_1]Que merda você ta fazendo aqui?
+[IDS_CIN_M08_020_ADA_2]Você sabe que esse lugar é proibido.
+[IDS_CIN_M08_020_ADA_3]Eu näo quero te ver aqui de novo!
+[IDS_CIN_M08_020_ADA_4]EU FUI CLARO?
+[IDS_CIN_M08_020_ALX_3]Me desculpa. Sim. Sim, senhor!
 
 # CIN_M09_020 Strings #
-[IDS_CIN_M09_020_ADA_1]I have something very important I want to show you.
-[IDS_CIN_M09_020_JOS_1]Okay.
-[IDS_CIN_M09_020_ADA_2]Do you know what this is?
-[IDS_CIN_M09_020_ADA_3]This belonged to your grandpa, and his father too.  And now, we want you to have it.
-[IDS_CIN_M09_020_ADA_4]I know it doesn't look like much, but this ring is the most important thing I could ever give to you.
-[IDS_CIN_M09_020_JOS_2]Is it worth a million dollars?
-[IDS_CIN_M09_020_ADA_5]Much more than that.  This is a symbol of our family's past...and our future.
-[IDS_CIN_M09_020_JOS_3]Can I wear it?
-[IDS_CIN_M09_020_ADA_6]Yes.  But, Joshua, you are never to show anybody this ring, not even Alex.
-[IDS_CIN_M09_020_JOS_4]But I want to show him...
-[IDS_CIN_M09_020_ADA_7]Do you remember when I told you sometimes you must do things and not ask why?
-[IDS_CIN_M09_020_ADA_8]Well, this is one of those times.
-[IDS_CIN_M09_020_JOS_5]Yes, sir.
-[IDS_CIN_M09_020_ADA_9]That's my boy.
+[IDS_CIN_M09_020_ADA_1]Eu tenho algo muito importante pra te mostrar.
+[IDS_CIN_M09_020_JOS_1]Ok.
+[IDS_CIN_M09_020_ADA_2]Você sabe o que é isso?
+[IDS_CIN_M09_020_ADA_3]Isso pertencia ao seu avô, e ao seu bisavô também.  E agora, eu quero que você fique com ele.
+[IDS_CIN_M09_020_ADA_4]Eu sei que näo parece que vale muito mas... Esse anel é a coisa mais importante que eu poderia te dar.
+[IDS_CIN_M09_020_JOS_2]Isso vale tipo uns 1 milhäo de dólares?
+[IDS_CIN_M09_020_ADA_5]Muito mais do que isso.  Isso é um simbolo do nosso passado... e do nosso futuro.
+[IDS_CIN_M09_020_JOS_3]Posso colocar ele?
+[IDS_CIN_M09_020_ADA_6]Pode. Mas Joshua, você näo pode mostrar isso pra ninguém, nem mesmo o Alex.
+[IDS_CIN_M09_020_JOS_4]Mas eu quero mostrar pra ele...
+[IDS_CIN_M09_020_ADA_7]Lembra quando eu te disse que as vezes a gente tem que fazer as coisas sem perguntar por que?
+[IDS_CIN_M09_020_ADA_8]Bem, esse é um desses momentos.
+[IDS_CIN_M09_020_JOS_5]Sim, senhor!
+[IDS_CIN_M09_020_ADA_9]Esse é o meu garoto.
 
 # CIN_M09_030 Strings #
-[IDS_CIN_M09_030_ALX_1]Listen to me, Mom.  Start telling me everything you know about this!
-[IDS_CIN_M09_030_LIL_1]I don't know what that is.
-[IDS_CIN_M09_030_ALX_2]STOP LYING!  I'M TIRED OF IT!  I know all about Silent Hill.
-[IDS_CIN_M09_030_LIL_2]You don't know anything about Silent Hill!
-[IDS_CIN_M09_030_ALX_3]I know Dad went there.  He went to go fight something.
+[IDS_CIN_M09_030_ALX_1]Escuta mäe. É melhor começar a me falar tudo que você sabe sobre isso!
+[IDS_CIN_M09_030_LIL_1]Eu näo sei o que é isso.
+[IDS_CIN_M09_030_ALX_2]PARA DE MENTIR! EU NäO AGUENTO MAIS! Eu já sei de tudo sobre Silent Hill.
+[IDS_CIN_M09_030_LIL_2]Você näo sabe NADA sobre Silent Hill!
+[IDS_CIN_M09_030_ALX_3]Eu sei que o papai foi pra lá.  Ele foi lutar contra algo.
 [IDS_CIN_M09_030_ALX_4]Did he go to get Joshua?  Is that where Josh is?  God dammit, tell me!
-[IDS_CIN_M09_030_LIL_3]Oh Alex, I'm so sorry.
+[IDS_CIN_M09_030_LIL_3]Oh Alex, eu sinto muito.
 [IDS_CIN_M09_030_ALX_5]Stop pretending you care about me and start telling me what's going on.
 [IDS_CIN_M09_030_ALX_6]Joshua is the only one you ever cared about, and I can help him if you tell me the truth!
 [IDS_CIN_M09_030_LIL_4]Ahhhh!!
-[IDS_CIN_M09_030_ALX_7]Mom!
-[IDS_CIN_M09_030_ALX_8]No!!!
-[IDS_CIN_M09_030_ALX_9]No!!!
+[IDS_CIN_M09_030_ALX_7]Mäe!
+[IDS_CIN_M09_030_ALX_8]Näo!!!
+[IDS_CIN_M09_030_ALX_9]Näo!!!
 [IDS_CIN_M09_030_LIL_5]Ahhh!
-[IDS_CIN_M09_030_OS1_1]Forget the Shepherd kid, let's move.
-[IDS_CIN_M09_030_ALX_10]Mom!!
+[IDS_CIN_M09_030_OS1_1]Deixa o moleque Shepherd ai, vamos embora.
+[IDS_CIN_M09_030_ALX_10]Mäe!!
 
 # CIN_M09_040 Strings #
-[IDS_CIN_M09_040_ALX_1]C'mon... this has to be right.
+[IDS_CIN_M09_040_ALX_1]Vamos... Isso tem que estar certo.
 
 # CIN_M10_010 Strings #
-[IDS_CIN_M10_010_ALX_1]Smoke?
-[IDS_CIN_M10_010_ALX_2]Fog.
-[IDS_CIN_M10_010_ELE_1]I took it from my mother's room the morning Nora disappeared, and I haven't taken it off since.
+[IDS_CIN_M10_010_ALX_1]Fumaça?
+[IDS_CIN_M10_010_ALX_2]Névoa.
+[IDS_CIN_M10_010_ELE_1]Eu peguei no quarto da minha mäe na manhä que a Nora desapareceu e näo tirei desde entäo.
 [IDS_CIN_M10_010_ALX_3]Elle?  Wheeler?!
 
 # CIN_M11_010 Strings #
-[IDS_CIN_M11_010_WHE_1]Hey, nice work back there.
-[IDS_CIN_M11_010_WHE_2]When this is over, I'm buying the first round, and then the second.
-[IDS_CIN_M11_010_ALX_1]What did they do to your hand?
-[IDS_CIN_M11_010_WHE_3]Put the hurt on my trigger finger.  But it'll take more than that to keep me from shooting.
-[IDS_CIN_M11_010_ALX_2]Where's Elle?
-[IDS_CIN_M11_010_WHE_4]They split us up when we got here.  But I heard them say something about taking a woman to solitary.
-[IDS_CIN_M11_010_ALX_3]Then that's where we're going.
-[IDS_CIN_M11_010_WHE_5]But we gotta get back to the guard station.
-[IDS_CIN_M11_010_ALX_4]Got it.  Come on.
+[IDS_CIN_M11_010_WHE_1]Ei, belo trabalho lá hein.
+[IDS_CIN_M11_010_WHE_2]Quando isso acabar vou te pagar uma rodada, depois mais uma.
+[IDS_CIN_M11_010_ALX_1]O que eles fizeram com a sua mäo?
+[IDS_CIN_M11_010_WHE_3]Eles ferraram meu dedo do gatilho. Mas väo precisar de mais do que isso pra me impedir de continuar atirando.
+[IDS_CIN_M11_010_ALX_2]Cadê a Elle?
+[IDS_CIN_M11_010_WHE_4]Eles separaram a gente quando chegamos aqui.  Eu ouvi eles falando alguma coisa sobre "levar a mulher pra solitária".
+[IDS_CIN_M11_010_ALX_3]Entäo é pra lá que nós vamos.
+[IDS_CIN_M11_010_WHE_5]Mas nos temos que voltar para a estaçäo de guarda.
+[IDS_CIN_M11_010_ALX_4]Ta certo. Vamos.
 [IDS_CIN_M11_010_ALX_5]Ahhh!
-[IDS_CIN_M11_010_ALX_6]Fuck!
-[IDS_CIN_M11_010_WHE_6]You cuff him.  I'll read him his rights.
+[IDS_CIN_M11_010_ALX_6]Porra!
+[IDS_CIN_M11_010_WHE_6]Segura ele. Eu vou mostrar a lei pra esse bicho.
 
 # CIN_M11_010_ALT Strings #
-[IDS_CIN_M11_010_ALT_WHE_1]Hey, nice work back there.
-[IDS_CIN_M11_010_ALT_WHE_2]When this is over, I'm buying the first round, and then the second.
-[IDS_CIN_M11_010_ALT_ALX_1]Can you walk?
-[IDS_CIN_M11_010_ALT_WHE_3]Walk, run, fly... Shit, I may be a little slow, but whatever the hell it takes to get out of here, let's do it.
-[IDS_CIN_M11_010_ALT_ALX_2]Where's Elle?
-[IDS_CIN_M11_010_ALT_WHE_4]They split us up when we got here.  But I heard them say something about taking a woman to solitary.
-[IDS_CIN_M11_010_ALT_ALX_3]Then that's where we're going.
-[IDS_CIN_M11_010_ALT_WHE_5]But we gotta get back to the guard station.
-[IDS_CIN_M11_010_ALT_ALX_4]Got it.  Come on.
+[IDS_CIN_M11_010_ALT_WHE_1]Ei, belo trabalho lá hein.
+[IDS_CIN_M11_010_ALT_WHE_2]Quando isso acabar vou te pagar uma rodada, depois mais uma.
+[IDS_CIN_M11_010_ALT_ALX_1]Consegue andar?
+[IDS_CIN_M11_010_ALT_WHE_3]Andar, correr, voar... Porra, um pouco lento mas eu faço qualquer merda pra sair desse inferno, vamos nessa.
+[IDS_CIN_M11_010_ALT_ALX_2]Cadê a Elle?
+[IDS_CIN_M11_010_ALT_WHE_4]Eles separaram a gente quando chegamos aqui.  Eu ouvi eles falando alguma coisa sobre "levar a mulher pra solitária".
+[IDS_CIN_M11_010_ALT_ALX_3]Entäo é pra lá que nós vamos.
+[IDS_CIN_M11_010_ALT_WHE_5]Mas nos temos que voltar para a estaçäo de guarda.
+[IDS_CIN_M11_010_ALT_ALX_4]Beleza. Vamos.
 [IDS_CIN_M11_010_ALT_ALX_5]Ahhh!
-[IDS_CIN_M11_010_ALT_ALX_6]Fuck!
-[IDS_CIN_M11_010_ALT_WHE_6]You cuff him.  I'll read him his rights.
+[IDS_CIN_M11_010_ALT_ALX_6]Porra!
+[IDS_CIN_M11_010_ALT_WHE_6]Segura ele. Eu vou mostrar a lei pra esse bicho.
 
 # CIN_M11_020 Strings #
-[IDS_CIN_M11_020_ALX_1]Mom.
-[IDS_CIN_M11_020_ALX_2]Jesus, what did they do?
-[IDS_CIN_M11_020_LIL_1]Alex?  Is that you?
+[IDS_CIN_M11_020_ALX_1]Mäe.
+[IDS_CIN_M11_020_ALX_2]Jesus, o que eles fizeram?
+[IDS_CIN_M11_020_LIL_1]Alex?  É você?
 [IDS_CIN_M11_020_ALX_3]Mom, I'm gonna...I'm gonna get you down.
 [IDS_CIN_M11_020_LIL_2]Ahhhh!!
-[IDS_CIN_M11_020_LIL_3]I'm sorry, Alex.
-[IDS_CIN_M11_020_ALX_4]Shh...it's okay.
-[IDS_CIN_M11_020_LIL_4]Your father and I, we loved you so much.  But they said we could only choose one.
-[IDS_CIN_M11_020_ALX_5]Mom...please...stop... Save your breath.
-[IDS_CIN_M11_020_LIL_5]Let me go, Alex.
-[IDS_CIN_M11_020_ALX_6]I can't...
+[IDS_CIN_M11_020_LIL_3]Me perdoa, Alex.
+[IDS_CIN_M11_020_ALX_4]Shh...ta tudo bem.
+[IDS_CIN_M11_020_LIL_4]Seu pai e eu te amamos muito. Mas eles falaram pra gente que só poderiamos escolher um.
+[IDS_CIN_M11_020_ALX_5]Mäe...por favor...para... Guarde suas energias.
+[IDS_CIN_M11_020_LIL_5]Me deixa aqui, Alex.
+[IDS_CIN_M11_020_ALX_6]Eu näo...
 [IDS_CIN_M11_020_LIL_6]Ahhh!
-[IDS_CIN_M11_020_LIL_7]It hurts so much.  Please stop.  Make it stop.
-[IDS_CIN_M11_020_ALX_7]Mom, I...I can't...I...
-[IDS_CIN_M11_020_LIL_8]Please, Alex.  Please...
-[IDS_CIN_M11_020_LIL_9]Please, Alex.  Please...
+[IDS_CIN_M11_020_LIL_7]Isso doi demais.  Parem por favor.  Faça isso parar.
+[IDS_CIN_M11_020_ALX_7]Mäe, Eu... Eu näo... Eu...
+[IDS_CIN_M11_020_LIL_8]Por favor, Alex. Por favor...
+[IDS_CIN_M11_020_LIL_9]Eu suplico, Alex.  Por favor...
 
 # CIN_M11_030 Strings #
 [IDS_CIN_M11_030_ALX_1]Eu näo posso.
@@ -4546,7 +4546,7 @@
 # CIN_M11_060 Strings #
 [IDS_CIN_M11_060_ALX_1]Juiza Holloway.
 [IDS_CIN_M11_060_JUD_1]Alex!
-[IDS_CIN_M11_060_WHE_1]Quick, you get her loose before they start pumping the gas.  I'll shut off the valves.
+[IDS_CIN_M11_060_WHE_1]Rápido, solta ela antes que o gás comece a entrar.  Eu vou fechar as valvulas.
 [IDS_CIN_M11_060_JUD_2]Alex, thank God.  How did you find me?
 [IDS_CIN_M11_060_ALX_2]We don't have time to talk.  I've got to get you out of here.
 [IDS_CIN_M11_060_JUD_3]What is that?
@@ -4574,18 +4574,18 @@
 [IDS_CIN_M13_010_ADA_1]Alex?  O que você faz aqui?
 [IDS_CIN_M13_010_ALX_2]Eu to aqui pra salvar o Joshua.
 [IDS_CIN_M13_010_ADA_2]Joshua?  Você näo tem como salvar ele.  Você precisa sair daqui.
-[IDS_CIN_M13_010_ALX_3]Stop giving me orders, Dad.  You have no idea what I'm capable of.
-[IDS_CIN_M13_010_ADA_3]You hate me.  It's okay.  I don't blame you.
-[IDS_CIN_M13_010_ALX_4]I don't hate you.  I forgot you...a long time ago.
-[IDS_CIN_M13_010_ADA_4]I never meant to hurt you, son.  I had to make a choice, and now I'm paying for it.  We all are.
-[IDS_CIN_M13_010_ADA_5]After all I've done, you still wear my old dog tags...that must mean something.
-[IDS_CIN_M13_010_ALX_5]What are you talking about?  These are mine.  I'm a soldier...just like you wanted.
+[IDS_CIN_M13_010_ALX_3]Pare de me dar ordens, Pai.  Você näo tem ideia do que eu sou capaz de fazer.
+[IDS_CIN_M13_010_ADA_3]Você me odeia. Eu entendo. Näo te culpo por isso.
+[IDS_CIN_M13_010_ALX_4]Eu näo te odeio. Eu te esqueci... Há muito tempo.
+[IDS_CIN_M13_010_ADA_4]Eu nunca quis te machucar, filho.  Eu tive que fazer uma escolha, e agora eu estou pagando por ela.  Todos nós estamos.
+[IDS_CIN_M13_010_ADA_5]Depois de tudo que eu fiz, mesmo assim você ainda usa o meu cordäo... Isso deve significar algo...
+[IDS_CIN_M13_010_ALX_5]Do que você ta falando?  Ele é meu.\nEu sou um soldado...  Como você queria.
 [IDS_CIN_M13_010_ADA_6]Alex... Você esteve no hospital por um tempo...
 [IDS_CIN_M13_010_ALX_6]Eu sei, eu me acidentei em combate.
 [IDS_CIN_M13_010_ADA_7]Näo... Em um hospital psiquiátrico.
 [IDS_CIN_M13_010_ADA_8]Você estava lá desde o acidente.
-[IDS_CIN_M13_010_ALX_7]No...  That's not true.  I'm a soldier.  I protect people.
-[IDS_CIN_M13_010_ADA_9]We had to take you there...after that night.  After I gave your brother this.
+[IDS_CIN_M13_010_ALX_7]Näo...  Isso näo é verdade.  Eu sou um soldado.  Eu protejo pessoas!
+[IDS_CIN_M13_010_ADA_9]Nós tivemos que te levar pra lá depois... daquela noite. Depois que eu dei isso ao seu irmäo.
 [IDS_CIN_M13_010_ALX_8]O que é essa coisa?  O que você fez?  Cadê o Joshua?!
 [IDS_CIN_M13_010_ADA_10]Alex, me perdoe.
 [IDS_CIN_M13_010_ALX_9]Näo!!!!
@@ -4628,31 +4628,31 @@
 [IDS_CIN_M14_050_JOS_2]O que a gente ta fazendo, Alex?  Papai vai ficar furioso se ele descobrir.
 [IDS_CIN_M14_050_YAL_2]Me da isso.  Alguém vai ver a gente.
 [IDS_CIN_M14_050_JOS_3]Näooo.
-[IDS_CIN_M14_050_YAL_3]It's okay.  I'm not going to let anything happen to you...
-[IDS_CIN_M14_050_JOS_4]Why are we here Alex?  What's going on?
-[IDS_CIN_M14_050_YAL_4]What's the matter...you scared?
-[IDS_CIN_M14_050_JOS_5]Oh no, I'm cool...it's just...Dad never lets us out on the lake.
-[IDS_CIN_M14_050_YAL_5]Not you anyway.  Dad thinks you're a little baby who can't do anything on his own.
-[IDS_CIN_M14_050_JOS_6]Oh yeah! Then why'd he give me this?!
-[IDS_CIN_M14_050_YAL_6]What is that?
-[IDS_CIN_M14_050_JOS_7]Dad's ring, but he told me not to show you, so I guess that makes me cooler.
-[IDS_CIN_M14_050_YAL_7]Let me see it.
-[IDS_CIN_M14_050_JOS_8]No!
-[IDS_CIN_M14_050_YAL_8]What a piece of crap.
-[IDS_CIN_M14_050_JOS_9]It is not.  It's worth more than a million dollars.  That's why Dad gave it to ME!  Give that BACK!
-[IDS_CIN_M14_050_JOS_10]Give it BACK!  It's mine!!
+[IDS_CIN_M14_050_YAL_3]Ta tudo bem.  Eu näo vou deixar nada acontecer com você...
+[IDS_CIN_M14_050_JOS_4]Por que a gente ta aqui, Alex?  O que ta acontecendo?
+[IDS_CIN_M14_050_YAL_4]Que que foi? Ta com medo é?
+[IDS_CIN_M14_050_JOS_5]Hum, näo, eu to bem. É que... O papai nunca deixa a gente vir pro lago.
+[IDS_CIN_M14_050_YAL_5]Näo você né. Papai acha que você é só um bebezinho que näo consegue fazer nada sozinho.
+[IDS_CIN_M14_050_JOS_6]É mesmo?  Entäo por que ele me deu isso?!
+[IDS_CIN_M14_050_YAL_6]O que é isso?
+[IDS_CIN_M14_050_JOS_7]É o anel do papai, ele disse pra eu nunca te mostrar, entäo acho que isso faz de mim o mais legal.
+[IDS_CIN_M14_050_YAL_7]Deixa eu ver ele.
+[IDS_CIN_M14_050_JOS_8]Näo!
+[IDS_CIN_M14_050_YAL_8]Que pedaço de lixo.
+[IDS_CIN_M14_050_JOS_9]Näo é näo!  Vale mais que um milhäo de dólares.  Por isso o papai deu ele pra MIM! ME DEVOLVE!
+[IDS_CIN_M14_050_JOS_10]ME DEVOLVE!! ELE É MEU!!
 [IDS_CIN_M14_050_JOS_11]Arrgh!!
-[IDS_CIN_M14_050_YAL_9]Josh, oh my God!
+[IDS_CIN_M14_050_YAL_9]Josh, meu Deus!
 [IDS_CIN_M14_050_YAL_10]Josh!
 [IDS_CIN_M14_050_YAL_11]Josh?
-[IDS_CIN_M14_050_ADA_1]Do you know what you've done?
-[IDS_CIN_M14_050_YAL_12]It was an accident.
-[IDS_CIN_M14_050_ADA_2]This is not the way it's supposed to be.  I chose YOU.  Now you've ruined it for all of us.
-[IDS_CIN_M14_050_YAL_13]No...no...he's okay...right...?
-[IDS_CIN_M14_050_YAL_14]No, I can save him... I can, I can save him.  I can save him...he's okay...
-[IDS_CIN_M14_050_ALX_2a]No...
-[IDS_CIN_M14_050_ALX_2]What's happening...?
-[IDS_CIN_M14_050_ALX_3]What's going on?
+[IDS_CIN_M14_050_ADA_1]Você tem ideia do que você fez?
+[IDS_CIN_M14_050_YAL_12]Foi um acidente.
+[IDS_CIN_M14_050_ADA_2]Näo é assim que deveria ser.  Eu escolhi VOCÊ.  Agora você acabou com tudo.
+[IDS_CIN_M14_050_YAL_13]Näo...näo...ele ta bem...näo é...?
+[IDS_CIN_M14_050_YAL_14]Näo, eu consigo salvar ele... Eu consigo, consigo salvar ele.  Eu consigo salvar ele...ele ta bem...
+[IDS_CIN_M14_050_ALX_2a]Näo...
+[IDS_CIN_M14_050_ALX_2]O que ta acontecendo aqui...?
+[IDS_CIN_M14_050_ALX_3]O que ta acontecendo?
 [IDS_CIN_M14_050_ALX_4]Oh, näo... de novo näo.
 [IDS_CIN_M14_050_ALX_5]Whoa... Que...?!
 [IDS_CIN_M14_050_ALX_6]Jesus!
@@ -4682,7 +4682,7 @@
 [IDS_CIN_M15_030_ALX_1]Oh Deus.
 [IDS_CIN_M15_030_ALX_2]Meu Deus!
 [IDS_CIN_M15_030_ALX_3]O que você está fazendo? Sai de perto de mim!!!
-[IDS_CIN_M15_030_ALX_4]Näo!  NäO!!!
+[IDS_CIN_M15_030_ALX_4]Näo!  NÄO!!!
 [IDS_CIN_M15_030_ALX_5]Ahhhh!!!!
 
 # CIN_M15_040 Strings #
