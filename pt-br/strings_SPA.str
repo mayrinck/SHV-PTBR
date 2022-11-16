@@ -4547,19 +4547,19 @@
 [IDS_CIN_M11_060_ALX_1]Juiza Holloway.
 [IDS_CIN_M11_060_JUD_1]Alex!
 [IDS_CIN_M11_060_WHE_1]Rápido, solta ela antes que o gás comece a entrar.  Eu vou fechar as valvulas.
-[IDS_CIN_M11_060_JUD_2]Alex, thank God.  How did you find me?
-[IDS_CIN_M11_060_ALX_2]We don't have time to talk.  I've got to get you out of here.
-[IDS_CIN_M11_060_JUD_3]What is that?
-[IDS_CIN_M11_060_JUD_4]Where did you get that?
-[IDS_CIN_M11_060_ALX_3]It's Elle's.
-[IDS_CIN_M11_060_JUD_5]Elle?  Where is she?  Is she okay?
-[IDS_CIN_M11_060_ALX_4]I don't know.  I'll find her, though.  I promise.
-[IDS_CIN_M11_060_ALX_5]She said she took this from you, so...I guess you should have it back.
-[IDS_CIN_M11_060_JUD_6]This isn't mine.  It belonged to Nora.
+[IDS_CIN_M11_060_JUD_2]Alex, obrigado meu Deus.  Como você me achou?
+[IDS_CIN_M11_060_ALX_2]Näo temos tempo de conversar.  Eu tenho que te tirar daqui.
+[IDS_CIN_M11_060_JUD_3]O que é isso?
+[IDS_CIN_M11_060_JUD_4]Onde você conseguiu isso?
+[IDS_CIN_M11_060_ALX_3]É da Elle.
+[IDS_CIN_M11_060_JUD_5]Elle?  Onde ela está?  Ela ta bem?
+[IDS_CIN_M11_060_ALX_4]Eu näo sei.  Eu vou achar ela, eu prometo.
+[IDS_CIN_M11_060_ALX_5]Ela disse que pegou isso de você entäo... Acho que seria correto te devolver.
+[IDS_CIN_M11_060_JUD_6]Isso näo é meu.  Era da Nora.
 [IDS_CIN_M11_060_ALX_6]Nora?
-[IDS_CIN_M11_060_WHE_2]They turned on the gas--
+[IDS_CIN_M11_060_WHE_2]Eles ligaram o gás--
 [IDS_CIN_M11_060_ALX_7]Wheeler!
-[IDS_CIN_M11_060_ALX_8]Run!  Get out!  Get out of here!  I'll save Wheeler!
+[IDS_CIN_M11_060_ALX_8]Corre!  Foge!  Foge logo daqui!  Eu salvo o Wheeler!
 [IDS_CIN_M11_060_ALX_9]Oh Deus, Wheeler!
 [IDS_CIN_M11_060_ALX_10]Wheeler, cadê você?!
 [IDS_CIN_M11_060_ALX_11]Jesus Cristo, olha aquela coisa!!
@@ -4692,7 +4692,7 @@
 [IDS_CIN_M15_040_ALX_3]Eu näo... Sai daqui?
 [IDS_CIN_M15_040_DCT_2]Näo, Alex. E você näo vai a lugar algum até começar a aceitar a realidade e suas responsabilidades.
 [IDS_CIN_M15_040_ALX_4]Näo, por favor, näo.
-[IDS_CIN_M15_040_ALX_5]NäääO!!!
+[IDS_CIN_M15_040_ALX_5]NÄÄÄÄO!!!
 
 # CIN_M15_050 Strings #
 [IDS_CIN_M15_050_ALX_1]Elle...
@@ -4711,8 +4711,8 @@
 [IDS_NOTES_Medical_Chart_Marie_1]<COLOR,195,188,228>INCIDENT REPORT\nPATIENT NAME - Marie Louise Frellson\nAGE - 25	SEX - Female\nDATE OF BIRTH - XXXXXXXXXXXXX\nSOCIAL SECURITY - XXXXXXXXXXXXX\nDATE ADMITTED - XXXXXXXXXXXXX<CLEARCOLOR>
 [IDS_NOTES_Medical_Chart_Marie_2]<COLOR,195,188,228>(x)DISCHARGE SUMMARY  _ RADIOLOGY REPORTS\n_ ALL RECORDS   _ LABORATORY REPORTS\n(X) EMERGENCY REPORTS	_CAUSE OF DEATH\n_ OTHER<CLEARCOLOR>
 [IDS_NOTES_Medical_Chart_Marie_3]<COLOR,195,188,228>(x)DESCRIPTION OF INCIDENT\nPatient was admitted to the ER at 7:37 a.m.  She was bleeding from the left arm and had sustained blunt force trauma to her face and neck.  Patient had come in complaining only of a headache and did not appear to notice the extent of the injuries she had sustained.  Patient was alert at all times and never discussed the reason for her injuries.<CLEARCOLOR>
-[IDS_NOTES_Medical_Chart_Marie_4]<COLOR,195,188,228>Before any of the staff was able to assist in treating her, patient discharged herself from ER without notifying the attending doctor or nurse.  No emergency contact information was available.  All records released to Sheriff's department for further investigation.\n(X) RECORDS RELEASE ___ Sheriff James O'Shea<CLEARCOLOR>
-[IDS_NOTES_Medical_Chart_Marie_5]<COLOR,195,188,228>The above information is correct and factual,\nEmergency Room Supervisor\nMichael Clements\n(PLEASE FAX TO DEPARTMENT OF HEALTH AND SAFETY)<CLEARCOLOR>
+[IDS_NOTES_Medical_Chart_Marie_4]<COLOR,195,188,228>Before any of the staff was able to assist in treating her, patient discharged herself from ER without notifying the attending doctor or nurse.  No emergency contact information was available.  All records released to Sheriff's department for further investigation.\n(X) RECORDS RELEASE ___ Xerife James O'Shea<CLEARCOLOR>
+[IDS_NOTES_Medical_Chart_Marie_5]<COLOR,195,188,228>A informaçäo relatada neste documento está correta e é factível,\nSupervisor da sala de emergência\nMichael Clements\n(POR FAVOR, ENVIE UM FAX PARA O DEPARTAMENTO DE SAÚDE E SEGURANÇA)<CLEARCOLOR>
 
 ### M02 Notes ###
 
@@ -4866,17 +4866,17 @@
 [IDS_JOURNAL_Graveyard_Man_After_Alex_First_Sees_Mayor_Digging_Graves]Tinha um cara cavando covas no cemitério, mas eu suspeito de que esse näo era o trabalho dele.  Eu näo consegui falar com ele, mas tenho certeza de que ele näo seria de grande ajuda também.
 
 # Elle Holloway #
-[IDS_JOURNAL_Elle_After_Alex_Wakes_Up_On_Shore]When I woke up on the shore, Elle was gone.  The Order must have her.  But I'm gonna find her.  I swear to God, I will.  She's not going to become another missing person like those people on her flyers.  I won't let that happen.
+[IDS_JOURNAL_Elle_After_Alex_Wakes_Up_On_Shore]Quando acordei na praia, Elle tinha sumido. A Ordem deve ter levado ela. Mas eu vou encontrá-la. Eu juro por Deus, eu vou. Ela näo vai se tornar outra pessoa desaparecida como aquelas pessoas dos cartazes de desaparecido. Eu näo vou deixar isso acontecer.
 
 # Deputy James Wheeler #
 
 # Curtis Ackers #
-[IDS_JOURNAL_Curtis_After_Meet]This dude is nuts.  He nearly blew my head off.  But, he gave me a good lead on where the broken watch came from and he's got a shop full of stuff I might be able to use.
+[IDS_JOURNAL_Curtis_After_Meet]Esse cara é doido. Ele quase explodiu minha cabeça. Mas ele me deu uma boa pista de onde veio o relógio quebrado e ele tem uma loja cheia de coisas que eu talvez possa usar.
 
 # Woman Locked in Hotel Room #
-[IDS_JOURNAL_Woman_Name]Woman Locked in Hotel Room
-[IDS_JOURNAL_Woman_After_Meet]This woman's voice sounded sweet.  I don't know why she's locked herself in a hotel room.
-[IDS_JOURNAL_Woman_After_Alex_Trades_the_Postcards_for_the_206_Key]She asked me to find her memories, but she never came out of the room.
+[IDS_JOURNAL_Woman_Name]Mulher trancada no quarto do hotel
+[IDS_JOURNAL_Woman_After_Meet]A voz dessa mulher é täo suave.  Eu näo sei por que ela se trancou nesse quarto escuro.
+[IDS_JOURNAL_Woman_After_Alex_Trades_the_Postcards_for_the_206_Key]Ela me pediu pra encontrar suas "memórias", mas ela nunca saiu do quarto depois que eu entreguei o que ela queria...
 
 # Mayor Sam Bartlett #
 [IDS_JOURNAL_Bartlett_After_Mayor_is_Killed]I'm still not sure what happened in that Greenhouse, what it was that killed him, or how we got to this point.  What's clear is that Joey Bartlett is still missing, and there's something much larger going on here than I originally thought.
@@ -5009,28 +5009,28 @@
 
 ### M04 Journal Entries ###
 
-[M04_CombatManual_01]Basic Ranged Combat
+[M04_CombatManual_01]Básicos do combate a distância
 [M04_CombatManual_02]Equipping a ranged weapon: \n\nTo equip a ranged weapon, press <COMBAT_WHEEL> to bring up the weapon select screen, then select your ranged weapon of choice.
 [M04_CombatManual_03]Firing a ranged weapon: \n\nHold down <TARGETING> to enter precision mode.\nPress <FIRE> to fire the weapon.
 [M04_CombatManual_04]Performing a gun butt: \n\nWhile in precision mode press <ACTION> to perform a gun butt.
 [M04_CombatManual_05]Reloading a ranged weapon: \n\nRanged weapons will automatically reload after you fire the last round in the gun, so long as you have additional ammo available.\n\nIt is often advantageous to reload before you empty your gun, so you are not caught reloading in close combat.\n\nThis can be done by pressing <HEAVY_ATTACK>.
 
 
-[M04_Mayor_Bartlett_Digging_Journal]Mayor Bartlett spends a lot of time in the graveyard - digging graves...
+[M04_Mayor_Bartlett_Digging_Journal]O Prefeito Bartlett passa muito tempo no cemitério - cavando covas...
 
-[M04_Missing_Children_Journal]Joshua is not the only person to have disappeared from Shepherd's Glen.  A lot of people have disappeared without trace.
+[M04_Missing_Children_Journal]Joshua näo é o único desaparecido em Shepherd's Glen.  Estranhamente, muitas pessoas sumiram sem deixar rastros.
 
-[M04_Wheeler_Helping_Elle_Journal]Deputy Wheeler worked with Adam Shepherd and now he's helping Elle.
+[M04_Wheeler_Helping_Elle_Journal]Elle e o delegado Wheeler estäo trabalhando juntos agora. Antes, Wheeler trabalhava com Adam Shepherd.
 
-[M04_Wheeler_At_PoliceStation_Journal]Deputy Wheeler is at the Police Station - he doesn't go outside much.
+[M04_Wheeler_At_PoliceStation_Journal]O delegado Wheeler está na Delegacia - Ele näo costuma sair muito de lá.
 
-[M04_Curtis_Fix_Gun_Journal]Curtis is a fix it guy - he may be able to help repair Adam's broken gun.
+[M04_Curtis_Fix_Gun_Journal]Curtis é um faz-tudo. Ele gosta de consertar coisas - Talvez ele consiga ajudar consertando a arma quebrada do Adam.
 
-[M04_Elle_Friend_Journal]Elle is an old high school friend.
+[M04_Elle_Friend_Journal]Elle é uma velha amiga da escola.
 
-[M04_Judge_Studying_History_Journal]Judge Holloway is spending a lot of time looking through the town's history, trying to find some explanation for what's going on.
+[M04_Judge_Studying_History_Journal]A Juiza Holloway está usando todo o seu tempo para entender a história da cidade. Ela espera que isso ajude a encontrar uma explicaçäo pro que está acontecendo.
 
-[M04_Four_Founders_Journal]There are four founding families for the town - Bartlett, Fitch, Holloway and Shepherd.
+[M04_Four_Founders_Journal]Säo quatro as familias fundadoras de Shepherd's Glen: Bartlett, Fitch, Holloway e Shepherd.
 
 [M04_Bartletts_Winery_Journal]Os Bartlett tem um vinhedo.
 
