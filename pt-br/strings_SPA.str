@@ -5010,10 +5010,10 @@
 ### M04 Journal Entries ###
 
 [M04_CombatManual_01]Básicos do combate a distância
-[M04_CombatManual_02]Equipping a ranged weapon: \n\nTo equip a ranged weapon, press <COMBAT_WHEEL> to bring up the weapon select screen, then select your ranged weapon of choice.
-[M04_CombatManual_03]Firing a ranged weapon: \n\nHold down <TARGETING> to enter precision mode.\nPress <FIRE> to fire the weapon.
-[M04_CombatManual_04]Performing a gun butt: \n\nWhile in precision mode press <ACTION> to perform a gun butt.
-[M04_CombatManual_05]Reloading a ranged weapon: \n\nRanged weapons will automatically reload after you fire the last round in the gun, so long as you have additional ammo available.\n\nIt is often advantageous to reload before you empty your gun, so you are not caught reloading in close combat.\n\nThis can be done by pressing <HEAVY_ATTACK>.
+[M04_CombatManual_02]Equipando uma arma de longo alcance: \n\nTo equip uma arma de longo alcance, press <COMBAT_WHEEL> to bring up the weapon select screen, then select your ranged weapon of choice.
+[M04_CombatManual_03]Atirando: \n\nSegure <TARGETING> para mirar sua arma.\nAperte <FIRE> para atirar.
+[M04_CombatManual_04]Coronhadas: \n\nEnquanto estiver mirando, aperte <ACTION> para dar uma coronhada.
+[M04_CombatManual_05]Recarregando: \n\nArmas de longo alcance väo recarregar automaticamente depois do ultimo tiro se você tiver muniçäo sobrando.\n\nÉ de vital importância recarregar suas armas fora do combate para evitar ser pego desprevinido recarregando no meio do combate.\n\nPara isso, aperte <HEAVY_ATTACK> com a arma em mäos.
 
 
 [M04_Mayor_Bartlett_Digging_Journal]O Prefeito Bartlett passa muito tempo no cemitério - cavando covas...
@@ -5082,7 +5082,7 @@
 ###Added after Saving or Failing to Save Wheeler###
 [M14_Journal_07_saved]A ordem torturou gravemente Wheeler. Ele quase morreu. Que bom que pude salva-lo antes do pior acontecer. \nEspero que elle consiga sair do covil em segurança.
 [M14_Journal_07_died]A Ordem torturou Wheeler até a morte. Eu farei com que eles paguem por isso! \nEspero que Elle consiga escapar por conta própria...
-[M14_Journal_08]I still have to find Joshua! I can't leave my little brother alone in this terrible place.
+[M14_Journal_08]Eu ainda tenho que salvar o Joshua! Eu näo posso deixar ele em um lugar täo terrível como esse.
 
 ###Added after Defeating Amnion###
 [M14_Journal_09]Os sacrifícios das crianças aconteciam aqui, no Covil da Ordem.  Eu ainda näo consigo acreditar que eles matavam os próprios filhos...
@@ -5092,7 +5092,7 @@
 
 [IDS_JOURNAL_Alternate_Ending_Good]Final: Bom.
 [IDS_JOURNAL_Alternate_Ending_Bad]Final: Ruim.
-[IDS_JOURNAL_Alternate_Ending_Pyramid_Head]Final: Pyramid Head.
+[IDS_JOURNAL_Alternate_Ending_Pyramid_Head]Final: Bicho-Papäo.
 [IDS_JOURNAL_Alternate_Ending_Hospital]Final: Hospital.
 [IDS_JOURNAL_Alternate_Ending_UFO]Final: UFO.
 [IDS_JOURNAL_Kicker_Ending_Polaroid]Ah, entäo foi nesse periodo que essa foto foi tirada.
@@ -5309,7 +5309,7 @@
 ### M04 Journal Entries ###
 
 [M04_CombatManual_01_PC]Combate de Longo Alcance
-[M04_CombatManual_02_PC]Equipping a ranged weapon: \n\nTo equip a ranged weapon, press <COMBAT_WHEEL> to bring up the weapon select screen, then select your ranged weapon of choice.
-[M04_CombatManual_03_PC]Firing a ranged weapon: \n\nHold down <TARGETING> to enter precision mode.\nPress <FIRE> to fire the weapon.
+[M04_CombatManual_02_PC]Equipping uma arma de longo alcance: \n\nTo equip uma arma de longo alcance, press <COMBAT_WHEEL> to bring up the weapon select screen, then select your ranged weapon of choice.
+[M04_CombatManual_03_PC]Firing uma arma de longo alcance: \n\nHold down <TARGETING> to enter precision mode.\nPress <FIRE> to fire the weapon.
 [M04_CombatManual_04_PC]Coronhada: \n\nEnquanto estiver mirando, aperte <ACTION> para dar uma coronhada.
-[M04_CombatManual_05_PC]Reloading a ranged weapon: \n\nRanged weapons will automatically reload after you fire the last round in the gun, so long as you have additional ammo available.\n\nIt is often advantageous to reload before you empty your gun, so you are not caught reloading in close combat.\n\nThis can be done by pressing <HEAVY_ATTACK>.
+[M04_CombatManual_05_PC]Reloading uma arma de longo alcance: \n\nRanged weapons will automatically reload after you fire the last round in the gun, so long as you have additional ammo available.\n\nIt is often advantageous to reload before you empty your gun, so you are not caught reloading in close combat.\n\nThis can be done by pressing <HEAVY_ATTACK>.
