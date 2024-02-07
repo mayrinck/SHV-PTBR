@@ -56,7 +56,7 @@ Os arquivos que estiverem marcados na lista estão 100% traduzidos e revisados:
 - [x] m08_dialogue (diálogos com o delegado Wheeler via radio)
 - [x] m09_dialogue (diálogos dos membros da ordem)
 - [x] m10_dialogue (Frases de combate e diálogos do Wheeler e alguns membros da Ordem #1)
-- [ ] m11_dialogue (Frases de combate e diálogos do Wheeler e alguns membros da Ordem #2)
+- [x] m11_dialogue (Frases de combate e diálogos do Wheeler e alguns membros da Ordem #2)
 - [x] m13_dialogue (Frases e diálogos do pai do Alex na Igreja)
 - [x] m14_dialogue (Frases e Diálogos com a Juiza Holloway e o Curtis)
 - [x] m15_dialogue (Frases de combate e reações do Wheeler e da Elle)
