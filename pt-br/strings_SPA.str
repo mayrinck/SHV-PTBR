@@ -1958,7 +1958,7 @@
 
 [M04_Interest_90_Big_Sitting_Crypts]This is the crypt of Mason Bartlett, one of Shepherd's Glen's original founders.
 [M04_Interest_90_Big_Sitting_Crypts2]<COLOR,195,188,228>In memory of\nMason Bartlett\nwho died\nMarch 10th 1874\nat 55 years of age.<CLEARCOLOR>
-[M04_Interest_90_Big_Sitting_Crypts3]<COLOR,195,188,228>Ye living mortals stop and read\nA solemn warning from the dead\nYour life is frail and death is sure\nBelieve in Christ and Heaven secure.<CLEARCOLOR>
+[M04_Interest_90_Big_Sitting_Crypts3]<COLOR,195,188,228>Ye living mortals stop and read\nA solemn AVISO from the dead\nYour life is frail and death is sure\nBelieve in Christ and Heaven secure.<CLEARCOLOR>
 [M04_Interest_90_Big_Sitting_Crypts4]<COLOR,195,188,228>In memory of\nHorace H. Bartlett\nwho passed in\na powder mill explosion\nMarch 10th 1934\nat 29 years of age.<CLEARCOLOR>
 [M04_Interest_90_Big_Sitting_Crypts5]<COLOR,195,188,228>Farewell my friends and children dear\nPrepare for death while I sleep here.\nCould you but know as much as I,\nHow soon would you prepare to die.<CLEARCOLOR>
 [M04_Interest_90_Big_Sitting_Crypts6]<COLOR,195,188,228>Lydia Bartlett\nDied April 5th 1894\nat 22 years of age.<CLEARCOLOR>
@@ -1973,7 +1973,7 @@
 
 [M04_Interest_91_Big_Sitting_Crypts]Edwin Holloway is buried here.  He was one of Shepherd's Glen's original founders.
 [M04_Interest_91_Big_Sitting_Crypts2]<COLOR,195,188,228>In memory of\nEdwin Holloway\nDied November 4th 1879\nat 59 years of age.<CLEARCOLOR>
-[M04_Interest_91_Big_Sitting_Crypts3]<COLOR,195,188,228>Ye living mortals stop and read\nA solemn warning from the dead\nYour life is fleeting, only death is sure\nTrust in our god, all will be secure. <CLEARCOLOR>
+[M04_Interest_91_Big_Sitting_Crypts3]<COLOR,195,188,228>Ye living mortals stop and read\nA solemn AVISO from the dead\nYour life is fleeting, only death is sure\nTrust in our god, all will be secure. <CLEARCOLOR>
 
 [M04_Interest_92_Big_Sitting_Crypts]Hey, this is the crypt of my ancestor, Isaac Shepherd.  He was one of the original founders of the town.
 [M04_Interest_92_Big_Sitting_Crypts2]<COLOR,195,188,228>In memory of\nIsaac Shepherd\nDied March 9th 1882\nat 62 years of age.<CLEARCOLOR>
@@ -2536,7 +2536,7 @@
 [M06_Wheeler_CheckitOut]Wheeler: Ok, I'm going to check it out first.
 [M06_Wheeler_BacktheOtherWay]Wheeler: They found us! Quick, back the other way!
 [M06_Wheeler_DocFitch01]Wheeler: Let me think for a second... Alex we have to get out of here. I was looking for Mayor Bartlett because I think he's got something to do with all of this.
-[M06_Wheeler_DocFitch02]Wheeler: He and Doc Fitch seem to be connected to... Oh no, if Bartlett was killed by those things, then Fitch could be in danger too!
+[M06_Wheeler_DocFitch02]Wheeler: He and Doc Fitch seem to be connected to... Oh no, if Bartlett was killed by those things, then Fitch could be in PERIGO too!
 [M06_Wheeler_DocFitch03]Alex: I saw Doc Fitch in his office not too long ago.\nWheeler: We have to get to him before these monsters do!
 [M06_Wheeler_StandBack]Wheeler: Stand back.
 [M06_Wheeler_ExitWay]Wheeler: Come on, the exit's this way.
@@ -2709,7 +2709,7 @@
 [M08_DocOffice_Painting1]It's a painting of a lake.
 [M08_DocOffice_LobbyTable]This table is covered in dust, it looks like no one has used it for a long time.
 [M08_DocOffice_Diphtheria]<COLOR,195,188,228>Diphtheria strikes unprotected children.\nProtect your children with Toxoid! Toxoid Prevents Diphtheria.<CLEARCOLOR>
-[M08_DocOffice_STD]It's a poster warning about STD's.
+[M08_DocOffice_STD]It's a poster AVISO about STD's.
 [M08_DocOffice_Diagram]It's a diagram of the organs in the human body.
 
 [M08_LodgeKeyHint01]I've seen the symbol on this key before...
@@ -5119,19 +5119,19 @@
 ### The 18 Drawings - poems to describe Pyramid Head as the bogeyman###
 
 
-[IDS_JOURNAL_Drawing_M03_A]Where is Steven, mommy? He can't play and I'm sad.\nYou mustn't ask, my darling- Steven has been bad.
-[IDS_JOURNAL_Drawing_M03_B]Billy too, and Sally? Did they do something wrong?\nI'm afraid it's true, child- all your friends are gone.
-[IDS_JOURNAL_Drawing_M04]Beware of he who took them- he goes by many names.\nThe Bogeyman, the Shadowed One, but all are he, the same.
-[IDS_JOURNAL_Drawing_M05]For every sin a child has, must be a punishment to bear.\nYour friends are now beyond our reach: trapped deep within his lair.
-[IDS_JOURNAL_Drawing_M07_A]Remember to always behave, for sins he won't abide.\nHe wields a rusty, jagged blade, to cut out your insides.
-[IDS_JOURNAL_Drawing_M07_B]The lying little children, with souls selfish and small,\nWill find their wriggling tongues cut out, and nailed to his wall.
-[IDS_JOURNAL_Drawing_M08_A]And if they take what is not theirs, there can be no doubt\nHe'll stretch their skin until it snaps, and all the blood drains out.
-[IDS_JOURNAL_Drawing_M08_B]The bullies and their spiteful wrath will find torment as well,\nSoon he will strike them where they stand and drag them into hell.
-[IDS_JOURNAL_Drawing_M09]Child, you must obey your parents: do everything they say.\nLittle ones who do otherwise, he tortures in the flames.
-[IDS_JOURNAL_Drawing_M10A]Beatings cleanse the soul, they say, and that is what he'll do\nIf you don't control your anger then you'll feel his anger too.
-[IDS_JOURNAL_Drawing_M11]You are your brother's keeper, remember it always.\nOr else, the Bogeyman will chain you underneath the waves.
-[IDS_JOURNAL_Drawing_M13]And while good children live, bad ones cannot escape their fate\nFor once you hear his screeching wail, it's already too late.
-[IDS_JOURNAL_Drawing_M14]So do not cry aloud at night?stay hidden in your bed...\nOr the Bogeyman from Silent Hill will come chop off your head.
+[IDS_JOURNAL_Drawing_M03_A]Onde está o Steven, mamäe? Ele näo pode brincar e eu estou triste.\nVocê näo deve perguntar isso, meu querido - Steven foi um garoto mau.
+[IDS_JOURNAL_Drawing_M03_B]Billy também, e a Sally? Eles fizeram algo de errado?\nEu suponho que sim, criança- Todos os seus amigos se condenaram.
+[IDS_JOURNAL_Drawing_M04]Cuidado com quem levou eles- ele tem muitos nomes.\nO bicho-papäo, O Sombrio, mas todos säo ele, o próprio, o "Homem".
+[IDS_JOURNAL_Drawing_M05]Para cada pecado que uma criança tem, a puniçäo já está certa.\nSeus amigos estäo agora longe do nosso alcance: presos dentro da morada dele, onde a morte é certa.
+[IDS_JOURNAL_Drawing_M07_A]Lembre-se de sempre se comportar, pois ele näo tolera o pecado.\nEle carrega uma grande e enferrujada faca, e por ela você pode ser rasgado.
+[IDS_JOURNAL_Drawing_M07_B]As crianças mentirosas, de alma mesquinha e sem coraçäo,\nTeräo suas línguas cortadas e penduradas em seu paredäo.
+[IDS_JOURNAL_Drawing_M08_A]E se elas decidirem pegar o que näo lhes é de direito, näo haverá dúvida\nEle arrancará suas peles e escorrerá o sangue até näo sobrar gota alguma.
+[IDS_JOURNAL_Drawing_M08_B]Os valentöes e sua fúria desmedida säo percebidos também,\nLogo que ele chegar, todos seräo levados para o além.
+[IDS_JOURNAL_Drawing_M09]Criança, você deve obedecer os seus pais. Obedeça sem questionar.\nDo contrário, com chamas ele vai te torturar.
+[IDS_JOURNAL_Drawing_M10A]Apanhar limpa a alma, eles dizem, e é o que ele te fará\nE se você näo se submeter, sua fúria presenciará.
+[IDS_JOURNAL_Drawing_M11]Você protege o seu irmäo, lembre-se disso.\nDo contrário o bicho-papäo vai te dar um sumiço.
+[IDS_JOURNAL_Drawing_M13]As crianças boas vivem, mas as más näo podem fugir do destino\nPor que já é tarde para fugir quando se ouve o rangido.
+[IDS_JOURNAL_Drawing_M14]Entäo näo chore alto a noite, fique na sua cama para que näo pereça...\nOu entäo o bicho-papäo de Silent Hill vai vir cortar a sua cabeça!
 
 
 ### INVENTORY Props Strings ###
@@ -5198,11 +5198,11 @@
 [IDS_AMBIENT_SGTown2_Bartlett_Mausoleum_Inscription]E até que nos encontremos novamente, que Deus te guarde no vazio de suas mäos.
 
 ### M05 Ambient ###
-[IDS_AMBIENT_M05Hotel_Signage_2]KEEP OUT UNTIL FURTHER NOTICE
-[IDS_AMBIENT_M05Hotel_Signage_3]DANGER: These areas off limits until further notice. Thank you. SHFD
-[IDS_AMBIENT_M05Hotel_Signage_4]DANGER: This area off limits until further notice.  Please do not enter.
+[IDS_AMBIENT_M05Hotel_Signage_2]PROIBIDA A ENTRADA ATÉ SEGUNDA ORDEM
+[IDS_AMBIENT_M05Hotel_Signage_3]PERIGO: These areas off limits until further notice. Thank you. SHFD
+[IDS_AMBIENT_M05Hotel_Signage_4]PERIGO: This area off limits until further notice.  Please do not enter.
 [IDS_AMBIENT_M05Hotel_Signage_5]This area is out of service to hotel guests and staff.  We apologize for any inconvenience.
-[IDS_AMBIENT_M05Hotel_Signage_6]DANGER - DO NOT USE.
+[IDS_AMBIENT_M05Hotel_Signage_6]PERIGO - DO NOT USE.
 [IDS_AMBIENT_M05Hotel_Signage_7]This staircase is not in use.
 [IDS_AMBIENT_M05Hotel_Signage_8]CLOSED UNTIL FURTHER NOTICE: Due to recent damage, these stairs are unsafe for use by guests.  We're sorry for the inconvenience!
 [IDS_AMBIENT_M05Hotel_Signage_9]PARDON OUR DUST!  We're working hard to make a great hotel even better!  Sorry for the inconvenience.
@@ -5225,18 +5225,18 @@
 [IDS_AMBIENT_M10SHTown1_Silent_Hill_Sign]Bem vindos a Silent Hill
 
 ### M11 Ambient ###
-[IDS_AMBIENT_M11Prison_Signage_01]There is absolutely no talking in hallways.
-[IDS_AMBIENT_M11Prison_Signage_02]Remember why you are here.
-[IDS_AMBIENT_M11Prison_Signage_03]No loud noise, pushing, or fighting while in line.
+[IDS_AMBIENT_M11Prison_Signage_01]Nada de falatório nos corredores.
+[IDS_AMBIENT_M11Prison_Signage_02]Lembre-se do por que está aqui.
+[IDS_AMBIENT_M11Prison_Signage_03]Sem barulhos, empurröes ou brigas enquanto estiver na fila.
 [IDS_AMBIENT_M11Prison_Signage_04]Solitária
-[IDS_AMBIENT_M11Prison_Signage_05]<COLOR,195,188,228>NOTICE: All visitors must check in with guard before entering. ID badges must be worn at all times.<CLEARCOLOR>
-[IDS_AMBIENT_M11Prison_Signage_06]Eyes down.
-[IDS_AMBIENT_M11Prison_Signage_07]Speak only when spoken to.
-[IDS_AMBIENT_M11Prison_Signage_08]You have no rights.
+[IDS_AMBIENT_M11Prison_Signage_05]<COLOR,195,188,228>AVISO: Todos os visitantes precisam se apresentar aos guardas antes de entrar. A identificaçäo deve estar visível em todos os momentos.<CLEARCOLOR>
+[IDS_AMBIENT_M11Prison_Signage_06]Olhe sempre para baixo.
+[IDS_AMBIENT_M11Prison_Signage_07]Fale somente quando for perguntado.
+[IDS_AMBIENT_M11Prison_Signage_08]Você näo tem direitos.
 [IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_01]BEYOND THIS POINT: Fumes exceed safe levels for human exposure. Gasmasks MUST be worn at all times.
-[IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_02]WARNING: You MUST stop here if red light is on.  Failure to heed this warning may lead to serious injury or death.
+[IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_02]AVISO: You MUST stop here if red light is on.  Failure to heed this AVISO may lead to serious injury or death.
 [IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_03]SAFETY CHECK: Chamber is not neutralized until green light is on.
-[IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_04]MAX PRESSURE: 1500 PSI
+[IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_04]PRESSÄO MÁXIMA: 1500 PSI
 [IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_05]Secure all straps.
 [IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_06]Dangerous Gasses Are Present
 [IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_07]Please lock all chambers when you are finished.
@@ -5245,7 +5245,7 @@
 [IDS_AMBIENT_M12SHTown2_Coin_Op_Signage]Resident Hazard
 [IDS_AMBIENT_M12SHTown2_Sewer_Warning_Signage_01]PERIGO: VAPOR
 [IDS_AMBIENT_M12SHTown2_Sewer_Warning_Signage_02]PERIGO: ALTA TEMPERATURA
-[IDS_AMBIENT_M12SHTown2_Sewer_Warning_Signage_03]PERIGO: CALIENTE!
+[IDS_AMBIENT_M12SHTown2_Sewer_Warning_Signage_03]PERIGO: QUENTE!
 [IDS_AMBIENT_M12SHTown2_Sewer_Order_Checkpoint_Signage_01]PARE! O acesso a este local é proibido.
 [IDS_AMBIENT_M12SHTown2_Sewer_Order_Checkpoint_Signage_02]PARE! esteja pronto para se identificar.
 [IDS_AMBIENT_M12SHTown2_Sewer_Order_Checkpoint_Signage_03]CHECKPOINT AHEAD: Be prepared to show identification.
