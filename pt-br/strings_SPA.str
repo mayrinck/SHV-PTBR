@@ -4988,16 +4988,16 @@
 
 ### M01 Journal Entries ###
 
-[M01_CombatManual_01]Basic Weapons Combat: \n\nToday's soldier needs to be prepared for the rigors of training and beyond. These are techniques that are going to keep you alive out in the field.
+[M01_CombatManual_01]Combate básico com armas: \n\nUm soldado hoje precisa estar preparado para o rigor do treino e do campo de batalha. Essas técnicas väo te ajudar a sobreviver quando estiver em açäo.
 
-[M01_CombatManual_02]Equipping a weapon: \n\nTo equip a weapon, hold down or tap <COMBAT_WHEEL> and use <COMMAND_MOVEMENT> to select your weapon of choice.
+[M01_CombatManual_02]Equipando sua arma: \n\nPara equipar uma arma, aperte ou segure <COMBAT_WHEEL> e mexa com <COMMAND_MOVEMENT> na direçäo da arma desejada.
 
-[M01_CombatManual_03]How to use combat stance and targeting: \n\nTo get into your combat ready stance, pull and hold <TARGETING> when a melee weapon is equipped. \n\nWhen you enter combat stance and enemies are present, you will automatically target the closest enemy in your field of view.
-[M01_CombatManual_04]If multiple enemies are surrounding you, the target will be the closest hostile. \n\nThe targeted enemy will be highlighted by the flashlight.
-[M01_CombatManual_05]To change targets, tap <COMMAND_CAMERA> in the direction of that target, typically left or right. \n\nTo break targeting at any time, exit combat stance by releasing <TARGETING>.
+[M01_CombatManual_03]Iniciando combates e controle de alvos: \n\nPara iniciar um combate, aperte e segure <TARGETING> quando sua arma estiver equipada. \n\nQuando você estiver preparado para o combate, seu alvo primário sempre será o inimigo mais próximo dentro do seu campo de visäo.
+[M01_CombatManual_04]Mesmo que muitos inimigos estejam ao seu redor, seu alvo sempre será o mais próximo de você. \n\nO inimigo mais próximo sempre ficará iluminado pela lanterna do seu uniforme.
+[M01_CombatManual_05]Se precisar mudar de alvo, aperte <COMMAND_CAMERA> na direçäo do alvo desejado, podendo ser a sua direita ou a esquerda. \n\nPara quebrar a linha de visäo do combate, relaxe seu corpo soltando <TARGETING>.
 
-[M01_CombatManual_06]Fast Attacks, Strong Attacks, Charge Attacks, and Combos: \n\nWhen in combat stance, press <ACTION> for Fast attacks and <HEAVY_ATTACK> for Strong Attacks.
-[M01_CombatManual_07]Strong attacks can be charged up for added damage by holding down <HEAVY_ATTACK>. \n\nSuccessive Fast attacks followed by a Strong attack can make for uninterrupted strikes known as Combos.
+[M01_CombatManual_06]Ataques rápidos, fortes, carregados e combos: \n\nQuando estiver preparado para o combate, aperte <ACTION> para executar ataques rápidos e fracos e <HEAVY_ATTACK> para ataques fortes, porém lentos.
+[M01_CombatManual_07]Ataques fortes podem ser segurados para causar ainda mais dano, basta segurar <HEAVY_ATTACK>. \n\nUm bom combate é sempre feito de varios ataques rápidos, seguidos de um ataque forte, o que desestabiliza nossos inimigos. Nós chamamos essa técnica de "Combo".
 
 [M01_Keypad_Clue]O número "624872" está escrito nos filmes de Raios-X. Parece uma senha...
 
