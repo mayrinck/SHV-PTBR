@@ -24,7 +24,7 @@
 
 [IDS_SHELL_ACCEPT]Confirmar
 [IDS_SHELL_BACK]Voltar
-[IDS_SHELL_CHECKPOINT]Checkpoint
+[IDS_SHELL_VERIFICAÇäO]Checkpoint
 [IDS_SHELL_USE]Usar
 [IDS_SHELL_EQUIP]Equipar
 [IDS_SHELL_SELECT]Selecionar
@@ -5086,7 +5086,7 @@
 
 ###Added after Defeating Amnion###
 [M14_Journal_09]Os sacrifícios das crianças aconteciam aqui, no Covil da Ordem.  Eu ainda näo consigo acreditar que eles matavam os próprios filhos...
-[M14_Journal_10]Joshua morreu no lago Toluca por que eu näo pude salva-lo.  A culpa de tudo isso foi minha, o tempo todo...
+[M14_Journal_10]Joshua morreu no lago Toluca porque eu näo pude salva-lo.  A culpa de tudo isso foi minha, o tempo todo...
 
 ### M15 Journal Entries ###
 
@@ -5202,10 +5202,10 @@
 [IDS_AMBIENT_M05Hotel_Signage_3]PERIGO: These areas off limits until further notice. Thank you. SHFD
 [IDS_AMBIENT_M05Hotel_Signage_4]PERIGO: This area off limits until further notice.  Please do not enter.
 [IDS_AMBIENT_M05Hotel_Signage_5]This area is out of service to hotel guests and staff.  We apologize for any inconvenience.
-[IDS_AMBIENT_M05Hotel_Signage_6]PERIGO - DO NOT USE.
+[IDS_AMBIENT_M05Hotel_Signage_6]PERIGO - NäO USE.
 [IDS_AMBIENT_M05Hotel_Signage_7]This staircase is not in use.
 [IDS_AMBIENT_M05Hotel_Signage_8]CLOSED UNTIL FURTHER NOTICE: Due to recent damage, these stairs are unsafe for use by guests.  We're sorry for the inconvenience!
-[IDS_AMBIENT_M05Hotel_Signage_9]PARDON OUR DUST!  We're working hard to make a great hotel even better!  Sorry for the inconvenience.
+[IDS_AMBIENT_M05Hotel_Signage_9]PERDäO PELA BAGUNÇA! Estamos trabalhando duro para fazer nosso grandioso hotel ficar ainda melhor! Pedimos desculpas pela inconveniência.
 
 ### M06 Ambient ###
 
@@ -5239,7 +5239,7 @@
 [IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_04]PRESSÄO MÁXIMA: 1500 PSI
 [IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_05]Secure all straps.
 [IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_06]Dangerous Gasses Are Present
-[IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_07]Please lock all chambers when you are finished.
+[IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_07]Por favor tranque todas as salas ao finalizar.
 
 ### M12 Ambient ###
 [IDS_AMBIENT_M12SHTown2_Coin_Op_Signage]Resident Hazard
@@ -5248,7 +5248,7 @@
 [IDS_AMBIENT_M12SHTown2_Sewer_Warning_Signage_03]PERIGO: QUENTE!
 [IDS_AMBIENT_M12SHTown2_Sewer_Order_Checkpoint_Signage_01]PARE! O acesso a este local é proibido.
 [IDS_AMBIENT_M12SHTown2_Sewer_Order_Checkpoint_Signage_02]PARE! esteja pronto para se identificar.
-[IDS_AMBIENT_M12SHTown2_Sewer_Order_Checkpoint_Signage_03]CHECKPOINT AHEAD: Be prepared to show identification.
+[IDS_AMBIENT_M12SHTown2_Sewer_Order_Checkpoint_Signage_03]VERIFICAÇäO A FRENTE: Prepare-se para mostrar suas credenciais.
 
 ### M13 Ambient ###
 [IDS_AMBIENT_M13Church_Church_Signage_01]Igreja do Caminho Sagrado
@@ -5264,9 +5264,9 @@
 [IDS_AMBIENT_M13Church_Confessional_Sign_04]Se você bater, ele ouvirá.
 
 ### M14 Ambient ###
-[IDS_AMBIENT_M14lair_Order_Patrol_Checkpoint_Signage_01]STOP No unauthorized persons allowed beyond this point.
-[IDS_AMBIENT_M14lair_Order_Patrol_Checkpoint_Signage_02]CHECKPOINT: Be prepared to show proper identification.
-[IDS_AMBIENT_M14lair_Order_Patrol_Checkpoint_Signage_03]CHECKPOINT: Precautions are for your security and the good of the Faith.
+[IDS_AMBIENT_M14lair_Order_Patrol_Checkpoint_Signage_01]PARE! Somente pessoal autorizado a partir deste ponto.
+[IDS_AMBIENT_M14lair_Order_Patrol_Checkpoint_Signage_02]VERIFICAÇäO: Prepare-se para mostrar suas credenciais.
+[IDS_AMBIENT_M14lair_Order_Patrol_Checkpoint_Signage_03]VERIFICAÇäO: Precautions are for your security and the good of the Faith.
 [IDS_AMBIENT_M14lair_Warning_Signage_01]PERIGO: Campo de Obras
 [IDS_AMBIENT_M14lair_Warning_Signage_02]PERIGO: Equipamentos perigosos
 [IDS_AMBIENT_M14lair_Torture_Room_Signage_01]Coloque todas as ferramentas no lugar apos o uso.

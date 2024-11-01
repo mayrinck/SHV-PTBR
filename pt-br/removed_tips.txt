@@ -1,6 +1,6 @@
 Caso você queira restaurar as dicas sobre combate e outras situações que vem originalmente no jogo, você pode copiar os dados abaixo e substituir no arquivo "strings_SPA.str" a partir da linha 369, utilizando o Notepad++
 
-É válido ressaltar que o arquivo só vai entender efetivamente os dados se for aberto e salvo no formato ANSI.
+É válido ressaltar que o arquivo só vai entender efetivamente os dados se for aberto e salvo no formato ANSI (ISO 8859-1). Se não souber o que isso significa, abra com o Bloco de Notas e sempre salve com a codificação ANSI.
 
 
 
