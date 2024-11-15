@@ -5080,7 +5080,7 @@
 [M14_Journal_06]Elle quase foi torturada por Curtis, mas eu matei aquele filho de uma puta antes que ele conseguisse fazer qualquer coisa com ela.
 
 ###Added after Saving or Failing to Save Wheeler###
-[M14_Journal_07_saved]A ordem torturou gravemente Wheeler. Ele quase morreu. Que bom que pude salva-lo antes do pior acontecer. \nEspero que elle consiga sair do covil em segurança.
+[M14_Journal_07_saved]A ordem torturou gravemente Wheeler. Ele quase morreu. Que bom que pude salva-lo antes do pior acontecer. \nEspero que Elle consiga sair do covil em segurança.
 [M14_Journal_07_died]A Ordem torturou Wheeler até a morte. Eu farei com que eles paguem por isso! \nEspero que Elle consiga escapar por conta própria...
 [M14_Journal_08]Eu ainda tenho que salvar o Joshua! Eu näo posso deixar ele em um lugar täo terrível como esse.
 
@@ -5146,9 +5146,9 @@
 
 ### M01 Ambient ###
 
-[IDS_AMBIENT_M01Nightmare_Hospital_Sign_2]ATENÇäO EQUIPE DE ENFERMAGEM: Todos os medicamentos devem ser administrados diariamente antes das 09:00.
-[IDS_AMBIENT_M01Nightmare_Hospital_Sign_3]ATENÇäO: Novas admissöes devem apresentar documento de identificaçäo
-[IDS_AMBIENT_M01Nightmare_Hospital_Sign_4]NäO dê luvas de borracha para crianças.
+[IDS_AMBIENT_M01Nightmare_Hospital_Sign_2]ATENÇÄO EQUIPE DE ENFERMAGEM: Todos os medicamentos devem ser administrados diariamente antes das 09:00.
+[IDS_AMBIENT_M01Nightmare_Hospital_Sign_3]ATENÇÄO: Novas admissöes devem apresentar documento de identificaçäo
+[IDS_AMBIENT_M01Nightmare_Hospital_Sign_4]NÄO dê luvas de borracha para crianças.
 [IDS_AMBIENT_M01Nightmare_Hospital_Sign_5]O horário de visitaçäo é das 9h às 21h.
 [IDS_AMBIENT_M01Nightmare_Hospital_Sign_6]Somente funcionários a partir deste ponto.
 [IDS_AMBIENT_M01Nightmare_Hospital_Sign_7]A pulseira de identificaçäo deve ser usada em TODOS os momentos.
@@ -5199,13 +5199,13 @@
 
 ### M05 Ambient ###
 [IDS_AMBIENT_M05Hotel_Signage_2]PROIBIDA A ENTRADA ATÉ SEGUNDA ORDEM
-[IDS_AMBIENT_M05Hotel_Signage_3]PERIGO: These areas off limits until further notice. Thank you. SHFD
-[IDS_AMBIENT_M05Hotel_Signage_4]PERIGO: This area off limits until further notice.  Please do not enter.
-[IDS_AMBIENT_M05Hotel_Signage_5]This area is out of service to hotel guests and staff.  We apologize for any inconvenience.
-[IDS_AMBIENT_M05Hotel_Signage_6]PERIGO - NäO USE.
-[IDS_AMBIENT_M05Hotel_Signage_7]This staircase is not in use.
-[IDS_AMBIENT_M05Hotel_Signage_8]CLOSED UNTIL FURTHER NOTICE: Due to recent damage, these stairs are unsafe for use by guests.  We're sorry for the inconvenience!
-[IDS_AMBIENT_M05Hotel_Signage_9]PERDäO PELA BAGUNÇA! Estamos trabalhando duro para fazer nosso grandioso hotel ficar ainda melhor! Pedimos desculpas pela inconveniência.
+[IDS_AMBIENT_M05Hotel_Signage_3]PERIGO: Esta área está bloqueada até segunda ordem. Agradecendo pela compreensão, departamento de bombeiros de Silent Hill.
+[IDS_AMBIENT_M05Hotel_Signage_4]PERIGO: Esta área está bloqueada até segunda ordem. Por favor, não entre.
+[IDS_AMBIENT_M05Hotel_Signage_5]Esta área está fechada para visitantes e funcionários. Nos desculpe por qualquer inconveniência.
+[IDS_AMBIENT_M05Hotel_Signage_6]PERIGO - NÄO USE.
+[IDS_AMBIENT_M05Hotel_Signage_7]Essa escadaria está desativada.
+[IDS_AMBIENT_M05Hotel_Signage_8]FECHADO ATÉ SEGUNDA ORDEM: Devido aos danos recentes, estas escadarias näo säo seguras para uso. Desculpe pela inconveniência!
+[IDS_AMBIENT_M05Hotel_Signage_9]PERDÄO PELA BAGUNÇA! Estamos trabalhando duro para fazer nosso grandioso hotel ficar ainda melhor! Pedimos desculpas pela inconveniência.
 
 ### M06 Ambient ###
 
@@ -5280,7 +5280,7 @@
 [M01_Inventory_1_PC]Aperte <COMBAT_WHEEL> para ver seus equipamentos. Você também pode apertar <COMMAND_UI_X> para ligar/desligar a lanterna.
 [M01_Inventory_2_PC]Aperte <INVENTORY_WHEEL> para ver seu inventário.
 
-[M01_CombatNote_02_PC]<COLOR,195,188,228>Equipando armas: \n\nPara equipar uma arma, abra o inventário de Equipamentos (botäo <COMBAT_WHEEL>) e use <COMMAND_MOVEMENT> para escolher sua arma.<CLEARCOLOR>
+[M01_CombatNote_02_PC]<COLOR,195,188,228>Equipando uma arma: \n\nPara equipar uma arma, abra o inventário de equipamentos (<COMBAT_WHEEL>) e use <COMMAND_MOVEMENT> para selecionar a arma que você precisa.<CLEARCOLOR>
 [M01_CombatNote_03_PC]<COLOR,195,188,228>Modo de combate e escolha de alvos: \n\nPara entrar no modo de combate, segure ou aperte <TARGETING> com uma arma corpo-a-corpo em mäos. \n\nQuando você entra no modo de combate, você irá focar no alvo mais próximo do seu campo de visäo automaticamente.<CLEARCOLOR>
 [M01_CombatNote_04_PC]<COLOR,195,188,228>Se vários inimigos estiverem em volta de você, o alvo será sempre o que estiver mais perto. \n\nO inimigo que for focado será iluminado pela lanterna.<CLEARCOLOR>
 [M01_CombatNote_05_PC]<COLOR,195,188,228>To change targets, turn the camera in the direction of that target, typically left or right. \n\nTo break targeting at any time, exit combat stance by releasing <TARGETING> or tapping it again.<CLEARCOLOR>
@@ -5295,21 +5295,21 @@
 
 ### M01 Journal Entries ###
 
-[M01_CombatManual_01_PC]Basic Weapons Combat: \n\nToday's soldier needs to be prepared for the rigors of training and beyond. These are techniques that are going to keep you alive out in the field.
+[M01_CombatManual_01_PC]Combate com armas corpo-a-corpo: \n\nOs soldados de hoje em dia precisam estar preparados para o rigor do combate e além. Essas técnicas vão te manter vivo durante o combate.
 
-[M01_CombatManual_02_PC]Equipping a weapon: \n\nTo equip a weapon, open the weapon menu (<COMBAT_WHEEL>) and use <COMMAND_MOVEMENT> to select your weapon of choice.
+[M01_CombatManual_02_PC]Equipando uma arma: \n\nPara equipar uma arma, abra o inventário de equipamentos (<COMBAT_WHEEL>) e use <COMMAND_MOVEMENT> para selecionar a arma que você precisa.
 
-[M01_CombatManual_03_PC]How to use combat stance and targeting: \n\nTo get into your combat ready stance, hold or tap <TARGETING> with a melee weapon equipped. \n\nWhen you enter combat stance and enemies are present, you will automatically target the closest enemy in your field of view.
-[M01_CombatManual_04_PC]If multiple enemies are surrounding you, the target will be the closest hostile. \n\nThe targeted enemy will be highlighted by the flashlight.
-[M01_CombatManual_05_PC]To change targets, turn the camera in the direction of that target, typically left or right. \n\nTo break targeting at any time, exit combat stance by releasing <TARGETING> or tapping it again.
+[M01_CombatManual_03_PC]Posição de combate: \n\nSe prepare para o combate apertando <TARGETING> com uma arma corpo a corpo equipada. \n\nQuando vários inimigos estiverem por perto, você focará no inimigo mais próximo.
+[M01_CombatManual_04_PC]Lembre-se: se muitos inimigos estiverem ao redor, você deve focar no inimigo mais próximo. \n\nVocê deve usar ssua lanterna para iluminar o inimigo mais próximo.
+[M01_CombatManual_05_PC]Para focar em outro alvo, gire a câmera na direção do novo alvo. \n\nPara recuar do combate, solte <TARGETING> e saia de perto dos alvos.
 
-[M01_CombatManual_06_PC]Fast Attacks, Strong Attacks, Charge Attacks, and Combos: \n\nWhen in combat stance, press <ACTION> for Fast attacks and <HEAVY_ATTACK> for Strong Attacks.
+[M01_CombatManual_06_PC]Ataques rápidos, fortes, carregados e combos: \n\nWhen in combat stance, press <ACTION> for Fast attacks and <HEAVY_ATTACK> for Strong Attacks.
 [M01_CombatManual_07_PC]Strong attacks can be charged up for added damage by holding down <HEAVY_ATTACK>. \n\nSuccessive Fast attacks followed by a Strong attack can make for uninterrupted strikes known as Combos.
 
 ### M04 Journal Entries ###
 
 [M04_CombatManual_01_PC]Combate de Longo Alcance
-[M04_CombatManual_02_PC]Equipping uma arma de longo alcance: \n\nTo equip uma arma de longo alcance, press <COMBAT_WHEEL> to bring up the weapon select screen, then select your ranged weapon of choice.
-[M04_CombatManual_03_PC]Firing uma arma de longo alcance: \n\nHold down <TARGETING> to enter precision mode.\nPress <FIRE> to fire the weapon.
+[M04_CombatManual_02_PC]Equipando uma arma de longo alcance: \n\nTo equip uma arma de longo alcance, press <COMBAT_WHEEL> to bring up the weapon select screen, then select your ranged weapon of choice.
+[M04_CombatManual_03_PC]Atirando uma arma de longo alcance: \n\nHold down <TARGETING> to enter precision mode.\nPress <FIRE> to fire the weapon.
 [M04_CombatManual_04_PC]Coronhada: \n\nEnquanto estiver mirando, aperte <ACTION> para dar uma coronhada.
-[M04_CombatManual_05_PC]Reloading uma arma de longo alcance: \n\nRanged weapons will automatically reload after you fire the last round in the gun, so long as you have additional ammo available.\n\nIt is often advantageous to reload before you empty your gun, so you are not caught reloading in close combat.\n\nThis can be done by pressing <HEAVY_ATTACK>.
+[M04_CombatManual_05_PC]Recarregando uma arma de longo alcance: \n\nRanged weapons will automatically reload after you fire the last round in the gun, so long as you have additional ammo available.\n\nIt is often advantageous to reload before you empty your gun, so you are not caught Recarregando in close combat.\n\nThis can be done by pressing <HEAVY_ATTACK>.
