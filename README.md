@@ -58,6 +58,8 @@ Os arquivos que estiverem marcados na lista estão 100% traduzidos e revisados:
 - [x] m15_dialogue (Frases de combate e reações do Wheeler e da Elle)
 - [x] m16_dialogue (Diálogos diversos entre Alex e outros personagens do jogo - repetidos de outros arquivos)
 - [ ] strings      (Interações: Textos de interfaces, Diálogos de escolha, Objetos de cenário, etc...)
+    - [x] Elementos do inventário e Interfaces
+    - [x] Entradas do diário
     - [x] Pesadelo e Início do jogo
     - [x] Casa do Alex
     - [x] Cemitério

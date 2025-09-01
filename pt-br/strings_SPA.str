@@ -1269,7 +1269,7 @@
 [M01_BunnyDrawing_A_3]Acho que os coelhinhos deveriam estar assustados... mais ao lado tem um lobo, monstro, ou coisa assim...
 [M01_BunnyDrawing_B_1]Outro desenho de coelhinho.
 [M01_BunnyDrawing_B_2]Um dos coelhos parece jovem e inocente.
-[M01_BunnyDrawing_B_3]O rosto do mais velho tem uma expressão estranha.
+[M01_BunnyDrawing_B_3]O rosto do mais velho tem uma expressäo estranha.
 [M01_BunnyDrawing_B_4]Parece que ele descobriu algo terrível...
 [M01_BunnyDrawing_C_1]Esse desenho só tem um coelhinho...
 [M01_BunnyDrawing_C_2]Por que ele está isolado em uma sala?
@@ -2542,15 +2542,15 @@
 [M06_Wheeler_ExitWay]Wheeler: Come on, the exit's this way.
 
 # M06 - Sewers #
-[M06_Interest_46_Gate_Locked]Não vejo nenhuma maneira de abrir isso.
+[M06_Interest_46_Gate_Locked]Näo vejo nenhuma maneira de abrir isso.
 [M06_Interest_47_Gate_with_Valve]Vejo uma válvula do outro lado.
-[M06_Interest_48_Gate_Open]Não consigo levantar isto. Deve haver algo por perto que eu possa usar para abrir.
+[M06_Interest_48_Gate_Open]Näo consigo levantar isto. Deve haver algo por perto que eu possa usar para abrir.
 [M06_Interest_49_Pumping_Room_Body]Ele morreu... Díficil dizer qual é o motivo, mas eu näo to a fim de ficar pra saber.
 [M06_Interest_49_Pumping_Room_Body2]Eu vou precisar disso se por acaso eu sair daqui...
 
 [M06_Interest_50_Pumping_Room_Note]<COLOR,195,188,228>Drew, sei que o plano era nos encontrarmos aqui, mas preciso voltar para pegar mais suprimentos antes de partirmos. Por favor, espere por mim aqui, mas fique dentro desta sala! Ouvi sons horríveis nos esgotos.<CLEARCOLOR>
 
-[M06_DrainagePool]Meu Deus, que cheiro é esse? Não podemos atravessar isso com segurança. Deve haver alguma maneira de drenar isso...
+[M06_DrainagePool]Meu Deus, que cheiro é esse? Näo podemos atravessar isso com segurança. Deve haver alguma maneira de drenar isso...
 [M06_DrainagePool2]Deve haver alguma maneira de esvaziar esta piscina por aqui.
 
 [M06_Interest_52_Blood_on_Walls]Mas o que aconteceu aqui? Onde está a Elle?
@@ -2903,9 +2903,9 @@
 [M09_Interest_Sewing_Room_Vents_1]De onde vem o calor dessas saídas de ar?
 [M09_Interest_Sewing_Room_Push_Object_1]Tem um trilho aqui.
 [M09_Interest_Sewing_Room_Push_Object_2]Eu acho que da pra mover isso.
-[M09_Interest_Puzzle_Fail_1]Isso não parece certo.
+[M09_Interest_Puzzle_Fail_1]Isso näo parece certo.
 [M09_Interest_Puzzle_Fail_2]Talvez se eu tentar de outro jeito...
-[M09_Interest_Puzzle_Fail_3]Isso não tem como estar certo.
+[M09_Interest_Puzzle_Fail_3]Isso näo tem como estar certo.
 [M09_Interest_Puzzle_Fail_4]Errado.
 [M09_Interest_House_Clue_1]<COLOR,195,188,228>Para escapar do futuro, é preciso entender o passado<CLEARCOLOR>
 [M09_Interest_House_Clue_2]<COLOR,195,188,228>Nós estamos presos a nossa dor, porém lembrar, liberta<CLEARCOLOR>
@@ -2957,7 +2957,7 @@
 [M10A_BaitBox_01]<COLOR,195,188,228>'Caixa de Iscas'<CLEARCOLOR>
 [M10A_BaitBox_02]Deve ter alguma loja de pescaria por perto.
 [M10A_BoatCabin_01]Parece um barco de patrulha lacustre, embora seja difícil dizer com toda essa ferrugem...
-[M10A_BoatCabin_02]A chave de ignição não está em lugar nenhum.
+[M10A_BoatCabin_02]A chave de igniçäo näo está em lugar nenhum.
 [M10A_BrokenWalk_01]Parece que parte do penhasco desabou, levando consigo o caminho que existia aqui.
 [M10A_BrokenWalk_02]Fico inquieto estando aqui... como se a própria água estivesse tentando me puxar para fora do cais...
 
@@ -2994,9 +2994,9 @@
 
 ### M10A Prison ###
 
-[M10A_Overlook_01]<COLOR,195,188,228>Penitenciária Overlook<CLEARCOLOR> \nLembro que meu pai e vários delegados foram enviados aqui para ajudar a conter uma rebelião...
+[M10A_Overlook_01]<COLOR,195,188,228>Penitenciária Overlook<CLEARCOLOR> \nLembro que meu pai e vários delegados foram enviados aqui para ajudar a conter uma rebeliäo...
 [M10A_Overlook_02]Seis dias depois, ele voltou para casa, mas nunca falou sobre o que aconteceu aqui.
-[M10A_Prison_Door_01]Parece que algo tentou entrar. Por que alguém iria querer se refugiar DENTRO de uma prisão?
+[M10A_Prison_Door_01]Parece que algo tentou entrar. Por que alguém iria querer se refugiar DENTRO de uma prisäo?
 
 ### M10A Dargento Cemetery ###
 
@@ -3120,7 +3120,7 @@
 
 ### M10B Mission Objectives ###
 
-[M10B_Objective_DisableGate]- Desligar o portão eletrônico da penitenciaria
+[M10B_Objective_DisableGate]- Desligar o portäo eletrônico da penitenciaria
 [M10B_Objective_ShutDown]- Desligar o gerador de energia
 [M10B_Objective_Prison]- Voltar para a penitenciaria
 
@@ -5064,7 +5064,7 @@
 ### M12 Journal Entries ###
 
 ### M13 Journal Entries ###
-[M13_Psalm_Journal]É um trecho de um Salmo:\n"Bem-aventurado o homem que não trilha o caminho dos ímpios, nem se detém no caminho dos pecadores, nem se assenta na roda dos escarnecedores."
+[M13_Psalm_Journal]É um trecho de um Salmo:\n"Bem-aventurado o homem que näo trilha o caminho dos ímpios, nem se detém no caminho dos pecadores, nem se assenta na roda dos escarnecedores."
 [M13_Hymn_Journal]Contém alguns versos de um hino:\n"Onde começará minha alma errante? Como aspiraremos todos ao céu?"
 
 ### M14 Journal Entries ###
@@ -5233,12 +5233,12 @@
 [IDS_AMBIENT_M11Prison_Signage_06]Olhe sempre para baixo.
 [IDS_AMBIENT_M11Prison_Signage_07]Fale somente quando for perguntado.
 [IDS_AMBIENT_M11Prison_Signage_08]Você näo tem direitos.
-[IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_01]ALÉM DESTE PONTO: Os vapores excedem os níveis seguros para exposição humana. Máscaras de gás DEVEM ser usadas o tempo todo.
-[IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_02]AVISO: Você DEVE parar aqui se a luz vermelha estiver acesa. A não observância deste AVISO pode resultar em ferimentos graves ou morte.
-[IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_03]VERIFICAÇÃO DE SEGURANÇA: A câmara não é neutralizada até que a luz verde acenda.
+[IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_01]ALÉM DESTE PONTO: Os vapores excedem os níveis seguros para exposiçäo humana. Máscaras de gás DEVEM ser usadas o tempo todo.
+[IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_02]AVISO: Você DEVE parar aqui se a luz vermelha estiver acesa. A näo observância deste AVISO pode resultar em ferimentos graves ou morte.
+[IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_03]VERIFICAÇäO DE SEGURANÇA: A câmara näo é neutralizada até que a luz verde acenda.
 [IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_04]PRESSÄO MÁXIMA: 1500 PSI
 [IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_05]Prenda todas as correias.
-[IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_06]Gases perigosos estão presentes.
+[IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_06]Gases perigosos estäo presentes.
 [IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_07]Por favor tranque todas as salas ao finalizar.
 
 ### M12 Ambient ###
@@ -5283,7 +5283,7 @@
 [M01_CombatNote_02_PC]<COLOR,195,188,228>Equipando uma arma: \n\nPara equipar uma arma, abra o inventário de equipamentos (<COMBAT_WHEEL>) e use <COMMAND_MOVEMENT> para selecionar a arma que você precisa.<CLEARCOLOR>
 [M01_CombatNote_03_PC]<COLOR,195,188,228>Modo de combate e escolha de alvos: \n\nPara entrar no modo de combate, segure ou aperte <TARGETING> com uma arma corpo-a-corpo em mäos. \n\nQuando você entra no modo de combate, você irá focar no alvo mais próximo do seu campo de visäo automaticamente.<CLEARCOLOR>
 [M01_CombatNote_04_PC]<COLOR,195,188,228>Se vários inimigos estiverem em volta de você, o alvo será sempre o que estiver mais perto. \n\nO inimigo que for focado será iluminado pela lanterna.<CLEARCOLOR>
-[M01_CombatNote_05_PC]<COLOR,195,188,228>Para mudar de alvo, desvie o olhar na direção do alvo, normalmente para a esquerda ou para a direita. \n\nPara interromper a mira a qualquer momento, saia da posição de combate soltando <TARGETING> ou apertando novamente.<CLEARCOLOR>
+[M01_CombatNote_05_PC]<COLOR,195,188,228>Para mudar de alvo, desvie o olhar na direçäo do alvo, normalmente para a esquerda ou para a direita. \n\nPara interromper a mira a qualquer momento, saia da posiçäo de combate soltando <TARGETING> ou apertando novamente.<CLEARCOLOR>
 
 [M01_CombatNote_06_PC]<COLOR,195,188,228>Ataques rápidos, ataques pesados, ataques de carga e combos: \n\nQuando estiver pronto para o combate, aperte <ACTION> para executar ataques rápidos e <HEAVY_ATTACK> para executar ataques pesados.<CLEARCOLOR>
 [M01_CombatNote_07_PC]<COLOR,195,188,228>Ataques pesados podem ser carregados para causar dano adicional ao segurar <HEAVY_ATTACK>. \n\nAtaques rápidos sucessivos seguidos de um ataque pesado podem resultar em ataques ininterruptos conhecidos como combos.<CLEARCOLOR>
