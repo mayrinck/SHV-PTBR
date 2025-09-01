@@ -52,7 +52,7 @@
 [IDS_SHELL_MISSION_SIX]Delegacia de Polícia
 [IDS_SHELL_MISSION_SIX_B]Esgotos
 [IDS_SHELL_MISSION_SEVEN]Descida ao inferno
-[IDS_SHELL_MISSION_EIGHT]Prefeitura
+[IDS_SHELL_MISSION_EIGHT]câmara municipal
 [IDS_SHELL_MISSION_EIGHT_B]Cemitério
 [IDS_SHELL_MISSION_NINE]Sótäo
 [IDS_SHELL_MISSION_TEN]Tempos de Trevas
@@ -1268,8 +1268,8 @@
 [M01_BunnyDrawing_A_2]Tem três coelhinhos: o Papai, a Mamäe e o Bebê...
 [M01_BunnyDrawing_A_3]Acho que os coelhinhos deveriam estar assustados... mais ao lado tem um lobo, monstro, ou coisa assim...
 [M01_BunnyDrawing_B_1]Outro desenho de coelhinho.
-[M01_BunnyDrawing_B_2]One of the bunnies looks young and innocent.
-[M01_BunnyDrawing_B_3]The older one's face has a strange expression.
+[M01_BunnyDrawing_B_2]Um dos coelhos parece jovem e inocente.
+[M01_BunnyDrawing_B_3]O rosto do mais velho tem uma expressão estranha.
 [M01_BunnyDrawing_B_4]Parece que ele descobriu algo terrível...
 [M01_BunnyDrawing_C_1]Esse desenho só tem um coelhinho...
 [M01_BunnyDrawing_C_2]Por que ele está isolado em uma sala?
@@ -1379,7 +1379,7 @@
 
 ### M02 Mission Objectives ###
 
-[M02_Objective_GoHome]- Vá para a sua casa.
+[M02_Objective_GoHome]- Vá para casa.
 [M02_Objective_GasCan]- Encontre gasolina para ligar a bomba d'água.
 [M02_Objective_FillCan]- Encontre um lugar para encher o tanque de gasolina.
 [M02_Objective_ReturnHome]- Retorne ao poräo e abasteça a bomba.
@@ -1467,10 +1467,10 @@
 [M02_Interest_DadCar1]É o caminhäo do papai. Minha mäe sempre disse que ele nunca terminaria de reparar isso.
 [M02_Interest_DadCar2]Acho que ela estava certa. Näo me parece que esse caminhäo vai funcional algum dia.
 
-[M02_Interest_BBoardA1]"Prefeitura de Shepherd's Glen, acontecimentos da cidade" ... ainda parece a mesma coisa de antigamente...
+[M02_Interest_BBoardA1]"Câmara municipal de Shepherd's Glen, acontecimentos da cidade" ... ainda parece a mesma coisa de antigamente...
 [M02_Interest_BBoardA2]Tabela com os jogos dos times de softbol, antiguidades a venda e avisos de pessoas desaparecidas.
 
-[M08_Interest_BBoardA1]<COLOR,195,188,228>Prefeitura de Shepherd's Glen, acontecimentos da cidade<CLEARCOLOR>
+[M08_Interest_BBoardA1]<COLOR,195,188,228>Câmara municipal de Shepherd's Glen, acontecimentos da cidade<CLEARCOLOR>
 [M08_Interest_BBoardA2]Parece que a Elle atualizou o quadro. \nAgora só tem cartazes de pessoas desaparecidas...
 [M08_Interest_BBoardA3]O que houve com todas essas pessoas?
 
@@ -1518,7 +1518,7 @@
 [M02_Interest_BlankSpace1]Parece que tinha uma foto bem aqui...
 [M02_Interest_BlankSpace2]Por que será que retiraram?
 
-[M02_Interest_BreakingGround1]É uma foto de Mason Bartlett abrindo caminho na Prefeitura.
+[M02_Interest_BreakingGround1]É uma foto de Mason Bartlett abrindo caminho na câmara municipal.
 
 [M02_Interest_FounderBart1]Um dos ancestrais do prefeito Bartlett foi um dos fundadores da cidade.
 [M02_Interest_FounderBart2]Bartlett é o prefeito desde que eu nasci, e ninguém nunca tentou concorrer contra ele.
@@ -1625,7 +1625,7 @@
 
 # M02 - Inside the Town Hall #
 [M02_Interest_59_Fitch_Painting_Plaque]Aqui diz: <COLOR,195,188,228>Cornelius Fitch, o açougueiro da cidade, preparando um porco para a venda.<CLEARCOLOR>
-[M02_Interest_60_Bartlett_Painting_Plaque]Aqui diz: <COLOR,195,188,228>O fazendeiro Mason Bartlett inicia sua jornada na prefeitura de Shepherd's Glen.<CLEARCOLOR>
+[M02_Interest_60_Bartlett_Painting_Plaque]Aqui diz: <COLOR,195,188,228>O fazendeiro Mason Bartlett inicia sua jornada na câmara municipal de Shepherd's Glen.<CLEARCOLOR>
 [M02_Interest_61_Holloway_Painting_Plaque]Aqui diz: <COLOR,195,188,228>O advogado Edwin Holloway dedica o Moinho de Vento do Rio Sequoit.<CLEARCOLOR>
 [M02_Interest_62_Shepherd_Painting_Plaque]Aqui diz: <COLOR,195,188,228>Isaac Shepherd, o primeiro prefeito da cidade, opera o novo poço.<CLEARCOLOR>
 
@@ -2542,16 +2542,16 @@
 [M06_Wheeler_ExitWay]Wheeler: Come on, the exit's this way.
 
 # M06 - Sewers #
-[M06_Interest_46_Gate_Locked]I can't see any way to open this.
-[M06_Interest_47_Gate_with_Valve]I can see a valve on the other side.
-[M06_Interest_48_Gate_Open]I can't lift this. There must be something nearby I can use to open it.
+[M06_Interest_46_Gate_Locked]Não vejo nenhuma maneira de abrir isso.
+[M06_Interest_47_Gate_with_Valve]Vejo uma válvula do outro lado.
+[M06_Interest_48_Gate_Open]Não consigo levantar isto. Deve haver algo por perto que eu possa usar para abrir.
 [M06_Interest_49_Pumping_Room_Body]Ele morreu... Díficil dizer qual é o motivo, mas eu näo to a fim de ficar pra saber.
 [M06_Interest_49_Pumping_Room_Body2]Eu vou precisar disso se por acaso eu sair daqui...
 
-[M06_Interest_50_Pumping_Room_Note]<COLOR,195,188,228>Drew, I know the plan was to meet you here, but I need to go back for some more supplies before we can leave. Please wait for me here, but stay inside this room! I've heard horrible sounds in the sewers.<CLEARCOLOR>
+[M06_Interest_50_Pumping_Room_Note]<COLOR,195,188,228>Drew, sei que o plano era nos encontrarmos aqui, mas preciso voltar para pegar mais suprimentos antes de partirmos. Por favor, espere por mim aqui, mas fique dentro desta sala! Ouvi sons horríveis nos esgotos.<CLEARCOLOR>
 
-[M06_DrainagePool]God, what's that smell? We can't safely cross through this. there must be some way to drain this...
-[M06_DrainagePool2]There must be some way to drain this pool around here.
+[M06_DrainagePool]Meu Deus, que cheiro é esse? Não podemos atravessar isso com segurança. Deve haver alguma maneira de drenar isso...
+[M06_DrainagePool2]Deve haver alguma maneira de esvaziar esta piscina por aqui.
 
 [M06_Interest_52_Blood_on_Walls]Mas o que aconteceu aqui? Onde está a Elle?
 [M06_Interest_53_Elles_Radio]Meu Deus, é o radio da Elle!
@@ -2572,7 +2572,7 @@
 [M06_Interest_60_Shrine_C1]A little girl's dresser... Why would Doctor Fitch put all this stuff in here?
 [M06_Interest_60_Shrine_C2]This case is locked.
 
-[M06_Interest_61_sewermap_GOT]Você obteve o <COLOR,155,240,155>Sewer Map<CLEARCOLOR>.
+[M06_Interest_61_sewermap_GOT]Você obteve o <COLOR,155,240,155>Mapa dos Esgotos<CLEARCOLOR>.
 
 ### M07_Church ###
 
@@ -2726,15 +2726,15 @@
 [M08_DegreeFitch_01]<COLOR,195,188,228>Southeastern University\nUpon the recommendation of the Faculty of\nThe School of Medicine\nAnd by the virtue of the authority vested in them by the Congress of the\nUnited States the Board of Trustees of Southeastern University\nHas conferred upon\nMartin Fitch\nMedicinae Doctor\nTogether with all honors rights and privileges thereto pertaining,\nIn recognition of all requirements for this degree.<CLEARCOLOR>
 
 # M08 Objectives
-[M08_Objective_DocFitch]- Go to Doc Fitch's office.
-[M08_Objective_LodgeHal]- Investigate the Town Hall.
+[M08_Objective_DocFitch]- Ir ao consultório do Dr.Fitch.
+[M08_Objective_LodgeHal]- Investigar a câmara municipal.
 
 ### M09_Alex2 ###
 
 [M09_Dialogue_Mom]Mom is in an almost catatonic state and has nothing coherent to say.
 [M09_HuntingRoom_LOCKED]The door to Dad's hunting room won't open. There is a slot where the doorknob should be.
-[M09_Coolerclosed]It's an ice chest.
-[M09_Cooleropened]It's a key!
+[M09_Coolerclosed]É um baú de gelo.
+[M09_Cooleropened]Tem uma chave aqui!
 [M09_AtticDoor_LOCKED]The door to the attic is locked.
 [M09_CeremonialDagger_USE]Você Você usou a <COLOR,155,240,155>Ceremonial Dagger<CLEARCOLOR>.
 [M09_AtticKey_USE]Você Você usou a <COLOR,155,240,155>Attic Key <CLEARCOLOR>.
@@ -2900,15 +2900,15 @@
 [M09_Interest_Bathroom_Vines_2]as if something alive is taking over the house.
 [M09_Interest_Alex_Room_Clock_1]This clock didn't used to be here.
 [M09_Interest_Alex_Room_Clock_2]Looks like I can turn the hands.
-[M09_Interest_Sewing_Room_Vents_1]I wonder where the heat from these vents are coming from?
-[M09_Interest_Sewing_Room_Push_Object_1]This is on a track.
-[M09_Interest_Sewing_Room_Push_Object_2]I think I could probably move it.
-[M09_Interest_Puzzle_Fail_1]That doesn't seem right.
-[M09_Interest_Puzzle_Fail_2]Maybe if I try something else.
-[M09_Interest_Puzzle_Fail_3]That can't be right.
-[M09_Interest_Puzzle_Fail_4]Wrong.
-[M09_Interest_House_Clue_1]<COLOR,195,188,228>To escape to the future you must know the past<CLEARCOLOR>
-[M09_Interest_House_Clue_2]<COLOR,195,188,228>We are bound to our pain, remember, and set us free<CLEARCOLOR>
+[M09_Interest_Sewing_Room_Vents_1]De onde vem o calor dessas saídas de ar?
+[M09_Interest_Sewing_Room_Push_Object_1]Tem um trilho aqui.
+[M09_Interest_Sewing_Room_Push_Object_2]Eu acho que da pra mover isso.
+[M09_Interest_Puzzle_Fail_1]Isso não parece certo.
+[M09_Interest_Puzzle_Fail_2]Talvez se eu tentar de outro jeito...
+[M09_Interest_Puzzle_Fail_3]Isso não tem como estar certo.
+[M09_Interest_Puzzle_Fail_4]Errado.
+[M09_Interest_House_Clue_1]<COLOR,195,188,228>Para escapar do futuro, é preciso entender o passado<CLEARCOLOR>
+[M09_Interest_House_Clue_2]<COLOR,195,188,228>Nós estamos presos a nossa dor, porém lembrar, liberta<CLEARCOLOR>
 
 
 
@@ -2916,50 +2916,50 @@
 
 ### M10A Mission Objectives ###
 
-[M10A_Objective_FindElle]- Find Elle
-[M10A_Objective_Prison]- Search for a way into the prison
+[M10A_Objective_FindElle]- Encontrar a Elle
+[M10A_Objective_Prison]- Achar uma forma de entrar na penitenciaria
 
 ### M10A Pickups ###
 
-[M10_Locket_TITLE]Elle's Locket
-[M10_Locket_DESC]This is the locket that Elle took from her mom.
-[M10_Locket_GOT]Você obteve o <COLOR,155,240,155>Locket<CLEARCOLOR>.
+[M10_Locket_TITLE]Medalhäo da Elle
+[M10_Locket_DESC]Um medalhäo que a Elle tirou da mäe dela.
+[M10_Locket_GOT]Você obteve um <COLOR,155,240,155>medalhäo<CLEARCOLOR>.
 
-[M10_Blood_TITLE]Bloodstone
-[M10_Blood_DESC]Bloodstone is the birthstone for March.
-[M10_Blood_GOT]Você obteve o <COLOR,155,240,155>Bloodstone<CLEARCOLOR>.
-[M10_Blood_USED]Você Você usou a <COLOR,155,240,155>Bloodstone<CLEARCOLOR>.
+[M10_Blood_TITLE]Heliotrópio
+[M10_Blood_DESC]Heliotrópio (ou Bloodstone) é a pedra que representa os nascidos em Março.
+[M10_Blood_GOT]Você obteve a pedra <COLOR,155,240,155>Heliotrópio<CLEARCOLOR>.
+[M10_Blood_USED]Você Você usou a pedra <COLOR,155,240,155>Heliotrópio<CLEARCOLOR>.
 
-[M10_Garnet_TITLE]Garnet
-[M10_Garnet_DESC]Garnet is the birthstone for January.
-[M10_Garnet_GOT]Você obteve o <COLOR,155,240,155>Garnet<CLEARCOLOR>.
-[M10_Garnet_USED]Você Você usou a <COLOR,155,240,155>Garnet<CLEARCOLOR>.
+[M10_Garnet_TITLE]Granada
+[M10_Garnet_DESC]Granada é a pedra que representa os nascidos em Janeiro.
+[M10_Garnet_GOT]Você obteve a pedra <COLOR,155,240,155>Granada<CLEARCOLOR>.
+[M10_Garnet_USED]Você Você usou a pedra <COLOR,155,240,155>Granada<CLEARCOLOR>.
 
-[M10_Sapphire_TITLE]Sapphire
-[M10_Sapphire_DESC]Sapphire is the birthstone for September.
-[M10_Sapphire_GOT]Você obteve o <COLOR,155,240,155>Sapphire<CLEARCOLOR>.
-[M10_Sapphire_USED]Você Você usou a <COLOR,155,240,155>Sapphire<CLEARCOLOR>.
+[M10_Sapphire_TITLE]Safira
+[M10_Sapphire_DESC]Safira é a pedra que representa os nascidos em Setembro.
+[M10_Sapphire_GOT]Você obteve a pedra <COLOR,155,240,155>Safira<CLEARCOLOR>.
+[M10_Sapphire_USED]Você Você usou a pedra <COLOR,155,240,155>Safira<CLEARCOLOR>.
 
-[M10_Turquoise_TITLE]Turquoise
-[M10_Turquoise_DESC]Turquoise is the birthstone for December.
-[M10_Turquoise_GOT]Você obteve o <COLOR,155,240,155>Turquoise<CLEARCOLOR>.
-[M10_Turquoise_USED]Você Você usou a <COLOR,155,240,155>Turquoise<CLEARCOLOR>.
+[M10_Turquoise_TITLE]Turquesa
+[M10_Turquoise_DESC]Turquesa é a pedra que representa os nascidos em Dezembro.
+[M10_Turquoise_GOT]Você obteve a pedra <COLOR,155,240,155>Turquesa<CLEARCOLOR>.
+[M10_Turquoise_USED]Você Você usou a pedra <COLOR,155,240,155>Turquesa<CLEARCOLOR>.
 
-[M10_GraveyardKey_TITLE]Moon Garden Key
-[M10_GraveyardKey_DESC]<COLOR,195,188,228>Property of Dargento Cemetery<CLEARCOLOR> is etched into the key.
-[M10_GraveyardKey_GOT]Você obteve o <COLOR,155,240,155>Moon Garden Key<CLEARCOLOR>.
-[M10_GraveyardKey_USED]Você Você usou a <COLOR,155,240,155>Moon Garden Key<CLEARCOLOR>.
+[M10_GraveyardKey_TITLE]Chave do Jardim da Lua
+[M10_GraveyardKey_DESC]Está gravado na chave: <COLOR,195,188,228>Propriedade do Cemitério Dargento<CLEARCOLOR>.
+[M10_GraveyardKey_GOT]Você obteve a <COLOR,155,240,155>Chave do Jardim da Lua<CLEARCOLOR>.
+[M10_GraveyardKey_USED]Você Você usou a <COLOR,155,240,155>Chave do Jardim da Lua<CLEARCOLOR>.
 
 ### M10A Docks ###
 
 [M10A_FishingBoat_01]As caixas de iscas agora só tem cinzas dentro.
 [M10A_FreshBait_01]<COLOR,195,188,228>'Iscas frescas'<CLEARCOLOR>
 [M10A_BaitBox_01]<COLOR,195,188,228>'Caixa de Iscas'<CLEARCOLOR>
-[M10A_BaitBox_02]There must be some kind of bait shop nearby.
-[M10A_BoatCabin_01]This looks like a lake patrol boat, though it's hard to tell with all the rust...
-[M10A_BoatCabin_02]The ignition key is nowhere to be found.
-[M10A_BrokenWalk_01]It looks like part of the cliff collapsed, taking the walk-way with it.
-[M10A_BrokenWalk_02]I feel uneasy here, like the water itself is trying to pull me off the dock...
+[M10A_BaitBox_02]Deve ter alguma loja de pescaria por perto.
+[M10A_BoatCabin_01]Parece um barco de patrulha lacustre, embora seja difícil dizer com toda essa ferrugem...
+[M10A_BoatCabin_02]A chave de ignição não está em lugar nenhum.
+[M10A_BrokenWalk_01]Parece que parte do penhasco desabou, levando consigo o caminho que existia aqui.
+[M10A_BrokenWalk_02]Fico inquieto estando aqui... como se a própria água estivesse tentando me puxar para fora do cais...
 
 ### M10A Streets ###
 
@@ -2994,9 +2994,9 @@
 
 ### M10A Prison ###
 
-[M10A_Overlook_01]<COLOR,195,188,228>Overlook Penitentiary<CLEARCOLOR> \nI remember my dad and several deputies were sent here to help stop a riot...
-[M10A_Overlook_02]It was six days before he came back home, but he never once spoke about what happened over here.
-[M10A_Prison_Door_01]It looks like something tried to get in. Why would someone want to take refuge INSIDE a Prison?
+[M10A_Overlook_01]<COLOR,195,188,228>Penitenciária Overlook<CLEARCOLOR> \nLembro que meu pai e vários delegados foram enviados aqui para ajudar a conter uma rebelião...
+[M10A_Overlook_02]Seis dias depois, ele voltou para casa, mas nunca falou sobre o que aconteceu aqui.
+[M10A_Prison_Door_01]Parece que algo tentou entrar. Por que alguém iria querer se refugiar DENTRO de uma prisão?
 
 ### M10A Dargento Cemetery ###
 
@@ -3120,9 +3120,9 @@
 
 ### M10B Mission Objectives ###
 
-[M10B_Objective_DisableGate]- Disable the electric prison gate
-[M10B_Objective_ShutDown]- Shut down the power generator
-[M10B_Objective_Prison]- Return to the prison
+[M10B_Objective_DisableGate]- Desligar o portão eletrônico da penitenciaria
+[M10B_Objective_ShutDown]- Desligar o gerador de energia
+[M10B_Objective_Prison]- Voltar para a penitenciaria
 
 ### M10B Pickups ###
 
@@ -5049,7 +5049,7 @@
 
 
 ### M08b Journal Entries ###
-[M08b_Rituals_Under_Lodge_Journal]As quatro famílias fundadoras faziam encontros ritualisticos em uma câmara secreta na cidade. A entrada ficava escondida logo abaixo da prefeitura.
+[M08b_Rituals_Under_Lodge_Journal]As quatro famílias fundadoras faziam encontros ritualisticos em uma câmara secreta na cidade. A entrada ficava escondida logo abaixo da câmara municipal.
 
 
 ### M09 Journal Entries ###
@@ -5064,8 +5064,8 @@
 ### M12 Journal Entries ###
 
 ### M13 Journal Entries ###
-[M13_Psalm_Journal]It's an excerpt from a Psalm:\n"Blessed is the man who does not tread the path of the wicked,or stand in the way of sinners, or sit in the seat of mockers."
-[M13_Hymn_Journal]It contains a few lines from a hymn:\n"Where shall my wondering soul begin? How shall we all to heaven aspire?"
+[M13_Psalm_Journal]É um trecho de um Salmo:\n"Bem-aventurado o homem que não trilha o caminho dos ímpios, nem se detém no caminho dos pecadores, nem se assenta na roda dos escarnecedores."
+[M13_Hymn_Journal]Contém alguns versos de um hino:\n"Onde começará minha alma errante? Como aspiraremos todos ao céu?"
 
 ### M14 Journal Entries ###
 
@@ -5103,14 +5103,14 @@
 # Bosses - 4 Pictures #
 [IDS_JOURNAL_Polaroid_1]Joey Bartlett na casa da árvore do nosso quintal.
 [IDS_JOURNAL_Polaroid_2]Scarlet Fitch, em seu quarto com todas as suas bonecas.
-[IDS_JOURNAL_Polaroid_3]Nora Holloway sentada nos degraus da entrada da prefeitura.
+[IDS_JOURNAL_Polaroid_3]Nora Holloway sentada nos degraus da entrada da câmara municipal.
 [IDS_JOURNAL_Polaroid_4]Uma aranha gigante perto do meu exercito de brinquedo no parque.
 # Other People/Things - 7 Pictures #
 [IDS_JOURNAL_Polaroid_5]Mamäe e a juiza Holloway conversando na nossa casa.
 [IDS_JOURNAL_Polaroid_6]Papai e o delegado Wheeler no barco da polícia.
 [IDS_JOURNAL_Polaroid_7]Joshua tirando uma foto de si mesmo no nosso banheiro.
 [IDS_JOURNAL_Polaroid_8]Essa parece ser uma foto da sala de caça do papai, mas como o Joshua entrou lá?
-[IDS_JOURNAL_Polaroid_9]O cara que conserta tudo... Curtis Ackers na loja dele.
+[IDS_JOURNAL_Polaroid_9]O cara que conserta tudo... Curtis Ackers, na loja dele.
 [IDS_Polaroid_Bunny]O coelhinho Robbie do Joshua dentro da mochila dele.
 [IDS_JOURNAL_Polaroid_11]Ei...  Esse sou eu.  O que eu estou fazendo?
 
@@ -5177,7 +5177,7 @@
 
 
 ### M02 Ambient ###
-[IDS_AMBIENT_SGTown1_Corner_Stone_on_Town_Hall]"A Fé é a base do sucesso" - Prefeitura de Shepherd's Glen.
+[IDS_AMBIENT_SGTown1_Corner_Stone_on_Town_Hall]"A Fé é a base do sucesso" - Câmara municipal de Shepherd's Glen.
 [IDS_AMBIENT_SGTown1_Celebration_Banner]ANIVERSÁRIO DE 150 ANOS DE SHEPHERD'S GLEN! 20 a 21 de Setembro.
 [IDS_AMBIENT_SGTown1_Bartlett_Winery_Sign]Vinhedos Bartlett. Um vinhedo local de excelência e tradiçäo.
 
@@ -5195,7 +5195,7 @@
 [IDS_AMBIENT_Alex1_Shepherd_House_Number]Rua principal 1133.
 
 ### M04 Ambient ###
-[IDS_AMBIENT_SGTown2_Bartlett_Mausoleum_Inscription]E até que nos encontremos novamente, que Deus te guarde no vazio de suas mäos.
+[IDS_AMBIENT_SGTown2_Bartlett_Mausoleum_Inscription]E até que nos encontremos novamente, que Deus te guarde em suas mäos.
 
 ### M05 Ambient ###
 [IDS_AMBIENT_M05Hotel_Signage_2]PROIBIDA A ENTRADA ATÉ SEGUNDA ORDEM
@@ -5212,7 +5212,7 @@
 ### M07 Ambient ###
 
 ### M08 Ambient ###
-[IDS_AMBIENT_SGTown4_Corner_Stone_on_Town_Hall]"A Fé é a base do sucesso" - Prefeitura de Shepherd's Glen.
+[IDS_AMBIENT_SGTown4_Corner_Stone_on_Town_Hall]"A Fé é a base do sucesso" - câmara municipal de Shepherd's Glen.
 [IDS_AMBIENT_SGTown4_Celebration_Banner]ANIVERSÁRIO DE 150 ANOS DE SHEPHERD'S GLEN! 20 a 21 de Setembro.
 [IDS_AMBIENT_SGTown4_Bartlett_Winery_Sign]Vinhedos Bartlett. Um vinhedo local de excelência e tradiçäo.
 
@@ -5233,16 +5233,16 @@
 [IDS_AMBIENT_M11Prison_Signage_06]Olhe sempre para baixo.
 [IDS_AMBIENT_M11Prison_Signage_07]Fale somente quando for perguntado.
 [IDS_AMBIENT_M11Prison_Signage_08]Você näo tem direitos.
-[IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_01]BEYOND THIS POINT: Fumes exceed safe levels for human exposure. Gasmasks MUST be worn at all times.
-[IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_02]AVISO: You MUST stop here if red light is on.  Failure to heed this AVISO may lead to serious injury or death.
-[IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_03]SAFETY CHECK: Chamber is not neutralized until green light is on.
+[IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_01]ALÉM DESTE PONTO: Os vapores excedem os níveis seguros para exposição humana. Máscaras de gás DEVEM ser usadas o tempo todo.
+[IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_02]AVISO: Você DEVE parar aqui se a luz vermelha estiver acesa. A não observância deste AVISO pode resultar em ferimentos graves ou morte.
+[IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_03]VERIFICAÇÃO DE SEGURANÇA: A câmara não é neutralizada até que a luz verde acenda.
 [IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_04]PRESSÄO MÁXIMA: 1500 PSI
-[IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_05]Secure all straps.
-[IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_06]Dangerous Gasses Are Present
+[IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_05]Prenda todas as correias.
+[IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_06]Gases perigosos estão presentes.
 [IDS_AMBIENT_M11Prison_Gas_Chamber_Signage_07]Por favor tranque todas as salas ao finalizar.
 
 ### M12 Ambient ###
-[IDS_AMBIENT_M12SHTown2_Coin_Op_Signage]Resident Hazard
+[IDS_AMBIENT_M12SHTown2_Coin_Op_Signage]RISCO RESIDENCIAL
 [IDS_AMBIENT_M12SHTown2_Sewer_Warning_Signage_01]PERIGO: VAPOR
 [IDS_AMBIENT_M12SHTown2_Sewer_Warning_Signage_02]PERIGO: ALTA TEMPERATURA
 [IDS_AMBIENT_M12SHTown2_Sewer_Warning_Signage_03]PERIGO: QUENTE!
@@ -5283,10 +5283,10 @@
 [M01_CombatNote_02_PC]<COLOR,195,188,228>Equipando uma arma: \n\nPara equipar uma arma, abra o inventário de equipamentos (<COMBAT_WHEEL>) e use <COMMAND_MOVEMENT> para selecionar a arma que você precisa.<CLEARCOLOR>
 [M01_CombatNote_03_PC]<COLOR,195,188,228>Modo de combate e escolha de alvos: \n\nPara entrar no modo de combate, segure ou aperte <TARGETING> com uma arma corpo-a-corpo em mäos. \n\nQuando você entra no modo de combate, você irá focar no alvo mais próximo do seu campo de visäo automaticamente.<CLEARCOLOR>
 [M01_CombatNote_04_PC]<COLOR,195,188,228>Se vários inimigos estiverem em volta de você, o alvo será sempre o que estiver mais perto. \n\nO inimigo que for focado será iluminado pela lanterna.<CLEARCOLOR>
-[M01_CombatNote_05_PC]<COLOR,195,188,228>To change targets, turn the camera in the direction of that target, typically left or right. \n\nTo break targeting at any time, exit combat stance by releasing <TARGETING> or tapping it again.<CLEARCOLOR>
+[M01_CombatNote_05_PC]<COLOR,195,188,228>Para mudar de alvo, desvie o olhar na direção do alvo, normalmente para a esquerda ou para a direita. \n\nPara interromper a mira a qualquer momento, saia da posição de combate soltando <TARGETING> ou apertando novamente.<CLEARCOLOR>
 
-[M01_CombatNote_06_PC]<COLOR,195,188,228>Fast Attacks, Strong Attacks, Charge Attacks, and Combos: \n\nWhen in combat stance, press <ACTION> for Fast attacks and <HEAVY_ATTACK> for Strong Attacks.<CLEARCOLOR>
-[M01_CombatNote_07_PC]<COLOR,195,188,228>Strong attacks can be charged up for added damage by holding down <HEAVY_ATTACK>. \n\nSuccessive Fast attacks followed by a Strong attack can make for uninterrupted strikes known as Combos.<CLEARCOLOR>
+[M01_CombatNote_06_PC]<COLOR,195,188,228>Ataques rápidos, ataques pesados, ataques de carga e combos: \n\nQuando estiver pronto para o combate, aperte <ACTION> para executar ataques rápidos e <HEAVY_ATTACK> para executar ataques pesados.<CLEARCOLOR>
+[M01_CombatNote_07_PC]<COLOR,195,188,228>Ataques pesados podem ser carregados para causar dano adicional ao segurar <HEAVY_ATTACK>. \n\nAtaques rápidos sucessivos seguidos de um ataque pesado podem resultar em ataques ininterruptos conhecidos como combos.<CLEARCOLOR>
 
 [M02_MapDisplay_PC]Aperte <COMMAND_USE> para acessar o mapa. Depois, aperte <COMMAND_UI_X> para ver os objetivos.
 
@@ -5303,8 +5303,8 @@
 [M01_CombatManual_04_PC]Lembre-se: se muitos inimigos estiverem ao redor, você deve focar no inimigo mais próximo. \n\nVocê deve usar ssua lanterna para iluminar o inimigo mais próximo.
 [M01_CombatManual_05_PC]Para focar em outro alvo, gire a câmera na direçäo do novo alvo. \n\nPara recuar do combate, solte <TARGETING> e saia de perto dos alvos.
 
-[M01_CombatManual_06_PC]Ataques rápidos, fortes, carregados e combos: \n\nWhen in combat stance, press <ACTION> for Fast attacks and <HEAVY_ATTACK> for Strong Attacks.
-[M01_CombatManual_07_PC]Strong attacks can be charged up for added damage by holding down <HEAVY_ATTACK>. \n\nSuccessive Fast attacks followed by a Strong attack can make for uninterrupted strikes known as Combos.
+[M01_CombatManual_06_PC]Ataques rápidos, ataques pesados, ataques de carga e combos: \n\nQuando estiver pronto para o combate, aperte <ACTION> para executar ataques rápidos e <HEAVY_ATTACK> para executar ataques pesados.
+[M01_CombatManual_07_PC]Ataques pesados podem ser carregados para causar dano adicional ao segurar <HEAVY_ATTACK>. \n\nAtaques rápidos sucessivos seguidos de um ataque pesado podem resultar em ataques ininterruptos conhecidos como combos.
 
 ### M04 Journal Entries ###
 
