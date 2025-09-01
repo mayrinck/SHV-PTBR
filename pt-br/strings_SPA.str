@@ -1811,7 +1811,7 @@
 [M03_Interest_116_Canoe_Back_Story]Adoro esta canoa.  Nós a compramos naquele veräo do grande incêndio florestal.
 [M03_Interest_117_Canoe_Back_Story]Eu costumava levá-la para o lago e flutuar por horas...
 [M03_Interest_118_Canoe_Back_Story]Meu pai nos disse para nunca irmos ao lago sozinhos, mas nós fomos mesmo assim. Foi muito divertido.
-[M03_Interest_119_Canoe_Back_Story]Tem algo estranho que näo me lembro agora... Mas, meu pai nunca me levou ao lago quando eu era pequeno...
+[M03_Interest_119_Canoe_Back_Story]Tem algo estranho sobre isso que näo me lembro agora... Só que meu pai nunca me levou ao lago quando eu era pequeno...
 [M03_Interest_119_Washer_and_Dryer_History]Ah, as "super confiáveis" maquinas de lavar e secar roupas. Elas sempre quebravam.
 [M03_Interest_121_Washer_and_Dryer_History]Mas meu pai era muito mesquinho para comprar novas, é claro. “Elas funcionam bem!”, ele gritava.
 [M03_Interest_122_Whats_behind_the_Camouflage]Pai? É você?
@@ -1901,12 +1901,12 @@
 [M04_Interest_50_Wall_of_Flyers]Todas essas pessoas estäo... desaparecidas? Meu Deus, o que aconteceu?
 [M04_Interest_51_Front_Door_to_Sheriff_Station]Esta é a delegacia onde meu pai trabalha.
 [M04_Interest_51_Front_Door_to_Sheriff_Station2]Será que os colegas dele da polícia sabem o que aconteceu aqui...
-[M04_Interest_51_Front_Door_to_Sheriff_Station3]Parece que não tem ninguém aqui. Onde está a polícia? O que diabos está acontecendo?
+[M04_Interest_51_Front_Door_to_Sheriff_Station3]Parece que näo tem ninguém aqui. Onde está a polícia? O que diabos está acontecendo?
 [M04_Interest_51_Front_Door_to_Sheriff_Station_M08b]Esta é a delegacia onde meu pai trabalha. Eu já estive lá dentro, todos os policiais sumiram.
 
 [M04_Interest_52_Broken_Steel_Bridge]É como se a terra tivesse se aberto e tentado engolir a ponte inteira...
 [M04_Interest_52_Broken_Steel_Bridge2]Será que realmente houve um terremoto aqui?
-[M04_Interest_53_Back_Fence_to_Police_Parking_Lot]Trancado. Não abre.
+[M04_Interest_53_Back_Fence_to_Police_Parking_Lot]Trancado. Näo abre.
 [M04_Interest_54_Wooden_Bridge]A placa diz: <COLOR,195,188,228>Paradise Bridge (Ponte do Paraíso)<CLEARCOLOR>.
 
 # M04 - Curtis's Shop #
@@ -1918,7 +1918,7 @@
 [M04_Interest_60_Photos_on_WallA]Esta é uma foto de Curtis e do prefeito Bartlett.
 [M04_Interest_60_Photos_on_WallB]Esta foto foi tirada em uma das festas da cidade.
 
-[M04_Interest_61_Car_Engine]Não sei dizer se ele estava consertando isso ou destruindo tudo.
+[M04_Interest_61_Car_Engine]Näo sei dizer se ele estava consertando isso ou destruindo tudo.
 [M04_Interest_61_Car_Engine2]De qualquer forma, entendo por que nada funciona nesta cidade...
 
 [M04_Interest_62_Toolbox]É uma caixa de ferramentas. Parece bastante desorganizada.
@@ -1927,22 +1927,22 @@
 [M04_Interest_65_Telephone]É um telefone antigo. Duvido que ainda esteja conectado.
 [M04_Interest_66_Old_Refrigerator_A]Esta geladeira parece mais velha do que eu.
 [M04_Interest_67_Old_Refrigerator_B]Outra geladeira estragada.
-[M04_Interest_68_Old_Stove_A]Parece que este fogão também está quebrado.
+[M04_Interest_68_Old_Stove_A]Parece que este fogäo também está quebrado.
 [M04_Interest_69_Old_Stove_B]O que prepararam aqui, fogos de artifício?
-[M04_Interest_70_BlockedEntrance_A]Um caminhão - e um monte de lixo - está bloqueando meu caminho.
-[M04_Interest_70_BlockedEntrance_B]Curtis must not be expecting guests.
-[M04_Interest_70_BlockedEntrance_C]There must be another way around.
-[M04_Interest_72_Water_Tower]Oh man, I remember this!
-[M04_Interest_72_Water_Tower2]Kids at school would dare each other to climb to the top and jump off.
-[M04_Interest_72_Water_Tower3]I wonder how many legs have been broken here...
-[M04_Interest_73_Water_Valve]The valve is rusted solid - it's never going to move.
-[M04_Interest_75_Barrels]I wonder if this would explode if I shot it... No, that's stupid.
-[M04_Interest_76_Gate_to_SGTown2]This path leads back to the north part of town.
-[M04_Interest_76_Gate_to_SGTown2B]If only I had some way to open it...
-[M04_Interest_78_Generic_Sinkhole_Comment_A]What the hell is happening here?
-[M04_Interest_78_Generic_Sinkhole_Comment_B]I can't imagine anything that would cause this... It looks like something out of a dream.
-[M04_Interest_80_Generic_Sinkhole_Comment_C]Another dead end...
-[M04_Interest_81_Generic_Sinkhole_Comment_D]It's like the whole world just ends right here...
+[M04_Interest_70_BlockedEntrance_A]Um caminhäo - e um monte de lixo - está bloqueando meu caminho.
+[M04_Interest_70_BlockedEntrance_B]Curtis parece näo gostar muito de visitas.
+[M04_Interest_70_BlockedEntrance_C]Deve ter um outro caminho.
+[M04_Interest_72_Water_Tower]Ah cara, eu lembro disso!
+[M04_Interest_72_Water_Tower2]As crianças na escola ficavam se desafiando a subir até o topo e pular de lá.
+[M04_Interest_72_Water_Tower3]As vezes eu penso... Quantas crianças já quebraram a perna aqui?
+[M04_Interest_73_Water_Valve]A válvula está completamente enferrujada. Näo tem como girar.
+[M04_Interest_75_Barrels]Será que eles explodem se eu atirar neles? Näo, isso é bem idiota...
+[M04_Interest_76_Gate_to_SGTown2]Esse caminho leva para a parte norte da cidade.
+[M04_Interest_76_Gate_to_SGTown2B]Se pelo menos eu tivesse um jeito de abrir...
+[M04_Interest_78_Generic_Sinkhole_Comment_A]Mas o que é isso que ta acontecendo aqui?
+[M04_Interest_78_Generic_Sinkhole_Comment_B]Näo da pra imaginar o que pode ter causado isso... Parece algo impossível.
+[M04_Interest_80_Generic_Sinkhole_Comment_C]Outro caminho destruido...
+[M04_Interest_81_Generic_Sinkhole_Comment_D]Que esquisito... Parece que o mundo termina bem aqui.
 
 # Additional Story Strings #
 [M04_Interest_82_Wall_of_Crypts_1]There are so many people buried here... I guess the town really does have a long history.
@@ -1951,7 +1951,7 @@
 [M04_Interest_85_Wall_of_Crypts_2]This place goes on forever. It's a lot larger than I remember it.
 [M04_Interest_85_Wall_of_Crypts_2b]I bet you could get lost for a long time in here if you didn't know where you were going...
 
-[M04_Interest_86_Fountain]It looks like the ground collapsed under this fountain.
+[M04_Interest_86_Fountain]Parece que o chäo cedeu debaixo dessa fonte.
 [M04_Interest_89_Big_Sitting_Crypts]This is the crypt of Cornelius Fitch.  The Fitches are one of the four founding families of this town.
 [M04_Interest_89_Big_Sitting_Crypts2]<COLOR,195,188,228>In memory of\nCornelius Fitch\nwho died January 26th 1878\nat 61 years of age.\n<CLEARCOLOR>
 [M04_Interest_89_Big_Sitting_Crypts3]<COLOR,195,188,228>Neither friend nor physician could stave\nMy mortal body from this grave\nNeither dirt nor clay shall keep me here\nWhen the Lord shall call me to appear.<CLEARCOLOR>
@@ -2073,42 +2073,42 @@
 [M04_Interest_158_Bridge]O que diabos aconteceu com ele?
 [M04_Interest_159_Fence_Across_Street]Por que há uma cerca aqui?
 [M04_Interest_160_Fence_Across_Street]Cara, esta cidade mudou muito desde que eu fui embora.
-[M04_Interest_161_Back_Gate_for_the_Police_Station]O portão do estacionamento do xerife parece estar trancado.
+[M04_Interest_161_Back_Gate_for_the_Police_Station]O portäo do estacionamento do xerife parece estar trancado.
 [M04_Interest_164_Covered_Bridge_Initials]Um casal gravou suas iniciais nesta ponte.
 [M04_Interest_165_Big_Fallen_Tree]Parece que a margem do rio foi levada pela água.
-[M04_Interest_167_Curtis_Sign]<COLOR,195,188,228>Ackres da Çucata<CLEARCOLOR>
+[M04_Interest_167_Curtis_Sign]<COLOR,195,188,228>Ackres da Sucata<CLEARCOLOR>
 [M04_Interest_168_Curtis_Sign]Curtis tem um senso de humor estranho.
 [M04_Interest_169_Car_Engine]Ei, será que este é o motor do carro do meu pai?
-[M04_Interest_170_Invoice]It's an invoice to sharpen dull knives for Doctor Fitch.
-[M04_Interest_171_Checklist_on_Curtis_property]It's Curtis's to-do list:
-[M04_Interest_172_Checklist_on_Curtis_property]<COLOR,195,188,228>Fix Adam's Engine.\nRepair Margaret's Clock.\nClean Out Fridge.<CLEARCOLOR>
-[M04_Interest_173_Police_Motorcycle]Wow, an old police motorcycle.  Dad used to ride one of these on the force.
-[M04_Interest_175_Police_Motorcycle]Damn, it's in total disrepair.
-[M04_Interest_176_Missing_Persons_Flyers]My god...What happened to all these people?
-[M04_Interest_178_Missing_Persons_Flyers]Every one of them has disappeared?
-[M04_Interest_179_Patricia_Bartlett_Crypt]This belongs to Patricia Bartlett.
-[M04_Interest_180_Patricia_Bartlett_Crypt]She must be one of Mayor Bartlett's ancestors.
-[M04_Interest_181_Charles_Bartlett_Crypt]This is the final resting place of Charles Bartlett.
-[M04_Interest_182_Charles_Bartlett_Crypt]Maybe he's one of Sam Bartlett's great uncles or something.
-[M04_Interest_183_Joey_Bartlett_Coffin]This tomb has a strange lock on it.  What are they trying to hide?
-[M04_Interest_185_Original_4_Sacrificed_Kids]Daniel Shepherd? Was this one of my relatives?
-[M04_Interest_185_Original_4_Sacrificed_Shep]<COLOR,195,188,228>Sacred to the memory\nof Daniel Shepherd,\nson of Isaac Shepherd.\nDied September 23rd at 5 years of age.<CLEARCOLOR>
-[M04_Interest_186_Original_4_Sacrificed_Holl]<COLOR,195,188,228>Beneath these stones are\nlay the mortal\nremains of Ann Holloway.\nDied September 21st at 17 years of age.<CLEARCOLOR>
-[M04_Interest_187_Original_4_Sacrificed_Fitch]<COLOR,195,188,228>Erected by Cornelius Fitch\nto the memory of Theodore his son\nwho departed this world\nSeptember 29th at 9 years of age.<CLEARCOLOR>
-[M04_Interest_187_Original_4_Sacrificed_Bart]<COLOR,195,188,228>Helen Bartlett\ndaughter of Mr. Mason Bartlett\nDied September 26th at 2 years of age.<CLEARCOLOR>
-[M04_Interest_188_Curtis_Shooting_Gallery]Hey soldier-boy. Why don't you try out that piece in the shooting gallery I've got in the back.
+[M04_Interest_170_Invoice]É uma nota de orçamento para amolar facas para o Dr.Fitch.
+[M04_Interest_171_Checklist_on_Curtis_property]É a lista de tarefas do Curtis:
+[M04_Interest_172_Checklist_on_Curtis_property]<COLOR,195,188,228>Consertar motor do Adam.\nConsertar relógio da Margaret.\nLimpar a geladeira.<CLEARCOLOR>
+[M04_Interest_173_Police_Motorcycle]Uau! Uma moto da policia, modelo antigo.  Meu pai andava em uma dessas quando estava na polícia.
+[M04_Interest_175_Police_Motorcycle]Cara, isso näo tem condiçäo alguma de ser consertado.
+[M04_Interest_176_Missing_Persons_Flyers]Meu Deus... O que houve com toda essa gente?
+[M04_Interest_178_Missing_Persons_Flyers]Todos eles desapareceram mesmo?
+[M04_Interest_179_Patricia_Bartlett_Crypt]Esta aqui pertence a Patricia Bartlett.
+[M04_Interest_180_Patricia_Bartlett_Crypt]Ela deve ter sido uma ancestral do prefeito Bartlett.
+[M04_Interest_181_Charles_Bartlett_Crypt]Este é o local de descanso final de Charles Bartlett.
+[M04_Interest_182_Charles_Bartlett_Crypt]Talvez ele seja tio de segundo grau ou algo assim do Sam Bartlett.
+[M04_Interest_183_Joey_Bartlett_Coffin]Essa cripta tem uma tranca estranha nela. O que eles estäo tentando esconder aqui?
+[M04_Interest_185_Original_4_Sacrificed_Kids]Daniel Shepherd? Será que esse era um dos meus parentes?
+[M04_Interest_185_Original_4_Sacrificed_Shep]<COLOR,195,188,228>Em memória de \nDaniel Shepherd,\n filho de Isaac Shepherd.\n Faleceu em 23 de setembro, aos 5 anos de idade.<CLEARCOLOR>
+[M04_Interest_186_Original_4_Sacrificed_Holl]<COLOR,195,188,228>Sob estas pedras repousam os restos mortais de Ann Holloway. Faleceu a 21 de setembro, aos 17 anos de idade.<CLEARCOLOR>
+[M04_Interest_187_Original_4_Sacrificed_Fitch]<COLOR,195,188,228>Erguido por Cornelius Fitch em memória de Theodore, seu filho, que partiu deste mundo em 29 de setembro, aos 9 anos de idade.<CLEARCOLOR>
+[M04_Interest_187_Original_4_Sacrificed_Bart]<COLOR,195,188,228>Helen Bartlett, filha do Sr. Mason Bartlett, faleceu em 26 de setembro aos 2 anos de idade.<CLEARCOLOR>
+[M04_Interest_188_Curtis_Shooting_Gallery]Ei, soldadinho. Por que você näo experimenta aquela arma na galeria de tiro que eu tenho lá atrás?
 
 [M04_Interest_189_LongPuzzlePiece_01]Essa parte precisa ser solta.
 
-[M04_Interest_200_Gate_01]It's locked. There is a light coming from the other side.
-[M04_Interest_201_Gate_01]This is where the bereaved would sit.
-[M04_Interest_202_Tree_01]Looks like this tree has been dead for awhile.
+[M04_Interest_200_Gate_01]Está trancado. Há uma luz vinda do outro lado.
+[M04_Interest_201_Gate_01]Era aqui que os enlutados se sentavam.
+[M04_Interest_202_Tree_01]Parece que esta árvore está morta há algum tempo.
 [M04_Interest_203_AboveGround_01]Why have so many people died?
 [M04_Interest_204_AboveGround_01]These people don't even seem that old.
 [M04_Interest_205_AboveGround_01]What happened to all these people?
 [M04_Interest_206_AboveGround_01]So many people dead.
 [M04_Interest_207_AboveGround_01]So many children's tombs.
-[M04_Interest_207_Gazebo_01]This gazebo has seen better days.
+[M04_Interest_207_Gazebo_01]Este gazebo já viu dias melhores.
 [M04_Interest_Pedram_01]<COLOR,195,188,228>Ped Davenport\n1825 - 1884\nWe won't be able to ask you anything now.<CLEARCOLOR>
 [M04_Interest_Boyle_01]<COLOR,195,188,228>Roxy N. Rigby\nNovember 24th 1820 - January 16th 1862\nLove is eternal and can never be leashed.<CLEARCOLOR>
 [M04_Interest_Colin_01]<COLOR,195,188,228>Colin B.\nDied January 20th, 1876\nBefore his time at 32 years of age.<CLEARCOLOR>
