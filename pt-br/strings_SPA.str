@@ -3029,14 +3029,14 @@
 ### STORY INTEREST POINTS FOR M10_SHTown1 ###
 
 # M10 A - Shore of Silent Hill #
-[M10_Interest_02_Old_Police_Boat]Nothing works.  It's dead.
-[M10_Interest_03_Old_Boat]It's too tight to get through.
-[M10_Interest_04_Artifact_from_Wheeler]It's Wheeler's ammo clip. They came this way.
-[M10_Interest_05_Artifact_from_Elle]It's a piece of Elle's jacket. I'm heading in the right direction.
+[M10_Interest_02_Old_Police_Boat]Nada funciona aqui.
+[M10_Interest_03_Old_Boat]É muito apertado para passar.
+[M10_Interest_04_Artifact_from_Wheeler]Parece ser muniçäo usada pelo Wheeler. Eles vieram daqui.
+[M10_Interest_05_Artifact_from_Elle]É um pedaço da jaqueta da Elle. To no caminho certo.
 
 # M10 A - Streets #
-[M10_Sink_HoleA]The earth has fallen away here, too...
-[M10_Metal_Gate]This gate won't open.
+[M10_Sink_HoleA]Aparentemente, também tem crateras gigantes aqui...
+[M10_Metal_Gate]Esse portäo näo abre.
 [M10_Metal_Gate2]I see something on the other side, maybe I can find a way around?
 [M10_Gravestones]It's a small collection of graves...most likely a family plot.
 [M10_Gravestone_01a]<COLOR,195,188,228>Reader! Pause and consider the vast importance\nof being always prepared to meet thy god!\nFor thou knowest not the time, the place\nnor the manner of thy Death!<CLEARCOLOR>
@@ -3052,13 +3052,13 @@
 [M10_Gravestone_06a]Time has worn away nearly everything that was once on this stone. Here is all that remains.
 [M10_Gravestone_06b]<COLOR,195,188,228>3\n6\nJust \nRed<CLEARCOLOR>
 
-[M10_Cop_Car_2]The doors are stuck. They will not open.
+[M10_Cop_Car_2]As portas estäo totalmente travadas. Elas näo abrem.
 [M10_Lobster_Cages]I think these are cages that the fishermen use, but I'm not really sure.
-[M10_Lobster_Cages2]Joshua was the one that was always interested in fishing and boats... He was really the only reason I ever went out onto the lake.
-[M10_Dog_House]There's no dog here...
-[M10_Dog_House2]Let's hope it stays that way.
-[M10_Graveyard_TreeGraves]There are several small markers clustered around the tree. All the markers say the same date.
-[M10_Graveyard_TreeGraves2]Were these markers moved there, or did this tree grow out of a mass grave?
+[M10_Lobster_Cages2]Joshua era fissurado em barcos e pescaria... Ele era a razäo pela qual eu ia ao lago.
+[M10_Dog_House]Näo tem cachorro aqui...
+[M10_Dog_House2]E acho melhor que näo tenha mesmo.
+[M10_Graveyard_TreeGraves]Há várias pequenas placas agrupadas ao redor da árvore. Todas as placas indicam a mesma data.
+[M10_Graveyard_TreeGraves2]Essas placas foram colocadas ali ou essa árvore cresceu em cima de uma vala comum?
 
 [M10_Cemetery_Plaques]None of these graves are recent.
 [M10_Prison_Door]It looks like something tried to get in.  Why would someone want to take refuge INSIDE a Prison?
