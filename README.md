@@ -4,10 +4,6 @@ Tradução de Silent Hill Homecoming para Português do Brasil. (funciona també
 
 Infelizmente, devido a limitações do arquivo da fonte do jogo, a tradução não pode utilizar alguns caracteres como o til (letras, como "Ã", "õ" e "ã"), que foram substituídos por uma trema, ficando: "Ä", "ö" e "ä".
 
-**Este ainda é um trabalho em progresso, a tradução está quase completa, faltando somente algumas frases em alguns poucos arquivos.**
-
-
-
 
 ### Instalação
 
@@ -18,7 +14,7 @@ Esse passo a passo considera que você COMPROU o jogo na plataforma Steam, que e
 
 - (opcional) Depois de instalar o patch, teste o jogo para ter certeza de que tudo está funcionando como deveria. Depois de testar, ative as legendas e feche o jogo.
 
-- Com o jogo fechado, navegue até a pasta **Steam\steamapps\common\Silent Hill Homecoming\Engine** - normalmente esta pasta está localizada no disco C, em Arquivos de Programas (ou Arquivos de Programas x86).
+- Com o jogo fechado, navegue até a pasta **Steam\steamapps\common\Silent Hill Homecoming\Engine** ou **Steam\steamapps\common\Silent Hill Homecoming\Engine** - normalmente esta pasta está localizada no disco C, em Arquivos de Programas (ou Arquivos de Programas x86).
 
 - Coloque o arquivo **default_pc.cfg** que está no ZIP baixado nesta pasta (pasta Engine). 
 
@@ -37,7 +33,7 @@ E pronto, a tradução está instalada, assumindo o lugar da tradução para esp
 
 ### Telas de Carregamento e Dicas
 
-As dicas da tela de carregamento foram removidas na tradução, se tornando mensagens relacionadas ao contexto do jogo (como citações e informações sobre saúde mental e outras informações). Isso foi feito para aumentar a imersão do jogo. Caso você queira restauras as dicas com tradução no jogo, siga as instruções do arquivo removed_tips.txt
+As dicas da tela de carregamento foram removidas na tradução, se tornando mensagens relacionadas ao contexto do jogo (como citações e informações sobre saúde mental e outras informações). Isso foi feito para aumentar a imersão do jogo. Caso você queira restauras as dicas com tradução no jogo, siga as instruções do arquivo removed_tips.txt na pasta pt-br.
 
 
 
@@ -60,5 +56,5 @@ Os arquivos que estiverem marcados na lista estão 100% traduzidos e revisados:
 - [x] m13_dialogue (Frases e diálogos do pai do Alex na Igreja)
 - [x] m14_dialogue (Frases e Diálogos com a Juiza Holloway e o Curtis)
 - [x] m15_dialogue (Frases de combate e reações do Wheeler e da Elle)
-- [ ] m16_dialogue (Diálogos diversos entre Alex e outros personagens do jogo)
+- [x] m16_dialogue (Diálogos diversos entre Alex e outros personagens do jogo - repetidos de outros arquivos)
 - [ ] strings      (Interações: Textos de interfaces, Diálogos de escolha, Objetos de cenário, etc...)

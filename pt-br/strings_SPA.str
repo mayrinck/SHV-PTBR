@@ -6,12 +6,12 @@
 [IDS_SHELL_VIDEO_TITLE]VIDEO
 [IDS_SHELL_RESOLUTION]Resoluçäo
 [IDS_SHELL_REFRESH]Hertz
-[IDS_SHELL_QUALITY]Qualidade
-[IDS_SHELL_QUALITY_MEDIUM]Padräo
+[IDS_SHELL_QUALITY]Qualidade Gráfica
+[IDS_SHELL_QUALITY_MEDIUM]Média
 [IDS_SHELL_QUALITY_HIGH]Alta
 [IDS_SHELL_CONTROLLER_CONFIG_TITLE_PC]CONTROLES
 [IDS_SHELL_CONTROLLER_CONFIG_PC]Controles
-[IDS_SHELL_USE_MOUSE]Usar Teclado e Mouse
+[IDS_SHELL_USE_MOUSE]Usar Teclado/Mouse
 [IDS_SHELL_USE_CONTROLLER]Usar Controle
 [IDS_SHELL_MOUSE_CONTROLS_TITLE]TECLADO E MOUSE
 [IDS_SHELL_CONTROLLER_CONTROLS_TITLE]CONTROLE
@@ -24,7 +24,7 @@
 
 [IDS_SHELL_ACCEPT]Confirmar
 [IDS_SHELL_BACK]Voltar
-[IDS_SHELL_VERIFICAÇäO]Checkpoint
+[IDS_SHELL_CKECKPOINT]Verificaçäo
 [IDS_SHELL_USE]Usar
 [IDS_SHELL_EQUIP]Equipar
 [IDS_SHELL_SELECT]Selecionar
@@ -51,7 +51,7 @@
 [IDS_SHELL_MISSION_FIVE]Grand Hotel
 [IDS_SHELL_MISSION_SIX]Delegacia de Polícia
 [IDS_SHELL_MISSION_SIX_B]Esgotos
-[IDS_SHELL_MISSION_SEVEN]Descida ao inférno.
+[IDS_SHELL_MISSION_SEVEN]Descida ao inferno
 [IDS_SHELL_MISSION_EIGHT]Prefeitura
 [IDS_SHELL_MISSION_EIGHT_B]Cemitério
 [IDS_SHELL_MISSION_NINE]Sótäo
@@ -81,7 +81,7 @@
 
 ###LEGAL SCREEN TEXT
 [IDS_SHELL_LEGAL_SCREEN_TEXT](c)2008 Konami Digital Entertainment, Inc.  (c)1999 Konami Digital Entertainment Co., Ltd. Todos os direitos reservados.  "Silent Hill" é uma marca registrada da Konami Digital Entertainment Co., Ltd. KONAMI é uma marca registrada da KONAMI CORPORATION.  Silent Hill V: Homecoming usa Havok (c)1999-2008. Havok.com Inc. (ou licenciados). Todos os direitos reservados. Detalhes em www.havok.com
-[IDS_SHELL_LEGAL_SCREEN_TEXT_2]Desenvolvido pela Double Helix, uma divisäo da Foundation 9 Entertainment. O nome "Double Helix" e logotipo säo marcas registradas da Foundation 9 Entertainment. \n\n Traduçäo e Localizaçäo feita por <COLOR,100,65,164>GRISS0N (twitch.tv/griss0n)<CLEARCOLOR>. Devido a limitaçöes da fonte do jogo, alguns caractéres com "til" foram substituidos por trema. Feito para os fäs, sem fins lucrativos.
+[IDS_SHELL_LEGAL_SCREEN_TEXT_2]Desenvolvido pela Double Helix, uma divisäo da Foundation 9 Entertainment. O nome "Double Helix" e logotipo säo marcas registradas da Foundation 9 Entertainment. \n\n Traduçäo e Localizaçäo feita por <COLOR,255,20,20>GRISS0N (youtube.com/@Grisson)<CLEARCOLOR>. Devido a limitaçöes da fonte do jogo, alguns caractéres com "til" foram substituidos por trema. Feito para os fäs, sem fins lucrativos.
 
 ###MENU TITLES
 [IDS_SHELL_INVENTORY_WHEEL_TITLE]INVENTÁRIO
@@ -128,7 +128,7 @@
 [IDS_SHELL_COSTUME_LOCKED][BLOQUEADO]
 
 
-[IDS_SHELL_COSTUME_YOUNG_ALEX_UNLOCK_MESSAGE]Você desbloqueou a roupa "Jovem".
+[IDS_SHELL_COSTUME_YOUNG_ALEX_UNLOCK_MESSAGE]Você desbloqueou a roupa "Jovem Alex".
 [IDS_SHELL_COSTUME_SHERIFF_UNLOCK_MESSAGE]Você desbloqueou a roupa "Delegado".
 [IDS_SHELL_COSTUME_TRUCKER_UNLOCK_MESSAGE]Você desbloqueou a roupa "Caminhoneiro".
 [IDS_SHELL_COSTUME_ORDERLY_UNLOCK_MESSAGE]Você desbloqueou a roupa "Enfermeiro".
@@ -203,18 +203,18 @@
 
 [IDS_SHELL_SAVE_SUCCESSFUL]Seu progresso foi salvo! \n<COLOR,255,0,0>Já você...<CLEARCOLOR>
 
-[IDS_SHELL_NOT_SIGNED_IN_SAVING]You must sign in before accessing this feature.  Would you like to continue without saving?
-[IDS_SHELL_NOT_SIGNED_IN_LOADING]You must sign in before accessing this feature.  Would you like to continue without loading?
-[IDS_SHELL_NOT_SIGNED_IN_START]You must sign in before you can save or load games.  Would you like to continue without signing in?
+[IDS_SHELL_NOT_SIGNED_IN_SAVING]Você precisa estar logado para acessar essa funcionalidade. Continuar sem salvar?
+[IDS_SHELL_NOT_SIGNED_IN_LOADING]Você precisa estar logado para acessar essa funcionalidade. Continuar sem carregar progressos?
+[IDS_SHELL_NOT_SIGNED_IN_START]Você precisa estar logado para salvar ou carregar progressos. Você gostaria de continuar?
 
 [IDS_SHELL_NO_DEVICE_SELECTED_SAVING]You must select a storage device before accessing the save game feature.  Would you like to continue without saving?
 [IDS_SHELL_NO_DEVICE_SELECTED_LOADING]You must select a storage device before accessing the load game feature.  Would you like to continue without loading?
 [IDS_SHELL_NO_DEVICE_SELECTED_NEW_GAME]You must select a storage device before accessing the save game feature.  Would you like to continue without selecting a storage device?
 
-[IDS_SHELL_DEVICE_REMOVED_GENERIC]The in-use storage device is unavailable.
-[IDS_SHELL_DEVICE_REMOVED_SAVING]The selected storage device could not be found.  Would you like to continue without saving?
-[IDS_SHELL_DEVICE_REMOVED_LOADING]The selected storage device could not be found.  Would you like to continue without loading?
-[IDS_SHELL_DEVICE_REMOVED_NEW_GAME]The selected storage device could not be found.  Would you like to continue without selecting a storage device?
+[IDS_SHELL_DEVICE_REMOVED_GENERIC]O armazenamento indicado em uso está indisponível.
+[IDS_SHELL_DEVICE_REMOVED_SAVING]O caminho de armazenamento indicado näo foi encontrado.  Continuar sem salvar?
+[IDS_SHELL_DEVICE_REMOVED_LOADING]O caminho de armazenamento indicado näo foi encontrado.  Continuar sem carregar progressos?
+[IDS_SHELL_DEVICE_REMOVED_NEW_GAME]O caminho de armazenamento indicado näo foi encontrado.  Continuar sem selecionar uma unidade de armazenamento?
 
 [IDS_SHELL_OVERWRITE_SESSION]Você tem certeza de que quer salvar aqui? O progresso já contido nesse espaço será perdido!
 
@@ -381,7 +381,7 @@
 [IDS_LOADING_TIP_SIAM_1]"A mulher é astuta e mentirosa, por ser fraca e oprimida; e a astúcia é a força de quem näo é forte." - Paolo Mantegazza
 [IDS_LOADING_TIP_SIAM_2]"A verdadeira caridade é impalpável como a luz e invisível como o perfume: dá o calor, dá o aroma, mas näo se deixa tocar nem ver." - Coelho Neto
 
-[IDS_LOADING_TIP_NEEDLER_1]"?Sem destruiçäo, näo pode haver construçäo; sem bloqueio näo pode haver fluxo; sem parada näo pode haver movimento." - Mao Tse-Tung
+[IDS_LOADING_TIP_NEEDLER_1]"Sem destruiçäo, näo pode haver construçäo; sem bloqueio näo pode haver fluxo; sem parada näo pode haver movimento." - Mao Tse-Tung
 [IDS_LOADING_TIP_NEEDLER_2]"O homem nasceu para a açäo, tal como o fogo tende para cima e a pedra para baixo." - Voltaire
 [IDS_LOADING_TIP_NEEDLER_3]"Näo levante a espada sobre a cabeça de quem te pediu perdäo." - Machado de Assis
 
@@ -818,19 +818,19 @@
 
 ###Crayon Drawings
 
-[IDS_Crayon_Drawing_1]Uma foto do Alex.
-[IDS_Crayon_Drawing_2]Uma foto da Alice.
-[IDS_Crayon_Drawing_3]Uma foto do Bartlett.
+[IDS_Crayon_Drawing_1]Um desenho do Alex.
+[IDS_Crayon_Drawing_2]Um desenho da Alice.
+[IDS_Crayon_Drawing_3]Um desenho do Bartlett.
 [IDS_Crayon_Drawing_4]Acho que Joshua desenhou isso. Me parece um monstro matando duas crianças. Por que ele desenharia algo täo terrível?
-[IDS_Crayon_Drawing_5]Uma foto de um coelinho.
+[IDS_Crayon_Drawing_5]Um desenho de um coelinho.
 [IDS_Crayon_Drawing_6]Outro desenho em giz. esse parece ser mäos malignas indo até uma criança. Acho que Josh precisa da minha ajuda.
-[IDS_Crayon_Drawing_7]Uma foto do Josh.
-[IDS_Crayon_Drawing_8]Uma foto da juiza.
-[IDS_Crayon_Drawing_9]Uma foto da Morte.
-[IDS_Crayon_Drawing_10]Uma foto da Scarlet.
-[IDS_Crayon_Drawing_11]Uma foto de uma Aranha.
-[IDS_Crayon_Drawing_12]Uma foto de uma Aranha.
-[IDS_Crayon_Drawing_13]Uma foto de uma Aranha.
+[IDS_Crayon_Drawing_7]Um desenho do Josh.
+[IDS_Crayon_Drawing_8]Um desenho da juiza.
+[IDS_Crayon_Drawing_9]Um desenho da Morte.
+[IDS_Crayon_Drawing_10]Um desenho da Scarlet.
+[IDS_Crayon_Drawing_11]Um desenho de uma Aranha.
+[IDS_Crayon_Drawing_12]Um desenho de uma Aranha.
+[IDS_Crayon_Drawing_13]Um desenho de uma Aranha.
 
 ### IMS Interaction Prompts ###
 [IDS_ROTATE] <COMMAND_KICK> Girar
@@ -1305,17 +1305,17 @@
 [M01_Interest_38_Medical_Record_Psychotic_Patient]<COLOR,195,188,228>O paciente sofre de uma anomalia mental severa, -------- distúrbio de personalidade.<CLEARCOLOR>
 [M01_Interest_39_Medical_Record_Psychotic_Patient]<COLOR,195,188,228>-------- demonstra atenuaçäo dos sintomas de psicose pres---- a maior parte do tempo.<CLEARCOLOR>
 [M01_Interest_40_Patient_Chart_1]<COLOR,195,188,228>Paciente sofreu os ferimentos durante um ataque a bomba na estrada.<CLEARCOLOR>
-[M01_Interest_41_Patient_Chart_1]<COLOR,195,188,228>Right thigh gouged by hot shrapnel resulting in severe laceration and excretion of blood and tissue.<CLEARCOLOR>
-[M01_Interest_42_Patient_Chart_1]<COLOR,195,188,228>Right shoulder also injured, but it is yet unclear as to the extremity of the wound.<CLEARCOLOR>
+[M01_Interest_41_Patient_Chart_1]<COLOR,195,188,228>Coxa direita perfurada por estilhaços quentes, resultando em laceraçäo grave e excreçäo de sangue e tecido.<CLEARCOLOR>
+[M01_Interest_42_Patient_Chart_1]<COLOR,195,188,228>O ombro direito também está lesionado, mas ainda näo está claro o grau da lesäo.<CLEARCOLOR>
 [M01_Interest_43_Patient_Chart_2]<COLOR,195,188,228>O paciente continua com o comportamento irracional e a fantasia de salvador inventada.<CLEARCOLOR>
-[M01_Interest_44_Patient_Chart_2]<COLOR,195,188,228>Receives regularly scheduled treatment of electroconvulsive therapy.<CLEARCOLOR>
-[M01_Interest_45_Patient_Chart_2]<COLOR,195,188,228>Exhibits confusion and memory loss for events during the time of ECT Treatment.<CLEARCOLOR>
-[M01_Interest_46_Patient_Chart_3]<COLOR,195,188,228>Patient sustained deep gashes across face and chest during battle.<CLEARCOLOR>
-[M01_Interest_47_Patient_Chart_3]<COLOR,195,188,228>Both hands obliterated when an explosive device detonated prematurely.<CLEARCOLOR>
-[M01_Interest_48_Patient_Chart_3]<COLOR,195,188,228>Receiving care for traumatic brain injuries and post traumatic stress disorder.<CLEARCOLOR>
+[M01_Interest_44_Patient_Chart_2]<COLOR,195,188,228>Recebe tratamento regular de terapia eletroconvulsiva.<CLEARCOLOR>
+[M01_Interest_45_Patient_Chart_2]<COLOR,195,188,228>Apresenta confusäo e perda de memória em relaçäo a eventos ocorridos durante o tratamento com ECT.<CLEARCOLOR>
+[M01_Interest_46_Patient_Chart_3]<COLOR,195,188,228>O paciente sofreu cortes profundos no rosto e no peito durante a batalha.<CLEARCOLOR>
+[M01_Interest_47_Patient_Chart_3]<COLOR,195,188,228>Ambas as mäos foram destruídas quando um dispositivo explosivo detonou prematuramente.<CLEARCOLOR>
+[M01_Interest_48_Patient_Chart_3]<COLOR,195,188,228>Recebendo cuidados para lesöes cerebrais traumáticas e transtorno de estresse pós-traumático.<CLEARCOLOR>
 [M01_Interest_49_Disturbing_Accident_Report]É um relatório de acidente de uma enfermeira:
-[M01_Interest_50_Disturbing_Accident_Report]<COLOR,195,188,228>Patient restrained due to extreme violent behavior and moved to secure room.<CLEARCOLOR>
-[M01_Interest_51_Disturbing_Accident_Report]<COLOR,195,188,228>Hour later, was found sick and choking on his own vomit. Patient was promptly resuscitated.<CLEARCOLOR>
+[M01_Interest_50_Disturbing_Accident_Report]<COLOR,195,188,228>Paciente contido devido a comportamento extremamente violento e transferido para sala segura.<CLEARCOLOR>
+[M01_Interest_51_Disturbing_Accident_Report]<COLOR,195,188,228>Uma hora depois, foi encontrado doente e sufocando com seu próprio vômito. O paciente foi prontamente reanimado.<CLEARCOLOR>
 [M01_Interest_52_Disturbing_Autopsy_Report]Encontrei um relatório de autópsia:
 [M01_Interest_53_Disturbing_Autopsy_Report]<COLOR,195,188,228>Exames Post-Mortem revelaram que o paciente morreu por sangramento excessivo<CLEARCOLOR>
 [M01_Interest_54_Disturbing_Autopsy_Report]<COLOR,195,188,228>causado por duas perfuraçöes nas orbitas oculares, causadas por um par de tesouras.<CLEARCOLOR>
@@ -1352,9 +1352,9 @@
 [M01_Interest_96_C_State_Level]Tem algo errado aqui.
 [M01_Interest_97_C_State_Level]O que houve aqui?
 [M01_Interest_100_C_State_Level]Parece o mesmo hospital, mas...
-[M01_Interest_101_C_State_Level]How can this be happening?
+[M01_Interest_101_C_State_Level]Como isso está acontecendo?
 [M01_Interest_102_C_State_Level]Será que eu estou ficando louco?
-[M01_Interest_103_C_State_Level]Where did this blood come from?
+[M01_Interest_103_C_State_Level]De onde esse sangue ta vindo?
 [M01_Interest_105_Day_Room_TV_Comments]Aquelas enfermeiras parecem estar circulando em volta dela...
 [M01_Interest_106_Day_Room_TV_Comments]Por que será que a TV chama tanto a atençäo delas?
 [M01_Interest_107_Swarm]De onde estes insetos estäo vindo?
@@ -1386,7 +1386,7 @@
 
 ### M02 Journal ###
 
-[M02_Journal_Judge01] I ran into Judge Holloway in the street. It sounds like things have not been going well while I was away. She said that I should go home and see my mom.\n\nShe also mentioned that Elle is still here... I had hoped that she would have gotten out of this place by now.
+[M02_Journal_Judge01] Encontrei a juíza Holloway na rua. Parece que as coisas näo têm corrido bem enquanto eu estive fora. Ela disse que eu deveria ir para casa e ver minha mäe. Ela também mencionou que a Elle ainda está aqui... Eu esperava que ela já tivesse saído deste lugar.
 
 [M02_MapDisplay]Aperte <COMMAND_USE> para ver o mapa, e entäo, aperte <COMMAND_UI_X> para ver os objetivos.
 
@@ -1474,26 +1474,26 @@
 [M08_Interest_BBoardA2]Parece que a Elle atualizou o quadro. \nAgora só tem cartazes de pessoas desaparecidas...
 [M08_Interest_BBoardA3]O que houve com todas essas pessoas?
 
-[M02_Interest_MemoraA1]It's a photo from one of the town picnics with silly party games.
-[M02_Interest_MemoraA2]Every year Mom would ask me to let Joshua win at least one of the games...
-[M02_Interest_MemoraA3]I still always beat him though. I guess most big brothers are like that.
+[M02_Interest_MemoraA1]É uma foto de um dos piqueniques da cidade com jogos divertidos.
+[M02_Interest_MemoraA2]Todos os anos, minha mäe me pedia para deixar Joshua ganhar pelo menos um dos jogos...
+[M02_Interest_MemoraA3]Mas eu ainda venço ele sempre. Acho que a maioria dos irmäos mais velhos säo assim.
 
-[M02_Interest_MemoraB1]That's the Memorial Day parade that the police department held.
-[M02_Interest_MemoraB2]Dad complained about having to organize it every year.
-[M02_Interest_MemoraB3]But I think he really loved being out there in his full uniform.
+[M02_Interest_MemoraB1]É o desfile do Memorial Day que o departamento de polícia organizou.
+[M02_Interest_MemoraB2]Meu pai reclamava de ter que organizar isso todos os anos.
+[M02_Interest_MemoraB3]Mas acho que ele realmente adorava estar lá fora com seu uniforme completo.
 
-[M02_Interest_MemoraC1]It looks like a picture from the film festival where they projected a movie onto the side of the Bait and Tackle shop.
+[M02_Interest_MemoraC1]Parece uma foto do festival de cinema em que projetaram um filme na lateral da loja Bait and Tackle.
 
-[M02_Interest_MemoraD1]It's a list of winners from the yearly kayak race.
-[M02_Interest_MemoraD2]It was a pretty challenging event that attracted people from all over the county.
-[M02_Interest_MemoraD3]The route circled most of Toluca Lake and ended back here at our docks.
+[M02_Interest_MemoraD1]É uma lista dos vencedores da corrida anual de caiaque.
+[M02_Interest_MemoraD2]Foi um evento bastante desafiador que atraiu pessoas de todo o país.
+[M02_Interest_MemoraD3]O percurso contornou a maior parte do lago Toluca e terminou aqui nas nossas docas.
 
 [M02_Interest_SignIn1]É o livro de registro de visitantes da cidade. It's the town's visitor sign-in book.
 [M02_Interest_SignIn1]Aqui os turistas poderiam falar pra gente as coisas que eles gostaram ou näo. \nMe pergunto quantas coisas foram ditas aqui...
 
-[M02_Interest_Podium1]This is where the Town Council holds town meetings.
-[M02_Interest_Podium2]I remember going to a lot of those meetings, but I never paid attention.
-[M02_Interest_Podium3]Elle and I would just goof off in the back and wait for our parents to finish.
+[M02_Interest_Podium1]É aqui que a Câmara Municipal realiza as reuniöes municipais.
+[M02_Interest_Podium2]Lembro de ter ido a muitas dessas reuniöes, mas nunca prestei atençäo.
+[M02_Interest_Podium3]Elle e eu ficávamos brincando lá atrás, esperando nossos pais terminarem.
 
 [M02_Interest_Scuffle1]Parece que houve uma briga aqui.
 [M02_Interest_HallShelfA]Estes säo volumes de atas arquivadas das Assembleias Municipais.
@@ -1557,32 +1557,32 @@
 [M02_Interest_ShepShelfA1]É uma coleçäo de manuais de justiça criminal e aplicaçäo da lei.
 [M02_Interest_ShepShelfA2]Parecem diretórios de propriedades na cidade.
 
-[M02_Interest_FitchOfficeA1]This shelf is full of pictures of Doctor Fitch's daughter.
-[M02_Interest_FitchOfficeA2]Everyone always said he was the best father in town.
-[M02_Interest_FitchOfficeA3]Scarlet was about Josh's age, but I don't think she ever played with any of the kids in town.
+[M02_Interest_FitchOfficeA1]Esta prateleira está cheia de fotos da filha do Dr. Fitch.
+[M02_Interest_FitchOfficeA2]Todos sempre diziam que ele era o melhor pai da cidade.
+[M02_Interest_FitchOfficeA3]Scarlet tinha mais ou menos a mesma idade de Josh, mas acho que ela nunca brincava com nenhuma das crianças da cidade.
 
 [M02_Interest_FitchOfficeB1]É uma foto da Scarlet, filha do Dr. Fitch.
 [M02_Interest_FitchOfficeB2]Dr. Fitch faria qualquer coisa pela filha dele.
 
 [M02_Interest_FitchOfficeCIntro]É um artigo de jornal...
 
-[M02_Interest_FitchOfficeC1]<COLOR,195,188,228>What should have been a normal school run home turned into tragedy last week when a freak thunderstorm washed a school bus into the raging torrent of the Toluca River. The normally placid river, swollen by nearly a week of record-breaking rainfall, was running almost 15ft higher than normal.<CLEARCOLOR>
+[M02_Interest_FitchOfficeC1]<COLOR,195,188,228>O que deveria ter sido uma viagem normal da escola para casa transformou-se em tragédia na semana passada, quando uma tempestade violenta arrastou um ônibus escolar para as águas turbulentas do rio Toluca. O rio, normalmente tranquilo, estava com o nível quase 4,5 metros acima do normal, devido às chuvas recordes que caíram durante quase uma semana.<CLEARCOLOR>
 
-[M02_Interest_FitchOfficeC3]<COLOR,195,188,228>Mark Ward, the conscientious school bus driver for Toluca County, was unprepared for what he found when entering River View Road that runs parallel with the river. The fast moving water eroded the soil underneath the asphalt, leaving it unsupported.\nThe road suddenly collapsed as the bus pitched into the roaring river below. Carried along a white water ride for a 1/4 of a mile, amongst the screams of the petrified children, the bus became lodged under the aptly named Hope Bridge.<CLEARCOLOR>
+[M02_Interest_FitchOfficeC3]<COLOR,195,188,228>Mark Ward, o consciente motorista de ônibus escolar do condado de Toluca, näo estava preparado para o que encontrou ao entrar na River View Road, que corre paralela ao rio. A água em movimento rápido erodiu o solo sob o asfalto, deixando-o sem suporte. A estrada desabou repentinamente, e o ônibus caiu no rio turbulento abaixo. Levado por uma correnteza por 400 metros, entre os gritos das crianças apavoradas, o ônibus ficou preso sob a ponte apropriadamente chamada Hope Bridge (Ponte da Esperança).<CLEARCOLOR>
 
-[M02_Interest_FitchOfficeC6]<COLOR,195,188,228>Doctor Martin Fitch MD had just finished a house call and was on his way back to the office, following directly behind the school bus when the road gave way.\nManaging to stop in time Doctor Fitch got out of his car, braving the downpour, and ran alongside the river for 1/4 of a mile when the bus finally became jammed under the bridge.<CLEARCOLOR>
+[M02_Interest_FitchOfficeC6]<COLOR,195,188,228>O médico Martin Fitch acabara de fazer uma visita domiciliar e estava voltando para o consultório, seguindo logo atrás do ônibus escolar, quando a estrada cedeu. Conseguindo parar a tempo, o Dr. Fitch saiu do carro, enfrentando a chuva forte, e correu ao longo do rio por 400 metros, até que o ônibus finalmente ficou preso debaixo da ponte.<CLEARCOLOR>
 
-[M02_Interest_FitchOfficeC8]<COLOR,195,188,228>Without a thought for his own personal safety, Doctor Fitch jumped into the river and swam towards the bus. After breaking the rear window, he climbed inside to assess the situation.<CLEARCOLOR>
+[M02_Interest_FitchOfficeC8]<COLOR,195,188,228>Sem pensar em sua própria segurança, o Dr. Fitch pulou no rio e nadou em direçäo ao ônibus. Depois de quebrar a janela traseira, ele entrou para avaliar a situaçäo.<CLEARCOLOR>
 
-[M02_Interest_FitchOfficeC9]<COLOR,195,188,228>Inside he found a terrible scene.  The driver, trapped by his safety-belt, had been killed when the front of the bus flooded.\nAll of the 2nd and 3rd Grade Students survived without major injury, but appeared severely frightened by the events.<CLEARCOLOR>
+[M02_Interest_FitchOfficeC9]<COLOR,195,188,228>No interior, ele encontrou uma cena terrível. O motorista, preso pelo cinto de segurança, morreu quando a parte dianteira do ônibus ficou inundada. Todos os alunos da 2ª e 3ª séries sobreviveram sem ferimentos graves, mas pareciam muito assustados com os acontecimentos.<CLEARCOLOR>
 
-[M02_Interest_FitchOfficeC11]<COLOR,195,188,228>The children were evacuated to the nearby Alchemilla Hospital in Silent Hill to recuperate after their ordeal.\nDuring the evacuation, the situation took another terrifying turn.  His leg trapped by the partially crumpled front of the vehicle, brave 8-year-old Alex Shepherd was unable to move.<CLEARCOLOR>
+[M02_Interest_FitchOfficeC11]<COLOR,195,188,228>As crianças foram evacuadas para o hospital Alchemilla, nas proximidades de Silent Hill, para se recuperarem após a provaçäo. Durante a evacuaçäo, a situaçäo deu outra reviravolta aterrorizante. Com a perna presa pela frente parcialmente amassada do veículo, o corajoso Alex Shepherd, de 8 anos, näo conseguia se mover.<CLEARCOLOR>
 
-[M02_Interest_FitchOfficeC13]<COLOR,195,188,228>Doctor Fitch knew that if Alex didn't drown, the cold waters of the Toluca River would put him into cold shock as his core temperature plummeted and he succumbed to hypothermia.\nTime was critical.  The Doctor quickly stripped off his shirt; taking a hold of the boy, he wrapped his arms as tightly as he could around him, and then waited for the rescue crews to reach them.<CLEARCOLOR>
+[M02_Interest_FitchOfficeC13]<COLOR,195,188,228>O Dr. Fitch sabia que, se Alex näo se afogasse, as águas frias do rio Toluca o colocariam em choque térmico, pois sua temperatura corporal cairia drasticamente e ele sucumbiria à hipotermia. O tempo era crítico. O médico rapidamente tirou a camisa, segurou o menino, envolveu-o com os braços o mais forte que pôde e esperou que as equipes de resgate chegassem até eles.<CLEARCOLOR>
 
-[M02_Interest_FitchOfficeC15]<COLOR,195,188,228>The heat and warmth of the doctor's body may well have been the only thing that saved Alex's life that day. It took the fire crews nearly 4 hours to finally free Alex from the wreckage of the school bus.  During the entire time he was trapped in the bus, Doctor Fitch never left his side.<CLEARCOLOR>
+[M02_Interest_FitchOfficeC15]<COLOR,195,188,228>O calor e o conforto do corpo do médico podem muito bem ter sido a única coisa que salvou a vida de Alex naquele dia. Os bombeiros levaram quase quatro horas para finalmente libertar Alex dos destroços do ônibus escolar. Durante todo o tempo em que ele ficou preso no ônibus, o Dr. Fitch nunca saiu do seu lado.<CLEARCOLOR>
 
-[M02_Interest_FitchOfficeC17]<COLOR,195,188,228>For his feat of bravery the City council gave their highest award to Doctor Fitch, along with the Key to the City.\nThough tragedy struck for Martin Ward; the potential loss of all those children was averted by the selfless act of one man, Dr. Martin Fitch MD.<CLEARCOLOR>
+[M02_Interest_FitchOfficeC17]<COLOR,195,188,228>Por seu ato de bravura, o Conselho Municipal concedeu ao Dr. Fitch sua mais alta condecoraçäo, juntamente com a Chave da Cidade. Embora Martin Ward tenha sofrido uma tragédia, a perda potencial de todas aquelas crianças foi evitada pelo ato altruísta de um homem, o Dr. Martin Fitch.<CLEARCOLOR>
 
 [M02_Interest_BartOfficeA1]Essas plantas parecem saudáveis.
 [M02_Interest_BartOfficeA2]Se alguém teve tempo de regar as plantas, por que näo limparam o resto das coisas?
@@ -1602,18 +1602,18 @@
 [M02_Interest_ShepOfficeA2]Parece que näo foram mexidas por um bom tempo...
 [M02_Interest_ShepOfficeA3]Será que isso é só um depósito mesmo?
 
-[M02_Interest_SchoolHouse1]<COLOR,195,188,228>When the homesteaders of Shepherd's Glen needed their first school, the community sprung into action. <CLEARCOLOR>
-[M02_Interest_SchoolHouse2]<COLOR,195,188,228>The one-room school house was built with donated money and materials, as well as the sweat and hopes of the town.<CLEARCOLOR>
-[M02_Interest_SchoolHouse3]<COLOR,195,188,228>The building was gradually expanded until it held more than 80 students. <CLEARCOLOR>
-[M02_Interest_SchoolHouse4]<COLOR,195,188,228>For years, the house was also used for social events such as town meetings, dances, and even weddings. <CLEARCOLOR>
-[M02_Interest_SchoolHouse5]<COLOR,195,188,228>Rather than tear down the old building, the Shepherd's Glen Historical Society raised funds to turn it in to museum documenting the town's rich history. <CLEARCOLOR>
+[M02_Interest_SchoolHouse1]<COLOR,195,188,228>Quando os colonos de Shepherd's Glen precisaram de sua primeira escola, a comunidade entrou em açäo. <CLEARCOLOR>
+[M02_Interest_SchoolHouse2]<COLOR,195,188,228>A escola de uma única sala foi construída com dinheiro e materiais doados, bem como com o suor e as esperanças da cidade.<CLEARCOLOR>
+[M02_Interest_SchoolHouse3]<COLOR,195,188,228>O prédio foi gradualmente ampliado até acomodar mais de 80 alunos. <CLEARCOLOR>
+[M02_Interest_SchoolHouse4]<COLOR,195,188,228>Durante anos, a casa também foi usada para eventos sociais, como reuniöes municipais, bailes e até casamentos. <CLEARCOLOR>
+[M02_Interest_SchoolHouse5]<COLOR,195,188,228>Em vez de demolir o antigo edifício, a Sociedade Histórica de Shepherd's Glen angariou fundos para o transformar num museu que documenta a rica história da cidade. <CLEARCOLOR>
 
 [M02_Interest_GemShow1]<COLOR,195,188,228>Segunda Exposiçäo Anual de Minerais de Shepherd's Glen\nSexta-feira, 13 de Fevereiro <CLEARCOLOR>
 
-[M02_Interest_GemShow2]<COLOR,195,188,228>Rules to Enter:\n1. Read and sign the Exhibitor Agreement Form.\n2. You may only submit one entry per category.\n3. Prior to acceptance, our Show Committee will review your entry,\nwhich will be examined to ensure compliance with the rules and regulations,\nand will assist in classifying your entry.<CLEARCOLOR>
-[M02_Interest_GemShow3]<COLOR,195,188,228>Any inquiries can be made to Mrs. Lillian Shepherd, Show Committee President.<CLEARCOLOR>
+[M02_Interest_GemShow2]<COLOR,195,188,228>Regras para participar:\n1. Leia e assine o Formulário de Acordo do Expositor.\n2. Você só pode enviar uma inscriçäo por categoria.\n3. Antes da aceitaçäo, nosso Comitê da Exposiçäo analisará sua inscriçäo,\nque será examinada para garantir a conformidade com as regras e regulamentos,\ne ajudará na classificaçäo da sua inscriçäo.<CLEARCOLOR>
+[M02_Interest_GemShow3]<COLOR,195,188,228>Quaisquer dúvidas podem ser encaminhadas à Sra. Lillian Shepherd, presidente do Comitê do Show.<CLEARCOLOR>
 
-[M02_Interest_Quarterly1]<COLOR,195,188,228>Sign up for our Clock Tower Quarterly!\nOur local publication is always packed with informative and interesting stories both past and present.\nThis special edition also includes all the details for the town's 150th anniversary celebration. Don't miss it!<CLEARCOLOR>
+[M02_Interest_Quarterly1]<COLOR,195,188,228>Inscreva-se para receber nossa revista trimestral Clock Tower! Nossa publicaçäo local está sempre repleta de histórias informativas e interessantes, tanto do passado quanto do presente. Esta ediçäo especial também inclui todos os detalhes da comemoraçäo do 150º aniversário da cidade. Näo perca!<CLEARCOLOR>
 
 [M02_Interest_Odd_Keyhole_on_Podium]Eu sempre achei esse símbolo estranho.  Meu pai sempre ficava com raiva quando eu brincava com isso.
 
@@ -1677,43 +1677,43 @@
 [M03_Interest_06b]Tinha uma foto que ficava bem aqui.
 [M03_Interest_06c]Tinha uma foto aqui, agora ela se foi...
 [M03_Interest_06d]Tinha uma foto minha aqui...\nCadê ela?
-[M03_Interest_06e]It's a photo of Dad and Josh fishing at the lake.
+[M03_Interest_06e]É uma foto do meu pai e do Josh pescando no lago.
 
-[M03_Interest_07]It's a letter from Mom to Dad.
-[M03_Interest_07b]It's a letter from Mom to Dad.\nShe never sent me letters when I was in boot camp.
-[M03_Interest_07c]<COLOR,195,188,228>Adam, I know that you will soon return to me, but I miss you dearly and writing to you always calms my nerves.<CLEARCOLOR>
-[M03_Interest_07d]<COLOR,195,188,228>Everything here is the same, but with you gone, the house is so empty...<CLEARCOLOR>
-[M03_Interest_07e]The letter ends there. I guess she never finished it.
+[M03_Interest_07]É uma carta da mäe para o pai.
+[M03_Interest_07b]É uma carta da mäe para o pai. \nEla nunca me enviou cartas quando eu estava no campo de treinamento.
+[M03_Interest_07c]<COLOR,195,188,228>Adam, sei que em breve você voltará para mim, mas sinto muito a sua falta e escrever para você sempre acalma meus nervos.<CLEARCOLOR>
+[M03_Interest_07d]<COLOR,195,188,228>Tudo aqui está igual, mas sem você, a casa está täo vazia...<CLEARCOLOR>
+[M03_Interest_07e]A carta termina aí. Acho que ela nunca a terminou.
 
-[M03_Interest_09]I always thought this looked alive...
-[M03_Interest_10]It's still creepy looking.
-[M03_Interest_11]Mom must have been making something.
-[M03_Interest_12]This is an old picture of Mom and Josh.
-[M03_Interest_12b]It was taken years ago. I guess she likes to remember him as her baby.
+[M03_Interest_09]Sempre achei que isso parecia vivo...
+[M03_Interest_10]Ainda parece assustador.
+[M03_Interest_11]A mäe estava preparando algo aqui.
+[M03_Interest_12]Esta é uma foto antiga da mäe e do Josh.
+[M03_Interest_12b]Foi tirada há anos. Acho que ela gosta de se lembrar dele como seu bebê.
 
-[M03_Interest_13]This is Mom's sewing machine. She used it to mend our clothes.
-[M03_Interest_13b]Sometimes she'd spend all day mending clothes or making things for the other ladies around town.
-[M03_Interest_13c]This is Mom's favorite french poetry book.\nShe loves poetry.
-[M03_Interest_13d]More of Mom's poetry.
-[M03_Interest_13e]It's a pile of dirty laundry.
-[M03_Interest_13f]Mom's jewelry case. I remember she would get mad if we touched it.
+[M03_Interest_13]Esta é a máquina de costura da mäe. Ela a usava para consertar nossas roupas.
+[M03_Interest_13b]Às vezes, passava o dia inteiro consertando roupas ou fazendo coisas para as outras senhoras da cidade.
+[M03_Interest_13c]Este é o livro de poesia francesa favorito da mamäe. \nEla adora poesia.
+[M03_Interest_13d]Mais poesia da mäe.
+[M03_Interest_13e]É uma pilha de roupa suja.
+[M03_Interest_13f]A caixa de joias da mamäe. Lembro que ela ficava brava se a gente tocava nela.
 
-[M03_Interest_14]Dad always made us keep our toys in this locker.
-[M03_Interest_15]Why weren't these put away?
-[M03_Interest_16]The Man in the Iron Mask. I loved reading this book in school.
-[M03_Interest_17]Yeah, right.
+[M03_Interest_14]O meu pai obrigava a gente a guardar os nossos brinquedos neste armário.
+[M03_Interest_15]Por que é que estes näo foram guardados?
+[M03_Interest_16]O Homem da Máscara de Ferro. Adorei ler este livro na escola.
+[M03_Interest_17]Ta certo.
 
-[M03_Interest_18]This place looks just like it did when me and Josh used to trash it...
-[M03_Interest_18b]It's good to see he isn't growing up too fast.
+[M03_Interest_18]Este lugar está exatamente como estava quando eu e o Josh costumávamos destruír tudo...
+[M03_Interest_18b]É bom ver que ele näo está crescendo rápido demais.
 
-[M03_Interest_19]I always wanted to fly a real helicopter.  I'd day-dream about it for hours.
-[M03_Interest_19b]I'd imagine flying Josh and me the hell out of here.
+[M03_Interest_19]Sempre quis pilotar um helicóptero de verdade.  Passava horas sonhando acordado com isso.
+[M03_Interest_19b]Eu imaginaria levar Josh e eu para longe daqui.
 
-[M03_Interest_22]What a sad collection of movies. They are all so old!
-[M03_Interest_23b]I should buy Mom some new ones while I'm here.
+[M03_Interest_22]Que coleçäo de filmes triste. Säo todos täo antigos!
+[M03_Interest_23b]Devo comprar alguns novos para a mamäe enquanto estou aqui.
 
-[M03_Interest_23]Mom always loved the way Dad looked when he's in uniform.
-[M03_Interest_23b]She'd tell Josh that he needed to grow up big and strong so he could be handsome just like Dad.
+[M03_Interest_23]A mäe sempre adorou o visual do pai quando ele está de uniforme.
+[M03_Interest_23b]Ela dizia ao Josh que ele precisava crescer e ficar forte para poder ser bonito como o pai.
 
 [M03_Interest_26]De onde veio isso?
 [M03_Interest_28]Parece que meus pais venderam todos os meus brinquedos.
@@ -1731,19 +1731,19 @@
 [M03_Interest_37]Essa coisa sempre me assustava.
 [M03_Interest_37b]Eu me esqueci desse lugar...
 [M03_Interest_43]Parece danificado pela água.
-[M03_Interest_44]Dad was always so protective of these tools, he wouldn't leave them open like this...
+[M03_Interest_44]Meu pai sempre foi muito cuidadoso com essas ferramentas, ele näo deixaria elas assim...
 [M03_Interest_45]Isso ta ligado?
 [M03_Interest_47]Eu tenho que colocar isso pra funcionar.
 [M03_Interest_48]Espera... Cadê o cachorro?
 [M03_Interest_48b]É nosso ar-condicionado.  Ele nunca funcionou muito bem.
-[M03_Interest_48c]It doesn't look like anybody has sat out here in a long time.
+[M03_Interest_48c]Parece que ninguém se senta aqui há muito tempo.
 [M03_Interest_48d]A pia está cheia de louça, e o cheiro ta péssimo.  Por que minha mäe näo tem limpado isso?
 [M03_Interest_48e]Parece que minha mäe estava trabalhando em um vestido.
 [M03_Interest_48f]É nosso aquecedor de água.  Claramente está quebrado.
 [M03_Interest_49]Nós tivemos muitos dias bons.
 [M03_Interest_50]Eu me lembro do dia que construimos esta casa na árvore.
 [M03_Interest_51]Isso näo foi usado tem algum tempo.
-[M03_Interest_51b]Josh was so excited when they bought this for him.  They never bought anything like this for me...
+[M03_Interest_51b]Josh ficou muito animado quando compraram isso para ele. Nunca compraram nada parecido para mim...
 [M03_Interest_52]O que é isso na cerca?
 [M03_Interest_53]É a mochila do Joshua!\nTem uma foto aqui dentro...
 [M03_Interest_54]Estranho...  Parrece que tem algo bloquenado do outro lado.
@@ -1752,9 +1752,9 @@
 [M03_Interest_56]Talvez minha mäe esteja aqui dentro descansando...
 
 # Additional Story Strings #
-[M03_Interest_57_Sewing_Machine]I remember when Mom fixed my baseball mitt with this machine.
-[M03_Interest_58_Sewing_Machine]She loved to make Josh warm winter clothes.
-[M03_Interest_59_Sewing_Machine]Josh loved that wool cap. He even wore it during the summer.
+[M03_Interest_57_Sewing_Machine]Lembro de quando a minha mäe consertou a minha luva de beisebol com esta máquina.
+[M03_Interest_58_Sewing_Machine]Ela adorava fazer roupas quentes de inverno para Josh.
+[M03_Interest_59_Sewing_Machine]Josh adorava aquele gorro de lä. Ele até o usava durante o veräo.
 [M03_Interest_60_Sewing_Room]Essa é a sala favorita da mamäe.
 [M03_Interest_61_Sewing_Room]Ela sempre estava trabalhando em algum projeto de costura.
 [M03_Interest_62_Note_next_to_Phone]Tem uma anotaçäo perto do telefone.
@@ -1763,69 +1763,69 @@
 [M03_Interest_65_Moms_Grandfather_Clock]Talvez minha mäe se esqueceu de ligar ele.
 [M03_Interest_66_Book_Shelf_Dad]Säo os livros do meu pai.
 [M03_Interest_67_Book_Shelf_Dad]Säo os livros do meu pai.\nEle sempre ficava transtornado sempre que eu tocava em alguma das coisas dele.
-[M03_Interest_68_Book_Shelf_Dad]What was his problem?
-[M03_Interest_69_Book_Shelf_Mom]These are Mom's sewing books.
-[M03_Interest_70_Book_Shelf_Mom]She'd sit on the couch for hours and plan her next sewing project.
-[M03_Interest_71_Book_Shelf_Mom]Making new clothes was something she loved to do.
+[M03_Interest_68_Book_Shelf_Dad]Qual era o problema dele?
+[M03_Interest_69_Book_Shelf_Mom]Estes säo os livros de costura da mamäe.
+[M03_Interest_70_Book_Shelf_Mom]Ela ficava sentada no sofá por horas planejando seu próximo projeto de costura.
+[M03_Interest_71_Book_Shelf_Mom]Ela adora fazer roupas novas.
 [M03_Interest_72_Candle_Holders]Eu acho que säo os castiçais do meu avô.
 [M03_Interest_73_Candle_Holders]Minha mäe insistia em colocar eles sempre que outras pessoas vinham jantar.
 [M03_Interest_74_Candle_Holders]Eu sempre testava quanto tempo eu aguentava colocando minha mäo em cima do fogo.
-[M03_Interest_75_Couch]This couch is really worn out.
-[M03_Interest_76_Couch]Me and Josh used to hide our comic books in the cushions.
-[M03_Interest_77_Couch]Mom always said they were a waste of time. She didn't understand.
-[M03_Interest_78_Suitcases]Looks like someone got the suitcases down from the attic.
+[M03_Interest_75_Couch]Este sofá está realmente muito gasto.
+[M03_Interest_76_Couch]Eu e o Josh costumávamos esconder os nossos quadrinhos nas almofadas.
+[M03_Interest_77_Couch]Minha mäe sempre dizia que era perda de tempo. Ela näo entendia.
+[M03_Interest_78_Suitcases]Parece que alguém trouxe as malas do sótäo.
 [M03_Interest_79_Suitcases]Meus pais estavam planejando ir a algum lugar?
 [M03_Interest_80_After_Audio_Cassette_Tape]De alguma forma, eu sempre estragava tudo, mas Joshua nunca fazia nada de errado.
-[M03_Interest_81_Bug_Collection]This is Joshua's bug collection.
-[M03_Interest_82_Bug_Collection]One time I helped him catch some spiders in the backyard.
-[M03_Interest_83_Bug_Collection]He loves spiders for some weird reason.
-[M03_Interest_84_Dads_Hunting_Room]This head always freaked me out.
-[M03_Interest_85_Dads_Hunting_Room]I never understood why Dad spent so much time in here.
-[M03_Interest_86_Dads_Hunting_Room]I'd go crazy if I were locked away like that.
-[M03_Interest_87_Adam_and_Lillians_Bed]Mom and Dad's bed.
-[M03_Interest_88_Adam_and_Lillians_Bed]Joshua and I got caught jumping on it once.
-[M03_Interest_89_Adam_and_Lillians_Bed]Of course, I got punished while Josh was totally let off the hook.
-[M03_Interest_90_Family_Lineage_Book]It's a very old book containing our family lineage.
-[M03_Interest_91_Family_Lineage_Book]It tracks the Shepherd line all the way back to the founders of the town.
-[M03_Interest_96_Box_on_Nightstand]Dad's nightstand box.
-[M03_Interest_97_Box_on_Nightstand]He used to keep his service pistol in here. I wonder...
-[M03_Interest_98_Box_on_Nightstand]Nope. It's empty.
-[M03_Interest_99_Bathtub_in_Parents_Room]I used to hate taking baths when I was a kid.
-[M03_Interest_100_Bathtub_in_Parents_Room]It was always a struggle to get me in the tub.
-[M03_Interest_101_Dining_Room_Table]Looks like Mom made a big dinner.
-[M03_Interest_102_Dining_Room_Table]Why didn't anyone eat it? It's all spoiled now.
-[M03_Interest_104_The_Good_China_Plates]Mom said these dishes were a wedding present from Grandma.
-[M03_Interest_105_The_Good_China_Plates]How come we never used them?
-[M03_Interest_106_The_Good_China_Plates]I guess Joshua and I would've just broken them.
-[M03_Interest_106_The_Good_China_Plates2]But we never used them.
-[M03_Interest_107_Oven]Mom loves to bake. She's pretty good at it too.
-[M03_Interest_108_Oven]When she bakes brownies, the whole house smells like chocolate.
-[M03_Interest_109_Oven]That smell haunted me while I was in the hospital.
-[M03_Interest_110_Oven]Maybe she'll whip up a batch now that I'm back...
-[M03_Interest_110_Kitchen_Door_to_Backyard]The back door's stuck.
-[M03_Interest_111_Kitchen_Door_to_Backyard]The handle turns, but the door won't open.
-[M03_Interest_112_Kitchen_Door_to_Backyard]It feels like it's boarded up from the outside...  Why?
+[M03_Interest_81_Bug_Collection]Esta é a coleçäo de insetos do Joshua.
+[M03_Interest_82_Bug_Collection]Uma vez, ajudei ele a pegar algumas aranhas no quintal.
+[M03_Interest_83_Bug_Collection]Por alguma razäo estranha, ele adora aranhas.
+[M03_Interest_84_Dads_Hunting_Room]Essa cabeça sempre me assustou.
+[M03_Interest_85_Dads_Hunting_Room]Nunca entendi por que meu pai passava tanto tempo aqui.
+[M03_Interest_86_Dads_Hunting_Room]Ficaria louco se ficasse trancado assim.
+[M03_Interest_87_Adam_and_Lillians_Bed]A cama da mäe e do pai.
+[M03_Interest_88_Adam_and_Lillians_Bed]Uma vez, Joshua e eu fomos pegos pulando nela.
+[M03_Interest_89_Adam_and_Lillians_Bed]É claro que eu fui punido, enquanto Josh saiu totalmente impune.
+[M03_Interest_90_Family_Lineage_Book]É um livro muito antigo que contém a linhagem da nossa família.
+[M03_Interest_91_Family_Lineage_Book]Ele mostra a linhagem Shepherd até os fundadores da cidade.
+[M03_Interest_96_Box_on_Nightstand]A caixa da cabeceira do meu pai.
+[M03_Interest_97_Box_on_Nightstand]Ele costumava guardar a sua pistola de serviço aqui. Será que ainda...
+[M03_Interest_98_Box_on_Nightstand]Näo. Ta vazia.
+[M03_Interest_99_Bathtub_in_Parents_Room]Eu detestava tomar banho quando era criança.
+[M03_Interest_100_Bathtub_in_Parents_Room]Era sempre uma luta para me colocar na banheira.
+[M03_Interest_101_Dining_Room_Table]Parece que a mamäe preparou um jantar bem farto.
+[M03_Interest_102_Dining_Room_Table]Por que ninguém comeu? Agora está tudo estragado.
+[M03_Interest_104_The_Good_China_Plates]Minha mäe disse que esses pratos foram um presente de casamento da minha avó.
+[M03_Interest_105_The_Good_China_Plates]Por que nunca os usamos?
+[M03_Interest_106_The_Good_China_Plates]Acho que o Joshua e eu os teríamos quebrado tudo.
+[M03_Interest_106_The_Good_China_Plates2]Mas nunca usamos eles.
+[M03_Interest_107_Oven]Minha mäe adora cozinhar. Ela é muito boa nisso também.
+[M03_Interest_108_Oven]Quando ela faz brownies, toda a casa fica com cheiro de chocolate.
+[M03_Interest_109_Oven]Esse cheiro me perseguiu enquanto eu estava no hospital.
+[M03_Interest_110_Oven]Talvez ela prepare uma fornada agora que estou de volta...
+[M03_Interest_110_Kitchen_Door_to_Backyard]A porta dos fundos está emperrada.
+[M03_Interest_111_Kitchen_Door_to_Backyard]A maçaneta até gira, mas a porta näo abre.
+[M03_Interest_112_Kitchen_Door_to_Backyard]Parece que está fechado com tábuas por fora... Por quê?
 [M03_Interest_113_Basement_Electrical_Box]Essa caixa é uma gambiarra total.
 [M03_Interest_114_Basement_Electrical_Box]É incrível pensar que alguma luz funcione apesar disso.
 [M03_Interest_115_Basement_Electrical_Box]Eu vou deixar isso pra lá - Näo quero tomar um choque.
-[M03_Interest_116_Canoe_Back_Story]I love this canoe.  We bought it that summer of the big brush fire.
-[M03_Interest_117_Canoe_Back_Story]I used to take it out onto the lake and float around for hours...
-[M03_Interest_118_Canoe_Back_Story]My Dad told us to never go out on the lake by ourselves, but we did anyway. It was so much fun.
-[M03_Interest_119_Canoe_Back_Story]Dad never took me out on the lake when I was little...
+[M03_Interest_116_Canoe_Back_Story]Adoro esta canoa.  Nós a compramos naquele veräo do grande incêndio florestal.
+[M03_Interest_117_Canoe_Back_Story]Eu costumava levá-la para o lago e flutuar por horas...
+[M03_Interest_118_Canoe_Back_Story]Meu pai nos disse para nunca irmos ao lago sozinhos, mas nós fomos mesmo assim. Foi muito divertido.
+[M03_Interest_119_Canoe_Back_Story]Tem algo estranho que näo me lembro agora... Mas, meu pai nunca me levou ao lago quando eu era pequeno...
 [M03_Interest_119_Washer_and_Dryer_History]Ah, as "super confiáveis" maquinas de lavar e secar roupas. Elas sempre quebravam.
-[M03_Interest_121_Washer_and_Dryer_History]But Dad was too cheap to get new ones, of course. "They work fine!" he'd yell.
-[M03_Interest_122_Whats_behind_the_Camouflage]Dad? Is that you?
-[M03_Interest_124_Mannequin_with_Uniform]It's just his old jacket.
-[M03_Interest_125_Mannequin_with_Uniform]There's something stuck in the pocket.
-[M03_Interest_126_Basement_Door_to_Backyard]The backyard door won't open while the basement is flooded. The safety latch is somewhere under all that water.
-[M03_Interest_128_Basement_Door_to_Backyard]I'm not putting my hand in there.
-[M03_Interest_129_Vase_LivingRoom]It's just a vase, nothing useful.
+[M03_Interest_121_Washer_and_Dryer_History]Mas meu pai era muito mesquinho para comprar novas, é claro. “Elas funcionam bem!”, ele gritava.
+[M03_Interest_122_Whats_behind_the_Camouflage]Pai? É você?
+[M03_Interest_124_Mannequin_with_Uniform]É apenas a jaqueta velha dele.
+[M03_Interest_125_Mannequin_with_Uniform]Há algo preso no bolso.
+[M03_Interest_126_Basement_Door_to_Backyard]A porta dos fundos näo abre enquanto o poräo estiver inundado. A trava de segurança está em algum lugar debaixo de toda essa água.
+[M03_Interest_128_Basement_Door_to_Backyard]Eu näo vou botar minha mäo aqui näo.
+[M03_Interest_129_Vase_LivingRoom]É só um vaso. Nada de anormal.
 [M03_Interest_130_Desk]É só uma mesa velha.  Nada de interessante aqui.
-[M03_Interest_131_Landscape]It's a painting of a landscape.\nI wonder if it's based on a real place?
+[M03_Interest_131_Landscape]É uma pintura de uma paisagem. /nSerá que é baseada em um lugar real?
 [M03_Interest_132_Dresser]É só uma cômoda, nada de útil por aqui.
 [M03_Interest_133_Vaccuum]Um aspirador. Parece velho.
 [M03_Interest_134_Parents_Chairs]Eu me lembro da minha mäe sentada aqui, cuidando do Joshua quando ele era só um bebê.
-[M03_Interest_135_Parents_Closet]The closet is empty... Where are the clothes?\nAre they in the suitcase downstairs?
+[M03_Interest_135_Parents_Closet]O armário está vazio... Onde estäo as roupas? Estäo na mala lá embaixo?
 [M03_Interest_136_Bath_Basket]É um cesto de roupa suja.
 
 ### M04_SGTown2 ###
@@ -1833,35 +1833,35 @@
 ### STORY INTEREST POINTS FOR M04_SGTown2 ###
 
 # M04 - Graveyard #
-[M04_Interest_01_Start_Door]This leads back to my house.
+[M04_Interest_01_Start_Door]Por aqui eu consigo voltar para casa.
 [M04_Interest_02_Rusty_Valve]Essas valvulas estäo enferrujadas e travadas. Näo da pra mexer.
 [M04_Interest_03_Trash_Can_2]A tampa está presa.
-[M04_Interest_04_No_Trespassing_Sign]Municipal access gate, there's a message here...
-[M04_Interest_04_No_Trespassing_Sign1]<COLOR,195,188,228>No Trespassing: Violators may be subject to prosecution<CLEARCOLOR>
+[M04_Interest_04_No_Trespassing_Sign]Portäo de acesso municipal, há uma mensagem aqui...
+[M04_Interest_04_No_Trespassing_Sign1]<COLOR,195,188,228>Proibida a entrada: Os infratores podem ser sujeitos a processo judicial.<CLEARCOLOR>
 [M04_Interest_05_Head_Stones_A]Esta placa está bem gasta... Apenas algumas letras ainda säo visíveis.
 [M04_Interest_06_Head_Stones_B]Esses túmulos estäo bem velhos.
 [M04_Interest_07_Head_Stones_C]Os nomes estäo completamente apagados.
 [M04_Interest_09_Large_Crypt_A]Eu acho que essa foi minha professora de biologia na escola.
 [M04_Interest_10_Large_Crypt_B]Eu näo reconheço esse nome.
 [M04_Interest_11_Large_Crypt_C]Outra cripta em ruínas.
-[M04_Interest_12_Large_Crypt_D]This was someone's wife and daughter.
-[M04_Interest_13_Crypts_on_Wall_A]So many men and women have died in Shepherd's Glen.
-[M04_Interest_14_Crypts_on_Wall_B]Some of these folks died recently.
-[M04_Interest_15_Crypts_on_Wall_C]I wonder if they'll be missed.
-[M04_Interest_17_Gate_by_Bartlett_Digging]This gate can't be opened... Hey, who's that?
-[M04_Interest_18_Fountain_in_Sinkhole]It looks like this fountain hasn't worked for a very long time...
-[M04_Interest_18_Fountain_in_Sinkhole2]Funny...  It was perfectly fine before I left, and that was only a few years ago...
+[M04_Interest_12_Large_Crypt_D]Era a esposa e a filha de alguém.
+[M04_Interest_13_Crypts_on_Wall_A]Tantos homens e mulheres morreram em Shepherd's Glen.
+[M04_Interest_14_Crypts_on_Wall_B]Algumas dessas pessoas faleceram recentemente.
+[M04_Interest_15_Crypts_on_Wall_C]Algumas dessas pessoas faleceram recentemente. Será que väo sentir a falta delas?
+[M04_Interest_17_Gate_by_Bartlett_Digging]Este portäo näo abre... Espera, quem é aquele?
+[M04_Interest_18_Fountain_in_Sinkhole]Parece que esta fonte näo funciona há muito tempo...
+[M04_Interest_18_Fountain_in_Sinkhole2]Engraçado... Estava tudo bem antes de eu partir, e isso foi há poucos anos...
 
 [M04_Interest_19_Open_Graves_Before_Curtis]Por que aquele cara está cavando covas??
 [M04_Interest_20_Open_Graves_After Curtis]Prefeito Bartlett estava cavando covas bem aqui agora pouco.  Por que ele faria isso?
 [M04_Interest_21_Locked_Bartlett_Mausoleum_Door]este portäo leva até o mausoléu da família Bartlett.\nEstá trancado.
-[M04_Interest_22_Bartlett_Mausoleum_Inscription]The inscription reads, <COLOR,195,188,228>And until we meet again, may God hold you in the hollow of his hand.<CLEARCOLOR>
+[M04_Interest_22_Bartlett_Mausoleum_Inscription]A inscriçäo diz: <COLOR,195,188,228>E até nos encontrarmos novamente, que Deus o proteja e guarde na palma de sua mäo.<CLEARCOLOR>
 [M04_Interest_23_First_Bartlett_Coffin_on_Left]<COLOR,195,188,228>Charles Bartlett. Morreu aos 18... alguma coisa.<CLEARCOLOR> Eu näo consigo ler o restante, isso está muito velho.
 [M04_Interest_24_Second_Bartlett_Coffin_on_Right]<COLOR,195,188,228>Patricia Bartlett. Morreu aos 19 anos...<CLEARCOLOR> näo dá pra ler o resto.
-[M04_Interest_25_Joey_Bartletts_Coffin]This looks like a child's coffin.
+[M04_Interest_25_Joey_Bartletts_Coffin]Parece um caixäo de criança.
 [M04_Interest_26_Side_Gate_to_Mausoleums]Esses portöes estäo bem trancados.
-[M04_Interest_27_Washout_Area_Drains]During the rainy season, this drainage area backs up and the whole cemetery floods.
-[M04_Interest_27_Washout_Area_Drains2]My folks told me to stay out of the cemetery when it flooded because old bones and body parts would seep out of the graves...
+[M04_Interest_27_Washout_Area_Drains]Durante a estaçäo chuvosa, esta área de drenagem fica represada e todo o cemitério fica inundado.
+[M04_Interest_27_Washout_Area_Drains2]Meus pais me diziam para ficar longe do cemitério quando ele ficava alagado, porque ossos e partes de corpos antigos saíam dos túmulos...
 [M04_Interest_28_Special_Mausoleum_1]Esse é um simbolo bem estranho...
 [M04_Interest_29_Special_Mausoleum_2]Quando eu era criança eu achava que esses símbolos eram só enfeites legais pra pessoas ricas que morriam ou algo assim...
 [M04_Interest_29_Special_Mausoleum_3]Mas pensando bem, eles se parecem com buracos de fechaduras... Mas, que tipo de chave se encaixaria nisso?
@@ -1881,12 +1881,12 @@
 [M04_Interest_39_Storefront_A]É uma pequena mercearia...  Bem, pelo menos era.
 [M04_Interest_39_Storefront_A1]Está täo escuro lá dentro que eu nem consigo saber se tem algo lá dentro.
 
-[M04_Interest_40_Storefront_B]A comic book store opened here right before I left...
-[M04_Interest_40_Storefront_B2]It looks closed now...  I guess there wasn't enough demand for juvenile stuff like comics.
-[M04_Interest_40_Storefront_B3]I bet Josh was sad it closed. He loved comic books.
-[M04_Interest_41_Storefront_C]This was a small fortune teller's shop.
-[M04_Interest_41_Storefront_C2]My dad would never let me go in there, said he didn't want me to get caught up in that "occult nonsense."
-[M04_Interest_41_Storefront_C3]I guess the shop is out of business now.
+[M04_Interest_40_Storefront_B]Uma loja de quadrinhos abriu aqui pouco antes de eu partir...
+[M04_Interest_40_Storefront_B2]Parece que está fechado agora... Acho que näo havia demanda suficiente para coisas infantis, como quadrinhos.
+[M04_Interest_40_Storefront_B3]Aposto que o Josh ficou triste com o fechamento. Ele adorava quadrinhos.
+[M04_Interest_41_Storefront_C]Era uma pequena loja de vidência.
+[M04_Interest_41_Storefront_C2]Meu pai nunca me deixava entrar lá, dizia que näo queria que eu me envolvesse com aquelas “bobagens ocultistas”.
+[M04_Interest_41_Storefront_C3]Acho que a loja já fechou.
 [M04_Interest_42_Storefront_D]Outra loja abandonada...
 [M04_Interest_42_Storefront_D2]Será que ainda tem algo aberto por aqui?
 
@@ -1898,38 +1898,38 @@
 [M04_Interest_47_Police_Car_A3]Será que algum desses era o dele?
 
 [M04_Interest_49_Police_Car_B]A porta está trancada.
-[M04_Interest_50_Wall_of_Flyers]All these people are...missing?  My God, what happened?
-[M04_Interest_51_Front_Door_to_Sheriff_Station]This is the station where Dad works.
-[M04_Interest_51_Front_Door_to_Sheriff_Station2]I wonder if his buddies on the force know what happened here...
-[M04_Interest_51_Front_Door_to_Sheriff_Station3]It looks like nobody's here. Where are the police?  What the hell is happening?
-[M04_Interest_51_Front_Door_to_Sheriff_Station_M08b]I've been inside already, all the police are gone.
+[M04_Interest_50_Wall_of_Flyers]Todas essas pessoas estäo... desaparecidas? Meu Deus, o que aconteceu?
+[M04_Interest_51_Front_Door_to_Sheriff_Station]Esta é a delegacia onde meu pai trabalha.
+[M04_Interest_51_Front_Door_to_Sheriff_Station2]Será que os colegas dele da polícia sabem o que aconteceu aqui...
+[M04_Interest_51_Front_Door_to_Sheriff_Station3]Parece que não tem ninguém aqui. Onde está a polícia? O que diabos está acontecendo?
+[M04_Interest_51_Front_Door_to_Sheriff_Station_M08b]Esta é a delegacia onde meu pai trabalha. Eu já estive lá dentro, todos os policiais sumiram.
 
-[M04_Interest_52_Broken_Steel_Bridge]It's like the earth just opened wide and tried to swallow the bridge whole...
-[M04_Interest_52_Broken_Steel_Bridge2]Could there really have been an earthquake here?
-[M04_Interest_53_Back_Fence_to_Police_Parking_Lot]Locked. It won't open.
-[M04_Interest_54_Wooden_Bridge]The sign reads <COLOR,195,188,228>Paradise Bridge<CLEARCOLOR>.
+[M04_Interest_52_Broken_Steel_Bridge]É como se a terra tivesse se aberto e tentado engolir a ponte inteira...
+[M04_Interest_52_Broken_Steel_Bridge2]Será que realmente houve um terremoto aqui?
+[M04_Interest_53_Back_Fence_to_Police_Parking_Lot]Trancado. Não abre.
+[M04_Interest_54_Wooden_Bridge]A placa diz: <COLOR,195,188,228>Paradise Bridge (Ponte do Paraíso)<CLEARCOLOR>.
 
 # M04 - Curtis's Shop #
-[M04_Interest_56_Random_Shelf_2]It looks like Curtis spends his time collecting...junk.
-[M04_Interest_57_Random_Shelf_3]Why would he save any of this, and who would ever buy it?
-[M04_Interest_59_Random_Junk]This box is labelled <COLOR,195,188,228>Misc Junk<CLEARCOLOR>.
-[M04_Interest_59_Random_Junk2]Guess he likes to keep the "Misc Junk" apart from the "Deliberate Junk" in the rest of the store.
+[M04_Interest_56_Random_Shelf_2]Parece que Curtis passa o tempo colecionando... lixo.
+[M04_Interest_57_Random_Shelf_3]Por que ele guardaria tudo isso, e quem compraria?
+[M04_Interest_59_Random_Junk]Esta caixa está rotulada como: <COLOR,195,188,228>Sucatas Diversas<CLEARCOLOR>.
+[M04_Interest_59_Random_Junk2]Acho que ele gosta de manter a “Sucata Diversa” separada do “Lixo Deliberado” no resto da loja.
 
-[M04_Interest_60_Photos_on_WallA]This is a photo of Curtis and Mayor Bartlett.
-[M04_Interest_60_Photos_on_WallB]This was taken at one of the town celebrations.
+[M04_Interest_60_Photos_on_WallA]Esta é uma foto de Curtis e do prefeito Bartlett.
+[M04_Interest_60_Photos_on_WallB]Esta foto foi tirada em uma das festas da cidade.
 
-[M04_Interest_61_Car_Engine]I can't tell if he was fixing this, or tearing it apart.
-[M04_Interest_61_Car_Engine2]Either way, I can see why nothing in this town works...
+[M04_Interest_61_Car_Engine]Não sei dizer se ele estava consertando isso ou destruindo tudo.
+[M04_Interest_61_Car_Engine2]De qualquer forma, entendo por que nada funciona nesta cidade...
 
-[M04_Interest_62_Toolbox]It's a box of tools.  It looks pretty unorganized.
-[M04_Interest_63_Typewriter_on_Shelf]A beat-up typewriter - it's practically an antique.
-[M04_Interest_64_Microwave]This microwave has seen a lot of use.
-[M04_Interest_65_Telephone]It's an old telephone.  I doubt it's connected anymore.
-[M04_Interest_66_Old_Refrigerator_A]This fridge looks older than me.
-[M04_Interest_67_Old_Refrigerator_B]Another ruined refrigerator.
-[M04_Interest_68_Old_Stove_A]Looks like this stove is busted too.
-[M04_Interest_69_Old_Stove_B]What'd they cook here, fireworks?
-[M04_Interest_70_BlockedEntrance_A]A truck - and a lot of junk - is blocking my way.
+[M04_Interest_62_Toolbox]É uma caixa de ferramentas. Parece bastante desorganizada.
+[M04_Interest_63_Typewriter_on_Shelf]Uma máquina de escrever surrada — é praticamente uma antiguidade. Será que daria pra escrever se tivesse uma fita de tinta?
+[M04_Interest_64_Microwave]Este micro-ondas já foi bastante utilizado.
+[M04_Interest_65_Telephone]É um telefone antigo. Duvido que ainda esteja conectado.
+[M04_Interest_66_Old_Refrigerator_A]Esta geladeira parece mais velha do que eu.
+[M04_Interest_67_Old_Refrigerator_B]Outra geladeira estragada.
+[M04_Interest_68_Old_Stove_A]Parece que este fogão também está quebrado.
+[M04_Interest_69_Old_Stove_B]O que prepararam aqui, fogos de artifício?
+[M04_Interest_70_BlockedEntrance_A]Um caminhão - e um monte de lixo - está bloqueando meu caminho.
 [M04_Interest_70_BlockedEntrance_B]Curtis must not be expecting guests.
 [M04_Interest_70_BlockedEntrance_C]There must be another way around.
 [M04_Interest_72_Water_Tower]Oh man, I remember this!
@@ -2069,16 +2069,16 @@
 [M04_Interest_154_More_Shops_4]Well it's closed now.
 [M04_Interest_155_Truck]Who'd park their truck here?
 
-[M04_Interest_157_Bridge]This bridge used to lead over to the Bartlett Winery.
-[M04_Interest_158_Bridge]What the hell happened to it?
-[M04_Interest_159_Fence_Across_Street]Why is there a fence here?
-[M04_Interest_160_Fence_Across_Street]Man, this town has really changed since I left.
-[M04_Interest_161_Back_Gate_for_the_Police_Station]The gate to the Sheriff's parking lot seems to be locked.
-[M04_Interest_164_Covered_Bridge_Initials]Some couple carved their initials on this bridge.
-[M04_Interest_165_Big_Fallen_Tree]Looks like the riverbank washed away.
-[M04_Interest_167_Curtis_Sign]<COLOR,195,188,228>Ackers of Junk<CLEARCOLOR>
-[M04_Interest_168_Curtis_Sign]Curtis has a weird sense of humor.
-[M04_Interest_169_Car_Engine]Hey, I wonder if this is Dad's car engine.
+[M04_Interest_157_Bridge]Esta ponte costumava levar até a vinícola Bartlett.
+[M04_Interest_158_Bridge]O que diabos aconteceu com ele?
+[M04_Interest_159_Fence_Across_Street]Por que há uma cerca aqui?
+[M04_Interest_160_Fence_Across_Street]Cara, esta cidade mudou muito desde que eu fui embora.
+[M04_Interest_161_Back_Gate_for_the_Police_Station]O portão do estacionamento do xerife parece estar trancado.
+[M04_Interest_164_Covered_Bridge_Initials]Um casal gravou suas iniciais nesta ponte.
+[M04_Interest_165_Big_Fallen_Tree]Parece que a margem do rio foi levada pela água.
+[M04_Interest_167_Curtis_Sign]<COLOR,195,188,228>Ackers da Çucata<CLEARCOLOR>
+[M04_Interest_168_Curtis_Sign]Curtis tem um senso de humor estranho.
+[M04_Interest_169_Car_Engine]Ei, será que este é o motor do carro do meu pai?
 [M04_Interest_170_Invoice]It's an invoice to sharpen dull knives for Doctor Fitch.
 [M04_Interest_171_Checklist_on_Curtis_property]It's Curtis's to-do list:
 [M04_Interest_172_Checklist_on_Curtis_property]<COLOR,195,188,228>Fix Adam's Engine.\nRepair Margaret's Clock.\nClean Out Fridge.<CLEARCOLOR>
@@ -5199,8 +5199,8 @@
 
 ### M05 Ambient ###
 [IDS_AMBIENT_M05Hotel_Signage_2]PROIBIDA A ENTRADA ATÉ SEGUNDA ORDEM
-[IDS_AMBIENT_M05Hotel_Signage_3]PERIGO: Esta área está bloqueada até segunda ordem. Agradecendo pela compreensão, departamento de bombeiros de Silent Hill.
-[IDS_AMBIENT_M05Hotel_Signage_4]PERIGO: Esta área está bloqueada até segunda ordem. Por favor, não entre.
+[IDS_AMBIENT_M05Hotel_Signage_3]PERIGO: Esta área está bloqueada até segunda ordem. Agradecendo pela compreensäo, departamento de bombeiros de Silent Hill.
+[IDS_AMBIENT_M05Hotel_Signage_4]PERIGO: Esta área está bloqueada até segunda ordem. Por favor, näo entre.
 [IDS_AMBIENT_M05Hotel_Signage_5]Esta área está fechada para visitantes e funcionários. Nos desculpe por qualquer inconveniência.
 [IDS_AMBIENT_M05Hotel_Signage_6]PERIGO - NÄO USE.
 [IDS_AMBIENT_M05Hotel_Signage_7]Essa escadaria está desativada.
@@ -5295,13 +5295,13 @@
 
 ### M01 Journal Entries ###
 
-[M01_CombatManual_01_PC]Combate com armas corpo-a-corpo: \n\nOs soldados de hoje em dia precisam estar preparados para o rigor do combate e além. Essas técnicas vão te manter vivo durante o combate.
+[M01_CombatManual_01_PC]Combate com armas corpo-a-corpo: \n\nOs soldados de hoje em dia precisam estar preparados para o rigor do combate e além. Essas técnicas väo te manter vivo durante o combate.
 
 [M01_CombatManual_02_PC]Equipando uma arma: \n\nPara equipar uma arma, abra o inventário de equipamentos (<COMBAT_WHEEL>) e use <COMMAND_MOVEMENT> para selecionar a arma que você precisa.
 
-[M01_CombatManual_03_PC]Posição de combate: \n\nSe prepare para o combate apertando <TARGETING> com uma arma corpo a corpo equipada. \n\nQuando vários inimigos estiverem por perto, você focará no inimigo mais próximo.
+[M01_CombatManual_03_PC]Posiçäo de combate: \n\nSe prepare para o combate apertando <TARGETING> com uma arma corpo a corpo equipada. \n\nQuando vários inimigos estiverem por perto, você focará no inimigo mais próximo.
 [M01_CombatManual_04_PC]Lembre-se: se muitos inimigos estiverem ao redor, você deve focar no inimigo mais próximo. \n\nVocê deve usar ssua lanterna para iluminar o inimigo mais próximo.
-[M01_CombatManual_05_PC]Para focar em outro alvo, gire a câmera na direção do novo alvo. \n\nPara recuar do combate, solte <TARGETING> e saia de perto dos alvos.
+[M01_CombatManual_05_PC]Para focar em outro alvo, gire a câmera na direçäo do novo alvo. \n\nPara recuar do combate, solte <TARGETING> e saia de perto dos alvos.
 
 [M01_CombatManual_06_PC]Ataques rápidos, fortes, carregados e combos: \n\nWhen in combat stance, press <ACTION> for Fast attacks and <HEAVY_ATTACK> for Strong Attacks.
 [M01_CombatManual_07_PC]Strong attacks can be charged up for added damage by holding down <HEAVY_ATTACK>. \n\nSuccessive Fast attacks followed by a Strong attack can make for uninterrupted strikes known as Combos.
