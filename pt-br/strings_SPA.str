@@ -928,25 +928,25 @@
 [CT_Combattest3]<COLOR,255,155,155>3<CLEARCOLOR>
 [CT_Combattest4]<COLOR,255,155,155>2<CLEARCOLOR>
 [CT_Combattest5]<COLOR,255,155,155>1<CLEARCOLOR>
-[CT_Combattest6]When are you ready, press <COMMAND_KICK> to begin.  Please equip the <COLOR,255,155,155>Pistol<CLEARCOLOR> for the next fight.
-[CT_Combattest7]When are you ready, press <COMMAND_KICK> to begin.  Please equip the <COLOR,255,155,155>Pipe<CLEARCOLOR> for the next fight.
-[CT_Combattest8]When are you ready, press <COMMAND_KICK> to begin.  Please equip the <COLOR,255,155,155>Pistol<CLEARCOLOR> for the next fight.
+[CT_Combattest6]Quando estiver pronto, aperte <COMMAND_KICK> para começar.  Agora, equipe a <COLOR,255,155,155>Pistola<CLEARCOLOR> para a próxima luta.
+[CT_Combattest7]Quando estiver pronto, aperte <COMMAND_KICK> para começar.  Agora, equipe o <COLOR,255,155,155>Cano de ferro<CLEARCOLOR> para a próxima luta.
+[CT_Combattest8]Quando estiver pronto, aperte <COMMAND_KICK> para começar.  Agora, equipe a <COLOR,255,155,155>Pistola<CLEARCOLOR> para a próxima luta.
 [CT_Combattest9]<COLOR,255,155,155>Test Complete:<CLEARCOLOR>  Please wait for instruction.
-[CT_reset1]<COLOR,255,155,155>Resetting in 30 seconds...<CLEARCOLOR>
-[CT_reset2]<COLOR,255,155,155>Resetting in 20 seconds...<CLEARCOLOR>
-[CT_reset3]<COLOR,255,155,155>Combat inicia em 10 segundos...<CLEARCOLOR>
+[CT_reset1]<COLOR,255,155,155>Reiniciando em 30 segundos...<CLEARCOLOR>
+[CT_reset2]<COLOR,255,155,155>Reiniciando em 20 segundos...<CLEARCOLOR>
+[CT_reset3]<COLOR,255,155,155>Combate inicia em 10 segundos...<CLEARCOLOR>
 [CT_reset4]<COLOR,255,155,155>Reiniciando em 5<CLEARCOLOR>
 [CT_reset5]<COLOR,255,155,155>Reiniciando em 4<CLEARCOLOR>
 [CT_reset6]<COLOR,255,155,155>Reiniciando em 3<CLEARCOLOR>
 [CT_reset7]<COLOR,255,155,155>Reiniciando em 2<CLEARCOLOR>
 [CT_reset8]<COLOR,255,155,155>Reiniciando em 1<CLEARCOLOR>
-[CT_Navtest1]You have reached the end of this feature test.
+[CT_Navtest1]Você terminou este teste.
 [CT_Navtest2]A <COLOR,255,155,155>saida<CLEARCOLOR> agora está aberta.
 [CT_Navtest3]Você pode sair quando estiver pronto...
 [CT_Text1]<COLOR,195,188,228>Isso de novo...
-[CT_Text2]<COLOR,195,188,228>Looking at it makes my head hurt,\nbut at the same time, it's like,\nso familiar....
-[CT_Text3]<COLOR,195,188,228>I know I've forgotten something\nreally important.....
-[CT_Text4]<COLOR,195,188,228>But I also have the feeling that I'd\nbe better off not remembering it.<CLEARCOLOR>
+[CT_Text2]<COLOR,195,188,228>Olhar para isso faz minha cabeça doer,\nmas ao mesmo tempo, isso parece,\ntäo familiar...
+[CT_Text3]<COLOR,195,188,228>Eu sei que me esqueci algo\nrealmente importante...
+[CT_Text4]<COLOR,195,188,228>Mesmo assim, eu tenho o sentimento de que\né melhor näo me lembrar.<CLEARCOLOR>
 
 ### Generic ###
 
@@ -1687,14 +1687,14 @@
 
 [M03_Interest_09]Sempre achei que isso parecia vivo...
 [M03_Interest_10]Ainda parece assustador.
-[M03_Interest_11]A mäe estava preparando algo aqui.
+[M03_Interest_11]Mamäe estava preparando algo aqui.
 [M03_Interest_12]Esta é uma foto antiga da mäe e do Josh.
 [M03_Interest_12b]Foi tirada há anos. Acho que ela gosta de se lembrar dele como seu bebê.
 
 [M03_Interest_13]Esta é a máquina de costura da mäe. Ela a usava para consertar nossas roupas.
 [M03_Interest_13b]Às vezes, passava o dia inteiro consertando roupas ou fazendo coisas para as outras senhoras da cidade.
 [M03_Interest_13c]Este é o livro de poesia francesa favorito da mamäe. \nEla adora poesia.
-[M03_Interest_13d]Mais poesia da mäe.
+[M03_Interest_13d]Mais poesias da mäe.
 [M03_Interest_13e]É uma pilha de roupa suja.
 [M03_Interest_13f]A caixa de joias da mamäe. Lembro que ela ficava brava se a gente tocava nela.
 
@@ -1746,7 +1746,7 @@
 [M03_Interest_51b]Josh ficou muito animado quando compraram isso para ele. Nunca compraram nada parecido para mim...
 [M03_Interest_52]O que é isso na cerca?
 [M03_Interest_53]É a mochila do Joshua!\nTem uma foto aqui dentro...
-[M03_Interest_54]Estranho...  Parrece que tem algo bloquenado do outro lado.
+[M03_Interest_54]Estranho...  Parece que tem algo bloquenado do outro lado.
 [M03_Interest_55]A porta está trancada.
 [M03_Interest_55b]Eu tenho certeza de ter ouvido uma voz do outro lado...
 [M03_Interest_56]Talvez minha mäe esteja aqui dentro descansando...
@@ -1854,7 +1854,7 @@
 
 [M04_Interest_19_Open_Graves_Before_Curtis]Por que aquele cara está cavando covas??
 [M04_Interest_20_Open_Graves_After Curtis]Prefeito Bartlett estava cavando covas bem aqui agora pouco.  Por que ele faria isso?
-[M04_Interest_21_Locked_Bartlett_Mausoleum_Door]este portäo leva até o mausoléu da família Bartlett.\nEstá trancado.
+[M04_Interest_21_Locked_Bartlett_Mausoleum_Door]Este portäo leva até o mausoléu da família Bartlett.\nEstá trancado.
 [M04_Interest_22_Bartlett_Mausoleum_Inscription]A inscriçäo diz: <COLOR,195,188,228>E até nos encontrarmos novamente, que Deus o proteja e guarde na palma de sua mäo.<CLEARCOLOR>
 [M04_Interest_23_First_Bartlett_Coffin_on_Left]<COLOR,195,188,228>Charles Bartlett. Morreu aos 18... alguma coisa.<CLEARCOLOR> Eu näo consigo ler o restante, isso está muito velho.
 [M04_Interest_24_Second_Bartlett_Coffin_on_Right]<COLOR,195,188,228>Patricia Bartlett. Morreu aos 19 anos...<CLEARCOLOR> näo dá pra ler o resto.
@@ -1945,74 +1945,74 @@
 [M04_Interest_81_Generic_Sinkhole_Comment_D]Que esquisito... Parece que o mundo termina bem aqui.
 
 # Additional Story Strings #
-[M04_Interest_82_Wall_of_Crypts_1]There are so many people buried here... I guess the town really does have a long history.
-[M04_Interest_83_Wall_of_Crypts_1]I don't know if I want to get burned like that, even when I'm dead.
-[M04_Interest_84_Wall_of_Crypts_2]I remember when they put up these walls to expand the cemetery.
-[M04_Interest_85_Wall_of_Crypts_2]This place goes on forever. It's a lot larger than I remember it.
-[M04_Interest_85_Wall_of_Crypts_2b]I bet you could get lost for a long time in here if you didn't know where you were going...
+[M04_Interest_82_Wall_of_Crypts_1]Tem tanta gente enterrada aqui... Acho que a cidade realmente tem muita história.
+[M04_Interest_83_Wall_of_Crypts_1]Eu näo sei se quero ficar queimado desse jeito, mesmo se eu morrer.
+[M04_Interest_84_Wall_of_Crypts_2]Lembro deles terem colocado essas paredes para expandir o cemitério.
+[M04_Interest_85_Wall_of_Crypts_2]Esse lugar parece infinito. É muito maior do que eu lembrava...
+[M04_Interest_85_Wall_of_Crypts_2b]Eu aposto que é bem fácil se perder aqui se você näo souber onde está indo...
 
 [M04_Interest_86_Fountain]Parece que o chäo cedeu debaixo dessa fonte.
-[M04_Interest_89_Big_Sitting_Crypts]This is the crypt of Cornelius Fitch.  The Fitches are one of the four founding families of this town.
-[M04_Interest_89_Big_Sitting_Crypts2]<COLOR,195,188,228>In memory of\nCornelius Fitch\nwho died January 26th 1878\nat 61 years of age.\n<CLEARCOLOR>
-[M04_Interest_89_Big_Sitting_Crypts3]<COLOR,195,188,228>Neither friend nor physician could stave\nMy mortal body from this grave\nNeither dirt nor clay shall keep me here\nWhen the Lord shall call me to appear.<CLEARCOLOR>
+[M04_Interest_89_Big_Sitting_Crypts]A cripta de Cornelius Fitch. Os Fitch säo uma das quatro famílias originárias da cidade.
+[M04_Interest_89_Big_Sitting_Crypts2]<COLOR,195,188,228>Em memória de\nCornelius Fitch\nque morreu em 26/01/1878\naos 61 anos de idade.\n<CLEARCOLOR>
+[M04_Interest_89_Big_Sitting_Crypts3]<COLOR,195,188,228>Nem amigos nem médicos puderam impedir\nmeu corpo mortal de chegar até aqui.\nNem terra nem argila me manteräo aqui\nquando o Senhor me chamar para subir.<CLEARCOLOR>
 
-[M04_Interest_90_Big_Sitting_Crypts]This is the crypt of Mason Bartlett, one of Shepherd's Glen's original founders.
-[M04_Interest_90_Big_Sitting_Crypts2]<COLOR,195,188,228>In memory of\nMason Bartlett\nwho died\nMarch 10th 1874\nat 55 years of age.<CLEARCOLOR>
+[M04_Interest_90_Big_Sitting_Crypts]A cripta de Mason Bartlett, um dos fundadores de Shepherd's Glen.
+[M04_Interest_90_Big_Sitting_Crypts2]<COLOR,195,188,228>Em memória de \nMason Bartlett\nwho died\nMarch 10th 1874\nat 55 de idade.<CLEARCOLOR>
 [M04_Interest_90_Big_Sitting_Crypts3]<COLOR,195,188,228>Ye living mortals stop and read\nA solemn AVISO from the dead\nYour life is frail and death is sure\nBelieve in Christ and Heaven secure.<CLEARCOLOR>
-[M04_Interest_90_Big_Sitting_Crypts4]<COLOR,195,188,228>In memory of\nHorace H. Bartlett\nwho passed in\na powder mill explosion\nMarch 10th 1934\nat 29 years of age.<CLEARCOLOR>
+[M04_Interest_90_Big_Sitting_Crypts4]<COLOR,195,188,228>Em memória de \nHorace H. Bartlett\nwho passed in\na powder mill explosion\nMarch 10th 1934\nat 29 de idade.<CLEARCOLOR>
 [M04_Interest_90_Big_Sitting_Crypts5]<COLOR,195,188,228>Farewell my friends and children dear\nPrepare for death while I sleep here.\nCould you but know as much as I,\nHow soon would you prepare to die.<CLEARCOLOR>
-[M04_Interest_90_Big_Sitting_Crypts6]<COLOR,195,188,228>Lydia Bartlett\nDied April 5th 1894\nat 22 years of age.<CLEARCOLOR>
+[M04_Interest_90_Big_Sitting_Crypts6]<COLOR,195,188,228>Lydia Bartlett\nDied April 5th 1894\nat 22 de idade.<CLEARCOLOR>
 [M04_Interest_90_Big_Sitting_Crypts7]<COLOR,195,188,228>Here beneath this gloomy stone\nI sleep so quiet and alone.<CLEARCOLOR>
-[M04_Interest_90_Big_Sitting_Crypts8]<COLOR,195,188,228>In memory of\nHenry Bartlett\nwho died in a fire\nJuly 26th 1916.<CLEARCOLOR>
-[M04_Interest_90_Big_Sitting_Crypts9]<COLOR,195,188,228>An infant son of Henry Bartlett\nDied December 20th 1913.<CLEARCOLOR>
-[M04_Interest_90_Big_Sitting_Crypts10]<COLOR,195,188,228>In memory of\nCaleb Bartlett\nson of Henry and Mary Bartlett\nDied August 3rd 1917\nat 6 years of age.<CLEARCOLOR>
-[M04_Interest_90_Big_Sitting_Crypts10b]<COLOR,195,188,228>In memory of\nMary Bartlett\nDied August 4th 1917\nat 24 years of age.<CLEARCOLOR>
+[M04_Interest_90_Big_Sitting_Crypts8]<COLOR,195,188,228>Em memória de \nHenry Bartlett\nwho died in a fire\nJuly 26th 1916.<CLEARCOLOR>
+[M04_Interest_90_Big_Sitting_Crypts9]<COLOR,195,188,228>An infant Filho de Henry Bartlett\nDied December 20th 1913.<CLEARCOLOR>
+[M04_Interest_90_Big_Sitting_Crypts10]<COLOR,195,188,228>Em memória de \nCaleb Bartlett\nFilho de Henry and Mary Bartlett\nDied August 3rd 1917\naos 6 anos de idade.<CLEARCOLOR>
+[M04_Interest_90_Big_Sitting_Crypts10b]<COLOR,195,188,228>Em memória de \nMary Bartlett\nFalecida em 04/08/1917\naos 24 anos de idade.<CLEARCOLOR>
 
-[M04_Interest_90_Big_Sitting_Crypts11]<COLOR,195,188,228>In memory of\nMrs. Lois Bartlett\nwife of Ephraim Bartlett\nDied May 6th 1896\nat 19 years of age.<CLEARCOLOR>
+[M04_Interest_90_Big_Sitting_Crypts11]<COLOR,195,188,228>Em memória da \nSra. Lois Bartlett\nesposa de Ephraim Bartlett\nFalecida em 06/05/1896\naos 19 anos de idade.<CLEARCOLOR>
 
 
-[M04_Interest_91_Big_Sitting_Crypts]Edwin Holloway is buried here.  He was one of Shepherd's Glen's original founders.
-[M04_Interest_91_Big_Sitting_Crypts2]<COLOR,195,188,228>In memory of\nEdwin Holloway\nDied November 4th 1879\nat 59 years of age.<CLEARCOLOR>
+[M04_Interest_91_Big_Sitting_Crypts]Edwin Holloway está enterrado aqui.  Ele era um dos fundadores da cidade.
+[M04_Interest_91_Big_Sitting_Crypts2]<COLOR,195,188,228>Em memória de \nEdwin Holloway\nDied November 4th 1879\nat 59 de idade.<CLEARCOLOR>
 [M04_Interest_91_Big_Sitting_Crypts3]<COLOR,195,188,228>Ye living mortals stop and read\nA solemn AVISO from the dead\nYour life is fleeting, only death is sure\nTrust in our god, all will be secure. <CLEARCOLOR>
 
-[M04_Interest_92_Big_Sitting_Crypts]Hey, this is the crypt of my ancestor, Isaac Shepherd.  He was one of the original founders of the town.
-[M04_Interest_92_Big_Sitting_Crypts2]<COLOR,195,188,228>In memory of\nIsaac Shepherd\nDied March 9th 1882\nat 62 years of age.<CLEARCOLOR>
+[M04_Interest_92_Big_Sitting_Crypts]A cripta de um dos meus ancestrais, Isaac Shepherd. Ele foi um dos fundadores da cidade.
+[M04_Interest_92_Big_Sitting_Crypts2]<COLOR,195,188,228>Em memória de \nIsaac Shepherd\nFaleceu em 09/03/1882\naos 62 anos de idade.<CLEARCOLOR>
 [M04_Interest_92_Big_Sitting_Crypts3]<COLOR,195,188,228>I depart this world to face what awaits me\nleaving behind this town to my children\nand if God is indeed fair and just\nI will never be forgiven. <CLEARCOLOR>
 [M04_Interest_92_Big_Sitting_Crypts4]<COLOR,195,188,228>The path of death must once be trod by all.<CLEARCOLOR>
 [M04_Interest_93_Big_Sitting_Crypts]These crypts contain the remains of an entire family, all buried together.
-[M04_Interest_94_Big_Sitting_Crypts]<COLOR,195,188,228>In memory of \nMrs. Catherine Nye\nwife of Mr. Arthur Nye\nDied February 5th 1917\nat 86 years of age.<CLEARCOLOR>
-[M04_Interest_95_Big_Sitting_Crypts]<COLOR,195,188,228>Sacred to the Memory of\nMr. John Nye\nDied May 5th 1915\nat 78 years of age;\nand of Mrs. Fanny Nye\nhis second wife\nDied June 16th 1921\nat 75 years of age.<CLEARCOLOR>
-[M04_Interest_96_Big_Sitting_Crypts1]<COLOR,195,188,228>In memory of\nMr. Amos Roberts\nDied March 3rd 1923\nat 66 years of age.<CLEARCOLOR>
+[M04_Interest_94_Big_Sitting_Crypts]<COLOR,195,188,228>Em memória da \nSra. Catherine Nye\nwife of Sr. Arthur Nye\nDied February 5th 1917\nat 86 de idade.<CLEARCOLOR>
+[M04_Interest_95_Big_Sitting_Crypts]<COLOR,195,188,228>Sacred to the Memory of\nSr. John Nye\nDied May 5th 1915\nat 78 de idade;\nand of Sra. Fanny Nye\nhis second wife\nDied June 16th 1921\nat 75 de idade.<CLEARCOLOR>
+[M04_Interest_96_Big_Sitting_Crypts1]<COLOR,195,188,228>Em memória de \nSr. Amos Roberts\nDied March 3rd 1923\nat 66 de idade.<CLEARCOLOR>
 [M04_Interest_96_Big_Sitting_Crypts2]<COLOR,195,188,228>Lamented most by those that knew him best.<CLEARCOLOR>
 [M04_Interest_97_Big_Sitting_Crypts1]<COLOR,195,188,228>Here lie interred\nthe children of\nErastus and Margaret.\nNancy, died Feb 17th 1905\n1 year 8 months & 22 days.\nA son still born\nMay 11 1906.<CLEARCOLOR>
-[M04_Interest_98_Big_Sitting_Crypts1]<COLOR,195,188,228>Eliza Sturges,\nDaughter of William & Sally Sturges\nDied April 28th 1916\nage 1 year, 9 months.<CLEARCOLOR>
+[M04_Interest_98_Big_Sitting_Crypts1]<COLOR,195,188,228>Eliza Sturges,\nFilha de William & Sally Sturges\nDied April 28th 1916\nage 1 year, 9 months.<CLEARCOLOR>
 [M04_Interest_98_Big_Sitting_Crypts2]<COLOR,195,188,228>Those little rites, a tear\na stone receive;\n'tis all a father, all a friend\ncan give.<CLEARCOLOR>
 
-[M04_Interest_99_Husband_and_Wife_CoffinsA]<COLOR,195,188,228>In memory of \nMrs. Elizabeth Sturges,\nwife of Mr. Jonathan Sturges,\nDied March 17th 1913.<CLEARCOLOR>
-[M04_Interest_99_Husband_and_Wife_CoffinsB]<COLOR,195,188,228>In memory of \nJonathan Sturges,\nDied September 14th 1918.<CLEARCOLOR>
+[M04_Interest_99_Husband_and_Wife_CoffinsA]<COLOR,195,188,228>Em memória de \nSra. Elizabeth Sturges,\nesposa do Sr. Jonathan Sturges,\nFalecida em 17/03/1913.<CLEARCOLOR>
+[M04_Interest_99_Husband_and_Wife_CoffinsB]<COLOR,195,188,228>Em memória de \nJonathan Sturges,\nFalecido em 14/09/1918.<CLEARCOLOR>
 
-[M04_Interest_100_Husband_and_Wife_CoffinsA1]<COLOR,195,188,228>In memory of\nBetsey Thatcher,\ndaughter of Timothy & Dorothy Thatcher\nDied March 28th 1890,\nat 16 years of age.<CLEARCOLOR>
+[M04_Interest_100_Husband_and_Wife_CoffinsA1]<COLOR,195,188,228>Em memória de \nBetsey Thatcher,\nFilha de Timothy & Dorothy Thatcher\nDied March 28th 1890,\nat 16 de idade.<CLEARCOLOR>
 [M04_Interest_100_Husband_and_Wife_CoffinsA2]<COLOR,195,188,228>Farewell my weeping parents dear\nFarewell my brothers and sisters near\nI wish you all to live and love,\nand make your peace with God above.<CLEARCOLOR>
 
-[M04_Interest_100_Husband_and_Wife_CoffinsB1]<COLOR,195,188,228>This stone erected by\nTimothy Thatcher\nin perpetual memory of his wife\nMrs. Dorothy Thatcher\nDied March 28th 1891.<CLEARCOLOR>
+[M04_Interest_100_Husband_and_Wife_CoffinsB1]<COLOR,195,188,228>This stone erected by\nTimothy Thatcher\nin perpetual memory of his wife\nSra. Dorothy Thatcher\nDied March 28th 1891.<CLEARCOLOR>
 [M04_Interest_100_Husband_and_Wife_CoffinsB2]<COLOR,195,188,228>Through life in virtuous path she trod\nIn death her hope was placed in God.<CLEARCOLOR>
 
-[M04_Interest_101_More_Generic_TombstoneA1]It's a group of family graves.
-[M04_Interest_101_More_Generic_TombstoneA2]The dedications are faded and I can't read them from here.
+[M04_Interest_101_More_Generic_TombstoneA1]Säo várias sepulturas de famílias aqui.
+[M04_Interest_101_More_Generic_TombstoneA2]As dedicatórias estäo bem apagadas, näo da pra ler direito...
 
 [M04_Interest_102_More_Generic_Tombstone]Small plots like this were usually purchased by middle-class families that wished to be buried together.
 [M04_Interest_103_More_Generic_Tombstone]It's another cluster of old graves.
 [M04_Interest_104_More_Generic_Tombstone]This girl died at such a young age.
 [M04_Interest_105_More_Generic_Tombstone]All the people in this plot seem to have died of some disease.\nHow horrible.
-[M04_Interest_106_More_Generic_Tombstone]<COLOR,195,188,228>In memory of\nRachel Smith\nDied in December\nat 32 years of age.<CLEARCOLOR>
+[M04_Interest_106_More_Generic_Tombstone]<COLOR,195,188,228>Em memória de \nRachel Smith\nDied in December\nat 32 de idade.<CLEARCOLOR>
 [M04_Interest_107_More_Generic_Tombstone]<COLOR,195,188,228>Troy Douglas Hampton\nDied February 13th 1888.<CLEARCOLOR>
-[M04_Interest_108_More_Generic_Tombstone]<COLOR,195,188,228>In memory of\nRhoda Hunt\nDaughter of Cap Nathan\nand Mrs. Lydia Hunt\nDied September 23rd 1864<CLEARCOLOR>
+[M04_Interest_108_More_Generic_Tombstone]<COLOR,195,188,228>Em memória de \nRhoda Hunt\nFilha de Cap Nathan\nand Sra. Lydia Hunt\nDied September 23rd 1864<CLEARCOLOR>
 [M04_Interest_109_More_Generic_Tombstone]<COLOR,195,188,228>Sleep on sweet babe and take\nthy rest.\nGod call'd thee home,\nHe saw it best.<CLEARCOLOR>
-[M04_Interest_110_More_Generic_Tombstone]<COLOR,195,188,228>In memory of\nLemuel Jacobs\nDied March 10th 1934\nat 55 years of age.<CLEARCOLOR>
+[M04_Interest_110_More_Generic_Tombstone]<COLOR,195,188,228>Em memória de \nLemuel Jacobs\nDied March 10th 1934\nat 55 de idade.<CLEARCOLOR>
 [M04_Interest_111_More_Generic_Tombstone]<COLOR,195,188,228>The immortal part has on swift pinions flown\nTo take its sentence in the world unknown.<CLEARCOLOR>
-[M04_Interest_112_More_Generic_Tombstone]<COLOR,195,188,228>In memory of\nLydia Bartlett\nDied March 1st 1922 \nat 25 years of age.<CLEARCOLOR>
+[M04_Interest_112_More_Generic_Tombstone]<COLOR,195,188,228>Em memória de \nLydia Bartlett\nDied March 1st 1922 \nat 25 de idade.<CLEARCOLOR>
 [M04_Interest_113_More_Generic_Tombstone]<COLOR,195,188,228>There is a calm for those that weep,\nA rest for weary pilgrims found,\nAnd while the mouldering ashes sleep,\nLow in the ground;\nThe soul of origin divine,\nGods glorious image freed from clay,\nIn Heavens eternal sphere shall shine,\nA star of day.<CLEARCOLOR>
-[M04_Interest_114_More_Generic_Tombstone]<COLOR,195,188,228>In memory of\nLydia Rush\nDied March 1st 1872\nat 25 years of age.<CLEARCOLOR>
+[M04_Interest_114_More_Generic_Tombstone]<COLOR,195,188,228>Em memória de \nLydia Rush\nDied March 1st 1872\nat 25 de idade.<CLEARCOLOR>
 
 [M04_Interest_106_Bartlett_Mausoleum]O Mausoléu Bartlett.
 [M04_Interest_107_Bartlett_Mausoleum]O portäo está emperrado.
@@ -2070,10 +2070,10 @@
 [M04_Interest_155_Truck]Quem estacionaria o caminhäo aqui?
 
 [M04_Interest_157_Bridge]Esta ponte costumava levar até a vinícola Bartlett.
-[M04_Interest_158_Bridge]O que diabos aconteceu com ele?
-[M04_Interest_159_Fence_Across_Street]Por que há uma cerca aqui?
+[M04_Interest_158_Bridge]O que será que houve?
+[M04_Interest_159_Fence_Across_Street]Por que tem uma cerca aqui?
 [M04_Interest_160_Fence_Across_Street]Cara, esta cidade mudou muito desde que eu fui embora.
-[M04_Interest_161_Back_Gate_for_the_Police_Station]O portäo do estacionamento do xerife parece estar trancado.
+[M04_Interest_161_Back_Gate_for_the_Police_Station]O portäo do estacionamento da delegacia parece estar trancado.
 [M04_Interest_164_Covered_Bridge_Initials]Um casal gravou suas iniciais nesta ponte.
 [M04_Interest_165_Big_Fallen_Tree]Parece que a margem do rio foi levada pela água.
 [M04_Interest_167_Curtis_Sign]<COLOR,195,188,228>Ackres da Sucata<CLEARCOLOR>
@@ -2103,39 +2103,39 @@
 [M04_Interest_200_Gate_01]Está trancado. Há uma luz vinda do outro lado.
 [M04_Interest_201_Gate_01]Era aqui que os enlutados se sentavam.
 [M04_Interest_202_Tree_01]Parece que esta árvore está morta há algum tempo.
-[M04_Interest_203_AboveGround_01]Why have so many people died?
-[M04_Interest_204_AboveGround_01]These people don't even seem that old.
-[M04_Interest_205_AboveGround_01]What happened to all these people?
-[M04_Interest_206_AboveGround_01]So many people dead.
-[M04_Interest_207_AboveGround_01]So many children's tombs.
+[M04_Interest_203_AboveGround_01]Por que tanta gente morreu?
+[M04_Interest_204_AboveGround_01]Essas pessoas nem parecem täo velhas pra isso.
+[M04_Interest_205_AboveGround_01]O que houve com toda essa gente?
+[M04_Interest_206_AboveGround_01]Tantos mortos...
+[M04_Interest_207_AboveGround_01]Muitas tumbas de crianças.
 [M04_Interest_207_Gazebo_01]Este gazebo já viu dias melhores.
-[M04_Interest_Pedram_01]<COLOR,195,188,228>Ped Davenport\n1825 - 1884\nWe won't be able to ask you anything now.<CLEARCOLOR>
-[M04_Interest_Boyle_01]<COLOR,195,188,228>Roxy N. Rigby\nNovember 24th 1820 - January 16th 1862\nLove is eternal and can never be leashed.<CLEARCOLOR>
-[M04_Interest_Colin_01]<COLOR,195,188,228>Colin B.\nDied January 20th, 1876\nBefore his time at 32 years of age.<CLEARCOLOR>
+[M04_Interest_Pedram_01]<COLOR,195,188,228>Ped Davenport\n1825 - 1884\nNós näo poderemos te pedir nada agora.<CLEARCOLOR>
+[M04_Interest_Boyle_01]<COLOR,195,188,228>Roxy N. Rigby\n24/11/1862\nO amor é eterno e jamais pode ser domado.<CLEARCOLOR>
+[M04_Interest_Colin_01]<COLOR,195,188,228>Colin B.\nDied January 20th, 1876\nBefore his time at 32 de idade.<CLEARCOLOR>
 [M04_Interest_Colin_02]<COLOR,195,188,228>All who knew him have agreed,\nhe was a good man.<CLEARCOLOR>
-[M04_Interest_Children_01]More childrens' graves, so many have died young here.
-[M04_Interest_Fountain_01]I bet this fountain was beautiful at one time.
-[M04_Interest_Tombs_01]These tombs seem to go on forever.
-[M04_Interest_Vines_01]This gate is padlocked and overgrown with vines.
-[M04_Interest_Family_Plot_01]I wonder whose family plot this is?
-[M04_Interest_End_Of_Road_01]It's just so crazy, half the town is gone.
-[M04_Interest_Big_Tree_01]Wow this tree looks very old, and somewhat creepy.
-[M04_Interest_Big_Tree_02]This tree looks like it could fall over any second.
-[M04_Interest_Statue]What a creepy looking statue.
-[M04_Interest_Fitch_Mausoleum]This is the Fitch family mausoleum, they are one of the four founding families.
-[M04_Interest_Ceremonial_Lock]The lock to the door looks like the one from Dad's hunting room.
-[M04_Interest_Ceremonial_Lock1]I wonder how I'm supposed to open it?
+[M04_Interest_Children_01]Mais covas de crianças... Tantas morreram aqui, täo jovens...
+[M04_Interest_Fountain_01]Tenho certeza de que essa fonte já foi linda um dia.
+[M04_Interest_Tombs_01]Tem túmulos até onde os olhos alcançam.
+[M04_Interest_Vines_01]Esse portäo além de trancado ta cheio de videiras... Näo da pra abrir.
+[M04_Interest_Family_Plot_01]De qual família será isso aqui?
+[M04_Interest_End_Of_Road_01]Isso é loucura. Metade da cidade sumiu.
+[M04_Interest_Big_Tree_01]Uau, que arvore velha... e assustadora também.
+[M04_Interest_Big_Tree_02]Essa árvore parece que vai cair a qualquer instante.
+[M04_Interest_Statue]Que estátua mais assustadora.
+[M04_Interest_Fitch_Mausoleum]Esse é o mausoléu dos Fitch, eles säo uma das quatro famílias originárias.
+[M04_Interest_Ceremonial_Lock]A fechadura parece a que tem na sala de caça do meu pai.
+[M04_Interest_Ceremonial_Lock1]O que será que é a chave para essa fechadura estranha?
 
 
 
-[M04_Interest_Holloway_Mausoleum]This is the Holloway family mausoleum.  They are one of the four founding families.
-[M04_Interest_Dumpster1]Smells like something died in this dumpster.
-[M04_Interest_Dumpster2]Someone needs to empty these dumpsters.
-[M04_Interest_Truck1]Doesn't look like this truck has moved in awhile.
-[M04_Interest_Bloody_Table]Is that paint or blood on the table?
+[M04_Interest_Holloway_Mausoleum]Esse é o mausoléu dos Holloway, eles säo uma das quatro famílias originárias..
+[M04_Interest_Dumpster1]Minha nossa... Cheira täo mal que parece que algo morreu aqui.
+[M04_Interest_Dumpster2]Alguém tinha que esvaziar essas lixeiras logo.
+[M04_Interest_Truck1]Parece que isso näo se mexe faz muito tempo.
+[M04_Interest_Bloody_Table]Isso é tinta ou sangue? Sinistro...
 [M04_Interest_Water_Heater]Some old water heaters and valves.
-[M04_Interest_Big_Winch]Thats a big winch.
-[M04_Interest_Dumpster_Manure]Wow this stinks.  I think it's filled with manure.
+[M04_Interest_Big_Winch]Um guincho enorme.
+[M04_Interest_Dumpster_Manure]Nossa, isso fede. Acho que está cheio de esterco.
 [M04_Interest_Jaehoon_Generator]This is a big generator, I wonder where he got it from.
 [M04_Interest_Old_Freezer]It's an old refrigerator.
 [M04_Interest_Toilets_Curtis]Curtis seems to like old toilets.
@@ -2158,17 +2158,17 @@
 [M04_Interest_Random_Junk5]I wonder what he fixes with these parts?
 [M04_Interest_Television_Dont_Work]I doubt these televisions work anymore.
 [M04_Interest_So_Many_Appliances]How did he acquire so many appliances?
-[M04_Interest_Why_Under_Roof]Why did Curtis put this junk under a roof?
-[M04_Interest_Unused_Space]I'm suprised there isn't junk stacked up here.
+[M04_Interest_Why_Under_Roof]Por que Curtis colocou essas coisas aqui dentro?
+[M04_Interest_Unused_Space]Estou surpreso que aqui näo tenha nada.
 [M04_Interest_Blocked_Off]There's too much junk.  I can't get through.
 [M04_Interest_Big_Generator]Where did he get a generator this size?
 [M04_Interest_Scrap_Metal]Looks like a pile of scrap metal.
 [M04_Interest_Not_Sure]I'm not even sure what this is.
-[M04_Interest_large_container]I wonder what he's going to do with a container this size.
+[M04_Interest_large_container]O que será que um cara faria com um conteiner desse tamanho?
 [M04_Interest_Truck_On_Blocks]Looks like this truck has been up on blocks for a long time.
-[M04_Interest_Still_Grilling]Does this grill still work?
+[M04_Interest_Still_Grilling]Será que a churrasqueira ainda funciona?
 [M04_Interest_Vending_Empty]An empty vending machine.  How interesting.
-[M04_Interest_Vending_Full]Damn, wish I had some change.  Those snacks look good.
+[M04_Interest_Vending_Full]Cara, como eu queria ter um trocado agora. Os salgadinhos parecem muito bons.
 [M04_Interest_Old_Sandwich]This sandwich looks old.  Is Curtis really eating that?
 [M04_Interest_Old_Coffee]This coffee looks like it is about a week old.
 [M04_Interest_Clocks_Dont_Work]I wonder why these clocks won't work anymore.
@@ -2224,47 +2224,47 @@
 [M04_Interest_Second_Twin_Clue_02]There's an additional inscription below.
 [M04_Interest_Second_Twin_Clue_03]<COLOR,195,188,228>Inseperable, yet divided,\ntwo halves of the same person,\nin two places, now forever apart.<CLEARCOLOR>
 
-[M04_Interest_Map_Cemetary]<COLOR,195,188,228>Looks like a map of the cemetary.<CLEARCOLOR>
+[M04_Interest_Map_Cemetary]<COLOR,195,188,228>Parece um mapa para o cemitério.<CLEARCOLOR>
 
-[M04_Interest_800_CurtisGate_01]It's locked.
-[M04_Interest_800_CurtisGate_02]Looks like Curtis must have closed shop and skipped town.
-[M04_Interest_802_JoeyCoffinLock]There's some sorta strange lock keeping it closed.
-[M04_Interest_804_CrashedCarFeral]It appears I am not the only one that doesn't like these dogs. Ouch.
-[M04_Interest_805_CrashedCarBack]What happened here?
-[M04_Interest_806_CrashedCarBlood]This doesn't look good. Did one of those dogs do this?
-[M04_Interest_807_PoliceStationSign]Shepherd's Glen Police Station
-[M04_Interest_807_PoliceStationSign2]We didn't get to see dad much, since he spent so much time here.
-[M04_Interest_808_BartlettWinerySign]This winery is owned by the Bartlett Family.
-[M04_Interest_808_BartlettWinerySign2]My parents would go to dinner there occasionally.
-[M04_Interest_808_BartlettWinerySign3]My brother and I were never allowed to come along.
-[M04_Interest_810_CurtisVending]Vending machines. Interesting.
-[M04_Interest_812_FoldedOrderSuit]Rubber gloves and boots, what kind of crap does Curtis work in?
+[M04_Interest_800_CurtisGate_01]Trancado...
+[M04_Interest_800_CurtisGate_02]Parece que o Curtis trancou tudo e fugiu da cidade.
+[M04_Interest_802_JoeyCoffinLock]Tem uma tranca estranha fechando isso.
+[M04_Interest_804_CrashedCarFeral]Parece que eu não sou o único que não gosta desses cachorros. Ouch.
+[M04_Interest_805_CrashedCarBack]O que houve aqui?
+[M04_Interest_806_CrashedCarBlood]Nossa, isso ta horrível. Será que foi um daqueles cachorros?
+[M04_Interest_807_PoliceStationSign]Delegacia de Polícia de Shepherd's Glen
+[M04_Interest_807_PoliceStationSign2]Nós não viamos muito o papai, já que ele passava boa parte do dia aqui.
+[M04_Interest_808_BartlettWinerySign]Esse vinhedo é propriedade dos Bartlett.
+[M04_Interest_808_BartlettWinerySign2]Meus pais jantavam lá de vez em quando.
+[M04_Interest_808_BartlettWinerySign3]Meu irmão e eu nunca podiamos ir junto.
+[M04_Interest_810_CurtisVending]Máquinas de venda. Interessante.
+[M04_Interest_812_FoldedOrderSuit]Luvas de borracha e botas. Que tipo de merda o Curtis trabalha exatamente?
 
-[M04_Interest_Shepherd_Tomb1]<COLOR,195,188,228>In memory of\nWilliam Shepherd\nDied March 1st 1889\nat 25 years of age.<CLEARCOLOR>
-[M04_Interest_Shepherd_Tomb2]<COLOR,195,188,228>In memory of\nCatherine Shepherd\nBeloved wife of William Shepherd\nDied January 1st 1889\nat 24 years of age.<CLEARCOLOR>
+[M04_Interest_Shepherd_Tomb1]<COLOR,195,188,228>Em memória de \nWilliam Shepherd\nDied March 1st 1889\nat 25 de idade.<CLEARCOLOR>
+[M04_Interest_Shepherd_Tomb2]<COLOR,195,188,228>Em memória de \nCatherine Shepherd\nBeloved wife of William Shepherd\nDied January 1st 1889\nat 24 de idade.<CLEARCOLOR>
 
-[M04_Interest_Shepherd_Tomb3]<COLOR,195,188,228>Here lies\nDavid Shepherd\nDied March 1st 1910\nat 34 years of age.<CLEARCOLOR>
-[M04_Interest_Shepherd_Tomb4]<COLOR,195,188,228>In loving memory of\nStephanie Shepherd\nBeloved wife of David Shepherd\nDied December 31st 1899\nat 24 years of age.<CLEARCOLOR>
-[M04_Interest_Shepherd_Tomb5]<COLOR,195,188,228>In memory of\nEdward Shepherd\nSon of David and Stephanie<CLEARCOLOR>
-[M04_Interest_Shepherd_Tomb6]<COLOR,195,188,228>In memory of\nMichael Shepherd\nEldest son of David and Stephanie\nTragically lost at the at 9 years old.<CLEARCOLOR>
+[M04_Interest_Shepherd_Tomb3]<COLOR,195,188,228>Aqui está\nDavid Shepherd\nDied March 1st 1910\nat 34 de idade.<CLEARCOLOR>
+[M04_Interest_Shepherd_Tomb4]<COLOR,195,188,228>Para lembrar com amor de\nStephanie Shepherd\nBeloved wife of David Shepherd\nDied December 31st 1899\nat 24 de idade.<CLEARCOLOR>
+[M04_Interest_Shepherd_Tomb5]<COLOR,195,188,228>Em memória de \nEdward Shepherd\nFilho de David e Stephanie<CLEARCOLOR>
+[M04_Interest_Shepherd_Tomb6]<COLOR,195,188,228>Em memória de \nMichael Shepherd\nfilho mais velho de David and Stephanie\nTragically lost at the at 9 years old.<CLEARCOLOR>
 
 
 
-[M04_Interest_Fitch_Tomb1]<COLOR,195,188,228>In memory of\nAndrew Fitch\nwho died\nApril 15th 1887\nat 32 years of age.<CLEARCOLOR>
-[M04_Interest_Fitch_Tomb2]<COLOR,195,188,228>In memory of\nElizabeth Fitch\nwife of Andrew Fitch\nPassed away on June 29th 1897\nat 40 years of age.<CLEARCOLOR>
-[M04_Interest_Fitch_Tomb3]<COLOR,195,188,228>In loving memory of\nStephen Fitch\nSon of Andrew and Elizabeth\nTragically lost at 7 years old.\n<CLEARCOLOR>
-[M04_Interest_Fitch_Tomb4]<COLOR,195,188,228>In loving memory of\nRegina Fitch\nDaughter of Andrew and Elizabeth\nPassed away on May 14th 1923\nat 46 years of age.<CLEARCOLOR>
+[M04_Interest_Fitch_Tomb1]<COLOR,195,188,228>Em memória de \nAndrew Fitch\nwho died\nApril 15th 1887\nat 32 de idade.<CLEARCOLOR>
+[M04_Interest_Fitch_Tomb2]<COLOR,195,188,228>Em memória de \nElizabeth Fitch\nwife of Andrew Fitch\nPassed away on June 29th 1897\nat 40 de idade.<CLEARCOLOR>
+[M04_Interest_Fitch_Tomb3]<COLOR,195,188,228>Para lembrar com amor de\nStephen Fitch\nFilho de Andrew and Elizabeth\nTragically lost at 7 years old.\n<CLEARCOLOR>
+[M04_Interest_Fitch_Tomb4]<COLOR,195,188,228>Para lembrar com amor de\nRegina Fitch\nFilha de Andrew and Elizabeth\nPassed away on May 14th 1923\nat 46 de idade.<CLEARCOLOR>
 
-[M04_Interest_Holloway_Tomb1]<COLOR,195,188,228>Here lies\nFrederick Holloway\nNovember 24th 1865 - January 16th 1900<CLEARCOLOR>
-[M04_Interest_Holloway_Tomb2]<COLOR,195,188,228>In memory of\nNancy Holloway\nJune 22th 1870 - December 16th 1899<CLEARCOLOR>
-[M04_Interest_Holloway_Tomb3]<COLOR,195,188,228>In loving memory of\nHenry Holloway\nDecember 12th 1885 - February 4th 1892<CLEARCOLOR>
-[M04_Interest_Holloway_Tomb4]<COLOR,195,188,228>Here lies\nRobert Holloway\nAugust 17th 1887 - January 23rd 1910<CLEARCOLOR>
-[M04_Interest_Holloway_Tomb5]<COLOR,195,188,228>Here lies\nSophie Holloway\nJuly 29th 1889 - September 13th 1920<CLEARCOLOR>
-[M04_Interest_Holloway_Tomb_Edith]<COLOR,195,188,228>Here lies\nEdith Holloway\nFaithful wife of Edwin... the rest is illegible.<CLEARCOLOR>
-[M04_Interest_Holloway_Tomb7]<COLOR,195,188,228>In loving memory of\nKaren Holloway\nDaughter of Sophie and John\nTragically lost at 8 years old.<CLEARCOLOR>
-[M04_Interest_Holloway_Tomb8]<COLOR,195,188,228>Here lies\nJohn Holloway\nJune 12th 1868 - October 29th 1901<CLEARCOLOR>
+[M04_Interest_Holloway_Tomb1]<COLOR,195,188,228>Aqui está\nFrederick Holloway\nNovember 24th 1865 - January 16th 1900<CLEARCOLOR>
+[M04_Interest_Holloway_Tomb2]<COLOR,195,188,228>Em memória de \nNancy Holloway\nJune 22th 1870 - December 16th 1899<CLEARCOLOR>
+[M04_Interest_Holloway_Tomb3]<COLOR,195,188,228>Para lembrar com amor de\nHenry Holloway\nDecember 12th 1885 - February 4th 1892<CLEARCOLOR>
+[M04_Interest_Holloway_Tomb4]<COLOR,195,188,228>Aqui está\nRobert Holloway\nAugust 17th 1887 - January 23rd 1910<CLEARCOLOR>
+[M04_Interest_Holloway_Tomb5]<COLOR,195,188,228>Aqui está\nSophie Holloway\nJuly 29th 1889 - September 13th 1920<CLEARCOLOR>
+[M04_Interest_Holloway_Tomb_Edith]<COLOR,195,188,228>Aqui está\nEdith Holloway\nFaithful wife of Edwin... the rest is illegible.<CLEARCOLOR>
+[M04_Interest_Holloway_Tomb7]<COLOR,195,188,228>Para lembrar com amor de\nKaren Holloway\nFilha de Sophie and John\nTragically lost at 8 years old.<CLEARCOLOR>
+[M04_Interest_Holloway_Tomb8]<COLOR,195,188,228>Aqui está\nJohn Holloway\n12/06/1868 - 29/10/1901<CLEARCOLOR>
 
-[M04_Kill_The_Feral]I better take care of that dog before I examine this.
+[M04_Kill_The_Feral]É melhor eu dar um jeito no cachorro antes de olhar isso.
 
 ### M05_Hotel ###
 
@@ -2435,15 +2435,15 @@
 [M05_Interest_99_Dear_John_Letter]She's obviously upset that he doesn't pay attention to her anymore.
 [M05_Interest_100_Bartlett_Letter]It looks like a letter from the Hotel Manager.
 [M05_Interest_101_Elevator_Buttons]I don't have much of a choice - only one of the buttons seems to be functional.
-[M05_Interest_103_Note1]<COLOR,195,188,228>Paul,\n\nAs Mayor Bartlett will be working in the Atrium late this evening, please make sure the exterior service doors are left unlocked.\n\nMr. Jones<CLEARCOLOR>
+[M05_Interest_103_Note1]<COLOR,195,188,228>Paul,\n\nAs Mayor Bartlett will be working in the Atrium late this evening, please make sure the exterior service doors are left unlocked.\n\nSr. Jones<CLEARCOLOR>
 [M05_Interest_104_Note2]<COLOR,195,188,228>Sam,\n\nI can't thank you enough for all of your hard work in restoring the Atrium to its former glory.  My illness continues to worsen, but it gives me great comfort that my Carol and I can find solace in the beautiful garden you've created.  Thank you so much.\n\n-Clayton<CLEARCOLOR>
 [M05_Interest_105_Note3]<COLOR,195,188,228>Jim,\n\nThey were there again last night.  I saw Carol creeping towards the main ballroom and you know where that leads...  I don't know what the old man would do if he were to find out- given his health, he might not make it.  Do you think I should say something?\n\n-Paul<CLEARCOLOR>
 [M05_Interest_106_Note4]<COLOR,195,188,228>Dearest Sam,\n\nI can't describe how much my life has turned a corner since you've begun tending the Atrium.  With Clayton's illness slowly taking its toll, I've felt so lost and alone.  Your presence and your gift in restoring the garden... It's the single ray of light in my tired life, and it brings me joy. Thank you for the many wonderful evenings we've spent together.  It will be different - better - when I no longer have to pretend.  All my love.\n\n-Carol x<CLEARCOLOR>
 [M05_Interest_107_Note5]<COLOR,195,188,228>Carol, I'm struggling to find the right words.  My body was broken and now you've broken my heart too.  I don't know why.  I loved you unconditionally, gave you everything I had, I thought you loved me too.  I guess I was a fool.  There are things, things about Sam you don't know, and if you did, I guarantee you'd feel differently.  I want to forgive you Carol, but I can't... I've simply nothing left.<CLEARCOLOR>
 [M05_Interest_108_Note6]<COLOR,195,188,228>General Notice:\n\nA memorial service for Clayton Doyle will be held today at Dargento Cemetery.\nAll employees are required to attend.<CLEARCOLOR>
-[M05_Interest_109_Note7]<COLOR,195,188,228>Mr. Jones,\n\nI saw something strange the other night and I wanted to bring it to your attention.  I'd unlocked the service doors to the Atrium to let Mayor Bartlett in - just like I usually do.  I came by later to see if he needed any help (you know how I like to grow things too) and I saw him dragging one of his bags of fertilizer inside.<CLEARCOLOR>
+[M05_Interest_109_Note7]<COLOR,195,188,228>Sr. Jones,\n\nI saw something strange the other night and I wanted to bring it to your attention.  I'd unlocked the service doors to the Atrium to let Mayor Bartlett in - just like I usually do.  I came by later to see if he needed any help (you know how I like to grow things too) and I saw him dragging one of his bags of fertilizer inside.<CLEARCOLOR>
 [M05_Interest_109_Note7_b]<COLOR,195,188,228>Only it didn't look like any kind of fertilizer bag I've ever used.  It was real heavy and he seemed to be kinda struggling with it.  He didn't see me, so I crept away.  Should I tell the sheriff?  I don't know what to do, but I thought you should know.\n\nPaul Ashley<CLEARCOLOR>
-[M05_Interest_110_Note8]<COLOR,195,188,228>Delivery Notice ? Alchemilla Hospital :\n\n - Two oxygen tanks removed and replaced with full ones for Mr. Doyle's suite.<CLEARCOLOR>
+[M05_Interest_110_Note8]<COLOR,195,188,228>Delivery Notice ? Alchemilla Hospital :\n\n - Two oxygen tanks removed and replaced with full ones for Sr. Doyle's suite.<CLEARCOLOR>
 
 ### M06_SGTown3 ###
 
@@ -2721,7 +2721,7 @@
 [M08_CultRoom_TreeRoot1]This root must be from the old oak tree by the Town Hall.
 [M08_CultRoom_TreeRoot2]But that tree has been there forever, how old is this room?
 
-[M08_ShrinkNote_01]<COLOR,195,188,228> Dear Mr. Fitch, \nI was so disappointed that you missed our appointment last Thursday.  This is the third time in a month that you've not appeared at the allotted time.  I implore you to reschedule as soon as you can.  We've made such progress over the past few months - I can't stress how important it is that we maintain regular contact to ensure a speedy recovery.  I look forward to seeing you soon.\nSincerely.  Dr. Slater ? Chief Resident Psychiatric Department Alchemilla Hospital. <CLEARCOLOR>
+[M08_ShrinkNote_01]<COLOR,195,188,228> Dear Sr. Fitch, \nI was so disappointed that you missed our appointment last Thursday.  This is the third time in a month that you've not appeared at the allotted time.  I implore you to reschedule as soon as you can.  We've made such progress over the past few months - I can't stress how important it is that we maintain regular contact to ensure a speedy recovery.  I look forward to seeing you soon.\nSincerely.  Dr. Slater ? Chief Resident Psychiatric Department Alchemilla Hospital. <CLEARCOLOR>
 
 [M08_DegreeFitch_01]<COLOR,195,188,228>Southeastern University\nUpon the recommendation of the Faculty of\nThe School of Medicine\nAnd by the virtue of the authority vested in them by the Congress of the\nUnited States the Board of Trustees of Southeastern University\nHas conferred upon\nMartin Fitch\nMedicinae Doctor\nTogether with all honors rights and privileges thereto pertaining,\nIn recognition of all requirements for this degree.<CLEARCOLOR>
 
@@ -2858,7 +2858,7 @@
 # Additional Story Strings #
 [M09_Interest_66_First_Enter_Hunting_Room]So, this is Dad's secret hunting room.
 [M09_Interest_67_Dads_Calendar]Here's that calendar I saw in Joshua's Photo Album. Dad must have let him in here.
-[M09_Interest_69_Dads_Calendar]Son of a...What a spoiled brat.
+[M09_Interest_69_Dads_Calendar]Filho de a...What a spoiled brat.
 [M09_Interest_70_Attic_Family_Artifact_1_Bike]This is my old bike.
 [M09_Interest_71_Attic_Family_Artifact_1_Bike]I bought this with money I made from my paper route.
 [M09_Interest_72_Attic_Family_Artifact_1_Bike]Looks like the tires are flat, though.
@@ -3009,7 +3009,7 @@
 [M10_Gravestone_02a]<COLOR,195,188,228>William P.\nBorn Dec 12, 1904\nDied Feb 20, 1906\nElijah J. Born Oct 9, 1906\nDied Oct 30, 1906<CLEARCOLOR>
 [M10_Gravestone_02b]<COLOR,195,188,228>Taylor A.\nBorn April 29, 1908\nDied March 1, 1909\nRebecca H. Born May 15, 1910\nDied Nov 30, 1913<CLEARCOLOR>
 [M10_Gravestone_02c]<COLOR,195,188,228>Here they lie, lost and mourned by their loving parents\nHannah and Thomas Chaperon<CLEARCOLOR>
-[M10_Gravestone_03a]<COLOR,195,188,228>Here lies H. Fuller.\nDied January 1883\nTell those that pass, so that my\nTale will live on, and fill the\nHeart of those pausing on my grave<CLEARCOLOR>
+[M10_Gravestone_03a]<COLOR,195,188,228>Aqui está H. Fuller.\nDied January 1883\nTell those that pass, so that my\nTale will live on, and fill the\nHeart of those pausing on my grave<CLEARCOLOR>
 [M10_Gravestone_04a]This grave is worn almost entirely smooth, only a few lines are legible...
 [M10_Gravestone_04b]<COLOR,195,188,228>1\n4\nThis \nA<CLEARCOLOR>
 [M10_Gravestone_05a]The stone is chipped and aged, and most of the text has been lost. There are just a few lines that can still be read...
@@ -3044,7 +3044,7 @@
 [M10_Gravestone_02a]<COLOR,195,188,228>William P.\nBorn Dec 12, 1904\nDied Feb 20, 1906\nElijah J. Born Oct 9, 1906\nDied Oct 30, 1906<CLEARCOLOR>
 [M10_Gravestone_02b]<COLOR,195,188,228>Taylor A.\nBorn April 29, 1908\nDied March 1, 1909\nRebecca H. Born May 15, 1910\nDied Nov 30, 1913<CLEARCOLOR>
 [M10_Gravestone_02c]<COLOR,195,188,228>Here they lie, lost and mourned by their loving parents\nHannah and Thomas Chaperon<CLEARCOLOR>
-[M10_Gravestone_03a]<COLOR,195,188,228>Here lies H. Fuller.\nDied January 1883\nTell those that pass, so that my\nTale will live on, and fill the\nHeart of those pausing on my grave<CLEARCOLOR>
+[M10_Gravestone_03a]<COLOR,195,188,228>Aqui está H. Fuller.\nDied January 1883\nTell those that pass, so that my\nTale will live on, and fill the\nHeart of those pausing on my grave<CLEARCOLOR>
 [M10_Gravestone_04a]This grave is worn almost entirely smooth, only a few lines are legible...
 [M10_Gravestone_04b]<COLOR,195,188,228>1\n4\nThis \nA<CLEARCOLOR>
 [M10_Gravestone_05a]The stone is chipped and aged, and most of the text has been lost. There are just a few lines that can still be read...
@@ -4090,7 +4090,7 @@
 [IDS_MOV_M14_025_07]A família é a coisa mais importante, Alex. Eu faria qualquer coisa para protegê-los.
 [IDS_MOV_M14_025_08]É por isso que sacrifiquei minha filha.
 [IDS_MOV_M14_025_09]Como é?
-[IDS_MOV_M14_025_10]Os fundadores, eles tinham boas intenções. Deixaram a Ordem para começar uma nova vida em Shepherd's Glen.
+[IDS_MOV_M14_025_10]Os fundadores, eles tinham boas intençöes. Deixaram a Ordem para começar uma nova vida em Shepherd's Glen.
 [IDS_MOV_M14_025_11]Mas temiam a fúria do nosso Deus, entäo fizeram um pacto para nos manter seguros.
 [IDS_MOV_M14_025_12]Tudo o que era necessário era um pequeno sacrifício...
 [IDS_MOV_M14_025_13]Nossos filhos.
@@ -4752,11 +4752,11 @@
 [IDS_NOTES_Clue_to_Noras_Tormented_Childhood_2]<COLOR,195,188,228>Like she could beat Casey for first chair that easily. It doesn't matter. It's never good enough.\nI wish I could be like Elle -- able to do whatever I want and get away with it. And Mom admires her for it. It's not fair.<CLEARCOLOR>
 
 # Birth Certificate Elizabeth Holloway #
-[IDS_NOTES_Birth_Cirtificate_Elizabeth_Holloway_1]<COLOR,195,188,228>CERTIFICATE OF BIRTH\nCOUNTY OF TOLUCA, TO WIT:\nI, John Crowley, Clerk of the County Court in and for said County, do hereby certify that the Birth Record discloses the fact that Laura Elizabeth Holloway, son / daughter of Harrison Holloway and Margaret Holloway, was born in said County on the 2nd day of April, 198-.  <CLEARCOLOR>
+[IDS_NOTES_Birth_Cirtificate_Elizabeth_Holloway_1]<COLOR,195,188,228>CERTIFICATE OF BIRTH\nCOUNTY OF TOLUCA, TO WIT:\nI, John Crowley, Clerk of the County Court in and for said County, do hereby certify that the Birth Record discloses the fact that Laura Elizabeth Holloway, son / Filha de Harrison Holloway and Margaret Holloway, was born in said County on the 2nd day of April, 198-.  <CLEARCOLOR>
 [IDS_NOTES_Birth_Cirtificate_Elizabeth_Holloway_2]<COLOR,195,188,228>Given under my hand and official seal, this the 25th day of July, 198-.\nRecorded in Birth Register	(signed) John Crowley  Clerk, County Court\nNo. 2307, Page "S"		Toluca County	<CLEARCOLOR>
 
 # Birth Certificate Rebecca Shepherd #
-[IDS_NOTES_Birth_Cirtificate_Rebecca_Shepherd_1]<COLOR,195,188,228>CERTIFICATE OF BIRTH\nCOUNTY OF TOLUCA, TO WIT:\nI, Shelly Naseman, Clerk of the County Court in and for said County, do hereby certify that the Birth Record discloses the fact that Rebecca Anne Shepherd, son / daughter of David Shepherd and Martha Shepherd, was born in said County on the 21st day of November, 195-.  <CLEARCOLOR>
+[IDS_NOTES_Birth_Cirtificate_Rebecca_Shepherd_1]<COLOR,195,188,228>CERTIFICATE OF BIRTH\nCOUNTY OF TOLUCA, TO WIT:\nI, Shelly Naseman, Clerk of the County Court in and for said County, do hereby certify that the Birth Record discloses the fact that Rebecca Anne Shepherd, son / Filha de David Shepherd and Martha Shepherd, was born in said County on the 21st day of November, 195-.  <CLEARCOLOR>
 [IDS_NOTES_Birth_Cirtificate_Rebecca_Shepherd_2]<COLOR,195,188,228>Given under my hand and official seal, this the 15th day of December, 195-.\nRecorded in Birth Register	(signed) Shelly Naseman  Clerk, County Court\nNo. 1904, Page "F"		Toluca County	<CLEARCOLOR>
 
 # Death Certificate Rebecca Shepherd #
@@ -4832,7 +4832,7 @@
 # SHV Family Contracts #
 [IDS_NOTES_Shepherd_Family_Contract]<COLOR,195,188,228>We, the Family Shepherd, in order to ensure our continued protection and prosperity, do enter into this Holy Contract with our God, accept our duties as Master of Arms and willingly consign our child to the water in God's name.<CLEARCOLOR>
 [IDS_NOTES_Fitch_Family_Contract]<COLOR,195,188,228>We, the Family Fitch, in order to ensure our continued protection and prosperity, do enter into this Holy Contract with our God, accept our duties as Performer of Rites and willingly consign our child to the knife in God's name.<CLEARCOLOR>
-[IDS_NOTES_Bartlett_Family_Contract]<COLOR,195,188,228>We, the Family Bartlett, in order to ensure our continued protection and prosperity, do enter into this Holy Contract with our God, accept our duties as Executor of Law and willingly consign our child to the earth in God's name.<CLEARCOLOR>
+[IDS_NOTES_Bartlett_Family_Contract]<COLOR,195,188,228>Nós, da família Bartlett, visando manter e garantir a prosperidade e proteçäo, entramos neste Contrato Sagrado com nosso Deus, aceitando nossa responsabilidade como executores da lei e de boa vontade entregamos nossa criança a terra em nome de Deus.<CLEARCOLOR>
 [IDS_NOTES_Holloway_Family_Contract]<COLOR,195,188,228>We, the Family Holloway, in order to ensure our continued protection and prosperity, do enter into this Holy Contract with our God, accept our duties as Keeper of Lore and willingly consign our child to the noose in God's name.<CLEARCOLOR>
 
 # Text from a Book Jacket. Found somewhere in the Cult hideout? Suggests someone in The Order is a bit skeptical #
@@ -4852,7 +4852,7 @@
 [IDS_JOURNAL_Joshua_After_Alex_Falls_Through_Floor]Joshua ficou parado ali, sem fazer nada, enquanto eu caía no chäo. Talvez näo seja ele. Josh jamais faria isso comigo.
 [IDS_JOURNAL_Joshua_After_Alex_sees_Joshua_in_Graveyard]Vi Joshua novamente no cemitério. Mas ele sempre foge antes que eu consiga alcançá-lo. Do que ele tem tanto medo?
 [IDS_JOURNAL_Joshua_After_confronting_Lillian_about_Adam's_letter]A cidade inteira está desaparecendo e tudo leva a Silent Hill. É lá que Joshua está. Eu sei.
-[IDS_JOURNAL_Joshua_After_Judge_tells_Alex_about_the_sacrifices]Meu Deus. Nora Holloway, Joey Bartlett, Scarlet Fitch... todos assassinados pelos próprios pais. Mas näo Joshua, foi o que o Juiz Holloway disse. Papai näo conseguiu. Isso significa que ele está vivo.
+[IDS_JOURNAL_Joshua_After_Judge_tells_Alex_about_the_sacrifices]Meu Deus. Nora Holloway, Joey Bartlett, Scarlet Fitch... todos assassinados pelos próprios pais. Mas näo Joshua, foi o que a Juiza Holloway disse. Meu pai näo conseguiu. Isso significa que ele está vivo.
 
 # Lillian Shepherd #
 [IDS_JOURNAL_Lillian_After_Lillian_Gets_Kidnapped]Eles pegaram ela.  Eu sei que minha mäe está envolvida com essa loucura de alguma forma forma, mas isso näo significa que ela mereça se machucar. Eu preciso salva-la.
@@ -4876,7 +4876,7 @@
 # Woman Locked in Hotel Room #
 [IDS_JOURNAL_Woman_Name]Mulher trancada no quarto do hotel
 [IDS_JOURNAL_Woman_After_Meet]A voz dessa mulher é täo suave.  Eu näo sei por que ela se trancou nesse quarto escuro.
-[IDS_JOURNAL_Woman_After_Alex_Trades_the_Postcards_for_the_206_Key]Ela me pediu pra encontrar suas "memórias", mas ela nunca saiu do quarto depois que eu entreguei o que ela queria...
+[IDS_JOURNAL_Woman_After_Alex_Trades_the_Postcards_for_the_206_Key]Ela me pediu pra encontrar suas 'memórias', mas ela nunca saiu do quarto depois que eu entreguei o que ela queria...
 
 # Mayor Sam Bartlett #
 [IDS_JOURNAL_Bartlett_After_Mayor_is_Killed]Ainda näo tenho certeza do que houve no Átrio, o que foi aquilo que matou ele ou como tudo aquilo aconteceu. o que está claro é que Joey Bartlett ainda está desaparecido e tem algo muito maior acontecendo...
@@ -5218,7 +5218,7 @@
 
 ### M09 Ambient ###
 [IDS_AMBIENT_M09Alex2_Note_On_Refrigerator]Lembrem de alimentar o Corwin. - Lillian
-[IDS_AMBIENT_M09Alex2_Note_On_Refrigerator]Um desenho colorido a lápis, o nome é "Alex, Pai e Eu".
+[IDS_AMBIENT_M09Alex2_Note_On_Refrigerator]Um desenho colorido a lápis, o nome é 'Alex, Pai e Eu'.
 [IDS_AMBIENT_M09Alex2_Motivational_Military_Sign]Mantenha seus amigos perto, e seus inimigos mortos em um saco de corpos.
 
 ### M10 Ambient ###

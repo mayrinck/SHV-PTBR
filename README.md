@@ -59,10 +59,11 @@ Os arquivos que estiverem marcados na lista estão 100% traduzidos e revisados:
 - [x] m16_dialogue (Diálogos diversos entre Alex e outros personagens do jogo - repetidos de outros arquivos)
 - [ ] strings      (Interações: Textos de interfaces, Diálogos de escolha, Objetos de cenário, etc...)
     - [x] Elementos do inventário e Interfaces
+    - [x] Objetivos e Anotações
     - [x] Entradas do diário
     - [x] Pesadelo e Início do jogo
     - [x] Casa do Alex
-    - [x] Cemitério
+    - [ ] Cemitério
     - [x] Frente da Delegacia
     - [ ] Casa do Curtis
     - [ ] Silent Hill, frente do Hotel
